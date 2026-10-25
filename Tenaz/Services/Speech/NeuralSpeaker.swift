@@ -44,7 +44,9 @@ final class NeuralSpeaker: NSObject, ExamSpeaking {
             p.prepareToPlay()
         }
         // If playback never reports back (no output device), give up so the caller shows the transcript.
-        let limit = Duration.seconds(players.map(\.duration).reduce(0, +) + Double(players.count) * 0.35 + 10)
+        let audio: TimeInterval = players.reduce(0) { $0 + $1.duration }
+        let gaps: TimeInterval = Double(players.count) * 0.35
+        let limit = Duration.seconds(audio + gaps + 10)
         return await withCheckedContinuation { cont in
             continuation = cont
             queue = players
