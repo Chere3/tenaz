@@ -56,17 +56,33 @@ struct TenaRig {
         let unit = size / 200
         context.scaleBy(x: unit, y: unit)
         let live = figure(pose: livePose, time: time)
-        let rest = figure(pose: restPose, time: 0).bounds
-        let still = figure(pose: livePose, time: 0).bounds
-        let (scale, offset) = lod == .glyph && stage != .egg
-            ? bustFit(figure: still, unit: unit)
-            : fit(rest: rest, mood: still, unit: unit)
+        let (scale, offset) = placement(still: figure(pose: livePose, time: 0))
         var ctx = context
         ctx.translateBy(x: offset.x, y: offset.y)
         ctx.scaleBy(x: scale, y: scale)
         let t1 = tier1Points / (unit * scale)
         let weights = Weights(t1: t1, t2: max(0.9 / (unit * scale), t1 * 0.55))
         render(live, in: ctx, weights: weights)
+    }
+
+    /// Scale and offset (grid units) that place the resting figure in the frame.
+    func placement(still: TenaFigure) -> (CGFloat, CGPoint) {
+        let unit = size / 200
+        return lod == .glyph && stage != .egg
+            ? bustFit(figure: still.bounds, unit: unit)
+            : fit(rest: figure(pose: restPose, time: 0).bounds, mood: still.bounds, unit: unit)
+    }
+
+    /// Her arms and hands at rest (ink included), as unit fractions of the frame; nil when no arm shows
+    /// (limbless stages, the bust, the egg, the lying Asleep pose). Hero crops keep their edges clear of it.
+    var armFrame: CGRect? {
+        let still = figure(pose: livePose, time: 0)
+        guard !still.armBounds.isNull else { return nil }
+        let (scale, offset) = placement(still: still)
+        let ink = tier1Points / (size / 200) / scale
+        let r = still.armBounds.insetBy(dx: -ink, dy: -ink)
+        return CGRect(x: (r.minX * scale + offset.x) / 200, y: (r.minY * scale + offset.y) / 200,
+                      width: r.width * scale / 200, height: r.height * scale / 200)
     }
 
     /// The pose with level-of-detail rules applied (lid quantisation at Small, no props at Glyph).

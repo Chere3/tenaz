@@ -50,8 +50,11 @@ extension TenaRig {
         let slope = CGFloat(tan(e.lidAngle * .pi / 180)) * -side
         let edgeBase = c.y - ry + 2 * ry * lid
         func edge(_ x: CGFloat) -> CGFloat { edgeBase + slope * (x - c.x) }
-        // Lower lid push: a crescent from below, so the bead reads as a half-moon.
-        let lower = CGFloat(e.lowerLid)
+        // Lower lid push: a crescent from below, so the bead reads as a half-moon. At Standard and Hero a
+        // full push (Happy) becomes a true smiling crescent: a deeper, rounder arch and no gloss, because a
+        // half-moon bead with a catchlight reads as a glance up and sideways at that size.
+        let crescent = showsDetail && e.lowerLid >= 0.45 && e.lid < 0.2
+        let lower = CGFloat(crescent ? 0.72 : e.lowerLid)
         let lowerTop = c.y + ry - 2 * ry * lower
         var mask = Path()
         if lid > 0.02 {
@@ -64,7 +67,8 @@ extension TenaRig {
         if lower > 0.02 {
             // A narrow arch from below: the centre is cut up to `lowerTop` while the outer corners stay,
             // so the bead's lower edge bows up (the smiling eye), not a flat chop.
-            mask = mask.union(Curve.ellipse(CGPoint(x: c.x, y: lowerTop + ry * 1.6), rx * 1.08, ry * 1.6))
+            let arch: (CGFloat, CGFloat) = crescent ? (1.12, 1.05) : (1.08, 1.6)
+            mask = mask.union(Curve.ellipse(CGPoint(x: c.x, y: lowerTop + ry * arch.1), rx * arch.0, ry * arch.1))
         }
         var lids = ctx
         if !mask.isEmpty { lids.clip(to: mask, options: .inverse) }
@@ -74,7 +78,7 @@ extension TenaRig {
         let open = max(0, min(lowerTop, c.y + ry) - max(edge(bead.x + rx * 0.46), c.y - ry))
         var gloss = 3.2 * s * scale * (e.pupilScale < 0.8 ? 0.55 : 1)
         gloss = min(gloss, open * 0.42)
-        if gloss > 0.7, shut < 0.5 {
+        if gloss > 0.7, shut < 0.5, !crescent {
             let gx = bead.x + rx * 0.46
             var gy = bead.y - ry * 0.57
             gy = max(gy, edge(gx) + gloss + 0.5)

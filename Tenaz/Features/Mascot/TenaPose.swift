@@ -63,7 +63,7 @@ struct TenaPose {
     }
 
     struct BodyPose {
-        enum Preset { case sit, armsUp, leanForward, tiltReach, press, holdSign, slump, limp, regrow, hips, curled }
+        enum Preset { case sit, open, armsUp, leanForward, tiltReach, press, holdSign, slump, hurt, regrow, hips, curled }
 
         var preset: Preset = .sit
         /// Sideways lean in degrees (+ = toward the right, where the content usually sits).
@@ -103,13 +103,14 @@ struct TenaPose {
             p.eye = EyeState(lid: 0, lowerLid: 0.45)
             p.mouth = MouthShape(width: 0.60, curve: 0.6)
             p.gills = GillPose(lift: [10, 10, 10])
-            p.body = BodyPose(preset: .sit, lean: 4)
+            // Paws open a little at chest height, so Happy is not Neutral's arms-down sit at 64 pt.
+            p.body = BodyPose(preset: .open, lean: 4)
             p.wiggle = 6
         case .focused:
             p.eye = EyeState(lid: 0.4, gaze: CGVector(dx: 0, dy: 0.15))
             p.mouth = MouthShape(width: 0.50, curve: 0)
             p.gills = GillPose(lift: [-6, -6, -6], stiffness: 0.3)
-            p.body = BodyPose(preset: .leanForward, forward: 6)
+            p.body = BodyPose(preset: .leanForward, lean: 7, forward: 12)
             p.prop = .headset
             p.wiggle = 3
             p.breathRate = 0.9
@@ -120,8 +121,8 @@ struct TenaPose {
             p.rightEye = near
             p.mouth = MouthShape(width: 0.25, curve: 0, open: 0.65, round: 1, offset: 0.06)
             p.gills = GillPose(asymmetry: 12)
-            p.body = BodyPose(preset: .tiltReach, lean: 3)
-            p.tilt = 10
+            p.body = BodyPose(preset: .tiltReach, lean: 6)
+            p.tilt = 13
             p.wiggle = 5
         case .neutral:
             p.wiggle = 4
@@ -152,26 +153,31 @@ struct TenaPose {
             heavy.lid = 0.6
             p.rightEye = heavy
             p.mouth = MouthShape(width: 0.40, curve: -0.1, wave: 1)
-            p.gills = GillPose(lift: [-20, -20, -20], curl: 10, length: 0.92)
-            p.body = BodyPose(preset: .limp, squash: CGSize(width: 1.04, height: 0.96))
+            // Hurt, not sad: the bandaged arm cradled against the belly, a lopsided lean and head tip
+            // toward it, the fans limp, short and uneven.
+            p.gills = GillPose(lift: [-24, -28, -33], curl: 10, asymmetry: -14, length: 0.82)
+            p.body = BodyPose(preset: .hurt, lean: -7, squash: CGSize(width: 1.04, height: 0.96))
+            p.tilt = -9
             p.prop = .bandage
             p.wiggle = 1.5
             p.breathRate = 0.6
             p.fade = 0.35
         case .regenerating:
-            // Effort, eyes on the regrowing (left) limb: head tipped toward it, one mouth corner tucked up.
-            p.eye = EyeState(lid: 0.25, gaze: CGVector(dx: -0.22, dy: 0.22))
+            // Effort, eyes on the regrowing (left) limb, which she holds up and out to watch it grow:
+            // head tipped toward it, one mouth corner tucked up.
+            p.eye = EyeState(lid: 0.25, gaze: CGVector(dx: -0.22, dy: 0.12))
             p.mouth = MouthShape(width: 0.54, curve: 0.05, skew: 0.65)
-            p.tilt = -4
+            p.tilt = -6
             p.gills = GillPose(lift: [4, 4, 4])
-            p.body = BodyPose(preset: .regrow)
+            p.body = BodyPose(preset: .regrow, lean: -4)
             p.wiggle = 3
             p.breathRate = 0.8
         case .proud:
             p.eye = EyeState(lid: 0.55, lowerLid: 0.3)
             p.mouth = MouthShape(width: 0.62, curve: 0.6, skew: 0.3)
-            p.gills = GillPose(lift: [10, 10, 10], spread: 0.92)
-            p.body = BodyPose(preset: .hips, forward: -5)
+            // Leans back with her chin up, elbows out, and a tall, uneven crown of gills.
+            p.gills = GillPose(lift: [12, 22, 30], spread: 0.85, stiffness: 0.5, asymmetry: 6)
+            p.body = BodyPose(preset: .hips, lean: -9, forward: -5)
             p.prop = .medal
             p.wiggle = 5
         case .asleep:

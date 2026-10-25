@@ -49,6 +49,8 @@ struct TenaFigure {
     var headTransform: CGAffineTransform = .identity
     /// Strokes drawn last in ink (the "z").
     var inkLines: [Path] = []
+    /// Front arms and hands (model units), so hero crops can keep clear of them.
+    var armBounds = CGRect.null
     /// The sign card's text box (model units) and its rotation, when Nagging holds one.
     var signBox: (center: CGPoint, size: CGSize, angle: Double)?
 

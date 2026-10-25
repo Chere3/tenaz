@@ -18,25 +18,58 @@ struct BleedTena: View {
 
     var body: some View {
         GeometryReader { proxy in
-            let size = proxy.size.height * heightShare
-            let x = corner == .bottomLeading ? size * 0.32 : proxy.size.width - size * 0.32
-            // Tena has no ground shadow; her feet sit at ~88-90 % of the frame. The bottom edge crops
-            // her through the hips, below the hanging hands (91 % of her measured ink height; 80 %
-            // for the curled Asleep pose), so the crop never runs along a hand or an arm.
-            let ink = TenaInk.bounds(stage: stage, mood: mood)
-            let cut = ink.minY + ink.height * (mood == .asleep ? 0.8 : 0.91)
-            let y = proxy.size.height - cut * size + size * 0.5
+            let place = placement(in: proxy.size)
             ZStack {
                 if rays {
                     Sunburst()
                         .frame(width: proxy.size.width * 2.4, height: proxy.size.width * 2.4)
-                        .position(x: x, y: y - size * 0.06)
+                        .position(x: place.x, y: place.y - place.size * 0.06)
                 }
-                TenaView(mood: mood, stage: stage, size: size)
-                    .position(x: x, y: y)
+                TenaView(mood: mood, stage: stage, size: place.size)
+                    .position(x: place.x, y: place.y)
             }
         }
         .allowsHitTesting(false)
+    }
+
+    /// Her frame side and centre in the stage, per mood. The side edge cuts her near gill fan and never a
+    /// hand or an elbow: when her arms reach that far (Ecstatic's fists, Proud's elbows) she moves in
+    /// until 4.5 % of the window clears them, and shrinks so her far side gets no closer to the text than
+    /// the default placement. The bottom edge crops her through the hips (86 % of her measured ink height;
+    /// 80 % for the lying Asleep pose), and never higher than 4.5 % of the window below her lowest hand
+    /// (Proud's hands on her hips, Sad's and Sick's hanging arms push it down); a hand that hangs to the
+    /// feet shows her whole instead.
+    private func placement(in stage: CGSize) -> (size: CGFloat, x: CGFloat, y: CGFloat) {
+        let margin = 0.045 * stage.height
+        let ink = TenaInk.bounds(stage: self.stage, mood: mood)
+        let full = stage.height * heightShare
+        let arms = TenaRig(mood: mood, stage: self.stage, time: 0, size: full).armFrame
+        let leading = corner == .bottomLeading
+        var size = full
+        var x: CGFloat
+        if leading {
+            // Default: the frame centre at 32 % of its side from the edge.
+            let a = arms?.minX ?? 0.5
+            let far = full * (0.32 - 0.5 + ink.maxX)
+            if full * 0.32 < margin + full * (0.5 - a) {
+                size = min(full, (far - margin) / (ink.maxX - a))
+                x = margin + size * (0.5 - a)
+            } else {
+                x = full * 0.32
+            }
+        } else {
+            let b = arms?.maxX ?? 0.5
+            let far = full * (0.32 + 0.5 - ink.minX)
+            if full * 0.32 < margin + full * (b - 0.5) {
+                size = min(full, (far - margin) / (b - ink.minX))
+                x = stage.width - margin - size * (b - 0.5)
+            } else {
+                x = stage.width - full * 0.32
+            }
+        }
+        let hands = arms.map { $0.maxY + margin / size } ?? 0
+        let cut = min(ink.maxY, max(ink.minY + ink.height * (mood == .asleep ? 0.8 : 0.86), hands))
+        return (size, x, stage.height - cut * size + size * 0.5)
     }
 }
 

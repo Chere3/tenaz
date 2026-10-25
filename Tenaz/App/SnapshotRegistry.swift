@@ -60,6 +60,8 @@ enum SnapshotRegistry {
             // The live Dock icon for each mood (yellow flood).
             all["app-icon-\(mood.rawValue)"] = SnapshotEntry(view: AnyView(AppIconArt(mood: mood)), size: CGSize(width: 512, height: 512))
         }
+        // Nagging as Home shows her today: no due word is wired yet, so she drops the card for fists.
+        all["tena-nagging-noword"] = SnapshotEntry(view: AnyView(TenaView(mood: .nagging, stage: .juvenile, size: 520)), size: CGSize(width: 520, height: 520))
         all["app-icon-good"] = SnapshotEntry(view: AnyView(AppIconArt(mood: .proud, flood: .good)), size: CGSize(width: 512, height: 512))
         all["app-icon-risk"] = SnapshotEntry(view: AnyView(AppIconArt(mood: .nagging, flood: .risk)), size: CGSize(width: 512, height: 512))
         return all
