@@ -12,7 +12,8 @@ enum ExamSnapshots {
 
     /// A placement (or daily) runner positioned on the first task of `kind` in section `sectionId`.
     static func runner(_ env: AppEnvironment, exam: ExamKind = .placement, section sectionId: String, kind: ExamTaskKind,
-                       skip: Int = 0, elapsed: TimeInterval = 150, fill: (inout ExamDraft, ExamTask) -> Void = { _, _ in }) -> ExamRunner? {
+                       skip: Int = 0, elapsed: TimeInterval = 150, start: Bool = true,
+                       fill: (inout ExamDraft, ExamTask) -> Void = { _, _ in }) -> ExamRunner? {
         guard let blueprint = env.blueprints.blueprint(for: exam), let db = try? TenazDatabase.inMemory() else { return nil }
         let store = ExamStore(database: db)
         let clock = TestClock()
@@ -29,6 +30,7 @@ enum ExamSnapshots {
         runner.autoTick = false
         runner.speaker = SilentSpeaker()
         runner.witness = .watching
+        guard start else { return runner }
         runner.startSection()
         clock.advance(by: elapsed)
         runner.tick()
@@ -54,6 +56,11 @@ enum ExamSnapshots {
             draft.choices[0] = task.item?.questions?.first?.answer
             draft.questionIndex = min(1, draft.choices.count - 1)
         })
+    }
+
+    /// The intro card before the reading section (timer stopped, Tena focused).
+    static func sectionIntro(_ env: AppEnvironment) -> AnyView {
+        runnerView(runner(env, section: "reading", kind: .completeWords, start: false))
     }
 
     static func listening(_ env: AppEnvironment) -> AnyView {

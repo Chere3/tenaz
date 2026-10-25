@@ -3,6 +3,9 @@ import SwiftUI
 /// After saving, on `.good`: the title is the hero, Tena's line, the XP, and Close. Tena herself hangs
 /// off the bottom-right corner (drawn by `WriteBoard`).
 struct WriteDoneView: View {
+    /// Where the text column ends in the board (40 pt padding + the 400 pt column); Tena stays clear of it.
+    static let textEdge: CGFloat = 440
+
     let result: WriteResult
     let close: () -> Void
 

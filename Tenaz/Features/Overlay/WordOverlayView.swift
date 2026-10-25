@@ -55,7 +55,6 @@ struct WordOverlayView: View {
         .background(alignment: .bottomTrailing) {
             OverlayTena(phase: model.phase, stage: stage, size: 400)
                 .padding(.trailing, Tokens.Space.m)
-                .offset(y: 110)
         }
         .background {
             if case .asking = model.phase {} else if !isWrong { OverlayRays(center: UnitPoint(x: 0.82, y: 0.9)) }

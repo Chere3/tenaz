@@ -39,8 +39,8 @@ struct ExamsOverview: View {
                     .frame(maxWidth: .infinity, alignment: .leading)
                     .overlay(alignment: .topTrailing) {
                         // Cropped by the window's right edge, never framed.
-                        FloorlessTena(mood: .happy, size: 380)
-                            .offset(x: Tokens.Space.hero + 190, y: -150)
+                        FloorlessTena(mood: .happy, size: 250, inset: Tokens.Space.hero)
+                            .offset(y: -36)
                             .accessibilityHidden(true)
                     }
                 if paused || !state.unfinished.filter({ $0.id != pausedId }).isEmpty || problem != nil {

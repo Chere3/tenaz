@@ -91,7 +91,6 @@ struct OnboardingFlow: View {
         .background(alignment: .bottomLeading) {
             if page == .welcome {
                 OnboardingTena(hatched: hatched)
-                    .offset(x: -175, y: 120)
                     .transition(.opacity)
             }
         }

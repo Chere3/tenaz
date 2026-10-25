@@ -29,8 +29,22 @@ struct OnboardingTena: View {
     let hatched: Bool
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
+    /// Her right side stops here (the words column starts at 338 pt, minus 3 % of the 760 pt window).
+    static let rightEdge: CGFloat = 315
+
+    private var mood: TenaMood { hatched ? .ecstatic : .happy }
+    private var stage: TenaStage { hatched ? .hatchling : .egg }
+    /// The big-headed hatchling is wider than the egg, so she is drawn smaller to keep the same right edge.
+    private var size: CGFloat { hatched ? 360 : 470 }
+
+    /// Drawn in the window's bottom-leading corner: her right side on `rightEdge`, and the window's bottom
+    /// edge cropping her at `TenaInk.bottomCut` (the egg through its lower body, the hatchling below her
+    /// hands, never through her mouth).
     var body: some View {
-        TenaView(mood: hatched ? .ecstatic : .happy, stage: hatched ? .hatchling : .egg, size: 640)
+        let ink = TenaInk.bounds(stage: stage, mood: mood)
+        let cut = TenaInk.bottomCut(stage: stage, mood: mood, size: size, margin: 0.045 * 600)
+        TenaView(mood: mood, stage: stage, size: size)
+            .offset(x: Self.rightEdge - ink.maxX * size, y: (1 - cut) * size)
             .keyframeAnimator(initialValue: 0.0, trigger: hatched) { content, angle in
                 content.rotationEffect(.degrees(angle), anchor: .bottom)
             } keyframes: { _ in

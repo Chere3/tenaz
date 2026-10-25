@@ -9,6 +9,9 @@ struct GateView: View {
     var stage: TenaStage = .juvenile
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
+    /// The writing column's widest element (the sheet); Tena keeps clear of it.
+    private static let column: CGFloat = 860
+
     var body: some View {
         ZStack {
             GateBackdrop()
@@ -27,15 +30,15 @@ struct GateView: View {
                     }
                     if let text = model.prompt.text {
                         TaskTextBlock(text: text, kind: model.prompt.kind, fontSize: 20, maxHeight: 150)
-                            .frame(maxWidth: 860, alignment: .leading)
+                            .frame(maxWidth: Self.column, alignment: .leading)
                     }
                     GateChunkLine(prompt: model.prompt, minWords: model.requirement.minWords, target: model.requirement.targetWords)
                         .padding(.bottom, Tokens.Space.xs)
                     ParagraphField(text: $model.text, placeholder: model.prompt.kind.placeholder ?? "Start typing in English…") { model.submit() }
                         .onChange(of: model.text) { _, new in model.textChanged(new) }
-                        .frame(maxWidth: 860)
+                        .frame(maxWidth: Self.column)
                     GateChecklist(checks: model.checks)
-                        .frame(maxWidth: 860)
+                        .frame(maxWidth: Self.column)
                     Button(action: { model.submit() }) {
                         HStack(spacing: Tokens.Space.s) {
                             Image(systemName: model.checks.passes ? "lock.open.fill" : "lock.fill")
@@ -64,9 +67,9 @@ struct GateView: View {
             .padding(.horizontal, Tokens.Space.hero)
             .padding(.vertical, Tokens.Space.l)
             .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
-            .background(alignment: .bottomTrailing) {
-                TenaView(mood: tenaMood, stage: stage, size: 640)
-                    .offset(x: 100, y: 140)
+            .background {
+                // Cropped by the bottom and right window edges, clear of her hands, her head and the sheet.
+                BleedTena(mood: tenaMood, stage: stage, corner: .bottomTrailing, textEdge: Tokens.Space.hero + Self.column)
             }
             .disabled(model.phase == .confirmingSkip || model.phase == .unlocked || model.phase == .later)
             if model.phase == .confirmingSkip {

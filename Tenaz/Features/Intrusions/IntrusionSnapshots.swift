@@ -47,10 +47,10 @@ enum IntrusionSnapshots {
         }
     }
 
-    static func gate(_ env: AppEnvironment, text: String, prompt: GatePrompt? = nil) -> some View {
+    static func gate(_ env: AppEnvironment, text: String, prompt: GatePrompt? = nil, phase: GatePhase = .writing) -> some View {
         let model = GateModel(prompt: prompt ?? IntrusionSamples.gatePrompt(env.content), price: GateSkipPrice(responseCostOn: false, mercyLeft: 3),
                               strict: false, store: nil, gamification: nil, shownAt: Date().addingTimeInterval(-74))
-        model.preview(text: text)
+        model.preview(text: text, phase: phase)
         return ZStack {
             DesktopStandIn(showBand: false)
             GateView(model: model)
@@ -90,6 +90,14 @@ enum IntrusionSnapshots {
             "gate-empty": SnapshotEntry(view: AnyView(gate(env, text: "")), size: screen),
             "gate-ready": SnapshotEntry(view: AnyView(gate(env, text: IntrusionSamples.gateParagraph)), size: screen),
             "gate-story": SnapshotEntry(view: AnyView(gate(env, text: "", prompt: IntrusionSamples.gateStoryPrompt)), size: screen),
+            "gate-unlocked": SnapshotEntry(view: AnyView(gate(env, text: IntrusionSamples.gateParagraph, phase: .unlocked)), size: screen),
+            "gate-later": SnapshotEntry(view: AnyView(gate(env, text: "", phase: .later)), size: screen),
+            "preannounce": SnapshotEntry(view: AnyView(ZStack(alignment: .topLeading) {
+                DesktopStandIn()
+                PreannounceToast(deadline: Date().addingTimeInterval(20)) {}
+                    .frame(width: frame(.toast).width, height: frame(.toast).height)
+                    .offset(x: frame(.toast).minX, y: frame(.toast).minY)
+            }), size: screen),
         ]
     }
 }

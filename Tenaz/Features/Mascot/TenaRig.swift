@@ -85,6 +85,18 @@ struct TenaRig {
                       width: r.width * scale / 200, height: r.height * scale / 200)
     }
 
+    /// Her head at rest (ink and a headset's ear cups included), as unit fractions of the frame; nil when
+    /// she has no face yet (the egg). Hero side crops keep it whole: only gills and the tail may be cut.
+    var headFrame: CGRect? {
+        let still = figure(pose: livePose, time: 0)
+        guard let head = still.face?.head else { return nil }
+        let (scale, offset) = placement(still: still)
+        let pad = 8 + tier1Points / (size / 200) / scale
+        let r = head.path.applying(still.headTransform).boundingRect.insetBy(dx: -pad, dy: -pad)
+        return CGRect(x: (r.minX * scale + offset.x) / 200, y: (r.minY * scale + offset.y) / 200,
+                      width: r.width * scale / 200, height: r.height * scale / 200)
+    }
+
     /// The pose with level-of-detail rules applied (lid quantisation at Small, no props at Glyph).
     var livePose: TenaPose {
         var p = pose

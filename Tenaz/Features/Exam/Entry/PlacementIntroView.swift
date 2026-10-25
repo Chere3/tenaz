@@ -140,15 +140,14 @@ struct PlacementIntroView: View {
         }
     }
 
-    /// Tena focused in her headband, about two thirds of the window tall, cropped by the bottom and
-    /// right edges. She only takes the room right of the text column, and hides when there is none.
+    /// Tena focused in her headband, about three quarters of the window tall, cropped by the bottom and
+    /// right edges (`BleedTena`: the cut clears her hands, her gills clear the text column). She only takes
+    /// the room right of the text column, and hides when there is none.
     @ViewBuilder
     private func tena(in size: CGSize) -> some View {
         let room = size.width - Self.column - Self.gutter - Tokens.Space.l
-        let side = min(size.height * 0.74, room * 1.5)
-        if side >= 260 {
-            TenaView(mood: .focused, stage: .juvenile, size: side)
-                .offset(x: side * 0.17, y: side * 0.24)
+        if min(size.height * 0.74, room * 1.5) >= 260 {
+            BleedTena(mood: .focused, stage: .juvenile, corner: .bottomTrailing, textEdge: Self.gutter + Self.column)
                 .accessibilityHidden(true)
         }
     }

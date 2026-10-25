@@ -30,7 +30,7 @@ struct WriteBoard: View {
         .background {
             if let result {
                 BleedTena(mood: result.dayQualified ? .proud : .happy, stage: stage, corner: .bottomTrailing,
-                          heightShare: 0.7, rays: result.dayQualified)
+                          heightShare: 0.7, rays: result.dayQualified, textEdge: WriteDoneView.textEdge)
                     .transition(.opacity)
             }
         }

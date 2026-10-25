@@ -12,6 +12,10 @@ struct BleedTena: View {
     /// Share of the stage height Tena's frame takes (the spec asks for 60-75 %).
     var heightShare: CGFloat = 0.74
     var rays = false
+    /// The stage x where the text column begins (leading corner) or ends (trailing corner); her far gill
+    /// fan keeps 3 % of the stage width from it. Nil on a leading corner means the standard column at
+    /// `columnShare`; nil on a trailing corner sets no limit.
+    var textEdge: CGFloat?
 
     /// Where the text column starts beside her, as a share of the content width.
     static let columnShare: CGFloat = 0.45
@@ -32,43 +36,34 @@ struct BleedTena: View {
         .allowsHitTesting(false)
     }
 
-    /// Her frame side and centre in the stage, per mood. The side edge cuts her near gill fan and never a
-    /// hand or an elbow: when her arms reach that far (Ecstatic's fists, Proud's elbows) she moves in
-    /// until 4.5 % of the window clears them, and shrinks so her far side gets no closer to the text than
-    /// the default placement. The bottom edge crops her through the hips (86 % of her measured ink height;
-    /// 80 % for the lying Asleep pose), and never higher than 4.5 % of the window below her lowest hand
-    /// (Proud's hands on her hips, Sad's and Sick's hanging arms push it down); a hand that hangs to the
-    /// feet shows her whole instead.
+    /// Her frame side and centre in the stage, per mood. By default the frame centre sits 32 % of its side
+    /// from the corner edge, which cuts her near gill fan and never a hand, an elbow or her head: when they
+    /// reach that far (Ecstatic's fists, Proud's elbows, Focused's leaning head and headset) she moves in
+    /// until 4.5 % of the window clears them. Her far side never reaches further than that default, nor
+    /// within 3 % of the text column (`textEdge`); she shrinks instead. The bottom edge crops her at
+    /// `TenaInk.bottomCut`, with 4.5 % of the window clear below her lowest hand.
     private func placement(in stage: CGSize) -> (size: CGFloat, x: CGFloat, y: CGFloat) {
         let margin = 0.045 * stage.height
         let ink = TenaInk.bounds(stage: self.stage, mood: mood)
         let full = stage.height * heightShare
-        let arms = TenaRig(mood: mood, stage: self.stage, time: 0, size: full).armFrame
+        let rig = TenaRig(mood: mood, stage: self.stage, time: 0, size: full)
         let leading = corner == .bottomLeading
-        var size = full
-        var x: CGFloat
-        if leading {
-            // Default: the frame centre at 32 % of its side from the edge.
-            let a = arms?.minX ?? 0.5
-            let far = full * (0.32 - 0.5 + ink.maxX)
-            if full * 0.32 < margin + full * (0.5 - a) {
-                size = min(full, (far - margin) / (ink.maxX - a))
-                x = margin + size * (0.5 - a)
-            } else {
-                x = full * 0.32
-            }
-        } else {
-            let b = arms?.maxX ?? 0.5
-            let far = full * (0.32 + 0.5 - ink.minX)
-            if full * 0.32 < margin + full * (b - 0.5) {
-                size = min(full, (far - margin) / (b - ink.minX))
-                x = stage.width - margin - size * (b - 0.5)
-            } else {
-                x = stage.width - full * 0.32
-            }
+        // Measured from the corner edge inwards, so both corners share one rule.
+        let inkFar = leading ? ink.maxX : 1 - ink.minX
+        // The side edge may cut her gills and tail, never a hand, an elbow or her head.
+        let keep = [rig.armFrame, rig.headFrame].compactMap(\.self)
+        let keepNear = keep.map { leading ? $0.minX : 1 - $0.maxX }.min() ?? 0.5
+        let text = textEdge ?? (leading ? stage.width * Self.columnShare : nil)
+        let textReach = text.map { (leading ? $0 : stage.width - $0) - 0.03 * stage.width } ?? .infinity
+        let reach = min(full * (inkFar - 0.18), textReach)
+        var size = min(full, reach / (inkFar - 0.18))
+        var centre = size * 0.32
+        if centre < margin + size * (0.5 - keepNear) {
+            size = min(full, (reach - margin) / (inkFar - keepNear))
+            centre = margin + size * (0.5 - keepNear)
         }
-        let hands = arms.map { $0.maxY + margin / size } ?? 0
-        let cut = min(ink.maxY, max(ink.minY + ink.height * (mood == .asleep ? 0.8 : 0.86), hands))
+        let x = leading ? centre : stage.width - centre
+        let cut = TenaInk.bottomCut(stage: self.stage, mood: mood, size: size, margin: margin)
         return (size, x, stage.height - cut * size + size * 0.5)
     }
 }

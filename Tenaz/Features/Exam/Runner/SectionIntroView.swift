@@ -30,6 +30,8 @@ struct SectionIntroView: View {
         }
     }
 
+    private static let tenaSize: CGFloat = 380
+
     private var resumedHere: Bool { runner.resumed && runner.session.sectionPosition > 0 }
 
     var body: some View {
@@ -65,10 +67,12 @@ struct SectionIntroView: View {
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
         .overlay(alignment: .bottomTrailing) {
-            // Tena in her headband, large, cropped by the bottom and right edges.
-            TenaView(mood: .focused, stage: .juvenile, size: 420)
+            // Tena in her headband, whole and standing on the stage's floor: the footer rule below the stage
+            // is an inner edge, and an inner edge never crops her.
+            let ink = TenaInk.bounds(stage: .juvenile, mood: .focused)
+            TenaView(mood: .focused, stage: .juvenile, size: Self.tenaSize)
                 .environment(\.mascotStill, true)
-                .offset(x: 120 + Tokens.Space.xl, y: 100)
+                .offset(x: (1 - ink.maxX) * Self.tenaSize, y: (1 - ink.maxY) * Self.tenaSize - Tokens.Space.l)
                 .accessibilityHidden(true)
         }
     }

@@ -25,12 +25,16 @@ struct OverlayTena: View {
         }
     }
 
+    /// Put her frame's bottom on the card's bottom edge: she drops so that edge crops her at
+    /// `TenaInk.bottomCut`, 34 pt (4.5 % of the 760 pt poster) clear below her hands.
     var body: some View {
+        let cut = TenaInk.bottomCut(stage: stage, mood: mood, size: size, margin: 34)
         TenaView(mood: mood, stage: stage, size: size)
             .overlay(alignment: .top) {
                 TenaLine(text: line)
                     .offset(x: -size * 0.1, y: size * 0.13)
             }
+            .offset(y: (1 - cut) * size)
     }
 }
 

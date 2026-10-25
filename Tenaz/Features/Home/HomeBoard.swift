@@ -10,7 +10,7 @@ struct HomeBoard: View {
 
     var body: some View {
         GeometryReader { proxy in
-            let layout = HomeLayout(window: proxy.size, ink: TenaInk.bounds(stage: summary.stage, mood: mood))
+            let layout = HomeLayout(window: proxy.size, stage: summary.stage, mood: mood)
             ZStack(alignment: .topLeading) {
                 HomeTena(summary: summary, mood: mood, layout: layout, hatch: actions.hatch)
                 VStack(alignment: .leading, spacing: 0) {
@@ -54,8 +54,10 @@ struct HomeBoard: View {
 }
 
 /// Where Tena sits and where the text column starts, from the window size and her measured ink.
-/// She is cropped by the bottom edge (the lowest sixth of her) and her left gill tips by the left edge.
-/// Side by side when the window is wide; in a tall window she grows under the text instead.
+/// The bottom edge crops her at `TenaInk.bottomCut` (through the hips, 4.5 % of the window clear below
+/// her lowest hand); the left edge takes her left gill tips. Side by side when the window is wide: she
+/// fills 70-75 % of its height, face about 64-72 % down. In a tall window she grows under the text
+/// instead, so her face sits below the text block and never behind the text column or the pill.
 struct HomeLayout {
     static let margin: CGFloat = 56
     /// The text block's height (hero to stats), measured from the snapshots.
@@ -67,20 +69,28 @@ struct HomeLayout {
     let columnWidth: CGFloat
     let stacked: Bool
 
-    init(window: CGSize, ink: CGRect) {
-        let shown = CGSize(width: ink.width * 0.95, height: ink.height * 0.84)
+    init(window: CGSize, stage: TenaStage, mood: TenaMood) {
+        let ink = TenaInk.bounds(stage: stage, mood: mood)
+        let clearance = window.height * 0.045
         let wideLeading = min(max(window.width * 0.44, window.width - 620), window.width * 0.52)
-        let side = (wideLeading - Tokens.Space.l) / shown.width
-        let room = window.height - Self.margin - Self.blockHeight - Tokens.Space.xl
-        let stack = min(room / shown.height, window.width * 0.85 / shown.width)
-        let tallest = window.height * 0.78 / shown.height
-        let byHeight = window.height * 0.62 / shown.height
-        let size = max(160, min(max(side, stack), tallest, max(byHeight, stack)))
+        func fit(cut: CGFloat) -> (size: CGFloat, stacked: Bool) {
+            let shown = CGSize(width: ink.width * 0.95, height: cut - ink.minY)
+            let side = (wideLeading - Tokens.Space.l) / shown.width
+            let room = window.height - Self.margin - Self.blockHeight - Tokens.Space.xl
+            let stack = min(room / shown.height, window.width * 0.85 / shown.width)
+            let tallest = window.height * 0.75 / shown.height
+            let byHeight = window.height * 0.70 / shown.height
+            return (max(160, min(max(side, stack), tallest, max(byHeight, stack))), stack > side)
+        }
+        // Size her at the hip crop, then re-measure the cut at that size (low hands push it down) and refit.
+        var cut = TenaInk.bottomCut(stage: stage, mood: mood, size: fit(cut: ink.minY + ink.height * 0.86).size, margin: clearance)
+        let (size, stacked) = fit(cut: cut)
+        cut = TenaInk.bottomCut(stage: stage, mood: mood, size: size, margin: clearance)
         self.size = size
-        stacked = stack > side
+        self.stacked = stacked
         let leading = stacked ? Self.margin : wideLeading
         offset = CGSize(width: -(ink.minX + ink.width * 0.05) * size,
-                        height: window.height - (ink.minY + shown.height) * size)
+                        height: window.height - cut * size)
         columnLeading = leading
         columnWidth = window.width - leading - Self.margin
     }
