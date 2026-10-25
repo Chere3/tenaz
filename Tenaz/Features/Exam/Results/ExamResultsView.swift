@@ -17,9 +17,10 @@ struct ExamResultsView: View {
                         .frame(maxWidth: .infinity, alignment: .leading)
                 }
                 .overlay(alignment: .topTrailing) {
-                    // Tena sits on the hero row, cropped by the right edge.
-                    FloorlessTena(mood: model.provisional ? .focused : .proud, size: 380, inset: Tokens.Space.hero)
-                        .offset(y: 20)
+                    // Tena sits on the hero row, cropped by the right edge; her feet stay above the rule
+                    // under the hero (no inner edge crosses her).
+                    FloorlessTena(mood: model.provisional ? .focused : .proud, size: 330, inset: Tokens.Space.hero)
+                        .offset(y: -8)
                         .accessibilityHidden(true)
                 }
                 HStack(alignment: .top, spacing: 56) {

@@ -10,10 +10,13 @@ enum SnapshotRegistry {
             "exam-listening": SnapshotEntry(view: ExamSnapshots.listening(env), size: ExamSnapshots.examSize),
             "exam-reading": SnapshotEntry(view: ExamSnapshots.reading(env), size: ExamSnapshots.examSize),
             "exam-results": SnapshotEntry(view: ExamSnapshots.results(env), size: CGSize(width: 1180, height: 1100)),
+            // The main window's minimum width (900 pt): Tena's head stays inside the right edge, clear of the text.
+            "exam-results-narrow": SnapshotEntry(view: ExamSnapshots.results(env), size: CGSize(width: 900, height: 1100)),
             "exam-section-intro": SnapshotEntry(view: ExamSnapshots.sectionIntro(env), size: ExamSnapshots.examSize),
             "exam-speaking-typed": SnapshotEntry(view: ExamSnapshots.speakingTyped(env), size: ExamSnapshots.examSize),
             "exam-writing": SnapshotEntry(view: ExamSnapshots.writing(env), size: ExamSnapshots.examSize),
             "exams-history": SnapshotEntry(view: ExamSnapshots.history(env), size: CGSize(width: 1180, height: 980)),
+            "exams-history-narrow": SnapshotEntry(view: ExamSnapshots.history(env), size: CGSize(width: 900, height: 980)),
             "contract": IntrusionSnapshots.entry("contract", env),
             "gate-empty": IntrusionSnapshots.entry("gate-empty", env),
             "gate-later": IntrusionSnapshots.entry("gate-later", env),

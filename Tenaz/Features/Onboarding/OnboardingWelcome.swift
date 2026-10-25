@@ -34,15 +34,26 @@ struct OnboardingTena: View {
 
     private var mood: TenaMood { hatched ? .ecstatic : .happy }
     private var stage: TenaStage { hatched ? .hatchling : .egg }
-    /// The big-headed hatchling is wider than the egg, so she is drawn smaller to keep the same right edge.
-    private var size: CGFloat { hatched ? 360 : 470 }
+    /// 4.5 % of the 600 pt window: the clearance below her hands and beside her head.
+    static let margin: CGFloat = 0.045 * 600
+
+    /// The big-headed hatchling is wider than the egg, so she is drawn smaller to keep the same right edge,
+    /// and smaller still if the left window edge would come within `margin` of her head (only gills may
+    /// be cut there).
+    private var size: CGFloat {
+        guard hatched else { return 470 }
+        let rest = TenaRig(mood: mood, stage: stage, time: 0, size: 360).rest
+        guard let head = rest.skull else { return 360 }
+        return min(360, (Self.rightEdge - Self.margin) / (rest.ink.maxX - head.minX))
+    }
 
     /// Drawn in the window's bottom-leading corner: her right side on `rightEdge`, and the window's bottom
     /// edge cropping her at `TenaInk.bottomCut` (the egg through its lower body, the hatchling below her
     /// hands, never through her mouth).
     var body: some View {
-        let ink = TenaInk.bounds(stage: stage, mood: mood)
-        let cut = TenaInk.bottomCut(stage: stage, mood: mood, size: size, margin: 0.045 * 600)
+        let size = size
+        let ink = TenaInk.bounds(stage: stage, mood: mood, size: size)
+        let cut = TenaInk.bottomCut(stage: stage, mood: mood, size: size, margin: Self.margin)
         TenaView(mood: mood, stage: stage, size: size)
             .offset(x: Self.rightEdge - ink.maxX * size, y: (1 - cut) * size)
             .keyframeAnimator(initialValue: 0.0, trigger: hatched) { content, angle in
