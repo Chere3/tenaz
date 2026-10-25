@@ -54,7 +54,7 @@ the only filled control on the screen. Everything else is text.
 - **Colour is meaning.** Accent/gold/correct/wrong appear only for their meaning. Body text is
   `Tokens.ink`; secondary is `Tokens.brand`. Never put text in `Tokens.accent` below 24 pt.
 - **Tena** (rules in `docs/design/tena.md`; the crop numbers below are superseded by its section 11):
-  about 70 % of window height in the side layout (about 45 % stacked), cropped by the bottom or side edge, mood matched
+  about 70 % of window height in the side layout (about 45 % stacked), cropped by the bottom or side edge (or whole, clear of the edge, when a cut would only graze her feet), mood matched
   to the flood (turn = happy/curious, good = ecstatic/proud, fix = encouraging/focused, serious =
   focused with headset, risk = nagging/sad, celebrate = ecstatic). Small sizes only in lists and the
   sidebar. Speech = `SpeechBubble` (ink bubble, one line).
