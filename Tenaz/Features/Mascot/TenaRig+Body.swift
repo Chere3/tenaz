@@ -315,7 +315,7 @@ extension TenaRig {
             let shoulder = CGPoint(x: 100 + side * 0.42 * bodySize.width, y: bean.top + 0.38 * bodySize.height)
             shoulders.addPath(Curve.ellipse(shoulder, tube * 0.95, tube * 0.95))
             let preset = pose.body.preset
-            let offsets = armOffsets(preset, side: side)
+            let offsets = armOffsets(buds && preset == .limp ? .slump : preset, side: side)
             var elbow = shoulder + CGPoint(x: side * offsets.elbow.x, y: offsets.elbow.y) * reach
             var hand = shoulder + CGPoint(x: side * offsets.hand.x, y: offsets.hand.y) * reach
             if preset == .holdSign, pose.prop == .sign || !props {
@@ -323,7 +323,8 @@ extension TenaRig {
                 elbow = shoulder + CGPoint(x: side * 9, y: 6) * reach
             }
             var fill: TenaFigure.Fill = .body
-            if preset == .regrow, side < 0 {
+            // Limbless and bud stages (0-2) injure and regrow the top-left gill instead.
+            if preset == .regrow, side < 0, !buds {
                 let f = CGFloat(0.35 + 0.65 * progress)
                 elbow = shoulder.lerp(elbow, f)
                 hand = shoulder.lerp(hand, f)
@@ -337,7 +338,7 @@ extension TenaRig {
             let pressing = preset == .press
             let palm = (pressing ? 6.2 : 4.9) * k * (buds ? 0.8 : 1)
             parts.append(Part(path: Curve.ellipse(hand, palm, palm), fill: fill))
-            let showFingers = fingers > 0 && preset != .hips && !(preset == .regrow && side < 0 && progress < 0.5)
+            let showFingers = fingers > 0 && preset != .hips && !(preset == .regrow && side < 0 && !buds && progress < 0.5)
             if showFingers {
                 let dir = pressing ? CGPoint(x: side * 0.15, y: -1).normalized : (hand - elbow).normalized
                 let fan: [Double] = fingers == 3 ? [-38, 0, 38] : (pressing ? [-54, -18, 18, 54] : [-48, -16, 16, 48])
@@ -347,7 +348,7 @@ extension TenaRig {
                     parts.append(Part(path: Curve.ellipse(c, lobe, lobe), fill: fill))
                 }
             }
-            if preset == .limp, side < 0 {
+            if preset == .limp, side < 0, !buds {
                 let mid = elbow.lerp(hand, 0.35)
                 let along = (hand - elbow).normalized
                 let across = CGPoint(x: -along.y, y: along.x)

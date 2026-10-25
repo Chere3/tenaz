@@ -54,7 +54,7 @@ enum SnapshotRegistry {
         ]
         // Tena alone on a transparent background (`tena-happy`, `tena-focused`...), for design mockups.
         for mood in TenaMood.allCases {
-            all["tena-\(mood.rawValue)"] = SnapshotEntry(view: AnyView(TenaView(mood: mood, stage: .juvenile, size: 520)), size: CGSize(width: 520, height: 520))
+            all["tena-\(mood.rawValue)"] = SnapshotEntry(view: AnyView(TenaView(mood: mood, stage: .juvenile, size: 520, word: "levera")), size: CGSize(width: 520, height: 520))
             // App icon layer: 2048 px, no floor shadow (Icon Composer draws its own).
             all["icon-tena-\(mood.rawValue)"] = SnapshotEntry(view: AnyView(TenaView(mood: mood, stage: .juvenile, size: 1024, ground: false)), size: CGSize(width: 1024, height: 1024))
             // The live Dock icon for each mood (yellow flood).

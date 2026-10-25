@@ -64,7 +64,7 @@ extension TenaRig {
             var resolved = ctx.resolve(text)
             resolved.shading = .color(ink)
             let natural = resolved.measure(in: CGSize(width: 1000, height: 1000))
-            let fit = min(1, box.size.width * 0.84 / max(natural.width, 1))
+            let fit = min(1, box.size.width * 0.62 / max(natural.width, 1))
             ctx.scaleBy(x: fit, y: fit)
             ctx.draw(resolved, at: .zero)
         } else {
