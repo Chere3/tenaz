@@ -62,7 +62,9 @@ extension TenaRig {
             mask.closeSubpath()
         }
         if lower > 0.02 {
-            mask = mask.union(Curve.ellipse(CGPoint(x: c.x, y: lowerTop + ry * 1.5), rx * 2.1, ry * 1.5))
+            // A narrow arch from below: the centre is cut up to `lowerTop` while the outer corners stay,
+            // so the bead's lower edge bows up (the smiling eye), not a flat chop.
+            mask = mask.union(Curve.ellipse(CGPoint(x: c.x, y: lowerTop + ry * 1.6), rx * 1.08, ry * 1.6))
         }
         var lids = ctx
         if !mask.isEmpty { lids.clip(to: mask, options: .inverse) }
@@ -83,13 +85,14 @@ extension TenaRig {
                 lids.fill(Curve.ellipse(CGPoint(x: bead.x + rx * 0.05, y: min(gy + gloss * 1.6, lowerTop - r2 - 0.3)), r2, r2), with: .color(color(.highlight)))
             }
         }
-        // The lid line carries the brow work; dropped in the bust, where lids are solid fills.
-        if lid >= 0.18, lod != .glyph {
+        // The lid line carries the brow work (thicker in the bust, where it is the only brow cue).
+        if lid >= 0.18 {
             var line = Path()
-            let half = rx * 1.22
+            let half = rx * (lod == .glyph ? 1.3 : 1.22)
             line.move(to: CGPoint(x: c.x - half, y: edge(c.x - half)))
             line.addLine(to: CGPoint(x: c.x + half, y: edge(c.x + half)))
-            ctx.stroke(line, with: .color(ink), style: StrokeStyle(lineWidth: w.t1 * faceStroke, lineCap: .round))
+            let weight = w.t1 * faceStroke * (lod == .glyph ? 1.25 : 1)
+            ctx.stroke(line, with: .color(ink), style: StrokeStyle(lineWidth: weight, lineCap: .round))
         }
     }
 

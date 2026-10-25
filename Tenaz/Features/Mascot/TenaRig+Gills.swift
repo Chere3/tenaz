@@ -31,8 +31,8 @@ extension TenaRig {
         let shape = gillShape
         let (rootW, tipW): (CGFloat, CGFloat) = switch shape {
         case .nub: (0.105 * w, 0.085 * w)
-        case .tube: (0.09 * w, 0.042 * w)
-        case .fringe: (0.088 * w, 0.034 * w)
+        case .tube: lod == .glyph ? (0.125 * w, 0.06 * w) : (0.09 * w, 0.042 * w)
+        case .fringe: (0.10 * w, 0.034 * w)
         }
         for side in [CGFloat(-1), 1] {
             for i in 0 ..< 3 {
@@ -79,7 +79,8 @@ extension TenaRig {
 
                 let fill: TenaFigure.Fill = regrowing.map { $0 < 1 ? .belly : .gill } ?? .gill
                 let fingerFill: TenaFigure.Fill = fill == .belly ? .belly : .gillDeep
-                // Filaments (or short notches) along the upper edge, angled 35° toward the tip.
+                // Filaments (or short notches) along the upper edge: each leaves the frond at ~52° and
+                // sweeps back toward the tip, tapering to a round cap; long near the root, short at the tip.
                 let fingers: [(s: CGFloat, length: CGFloat, width: CGFloat)]
                 switch shape {
                 case .nub: fingers = []
@@ -90,22 +91,26 @@ extension TenaRig {
                     }
                 case let .fringe(n):
                     fingers = (0 ..< n).map { j in
-                        let s = 0.3 + 0.62 * CGFloat(j) / CGFloat(max(n - 1, 1))
-                        return (s, 0.24 * length * (1 - 0.35 * s), max(2.4, halfWidth(s) * 0.72))
+                        let u = CGFloat(j) / CGFloat(max(n - 1, 1))
+                        let s = 0.28 + 0.62 * u
+                        return (s, length * (0.32 - 0.18 * u), max(2.2, halfWidth(s) * 0.74))
                     }
                 }
-                let angle = 44 * CGFloat.pi / 180
+                let lift = 52 * CGFloat.pi / 180, sweep = 22 * CGFloat.pi / 180
                 for finger in fingers {
                     let f = frame(finger.s)
-                    let base = f.p + f.upper * (halfWidth(finger.s) * 0.35)
-                    let dir = (f.tangent * cos(angle) + f.upper * sin(angle)).normalized
-                    var line = Path()
-                    line.move(to: base - dir * (finger.width * 0.3))
-                    line.addLine(to: base + dir * finger.length)
-                    let capsule = line.strokedPath(StrokeStyle(lineWidth: finger.width, lineCap: .round))
+                    let base = f.p + f.upper * (halfWidth(finger.s) * 0.3)
+                    let out = (f.tangent * cos(lift) + f.upper * sin(lift)).normalized
+                    let back = (f.tangent * cos(sweep) + f.upper * sin(sweep)).normalized
+                    let a = base - out * (finger.width * 0.4)
+                    let c = base + out * (finger.length * 0.55)
+                    let b = c + back * (finger.length * 0.5)
+                    let spine = (0 ... 8).map { Curve.quad(a, c, b, CGFloat($0) / 8) }
+                    let half = finger.width / 2
+                    let strand = Curve.ribbon(spine, halfWidth: { t in half * (1 - 0.42 * t) })
                     var decor: [TenaFigure.Decor] = []
                     if let amber { decor.append(.init(path: amber, fill: .amber)) }
-                    parts.append(TenaFigure.Part(path: capsule, fill: fingerFill, decor: decor))
+                    parts.append(TenaFigure.Part(path: strand, fill: fingerFill, decor: decor))
                 }
 
                 var decor: [TenaFigure.Decor] = []

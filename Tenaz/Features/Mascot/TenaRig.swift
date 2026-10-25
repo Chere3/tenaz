@@ -58,7 +58,9 @@ struct TenaRig {
         let live = figure(pose: livePose, time: time)
         let rest = figure(pose: restPose, time: 0).bounds
         let still = figure(pose: livePose, time: 0).bounds
-        let (scale, offset) = fit(rest: rest, mood: still, unit: unit)
+        let (scale, offset) = lod == .glyph && stage != .egg
+            ? bustFit(figure: still, unit: unit)
+            : fit(rest: rest, mood: still, unit: unit)
         var ctx = context
         ctx.translateBy(x: offset.x, y: offset.y)
         ctx.scaleBy(x: scale, y: scale)
@@ -75,7 +77,29 @@ struct TenaRig {
             p.eye.lid = Self.quantised(p.eye.lid)
             if var r = p.rightEye { r.lid = Self.quantised(r.lid); p.rightEye = r }
         }
+        if lod == .glyph {
+            // The bust has only face and gills to act with: push the gill posture and the mouth.
+            p.gills.lift = p.gills.lift.map { $0 * 1.6 }
+            p.gills.asymmetry *= 1.5
+            p.mouth.skew *= 1.5
+            p.mouth.curve = max(-1, min(1, p.mouth.curve * 1.3))
+            if p.mouth.width >= 0.5 { p.mouth.width = min(0.66, p.mouth.width * 1.08) }
+        }
         return p
+    }
+
+    /// The bust (Glyph tier): the head is 78 % of the frame whatever the gills do, so the face carries the
+    /// mood at 36 pt. The fans may run off the frame edge (the frame crops them; they never shrink).
+    func bustFit(figure: CGRect, unit: CGFloat) -> (CGFloat, CGPoint) {
+        let head = HeadShape(center: CGPoint(x: 100, y: 80), size: build.head)
+        let margin = 2 + tier1Points / unit
+        let scale = 156 / build.head.width
+        let dx = 100 - head.center.x * scale
+        // Centre the bust vertically, but keep the chin inside the frame.
+        var dy = 100 - figure.midY * scale
+        dy = min(dy, 200 - margin - (head.chin + 2) * scale)
+        dy = max(dy, margin - figure.minY * scale - 12)
+        return (scale, CGPoint(x: dx, y: dy))
     }
 
     /// The silhouette every mood of this stage is fitted against (Neutral at rest).
@@ -130,7 +154,7 @@ struct TenaRig {
         case .shade: c = rgb(p.tenaShade)
         case .mark: c = build.landForm ? rgb(p.tenaMark).mix(rgb(p.tenaGillDeep), 0.3) : rgb(p.tenaMark)
         case .highlight: c = RGB(0xFFF7EE)
-        case .window: c = rgb(p.tenaBelly).mix(RGB(0xFFF7EE), 0.55)
+        case .window: c = rgb(p.tenaBelly).mix(RGB(0xFFF7EE), 0.35)
         case .amber: c = rgb(p.tenaAmber)
         case .gill:
             c = warmFlood ? rgb(p.tenaGillDeep) : rgb(p.tenaGill)
@@ -142,7 +166,9 @@ struct TenaRig {
         }
         let fade = livePose.fade
         if fade > 0 {
-            if gillLike { c = c.desaturated(0.5) }
+            // Sick gills fade toward the body pink (not grey, which reads as rot) and lose a little
+            // saturation; the gill-deep root band keeps its step, so they still read as gills.
+            if gillLike { c = c.mix(rgb(p.tenaPink), 0.3).desaturated(0.15) }
             c = c.mix(wash, fade)
         }
         return c.color

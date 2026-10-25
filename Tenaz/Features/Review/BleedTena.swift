@@ -20,9 +20,12 @@ struct BleedTena: View {
         GeometryReader { proxy in
             let size = proxy.size.height * heightShare
             let x = corner == .bottomLeading ? size * 0.32 : proxy.size.width - size * 0.32
-            // TenaRig draws her from ~30 % to ~85 % of the frame plus a ground shadow; pushing the
-            // frame 20 % below the edge crops the shadow and her feet, so she sits on the window edge.
-            let y = proxy.size.height - size * 0.5 + size * 0.2
+            // Tena has no ground shadow; her feet sit at ~88-90 % of the frame. The bottom edge crops
+            // her through the hips, below the hanging hands (91 % of her measured ink height; 80 %
+            // for the curled Asleep pose), so the crop never runs along a hand or an arm.
+            let ink = TenaInk.bounds(stage: stage, mood: mood)
+            let cut = ink.minY + ink.height * (mood == .asleep ? 0.8 : 0.91)
+            let y = proxy.size.height - cut * size + size * 0.5
             ZStack {
                 if rays {
                     Sunburst()

@@ -106,11 +106,12 @@ extension TenaRig {
             }
         }
         let headInModel = head.path.applying(headT)
-        // The head's cast shadow on the upper body (light from the upper right): a crescent that
-        // tapers toward both sides, never a full-width band.
-        let chinModel = CGPoint(x: 97, y: head.chin + 2).applying(headT)
-        let shadowReach = Curve.ellipse(chinModel, 0.36 * bodySize.width, 11)
-        let shade = Decor(path: headInModel.offsetBy(dx: -2.5, dy: 6).intersection(shadowReach), fill: .shade)
+        // The head's cast shadow on the upper body. The light is upper-right, so it falls under the
+        // left jaw only: a short crescent that follows the jaw curve and fades out at both ends
+        // (never a full-width band, which reads as a collar).
+        let chinModel = CGPoint(x: 100 - 0.17 * bodySize.width, y: head.chin - 2).applying(headT)
+        let shadowReach = Curve.ellipse(chinModel, 0.22 * bodySize.width, 7.5)
+        let shade = Decor(path: shadowReach.subtracting(headInModel), fill: .shade)
         var body = moved(Part(path: bean.path, fill: .body, decor: [
             Decor(path: Curve.ellipse(CGPoint(x: 99, y: bean.center.y + 0.15 * bodySize.height), 0.29 * bodySize.width, 0.32 * bodySize.height), fill: .belly),
         ]), bodyT)
@@ -307,7 +308,8 @@ extension TenaRig {
         let buds = build.limbs == .buds
         let reach = (buds ? 0.6 : 1) * k * CGFloat(min(build.limbLength, 1.2))
         let tube = (buds ? 8 : 9) * k
-        let fingers = showsDetail ? (buds ? 3 : 4) : 0
+        // Small (64 pt) keeps two notches per hand so the palms still read as hands.
+        let fingers = showsDetail ? (buds ? 3 : 4) : (lod == .small && !buds ? 2 : 0)
         var parts: [Part] = []
         var shoulders = Path()
         var wrap: Part?
@@ -341,7 +343,11 @@ extension TenaRig {
             let showFingers = fingers > 0 && preset != .hips && !(preset == .regrow && side < 0 && !buds && progress < 0.5)
             if showFingers {
                 let dir = pressing ? CGPoint(x: side * 0.15, y: -1).normalized : (hand - elbow).normalized
-                let fan: [Double] = fingers == 3 ? [-38, 0, 38] : (pressing ? [-54, -18, 18, 54] : [-48, -16, 16, 48])
+                let fan: [Double] = switch fingers {
+                case 2: [-30, 30]
+                case 3: [-38, 0, 38]
+                default: pressing ? [-54, -18, 18, 54] : [-48, -16, 16, 48]
+                }
                 let lobe = (pressing ? 3.3 : 3.1) * k
                 for a in fan {
                     let c = hand + dir.rotated(a) * (palm + lobe * 0.35)
@@ -435,7 +441,7 @@ extension TenaRig {
     func bustFigure(pose: TenaPose, time t: Double) -> TenaFigure {
         let head = HeadShape(center: CGPoint(x: 100, y: 80), size: build.head)
         let headT = about(head.center, CGAffineTransform(rotationAngle: (pose.tilt * 0.6 + sway(t)) * .pi / 180))
-        let gills = fronds(head: head, pose: pose, time: t, options: FrondOptions(lengthScale: 0.66))
+        let gills = fronds(head: head, pose: pose, time: t, options: FrondOptions(lengthScale: 0.92))
         var parts = gills.parts.map { moved($0, headT) }
         parts.append(moved(Part(path: head.path, fill: .body, decor: crown(head: head)), headT))
         let face = faceAnchors(head: head, pose: pose)
@@ -464,35 +470,46 @@ extension TenaRig {
         let headT = about(head.center, CGAffineTransform(rotationAngle: (-8 + sway(t) * 0.4) * .pi / 180))
             .concatenating(CGAffineTransform(translationX: 0, y: -lying.height * br))
 
-        // The tail leaves the far end, wraps under the body and ends under the chin.
+        // The tail leaves the hip at the far end, arcs round the rump and back under the body, and its
+        // tapered tip curls up in front of the chin, where her head rests on it.
         let reach = CGFloat(0.5 + 0.5 * min(b.tail, 1.3))
-        let start = CGPoint(x: bean.center.x + 0.4 * lying.width, y: bean.center.y - 0.05 * lying.height)
-        let chin = CGPoint(x: head.center.x + 0.2 * b.head.width, y: head.chin + 8)
-        let corner = CGPoint(x: start.x + 14 * reach, y: bean.bottom + 4)
-        let p: [CGPoint] = [start, start + CGPoint(x: 14, y: 6) * reach, corner, corner.lerp(chin, 0.35) + CGPoint(x: 0, y: 7),
-                            corner.lerp(chin, 0.7) + CGPoint(x: 0, y: 5), chin]
-        var spine: [CGPoint] = []
-        for i in 0 ..< p.count - 1 {
-            for j in 0 ..< 4 { spine.append(p[i].lerp(p[i + 1], CGFloat(j) / 4)) }
+        let arcC = CGPoint(x: bean.center.x + 0.04 * lying.width, y: bean.center.y + 0.12 * lying.height)
+        let arcR = CGSize(width: 0.5 * lying.width + 6 * reach, height: 0.5 * lying.height + 5)
+        var spine: [CGPoint] = stride(from: -28.0, through: 150, by: 8).map { deg in
+            let a = deg * .pi / 180
+            return CGPoint(x: arcC.x + arcR.width * CGFloat(cos(a)), y: arcC.y + arcR.height * CGFloat(sin(a)))
         }
-        spine.append(p[p.count - 1])
+        let chin = CGPoint(x: head.center.x + 0.16 * b.head.width, y: head.chin + 5)
+        let last = spine[spine.count - 1]
+        spine.append(last.lerp(chin, 0.5) + CGPoint(x: 0, y: 3))
+        spine.append(chin + CGPoint(x: -4, y: -2))
         spine = smoothed(smoothed(spine))
-        let root = 0.15 * b.body.height
-        let halfWidth: (CGFloat) -> CGFloat = { s in root * pow(1 - s, 0.75) + 1.3 }
+        let root = 0.125 * b.body.height
+        let halfWidth: (CGFloat) -> CGFloat = { s in root * pow(1 - s, 1.1) + 0.7 }
         var front: [Part] = []
         if b.dorsal > 0, !b.landForm {
             var outer: [CGPoint] = [], inner: [CGPoint] = []
             for i in 1 ..< spine.count - 1 {
                 let s = CGFloat(i) / CGFloat(spine.count - 1)
                 let tangent = (spine[i + 1] - spine[i - 1]).normalized
-                let out = CGPoint(x: tangent.y, y: -tangent.x)
+                let out = CGPoint(x: -tangent.y, y: tangent.x)
                 let edge = spine[i] + out * halfWidth(s)
-                outer.append(edge + out * CGFloat(b.dorsal) * 0.8 * min(1, s / 0.2) * min(1, (1 - s) / 0.2))
+                let h = CGFloat(b.dorsal) * 1.15 * min(1, s / 0.25) * pow(min(1, (1 - s) / 0.35), 0.8)
+                outer.append(edge + out * h)
                 inner.append(edge - out * 3)
             }
             var decor: [Decor] = []
             if b.amberTips {
                 decor.append(Decor(path: Curve.open(outer).strokedPath(StrokeStyle(lineWidth: 5, lineCap: .round)), fill: .amber))
+            }
+            if showsDetail {
+                // Two fin ribs in shade pink so the frill reads as a fin, not a rim.
+                var ribs = Path()
+                for k in [outer.count * 2 / 5, outer.count * 3 / 5] where k < outer.count {
+                    ribs.move(to: inner[k])
+                    ribs.addLine(to: inner[k].lerp(outer[k], 0.85))
+                }
+                decor.append(Decor(path: ribs, fill: .shade, line: true))
             }
             front.append(Part(path: Curve.closed(outer + inner.reversed()), fill: .belly, decor: decor))
         }

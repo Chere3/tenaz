@@ -100,9 +100,9 @@ struct TenaPose {
             p.wiggle = 9
             p.breathRate = 1.6
         case .happy:
-            p.eye = EyeState(lid: 0.1, lowerLid: 0.3)
+            p.eye = EyeState(lid: 0, lowerLid: 0.45)
             p.mouth = MouthShape(width: 0.60, curve: 0.6)
-            p.gills = GillPose(lift: [8, 8, 8])
+            p.gills = GillPose(lift: [10, 10, 10])
             p.body = BodyPose(preset: .sit, lean: 4)
             p.wiggle = 6
         case .focused:
@@ -159,8 +159,10 @@ struct TenaPose {
             p.breathRate = 0.6
             p.fade = 0.35
         case .regenerating:
-            p.eye = EyeState(lid: 0.25, gaze: CGVector(dx: -0.18, dy: 0.2))
-            p.mouth = MouthShape(width: 0.56, curve: 0.15, skew: 0.45)
+            // Effort, eyes on the regrowing (left) limb: head tipped toward it, one mouth corner tucked up.
+            p.eye = EyeState(lid: 0.25, gaze: CGVector(dx: -0.22, dy: 0.22))
+            p.mouth = MouthShape(width: 0.54, curve: 0.05, skew: 0.65)
+            p.tilt = -4
             p.gills = GillPose(lift: [4, 4, 4])
             p.body = BodyPose(preset: .regrow)
             p.wiggle = 3

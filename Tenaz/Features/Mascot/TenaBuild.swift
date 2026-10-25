@@ -61,11 +61,11 @@ struct TenaBuild {
                       freckles: 4, limbLength: 1.08)
         case .adult:
             TenaBuild(head: CGSize(width: 128, height: 76), body: CGSize(width: 86, height: 66), eyeScale: 0.86,
-                      gillLengths: gills(0.46), gillShape: .fringe(6), limbs: .all, tail: 1.3, tailCurl: 18, dorsal: 10,
+                      gillLengths: gills(0.46), gillShape: .fringe(5), limbs: .all, tail: 1.3, tailCurl: 18, dorsal: 10,
                       freckles: 6, limbLength: 1.18)
         case .elder:
             TenaBuild(head: CGSize(width: 128, height: 76), body: CGSize(width: 86, height: 66), eyeScale: 0.86,
-                      gillLengths: gills(0.52), gillShape: .fringe(6), amberTips: true, gillSweep: 8, limbs: .all,
+                      gillLengths: gills(0.52), gillShape: .fringe(5), amberTips: true, gillSweep: 8, limbs: .all,
                       tail: 1.3, tailCurl: 18, dorsal: 10, freckles: 6, limbLength: 1.18)
         case .metamorph:
             TenaBuild(head: CGSize(width: 118, height: 78), body: CGSize(width: 88, height: 76), eyeScale: 0.95,

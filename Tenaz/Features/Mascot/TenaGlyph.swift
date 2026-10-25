@@ -4,8 +4,8 @@ import SwiftUI
 /// Tena's head as a one-ink menu-bar glyph: the flat-topped head with three tapered fronds per side
 /// (58/30/6°, top longest), the face cut out of it: bead eyes and the wide smile line.
 /// Readable at 18 pt; `image(_:)` returns a template NSImage so the menu bar tints it.
-/// States differ by shape only: due (badge), hungry (open mouth), sick (limp gills, heavy lids,
-/// wavy mouth), asleep (closed arcs, curled gills).
+/// States differ by shape only: due (badge at the lower right), hungry (open mouth), sick (limp, short
+/// gills, heavy lids, wavy mouth), asleep (closed arcs, gills curled down).
 struct TenaGlyph: View {
     let state: TenaGlyphState
     var size: CGFloat = 18
@@ -24,8 +24,8 @@ struct TenaGlyph: View {
 
     private var gillLift: Double {
         switch state {
-        case .sick: -22
-        case .asleep: -10
+        case .sick: -34
+        case .asleep: -18
         default: 0
         }
     }
@@ -33,13 +33,14 @@ struct TenaGlyph: View {
     private func draw(in layer: inout GraphicsContext) {
         let ink = GraphicsContext.Shading.foreground
         let head = HeadShape(center: CGPoint(x: 9, y: 10.4), size: CGSize(width: 12.4, height: 8.4))
-        let lengths: [CGFloat] = [3.9, 3.4, 2.7]
+        // Sick gills hang limp and short; the rest keep the 1 : 0.88 : 0.7 fan.
+        let lengths: [CGFloat] = [3.9, 3.4, 2.7].map { $0 * (state == .sick ? 0.82 : 1) }
         for side in [CGFloat(-1), 1] {
             for i in 0 ..< 3 {
                 let root = head.contour(polar: [40, 20, 2][i], side: side)
                 let a = [58.0, 30, 6][i] + gillLift
                 let d = CGPoint.heading(a, side: side)
-                let bend = CGPoint.heading(a + 10 - (state == .asleep ? 30 : 0), side: side)
+                let bend = CGPoint.heading(a + 10 - (state == .asleep ? 40 : 0), side: side)
                 let c = root + d * (lengths[i] * 0.5)
                 let tip = c + bend * (lengths[i] * 0.5)
                 let spine = (0 ... 8).map { Curve.quad(root - d * 0.8, c, tip, CGFloat($0) / 8) }
@@ -73,7 +74,7 @@ struct TenaGlyph: View {
             var mouth = Path()
             mouth.move(to: CGPoint(x: 6.6, y: 12.2))
             mouth.addCurve(to: CGPoint(x: 11.4, y: 12.2), control1: CGPoint(x: 7.8, y: 11.8), control2: CGPoint(x: 10.2, y: 11.8))
-            mouth.addCurve(to: CGPoint(x: 6.6, y: 12.2), control1: CGPoint(x: 10.6, y: 14.6), control2: CGPoint(x: 7.4, y: 14.6))
+            mouth.addCurve(to: CGPoint(x: 6.6, y: 12.2), control1: CGPoint(x: 10.8, y: 15.3), control2: CGPoint(x: 7.2, y: 15.3))
             mouth.closeSubpath()
             layer.fill(mouth, with: ink)
         case .asleep:
@@ -95,11 +96,12 @@ struct TenaGlyph: View {
         }
         layer.blendMode = .normal
         if state == .due {
-            // Due dot: a solid badge top-right with a cut ring separating it from the head.
+            // Due dot: a solid badge at the lower right, under the gill fan, with a cut ring
+            // separating it from the jaw.
             layer.blendMode = .destinationOut
-            layer.fill(Path(ellipseIn: CGRect(x: 11.6, y: 0.4, width: 6.4, height: 6.4)), with: ink)
+            layer.fill(Path(ellipseIn: CGRect(x: 12.0, y: 11.6, width: 6.2, height: 6.2)), with: ink)
             layer.blendMode = .normal
-            layer.fill(Path(ellipseIn: CGRect(x: 12.7, y: 1.5, width: 4.2, height: 4.2)), with: ink)
+            layer.fill(Path(ellipseIn: CGRect(x: 13.1, y: 12.7, width: 4.0, height: 4.0)), with: ink)
         }
     }
 
