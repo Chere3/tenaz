@@ -6,7 +6,7 @@ struct SidebarHeader: View {
 
     var body: some View {
         HStack(spacing: Tokens.Space.xs) {
-            TenaView(mood: summary.mood, stage: summary.stage, size: 64)
+            TenaView(mood: summary.mood, stage: summary.stage, size: 64, word: summary.dueWord)
                 .frame(width: 52, height: 52)
                 .offset(y: -4)
             VStack(alignment: .leading, spacing: 1) {

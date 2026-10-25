@@ -1,9 +1,27 @@
 import Foundation
 
 /// The idle loop (rules §13). Every channel is exactly zero at time 0, so snapshots show the resting pose.
-/// Jitter is seeded from the mood's index, never from string hashes (those change per process).
+/// Jitter is seeded from a fixed number per mood and the stage, never from string hashes (those change
+/// per process) or the enum's case order (reordering `allCases` must not move a blink).
 extension TenaRig {
-    var seed: Double { Double(TenaMood.allCases.firstIndex(of: mood) ?? 0) + Double(stage.rawValue) * 0.37 }
+    var seed: Double { Self.moodSeed(mood) + Double(stage.rawValue) * 0.37 }
+
+    static func moodSeed(_ mood: TenaMood) -> Double {
+        switch mood {
+        case .ecstatic: 0
+        case .happy: 1
+        case .focused: 2
+        case .curious: 3
+        case .neutral: 4
+        case .hungry: 5
+        case .nagging: 6
+        case .sad: 7
+        case .sick: 8
+        case .regenerating: 9
+        case .proud: 10
+        case .asleep: 11
+        }
+    }
 
     /// Ramps the oscillators in over the first 0.6 s so time 0 is still.
     func envelope(_ t: Double) -> Double { min(1, max(0, t / 0.6)) }

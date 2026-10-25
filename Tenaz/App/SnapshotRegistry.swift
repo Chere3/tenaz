@@ -63,7 +63,7 @@ enum SnapshotRegistry {
         for mood in TenaMood.allCases {
             all["tena-\(mood.rawValue)"] = SnapshotEntry(view: AnyView(TenaView(mood: mood, stage: .juvenile, size: 520, word: "levera")), size: CGSize(width: 520, height: 520))
             // App icon layer: 2048 px, no floor shadow (Icon Composer draws its own).
-            all["icon-tena-\(mood.rawValue)"] = SnapshotEntry(view: AnyView(TenaView(mood: mood, stage: .juvenile, size: 1024, ground: false)), size: CGSize(width: 1024, height: 1024))
+            all["icon-tena-\(mood.rawValue)"] = SnapshotEntry(view: AnyView(TenaView(mood: mood, stage: .juvenile, size: 1024)), size: CGSize(width: 1024, height: 1024))
             // The live Dock icon for each mood (yellow flood).
             all["app-icon-\(mood.rawValue)"] = SnapshotEntry(view: AnyView(AppIconArt(mood: mood)), size: CGSize(width: 512, height: 512))
         }

@@ -42,6 +42,10 @@ enum SelfTest {
             return placementWindow()
         case "audio":
             return audio(environment: env)
+        case "mascot":
+            return mascot()
+        case "mascot-dump":
+            return mascot(dump: true)
         default:
             print("unknown selftest \(name)")
             return 2

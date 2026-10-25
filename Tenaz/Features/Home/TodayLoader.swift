@@ -7,7 +7,8 @@ import TenazCore
 enum TodayLoader {
     static func load(_ env: AppEnvironment, now: Date = .now) -> TodaySummary {
         let today = DayBoundary.day(for: now)
-        let setCount = (try? env.reviewStore?.todaySet(now: now).count) ?? 0
+        let set = (try? env.reviewStore?.todaySet(now: now)) ?? []
+        let setCount = set.count
         let back = setCount == 0 ? comingBack(env.database, now: now) : nil
         let placement = placementStatus(env.database)
         let placementBlueprint = env.blueprints.blueprint(for: .placement)
@@ -19,6 +20,7 @@ enum TodayLoader {
             todaySetCount: setCount, comingBack: back, quests: [], write: writePrompt(env.content, database: env.database, now: now),
             placementTaken: placement.taken, placementInProgress: placement.inProgress, placementMinutes: minutes
         )
+        summary.dueWord = set.first?.note.display
         summary.placementParts = placementBlueprint?.sections.count ?? 7
         summary.dailyCheckMinutes = Int((env.blueprints.blueprint(for: .daily)?.nominalMinutes ?? 8).rounded())
         guard let engine = env.gamification,

@@ -23,6 +23,8 @@ struct PopoverState: Equatable {
     var streakAtRisk = false
     /// Intrusions are paused until this time ("Pause intrusions 1 h"), or nil.
     var pausedUntil: Date?
+    /// The first due word, for Nagging's sign.
+    var dueWord: String?
 
     /// The flood that tells the state: due = yellow, done = mint, streak at risk = oxblood, paused = paper.
     var flood: Flood? {

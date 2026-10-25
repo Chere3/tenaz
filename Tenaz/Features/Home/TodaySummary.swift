@@ -33,6 +33,8 @@ struct TodaySummary: Equatable {
     var placementParts = 7
     var dailyCheckMinutes = 8
     var welcomeBack = false
+    /// The first word in today's set: what Nagging holds up on her sign (nil when nothing is due).
+    var dueWord: String?
 
     var primary: HomePrimary {
         HomePrimary.decide(placementTaken: placementTaken, placementInProgress: placementInProgress,

@@ -10,7 +10,7 @@ struct HomeBoard: View {
 
     var body: some View {
         GeometryReader { proxy in
-            let layout = HomeLayout(window: proxy.size, stage: summary.stage, mood: mood)
+            let layout = HomeLayout(window: proxy.size, stage: summary.stage, mood: mood, word: summary.dueWord)
             ZStack(alignment: .topLeading) {
                 HomeTena(summary: summary, mood: mood, layout: layout, hatch: actions.hatch)
                 VStack(alignment: .leading, spacing: 0) {
@@ -69,11 +69,12 @@ struct HomeLayout {
     let columnWidth: CGFloat
     let stacked: Bool
 
-    init(window: CGSize, stage: TenaStage, mood: TenaMood) {
-        let ink = TenaInk.bounds(stage: stage, mood: mood)
+    /// `word`: the due word, so Nagging is measured holding her sign (or her fists without one).
+    init(window: CGSize, stage: TenaStage, mood: TenaMood, word: String? = nil) {
+        let ink = TenaInk.bounds(stage: stage, mood: mood, word: word)
         let clearance = window.height * 0.045
         // The left edge takes her left gill tips (5 % of her ink width), never her head or a hand.
-        let rig = TenaRig(mood: mood, stage: stage, time: 0, size: 400)
+        let rig = TenaRig(mood: mood, stage: stage, time: 0, size: 400, word: word)
         let keep = [rig.headFrame, rig.armFrame].compactMap(\.self).map(\.minX).min() ?? ink.minX + ink.width * 0.1
         let left = max(ink.minX, min(ink.minX + ink.width * 0.05, keep - 0.02))
         let wideLeading = min(max(window.width * 0.44, window.width - 620), window.width * 0.52)
@@ -87,9 +88,9 @@ struct HomeLayout {
             return (max(160, min(max(side, stack), tallest, max(byHeight, stack))), stack > side)
         }
         // Size her at the hip crop, then re-measure the cut at that size (low hands push it down) and refit.
-        var cut = TenaInk.bottomCut(stage: stage, mood: mood, size: fit(cut: ink.minY + ink.height * 0.86).size, margin: clearance)
+        var cut = TenaInk.bottomCut(stage: stage, mood: mood, size: fit(cut: ink.minY + ink.height * 0.86).size, margin: clearance, word: word)
         let (size, stacked) = fit(cut: cut)
-        cut = TenaInk.bottomCut(stage: stage, mood: mood, size: size, margin: clearance)
+        cut = TenaInk.bottomCut(stage: stage, mood: mood, size: size, margin: clearance, word: word)
         self.size = size
         self.stacked = stacked
         let leading = stacked ? Self.margin : wideLeading
@@ -122,7 +123,7 @@ private struct HomeTena: View {
     }
 
     private var tena: some View {
-        TenaView(mood: mood, stage: summary.stage, size: layout.size)
+        TenaView(mood: mood, stage: summary.stage, size: layout.size, word: summary.dueWord)
     }
 }
 

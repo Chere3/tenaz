@@ -20,7 +20,7 @@ struct AppIconArt: View {
         let tile = side * 824 / 1024
         ZStack {
             flood.color
-            TenaView(mood: mood, stage: .juvenile, size: tile * Self.scale, ground: false)
+            TenaView(mood: mood, stage: .juvenile, size: tile * Self.scale)
                 .rotationEffect(.degrees(-8))
                 .offset(x: tile * Self.offset.width / 1024, y: tile * Self.offset.height / 1024)
         }

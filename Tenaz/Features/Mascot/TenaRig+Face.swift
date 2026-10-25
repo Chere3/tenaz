@@ -76,7 +76,7 @@ extension TenaRig {
         lids.clip(to: beadPath)
         // Gloss at the upper right (fixed light), kept inside what the lids leave open.
         let open = max(0, min(lowerTop, c.y + ry) - max(edge(bead.x + rx * 0.46), c.y - ry))
-        var gloss = 3.2 * s * scale * (e.pupilScale < 0.8 ? 0.55 : 1)
+        var gloss = 3.2 * s * scale * CGFloat(e.gloss)
         gloss = min(gloss, open * 0.42)
         if gloss > 0.7, shut < 0.5, !crescent {
             let gx = bead.x + rx * 0.46

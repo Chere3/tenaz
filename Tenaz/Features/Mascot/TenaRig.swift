@@ -14,8 +14,6 @@ struct TenaRig {
     let size: CGFloat
     /// Night scheme: gills switch to the night tokens; the Sick wash lifts toward a pale rose.
     var dark = false
-    /// Kept for source compatibility. Tena has no ground shadow.
-    var ground = false
     /// Mood props (headset, sign, bandage, medal, z). Off for the QA silhouettes.
     var props = true
     /// The word on Nagging's sign; nil draws a blank card.
@@ -56,46 +54,86 @@ struct TenaRig {
         let unit = size / 200
         context.scaleBy(x: unit, y: unit)
         let live = figure(pose: livePose, time: time)
-        let (scale, offset) = placement(still: figure(pose: livePose, time: 0))
+        let place = rest
         var ctx = context
-        ctx.translateBy(x: offset.x, y: offset.y)
-        ctx.scaleBy(x: scale, y: scale)
-        let t1 = tier1Points / (unit * scale)
-        let weights = Weights(t1: t1, t2: max(0.9 / (unit * scale), t1 * 0.55))
+        ctx.translateBy(x: place.offset.x, y: place.offset.y)
+        ctx.scaleBy(x: place.scale, y: place.scale)
+        let t1 = tier1Points / (unit * place.scale)
+        let weights = Weights(t1: t1, t2: max(0.9 / (unit * place.scale), t1 * 0.55))
         render(live, in: ctx, weights: weights)
     }
 
-    /// Scale and offset (grid units) that place the resting figure in the frame.
-    func placement(still: TenaFigure) -> (CGFloat, CGPoint) {
+    /// Her resting layout in the frame: the scale and offset (grid units) that place the time-0 figure,
+    /// and where its ink, arms and head land, as unit fractions of the frame (ink included).
+    struct Rest {
+        var scale: CGFloat
+        var offset: CGPoint
+        var ink: CGRect
+        /// Nil when no arm shows (limbless stages, the bust, the egg, the lying Asleep pose).
+        var arms: CGRect?
+        /// Nil when she has no face yet (the egg). Padded for a headset's ear cups: side crops keep it whole.
+        var head: CGRect?
+        /// The head's own contour (ink included, no ear-cup pad): where her chin really is.
+        var skull: CGRect?
+        /// The top of her feet (unit y); nil when she has no legs or lies down.
+        var feet: CGFloat?
+    }
+
+    private struct RestKey: Hashable {
+        var mood: TenaMood
+        var stage: TenaStage
+        var lod: Detail
+        /// The ink weight in grid units (hundredths): constant above ~148 pt, where the 1.4 pt floor ends.
+        var ink: Int
+        var props: Bool
+        var word: Bool
+        var progress: Int
+    }
+
+    private static var restCache: [RestKey: Rest] = [:]
+
+    /// Built once per stage, mood, tier and ink weight, so a frame (or a layout pass during a live
+    /// resize) builds only the live figure, never the still and the Neutral rest figure again.
+    var rest: Rest {
+        let key = RestKey(mood: mood, stage: stage, lod: lod, ink: Int((tier1Points / (size / 200) * 100).rounded()),
+                          props: props, word: showsSign, progress: Int((progress * 100).rounded()))
+        if let known = Self.restCache[key] { return known }
+        let made = measureRest()
+        Self.restCache[key] = made
+        return made
+    }
+
+    /// Builds the resting layout (uncached; `rest` caches it).
+    func measureRest() -> Rest {
         let unit = size / 200
-        return lod == .glyph && stage != .egg
+        let still = figure(pose: livePose, time: 0)
+        let (scale, offset) = lod == .glyph && stage != .egg
             ? bustFit(figure: still.bounds, unit: unit)
             : fit(rest: figure(pose: restPose, time: 0).bounds, mood: still.bounds, unit: unit)
+        // The contour is stroked at twice tier 1 about the path, so the ink reaches tier 1 past it.
+        let ink = tier1Points / unit / scale
+        func frame(_ r: CGRect) -> CGRect {
+            CGRect(x: (r.minX * scale + offset.x) / 200, y: (r.minY * scale + offset.y) / 200,
+                   width: r.width * scale / 200, height: r.height * scale / 200)
+        }
+        let arms = still.armBounds.isNull ? nil : frame(still.armBounds.insetBy(dx: -ink, dy: -ink))
+        // The head with a headset's ear cups (8 u) and the ink.
+        let skull = still.face.map { face in face.head.path.applying(still.headTransform).boundingRect.insetBy(dx: -ink, dy: -ink) }
+        return Rest(scale: scale, offset: offset, ink: frame(still.bounds.insetBy(dx: -ink, dy: -ink)), arms: arms,
+                    head: skull.map { frame($0.insetBy(dx: -8, dy: -8)) }, skull: skull.map(frame),
+                    feet: still.feetTop.map { ($0 * scale + offset.y) / 200 })
     }
 
-    /// Her arms and hands at rest (ink included), as unit fractions of the frame; nil when no arm shows
-    /// (limbless stages, the bust, the egg, the lying Asleep pose). Hero crops keep their edges clear of it.
-    var armFrame: CGRect? {
-        let still = figure(pose: livePose, time: 0)
-        guard !still.armBounds.isNull else { return nil }
-        let (scale, offset) = placement(still: still)
-        let ink = tier1Points / (size / 200) / scale
-        let r = still.armBounds.insetBy(dx: -ink, dy: -ink)
-        return CGRect(x: (r.minX * scale + offset.x) / 200, y: (r.minY * scale + offset.y) / 200,
-                      width: r.width * scale / 200, height: r.height * scale / 200)
-    }
+    /// Her arms and hands at rest (ink included), as unit fractions of the frame. Hero crops keep their
+    /// edges clear of it.
+    var armFrame: CGRect? { rest.arms }
 
-    /// Her head at rest (ink and a headset's ear cups included), as unit fractions of the frame; nil when
-    /// she has no face yet (the egg). Hero side crops keep it whole: only gills and the tail may be cut.
-    var headFrame: CGRect? {
-        let still = figure(pose: livePose, time: 0)
-        guard let head = still.face?.head else { return nil }
-        let (scale, offset) = placement(still: still)
-        let pad = 8 + tier1Points / (size / 200) / scale
-        let r = head.path.applying(still.headTransform).boundingRect.insetBy(dx: -pad, dy: -pad)
-        return CGRect(x: (r.minX * scale + offset.x) / 200, y: (r.minY * scale + offset.y) / 200,
-                      width: r.width * scale / 200, height: r.height * scale / 200)
-    }
+    /// Her head at rest (ink and a headset's ear cups included), as unit fractions of the frame. Hero side
+    /// crops keep it whole: only gills and the tail may be cut.
+    var headFrame: CGRect? { rest.head }
+
+    /// Where her resting ink sits in the frame, as unit fractions.
+    var inkFrame: CGRect { rest.ink }
 
     /// The pose with level-of-detail rules applied (lid quantisation at Small, no props at Glyph).
     var livePose: TenaPose {

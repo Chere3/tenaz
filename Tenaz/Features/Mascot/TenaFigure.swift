@@ -51,6 +51,8 @@ struct TenaFigure {
     var inkLines: [Path] = []
     /// Front arms and hands (model units), so hero crops can keep clear of them.
     var armBounds = CGRect.null
+    /// The top of her feet (model y, the soles' upper edge), so a crop below it counts as a graze.
+    var feetTop: CGFloat?
     /// The sign card's text box (model units) and its rotation, when Nagging holds one.
     var signBox: (center: CGPoint, size: CGSize, angle: Double)?
 

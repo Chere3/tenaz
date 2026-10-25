@@ -7,12 +7,12 @@ struct TenaStageCard: View {
 
     /// Her frame side and leading offset in the 150 pt box (the box starts on the window's left edge):
     /// 166 pt and 26 pt past that edge, so the edge takes part of her near gill fan. She moves in when the
-    /// edge would reach her head (8 pt clear), and shrinks when her far gills would come within 6 pt of
+    /// edge would reach her head (8 pt clear), and shrinks when her far gills would come within 16 pt of
     /// the hero text beside the box.
     private var fit: (size: CGFloat, x: CGFloat) {
-        let ink = TenaInk.bounds(stage: state.stage, mood: state.mood)
-        let head = TenaRig(mood: state.mood, stage: state.stage, time: 0, size: 166).headFrame?.minX ?? 0.3
-        let reach: CGFloat = 150 - 6
+        let ink = TenaInk.bounds(stage: state.stage, mood: state.mood, size: 166, word: state.dueWord)
+        let head = TenaRig(mood: state.mood, stage: state.stage, time: 0, size: 166, word: state.dueWord).headFrame?.minX ?? 0.3
+        let reach: CGFloat = 150 - 16
         var size: CGFloat = 166
         if -26 + ink.maxX * size > reach { size = (reach + 26) / ink.maxX }
         if -26 + head * size >= 8 { return (size, -26) }
@@ -21,10 +21,11 @@ struct TenaStageCard: View {
     }
 
     var body: some View {
+        let fit = fit
         HStack(alignment: .center, spacing: 0) {
             // Whole inside the card, so the popover's left window edge is her only crop (it takes
             // part of the near gill fan, never her head); no inner container edge cuts through her body.
-            TenaView(mood: state.mood, stage: state.stage, size: fit.size)
+            TenaView(mood: state.mood, stage: state.stage, size: fit.size, word: state.dueWord)
                 .offset(x: fit.x, y: -3)
                 .frame(width: 150, height: 160, alignment: .topLeading)
             VStack(alignment: .leading, spacing: 2) {

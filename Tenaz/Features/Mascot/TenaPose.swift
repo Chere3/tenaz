@@ -6,7 +6,6 @@ struct TenaPose {
     /// Bead eyes act only through lids (no brows, no size changes).
     struct EyeState {
         enum Closed { case up, down }
-        enum Glyph { case star, ring }
 
         /// Upper-lid cover, 0 (wide) ... 0.7.
         var lid: Double = 0.1
@@ -18,10 +17,10 @@ struct TenaPose {
         var closed: Closed?
         /// Bead shift as a share of the eye radius; +x right, +y down.
         var gaze = CGVector.zero
-        /// Bead scale. Direction A keeps beads within 0.9 ... 1.1; a stare shrinks the gloss instead.
+        /// Bead scale, 0.9 ... 1.1 (the renderer clamps it): beads never shrink to a dot.
         var pupilScale: Double = 1
-        /// Direction C only; A ignores it.
-        var glyph: Glyph?
+        /// Gloss dot scale: a stare (Nagging) shrinks the catchlight, never the bead.
+        var gloss: Double = 1
         /// A second, smaller gloss dot (Sad's wet eye).
         var wet = false
     }
@@ -133,7 +132,7 @@ struct TenaPose {
             p.body = BodyPose(preset: .press, forward: 4)
             p.wiggle = 4
         case .nagging:
-            p.eye = EyeState(lid: 0.3, lidAngle: 18, pupilScale: 0.45)
+            p.eye = EyeState(lid: 0.3, lidAngle: 18, pupilScale: 0.9, gloss: 0.55)
             p.mouth = MouthShape(width: 0.50, curve: -0.1, open: 0.55, square: 1)
             p.gills = GillPose(lift: [12, 12, 12], stiffness: 1)
             p.body = BodyPose(preset: .holdSign, forward: 8)

@@ -14,7 +14,7 @@ extension TodaySummary {
         write: TodayWritePrompt(id: "life-paragraphs-002",
                                 prompt: "Describe a meeting in English that went well for you recently. What made it work?",
                                 mustUse: ["based on", "manage to", "although"], minWords: 40),
-        placementTaken: true, placementMinutes: 48
+        placementTaken: true, placementMinutes: 48, dueWord: "reliable"
     )
 
     /// A text-based kind for the `write-text` snapshot: the text to rewrite, the instruction, the kind's placeholder.

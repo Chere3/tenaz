@@ -2,13 +2,12 @@ import SwiftUI
 
 /// Tena the axolotl, drawn natively. `TenaView(mood: .happy, stage: .juvenile, size: 160)`.
 /// Idles at up to 30 fps while on screen; holds the resting pose when hidden, under Reduce Motion,
-/// or when `mascotStill` is set (snapshots). One rig draw per frame: no keyline, no ground shadow.
+/// or when `mascotStill` is set (snapshots). One rig draw per frame (only the live figure is built; the
+/// resting layout is cached per stage, mood and tier): no keyline, no ground shadow.
 struct TenaView: View {
     let mood: TenaMood
     let stage: TenaStage
     var size: CGFloat = 160
-    /// Kept for source compatibility; Tena no longer draws a ground shadow.
-    var ground = false
     /// Mood props (headset, sign, bandage, medal, z).
     var props = true
     /// The due word on Nagging's sign.

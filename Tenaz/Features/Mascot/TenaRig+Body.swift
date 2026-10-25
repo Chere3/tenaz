@@ -148,6 +148,11 @@ extension TenaRig {
         figure.groups = [TenaFigure.Group(parts: silhouette)]
         figure.face = face
         figure.headTransform = headT
+        if b.limbs == .all {
+            figure.feetTop = [CGFloat(-1), 1].map { side in
+                CGPoint(x: 100 + side * 0.47 * bodySize.width, y: bean.bottom + legDrop - 4.6 * k).applying(bodyT).y
+            }.min()
+        }
 
         // Props on the body (behind the arms).
         if showsSign {
