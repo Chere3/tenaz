@@ -55,7 +55,7 @@ struct HomeBoard: View {
 
 /// Where Tena sits and where the text column starts, from the window size and her measured ink.
 /// The bottom edge crops her at `TenaInk.bottomCut` (through the hips, 4.5 % of the window clear below
-/// her lowest hand); the left edge takes her left gill tips. Side by side when the window is wide: she
+/// her lowest hand); the left edge takes her left gill tips, never her head. Side by side when the window is wide: she
 /// fills 70-75 % of its height, face about 64-72 % down. In a tall window she grows under the text
 /// instead, so her face sits below the text block and never behind the text column or the pill.
 struct HomeLayout {
@@ -72,9 +72,13 @@ struct HomeLayout {
     init(window: CGSize, stage: TenaStage, mood: TenaMood) {
         let ink = TenaInk.bounds(stage: stage, mood: mood)
         let clearance = window.height * 0.045
+        // The left edge takes her left gill tips (5 % of her ink width), never her head or a hand.
+        let rig = TenaRig(mood: mood, stage: stage, time: 0, size: 400)
+        let keep = [rig.headFrame, rig.armFrame].compactMap(\.self).map(\.minX).min() ?? ink.minX + ink.width * 0.1
+        let left = max(ink.minX, min(ink.minX + ink.width * 0.05, keep - 0.02))
         let wideLeading = min(max(window.width * 0.44, window.width - 620), window.width * 0.52)
         func fit(cut: CGFloat) -> (size: CGFloat, stacked: Bool) {
-            let shown = CGSize(width: ink.width * 0.95, height: cut - ink.minY)
+            let shown = CGSize(width: ink.maxX - left, height: cut - ink.minY)
             let side = (wideLeading - Tokens.Space.l) / shown.width
             let room = window.height - Self.margin - Self.blockHeight - Tokens.Space.xl
             let stack = min(room / shown.height, window.width * 0.85 / shown.width)
@@ -89,7 +93,7 @@ struct HomeLayout {
         self.size = size
         self.stacked = stacked
         let leading = stacked ? Self.margin : wideLeading
-        offset = CGSize(width: -(ink.minX + ink.width * 0.05) * size,
+        offset = CGSize(width: -left * size,
                         height: window.height - cut * size)
         columnLeading = leading
         columnWidth = window.width - leading - Self.margin

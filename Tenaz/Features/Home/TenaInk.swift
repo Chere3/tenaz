@@ -21,8 +21,8 @@ enum TenaInk {
     /// The unit y (0...1 of her frame) where a hero's bottom window edge crops her at `size`: through the
     /// hips (86 % of her ink height, and at least 0.35 head heights below her chin), pushed down until
     /// `margin` points clear her lowest hand (Proud's hands on her hips, Happy's open paws, Sad's hanging
-    /// arms). A hand that hangs to her feet shows her whole, `margin` above the edge, so no hand ever sits
-    /// on the edge. Asleep lies on her belly with her chin on her folded paws at the bottom of her ink, so
+    /// arms). When that lands at her feet (a hand hanging that low, the hatchling's short body) she shows
+    /// whole, `margin` above the edge, so nothing of her grazes it. Asleep lies on her belly with her chin on her folded paws at the bottom of her ink, so
     /// any crop would cut her chin: she lies whole, the same `margin` above the edge.
     static func bottomCut(stage: TenaStage, mood: TenaMood, size: CGFloat, margin: CGFloat) -> CGFloat {
         let ink = bounds(stage: stage, mood: mood)
@@ -30,9 +30,10 @@ enum TenaInk {
         let rig = TenaRig(mood: mood, stage: stage, time: 0, size: size)
         // Through the hips, and at least 0.35 head heights below her chin (the big-headed hatchling).
         let chin = rig.headFrame.map { $0.maxY + 0.35 * $0.height } ?? 0
-        let hips = min(ink.maxY, max(ink.minY + ink.height * 0.86, chin))
-        guard let hands = rig.armFrame?.maxY else { return hips }
-        return max(hips, hands + margin / size)
+        var cut = max(ink.minY + ink.height * 0.86, chin)
+        if let hands = rig.armFrame?.maxY { cut = max(cut, hands + margin / size) }
+        // A cut that lands at her feet would only graze them: show her whole, clear of the edge.
+        return cut >= ink.maxY - 0.02 ? max(cut, ink.maxY + margin / size) : cut
     }
 
     private static func measure(stage: TenaStage, mood: TenaMood) -> CGRect? {
