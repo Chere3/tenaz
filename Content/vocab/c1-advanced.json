@@ -1,0 +1,1881 @@
+[
+  {
+    "id": "c1-advanced-nuance",
+    "headword": "nuance",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "matiz",
+    "definition": "a small but important difference in meaning, tone or feeling",
+    "example": "The translation missed an important nuance in the client's request.",
+    "exampleEs": "La traducción pasó por alto un matiz importante en la solicitud del cliente.",
+    "cloze": "The translation missed an important ____ in the client's request.",
+    "answer": "nuance",
+    "distractors": [
+      "invoice",
+      "hallway",
+      "deadline"
+    ],
+    "collocations": [
+      "subtle nuance",
+      "cultural nuance",
+      "miss a nuance"
+    ],
+    "note": "Pronounced NOO-ahns. In Spanish it is \"matiz\", not \"nuance\" with the French spelling.",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-mitigate",
+    "headword": "mitigate",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "mitigar, atenuar",
+    "definition": "to make a problem or risk less serious or harmful",
+    "example": "We added a backup server to mitigate the risk of downtime.",
+    "exampleEs": "Añadimos un servidor de respaldo para mitigar el riesgo de caída del servicio.",
+    "cloze": "We added a backup server to ____ the risk of downtime.",
+    "answer": "mitigate",
+    "distractors": [
+      "celebrate",
+      "invite",
+      "borrow"
+    ],
+    "collocations": [
+      "mitigate risk",
+      "mitigate the impact",
+      "mitigate the effects"
+    ],
+    "note": "Do not confuse it with \"militate\". Mitigate is about reducing harm.",
+    "tags": [
+      "workplace",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-leverage",
+    "headword": "leverage",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "aprovechar, sacar partido de",
+    "definition": "to use something you already have in order to get a better result",
+    "example": "We can leverage our existing data to train the new model.",
+    "exampleEs": "Podemos aprovechar nuestros datos actuales para entrenar el nuevo modelo.",
+    "cloze": "We can ____ our existing data to train the new model.",
+    "answer": "leverage",
+    "distractors": [
+      "forget",
+      "delete",
+      "refuse"
+    ],
+    "collocations": [
+      "leverage data",
+      "leverage experience",
+      "leverage a relationship"
+    ],
+    "note": "Very common in business English. It is a verb here, not only the noun \"leverage\".",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-compelling",
+    "headword": "compelling",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "convincente, de peso",
+    "definition": "so strong or interesting that it persuades you or holds your attention",
+    "example": "She made a compelling case for moving the launch to March.",
+    "exampleEs": "Presentó un argumento convincente para mover el lanzamiento a marzo.",
+    "cloze": "She made a ____ case for moving the launch to March.",
+    "answer": "compelling",
+    "distractors": [
+      "careless",
+      "distant",
+      "fragile"
+    ],
+    "collocations": [
+      "compelling argument",
+      "compelling evidence",
+      "compelling reason"
+    ],
+    "note": "It does not mean \"compulsory\". It means very convincing.",
+    "tags": [
+      "academic",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-inherent",
+    "headword": "inherent",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "inherente, intrínseco",
+    "definition": "being a natural and permanent part of something",
+    "example": "There is an inherent risk in releasing software without testing.",
+    "exampleEs": "Hay un riesgo inherente en lanzar software sin hacer pruebas.",
+    "cloze": "There is an ____ risk in releasing software without testing.",
+    "answer": "inherent",
+    "distractors": [
+      "optional",
+      "absent",
+      "ancient"
+    ],
+    "collocations": [
+      "inherent risk",
+      "inherent limitation",
+      "inherent in the system"
+    ],
+    "note": "Use the preposition \"in\": inherent in something.",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-arguably",
+    "headword": "arguably",
+    "pos": "adverb",
+    "cefr": "C1",
+    "es": "posiblemente, se podría decir que",
+    "definition": "used when you think something can be supported with good reasons, though others may disagree",
+    "example": "This is arguably the most important feature of the whole product.",
+    "exampleEs": "Esta es, posiblemente, la función más importante de todo el producto.",
+    "cloze": "This is ____ the most important feature of the whole product.",
+    "answer": "arguably",
+    "distractors": [
+      "barely",
+      "hardly",
+      "nearby"
+    ],
+    "collocations": [
+      "arguably the best",
+      "arguably the most",
+      "arguably one of"
+    ],
+    "note": "It usually goes before a superlative. It softens a strong claim.",
+    "tags": [
+      "academic",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-scrutiny",
+    "headword": "scrutiny",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "escrutinio, examen minucioso",
+    "definition": "careful and critical examination of something",
+    "example": "The new policy came under heavy scrutiny from the board.",
+    "exampleEs": "La nueva política fue objeto de un escrutinio intenso por parte de la junta directiva.",
+    "cloze": "The new policy came under heavy ____ from the board.",
+    "answer": "scrutiny",
+    "distractors": [
+      "pleasure",
+      "tolerance",
+      "fortune"
+    ],
+    "collocations": [
+      "under scrutiny",
+      "close scrutiny",
+      "public scrutiny"
+    ],
+    "note": "Uncountable noun. We say \"under scrutiny\", not \"in scrutiny\".",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-trade-off",
+    "headword": "trade-off",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "disyuntiva, compromiso entre dos cosas",
+    "definition": "a situation where you accept less of one good thing in order to get more of another",
+    "example": "There is always a trade-off between speed and quality.",
+    "exampleEs": "Siempre hay un equilibrio entre velocidad y calidad, y ganar en uno implica perder en el otro.",
+    "cloze": "There is always a ____ between speed and quality.",
+    "answer": "trade-off",
+    "distractors": [
+      "blackout",
+      "workshop",
+      "handout"
+    ],
+    "collocations": [
+      "a trade-off between",
+      "make a trade-off",
+      "an acceptable trade-off"
+    ],
+    "note": "We say \"a trade-off between X and Y\". It is not exactly \"intercambio\".",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-unprecedented",
+    "headword": "unprecedented",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "sin precedentes, inédito",
+    "definition": "never having happened or existed before",
+    "example": "The company saw unprecedented growth, far beyond anything in its previous history.",
+    "exampleEs": "La empresa tuvo un crecimiento sin precedentes, muy superior a todo lo ocurrido en su historia.",
+    "cloze": "The company saw ____ growth, far beyond anything in its previous history.",
+    "answer": "unprecedented",
+    "distractors": [
+      "ordinary",
+      "gradual",
+      "routine"
+    ],
+    "collocations": [
+      "unprecedented growth",
+      "unprecedented levels",
+      "an unprecedented step"
+    ],
+    "note": "Stress: un-PRESS-uh-den-tid.",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-rationale",
+    "headword": "rationale",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "fundamento, razón de ser",
+    "definition": "the set of reasons behind a decision or plan",
+    "example": "Could you explain the rationale behind this change?",
+    "exampleEs": "¿Podrías explicar el fundamento detrás de este cambio?",
+    "cloze": "Could you explain the ____ behind this change?",
+    "answer": "rationale",
+    "distractors": [
+      "envelope",
+      "anniversary",
+      "souvenir"
+    ],
+    "collocations": [
+      "the rationale behind",
+      "explain the rationale",
+      "a clear rationale"
+    ],
+    "note": "Pronounced rash-uh-NAL. Do not confuse with \"rational\" (adjective).",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-viable",
+    "headword": "viable",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "viable, factible",
+    "definition": "able to work or succeed in practice",
+    "example": "Is this a viable option given our current budget?",
+    "exampleEs": "¿Es esta una opción viable con nuestro presupuesto actual?",
+    "cloze": "Is this a ____ option given our current budget?",
+    "answer": "viable",
+    "distractors": [
+      "visible",
+      "vacant",
+      "vocal"
+    ],
+    "collocations": [
+      "viable option",
+      "commercially viable",
+      "a viable alternative"
+    ],
+    "note": "Spanish \"viable\" is very similar, so this one is easy to remember.",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-endeavor",
+    "headword": "endeavor",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "esfuerzo, empeño, empresa",
+    "definition": "a serious attempt to do something, often something difficult",
+    "example": "Building a startup is a risky but rewarding endeavor.",
+    "exampleEs": "Crear una startup es una empresa arriesgada pero gratificante.",
+    "cloze": "Building a startup is a risky but rewarding ____.",
+    "answer": "endeavor",
+    "distractors": [
+      "envelope",
+      "engineer",
+      "entrance"
+    ],
+    "collocations": [
+      "a worthwhile endeavor",
+      "creative endeavor",
+      "human endeavor"
+    ],
+    "note": "US spelling is endeavor, UK is endeavour. It can also be a verb: to endeavor to do something.",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-overlook",
+    "headword": "overlook",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "pasar por alto",
+    "definition": "to fail to notice or consider something",
+    "example": "I think we overlooked a critical bug in the login flow.",
+    "exampleEs": "Creo que pasamos por alto un error crítico en el flujo de inicio de sesión.",
+    "cloze": "I think we ____ a critical bug in the login flow.",
+    "answer": "overlooked",
+    "distractors": [
+      "celebrated",
+      "assembled",
+      "promised"
+    ],
+    "collocations": [
+      "overlook a detail",
+      "easy to overlook",
+      "overlook the fact that"
+    ],
+    "note": "It can also mean \"to have a view of\" (a room that overlooks the sea). Do not confuse it with \"oversee\".",
+    "tags": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-undermine",
+    "headword": "undermine",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "socavar, minar",
+    "definition": "to weaken something gradually, especially trust or confidence",
+    "example": "Constant changes in the plan can undermine the team's confidence.",
+    "exampleEs": "Los cambios constantes en el plan pueden socavar la confianza del equipo.",
+    "cloze": "Constant changes in the plan can ____ the team's confidence.",
+    "answer": "undermine",
+    "distractors": [
+      "announce",
+      "organize",
+      "borrow"
+    ],
+    "collocations": [
+      "undermine confidence",
+      "undermine authority",
+      "undermine efforts"
+    ],
+    "note": "Not related to \"underline\". It is a negative verb.",
+    "tags": [
+      "workplace",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-convey",
+    "headword": "convey",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "transmitir, comunicar",
+    "definition": "to communicate an idea, feeling or message clearly",
+    "example": "I struggled to convey my idea in English during the meeting.",
+    "exampleEs": "Me costó transmitir mi idea en inglés durante la reunión.",
+    "cloze": "I struggled to ____ my idea in English during the meeting.",
+    "answer": "convey",
+    "distractors": [
+      "borrow",
+      "repair",
+      "inspect"
+    ],
+    "collocations": [
+      "convey a message",
+      "convey meaning",
+      "convey information"
+    ],
+    "note": "Say \"convey a message\", not \"convey about a message\". No preposition is needed after it.",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-discrepancy",
+    "headword": "discrepancy",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "discrepancia, inconsistencia",
+    "definition": "a difference between two things that should be the same",
+    "example": "We found a discrepancy between the report and the raw data.",
+    "exampleEs": "Encontramos una discrepancia entre el informe y los datos originales.",
+    "cloze": "We found a ____ between the report and the raw data.",
+    "answer": "discrepancy",
+    "distractors": [
+      "vacation",
+      "neighbor",
+      "ceremony"
+    ],
+    "collocations": [
+      "a discrepancy between",
+      "resolve a discrepancy",
+      "a major discrepancy"
+    ],
+    "note": "Say \"a discrepancy between A and B\". The plural is discrepancies.",
+    "tags": [
+      "workplace",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-substantiate",
+    "headword": "substantiate",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "fundamentar, corroborar con pruebas",
+    "definition": "to provide evidence that proves a claim is true",
+    "example": "You need data to substantiate that claim.",
+    "exampleEs": "Necesitas datos para fundamentar esa afirmación.",
+    "cloze": "You need data to ____ that claim.",
+    "answer": "substantiate",
+    "distractors": [
+      "decorate",
+      "imitate",
+      "postpone"
+    ],
+    "collocations": [
+      "substantiate a claim",
+      "substantiate an allegation",
+      "substantiate with evidence"
+    ],
+    "note": "Formal. In meetings you can say \"back up\" instead.",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-articulate",
+    "headword": "articulate",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "expresar con claridad",
+    "definition": "to express an idea or feeling clearly in words",
+    "example": "It is hard to articulate why this design feels wrong.",
+    "exampleEs": "Es difícil expresar con claridad por qué este diseño se siente mal.",
+    "cloze": "It is hard to ____ why this design feels wrong.",
+    "answer": "articulate",
+    "distractors": [
+      "demolish",
+      "circulate",
+      "hesitate"
+    ],
+    "collocations": [
+      "articulate a vision",
+      "articulate your thoughts",
+      "articulate a concern"
+    ],
+    "note": "As a verb it ends in a long \"ate\" sound (-ayt). As an adjective (well-spoken) it ends in -let.",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-streamline",
+    "headword": "streamline",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "agilizar, simplificar",
+    "definition": "to make a process simpler and more efficient",
+    "example": "We want to streamline the approval process and cut it from ten steps to three.",
+    "exampleEs": "Queremos agilizar el proceso de aprobación y reducirlo de diez pasos a tres.",
+    "cloze": "We want to ____ the approval process and cut it from ten steps to three.",
+    "answer": "streamline",
+    "distractors": [
+      "complicate",
+      "postpone",
+      "memorize"
+    ],
+    "collocations": [
+      "streamline a process",
+      "streamline operations",
+      "streamline workflows"
+    ],
+    "note": "It sounds positive in business talk: it means removing unnecessary steps.",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-pivotal",
+    "headword": "pivotal",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "fundamental, decisivo",
+    "definition": "extremely important because other things depend on it",
+    "example": "Her feedback was pivotal in shaping the final design.",
+    "exampleEs": "Sus comentarios fueron decisivos para dar forma al diseño final.",
+    "cloze": "Her feedback was ____ in shaping the final design.",
+    "answer": "pivotal",
+    "distractors": [
+      "trivial",
+      "temporary",
+      "hesitant"
+    ],
+    "collocations": [
+      "pivotal role",
+      "pivotal moment",
+      "pivotal decision"
+    ],
+    "note": "Use \"pivotal in\" or \"pivotal to\". It comes from the noun \"pivot\".",
+    "tags": [
+      "workplace",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-robust",
+    "headword": "robust",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "robusto, sólido",
+    "definition": "strong and able to work well even under difficult conditions",
+    "example": "We need a more robust testing process before each release.",
+    "exampleEs": "Necesitamos un proceso de pruebas más robusto antes de cada lanzamiento.",
+    "cloze": "We need a more ____ testing process before each release.",
+    "answer": "robust",
+    "distractors": [
+      "fragile",
+      "vague",
+      "rusty"
+    ],
+    "collocations": [
+      "robust system",
+      "robust evidence",
+      "robust growth"
+    ],
+    "note": "Pronounced roh-BUST, with stress on the second syllable.",
+    "tags": [
+      "tech",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-ambiguous",
+    "headword": "ambiguous",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "ambiguo",
+    "definition": "having more than one possible meaning, so not clear",
+    "example": "The instructions were ambiguous, so we asked for clarification.",
+    "exampleEs": "Las instrucciones eran ambiguas, así que pedimos una aclaración.",
+    "cloze": "The instructions were ____, so we asked for clarification.",
+    "answer": "ambiguous",
+    "distractors": [
+      "generous",
+      "enormous",
+      "anxious"
+    ],
+    "collocations": [
+      "ambiguous wording",
+      "ambiguous results",
+      "deliberately ambiguous"
+    ],
+    "note": "Spelled with \"-uous\", not \"-ous\" alone: ambiguous.",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-exacerbate",
+    "headword": "exacerbate",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "agravar, empeorar",
+    "definition": "to make a bad situation or problem worse",
+    "example": "Adding more people to the project will only exacerbate the delays.",
+    "exampleEs": "Añadir más gente al proyecto solo agravará los retrasos.",
+    "cloze": "Adding more people to the project will only ____ the delays.",
+    "answer": "exacerbate",
+    "distractors": [
+      "resolve",
+      "measure",
+      "approve"
+    ],
+    "collocations": [
+      "exacerbate a problem",
+      "exacerbate tensions",
+      "exacerbate the situation"
+    ],
+    "note": "The \"x\" sounds like \"gz\": ig-ZAS-er-bayt.",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-foster",
+    "headword": "foster",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "fomentar, promover",
+    "definition": "to encourage something good to develop",
+    "example": "Good managers foster a culture of trust and open feedback.",
+    "exampleEs": "Los buenos gerentes fomentan una cultura de confianza y retroalimentación abierta.",
+    "cloze": "Good managers ____ a culture of trust and open feedback.",
+    "answer": "foster",
+    "distractors": [
+      "suspend",
+      "invoice",
+      "retire"
+    ],
+    "collocations": [
+      "foster collaboration",
+      "foster growth",
+      "foster a culture"
+    ],
+    "note": "It can also be an adjective in \"foster family\", but here it is a verb.",
+    "tags": [
+      "workplace",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-warrant",
+    "headword": "warrant",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "justificar, merecer",
+    "definition": "to be a good enough reason for something",
+    "example": "The results do not warrant such a large investment.",
+    "exampleEs": "Los resultados no justifican una inversión tan grande.",
+    "cloze": "The results do not ____ such a large investment.",
+    "answer": "warrant",
+    "distractors": [
+      "forgive",
+      "borrow",
+      "predict"
+    ],
+    "collocations": [
+      "warrant attention",
+      "warrant further investigation",
+      "warrant a response"
+    ],
+    "note": "Not the same as \"guarantee\". Here it means \"justify\".",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-contend",
+    "headword": "contend",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "sostener, afirmar",
+    "definition": "to say firmly that something is true, especially in an argument",
+    "example": "Some researchers contend that sleep matters more than diet.",
+    "exampleEs": "Algunos investigadores sostienen que dormir importa más que la dieta.",
+    "cloze": "Some researchers ____ that sleep matters more than diet.",
+    "answer": "contend",
+    "distractors": [
+      "descend",
+      "attend",
+      "extend"
+    ],
+    "collocations": [
+      "contend that",
+      "contend with a problem",
+      "contend for a title"
+    ],
+    "note": "\"Contend that\" means to claim. \"Contend with\" means to deal with something difficult.",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-pragmatic",
+    "headword": "pragmatic",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "pragmático",
+    "definition": "dealing with problems in a practical and realistic way",
+    "example": "Let's take a pragmatic approach and ship the simple version first.",
+    "exampleEs": "Tomemos un enfoque pragmático y lancemos primero la versión sencilla.",
+    "cloze": "Let's take a ____ approach and ship the simple version first.",
+    "answer": "pragmatic",
+    "distractors": [
+      "fanatic",
+      "aquatic",
+      "erratic"
+    ],
+    "collocations": [
+      "pragmatic approach",
+      "pragmatic solution",
+      "pragmatic decision"
+    ],
+    "note": "Spanish \"pragmático\" is a close match.",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-bottleneck",
+    "headword": "bottleneck",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "cuello de botella",
+    "definition": "a point in a process where things slow down because capacity is limited",
+    "example": "Manual code review has become a bottleneck for the whole team.",
+    "exampleEs": "La revisión manual de código se ha convertido en un cuello de botella para todo el equipo.",
+    "cloze": "Manual code review has become a ____ for the whole team.",
+    "answer": "bottleneck",
+    "distractors": [
+      "keyboard",
+      "notebook",
+      "password"
+    ],
+    "collocations": [
+      "a bottleneck in",
+      "remove a bottleneck",
+      "identify bottlenecks"
+    ],
+    "note": "Use \"a bottleneck in the process\" and \"a bottleneck for the team\".",
+    "tags": [
+      "tech",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-stakeholder",
+    "headword": "stakeholder",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "parte interesada",
+    "definition": "a person or group with an interest in a project or business, or affected by it",
+    "example": "We need to keep all stakeholders informed about the timeline.",
+    "exampleEs": "Tenemos que mantener informadas a todas las partes interesadas sobre el cronograma.",
+    "cloze": "We need to keep all ____ informed about the timeline.",
+    "answer": "stakeholders",
+    "distractors": [
+      "deadlines",
+      "spreadsheets",
+      "keyboards"
+    ],
+    "collocations": [
+      "key stakeholder",
+      "stakeholder meeting",
+      "manage stakeholders"
+    ],
+    "note": "Not the same as \"shareholder\", who owns shares.",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-concede",
+    "headword": "concede",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "admitir, reconocer",
+    "definition": "to admit that something is true or that you were wrong, often unwillingly",
+    "example": "I have to concede that your approach was faster than mine.",
+    "exampleEs": "Tengo que admitir que tu enfoque fue más rápido que el mío.",
+    "cloze": "I have to ____ that your approach was faster than mine.",
+    "answer": "concede",
+    "distractors": [
+      "conduct",
+      "conserve",
+      "consume"
+    ],
+    "collocations": [
+      "concede a point",
+      "concede defeat",
+      "concede that"
+    ],
+    "note": "Stress on the second syllable: kun-SEED. It is not \"conceive\".",
+    "tags": [
+      "meetings",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-reconcile",
+    "headword": "reconcile",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "conciliar, hacer compatible",
+    "definition": "to find a way for two different ideas or facts to exist together",
+    "example": "It is hard to reconcile these two sets of numbers because they contradict each other.",
+    "exampleEs": "Es difícil conciliar estos dos conjuntos de cifras porque se contradicen.",
+    "cloze": "It is hard to ____ these two sets of numbers because they contradict each other.",
+    "answer": "reconcile",
+    "distractors": [
+      "recommend",
+      "replace",
+      "reserve"
+    ],
+    "collocations": [
+      "reconcile differences",
+      "reconcile accounts",
+      "reconcile with"
+    ],
+    "note": "In finance, \"reconcile\" also means to make two sets of records match.",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-corroborate",
+    "headword": "corroborate",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "corroborar, confirmar",
+    "definition": "to give support to a statement by providing more evidence",
+    "example": "A second study corroborates these findings.",
+    "exampleEs": "Un segundo estudio corrobora estos hallazgos.",
+    "cloze": "A second study ____ these findings.",
+    "answer": "corroborates",
+    "distractors": [
+      "calculates",
+      "celebrates",
+      "imitates"
+    ],
+    "collocations": [
+      "corroborate a story",
+      "corroborate evidence",
+      "independently corroborated"
+    ],
+    "note": "The headword is \"corroborate\"; the sentence uses the third-person form \"corroborates\". Note the double r and the stress: kuh-ROB-uh-rayt.",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-proactive",
+    "headword": "proactive",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "proactivo",
+    "definition": "taking action early instead of waiting for problems to happen",
+    "example": "Being proactive means flagging risks before they become issues.",
+    "exampleEs": "Ser proactivo significa señalar los riesgos antes de que se conviertan en problemas.",
+    "cloze": "Being ____ means flagging risks before they become issues.",
+    "answer": "proactive",
+    "distractors": [
+      "reactive",
+      "passive",
+      "negative"
+    ],
+    "collocations": [
+      "proactive approach",
+      "be proactive about",
+      "proactive communication"
+    ],
+    "note": "Careful: \"reactive\" is a good distractor in life but wrong here. Say \"proactive about\" something.",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-delineate",
+    "headword": "delineate",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "delimitar, definir con precisión",
+    "definition": "to describe or show the exact limits or details of something",
+    "example": "The contract clearly delineates each team's responsibilities.",
+    "exampleEs": "El contrato delimita claramente las responsabilidades de cada equipo.",
+    "cloze": "The contract clearly ____ each team's responsibilities.",
+    "answer": "delineates",
+    "distractors": [
+      "decorates",
+      "celebrates",
+      "dominates"
+    ],
+    "collocations": [
+      "delineate responsibilities",
+      "delineate boundaries",
+      "clearly delineated"
+    ],
+    "note": "Formal word. In casual speech use \"define\" or \"spell out\".",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-impede",
+    "headword": "impede",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "impedir, obstaculizar",
+    "definition": "to make it harder for something to happen or progress",
+    "example": "Slow internet can seriously impede remote collaboration.",
+    "exampleEs": "Un internet lento puede obstaculizar seriamente la colaboración remota.",
+    "cloze": "Slow internet can seriously ____ remote collaboration.",
+    "answer": "impede",
+    "distractors": [
+      "decorate",
+      "recycle",
+      "celebrate"
+    ],
+    "collocations": [
+      "impede progress",
+      "impede growth",
+      "impede the flow"
+    ],
+    "note": "The noun is \"impediment\". Do not confuse it with \"impeach\".",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-culminate",
+    "headword": "culminate",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "culminar",
+    "definition": "to reach a final or highest point after a long process",
+    "example": "Months of testing will culminate in the public release next week.",
+    "exampleEs": "Meses de pruebas culminarán en el lanzamiento público de la próxima semana.",
+    "cloze": "Months of testing will ____ in the public release next week.",
+    "answer": "culminate",
+    "distractors": [
+      "cancel",
+      "calculate",
+      "cultivate"
+    ],
+    "collocations": [
+      "culminate in",
+      "culminate with",
+      "culminating event"
+    ],
+    "note": "Use the preposition \"in\": culminate in something.",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-ramification",
+    "headword": "ramification",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "ramificación, consecuencia",
+    "definition": "a complicated or unexpected result of an action or decision",
+    "example": "Changing the database schema has serious ramifications for every service.",
+    "exampleEs": "Cambiar el esquema de la base de datos tiene consecuencias serias para cada servicio.",
+    "cloze": "Changing the database schema has serious ____ for every service.",
+    "answer": "ramifications",
+    "distractors": [
+      "decorations",
+      "invitations",
+      "vacations"
+    ],
+    "collocations": [
+      "legal ramifications",
+      "serious ramifications",
+      "ramifications for"
+    ],
+    "note": "Usually plural: \"the ramifications of a decision\" or \"ramifications for\" a team.",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-prerequisite",
+    "headword": "prerequisite",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "requisito previo",
+    "definition": "something that must exist or happen before something else can happen",
+    "example": "Basic Python is a prerequisite for this machine learning course.",
+    "exampleEs": "Python básico es un requisito previo para este curso de aprendizaje automático.",
+    "cloze": "Basic Python is a ____ for this machine learning course.",
+    "answer": "prerequisite",
+    "distractors": [
+      "discount",
+      "souvenir",
+      "reminder"
+    ],
+    "collocations": [
+      "a prerequisite for",
+      "a prerequisite to",
+      "essential prerequisite"
+    ],
+    "note": "Say \"a prerequisite for something\". Spelling: pre-requisite, with no \"e\" in the middle.",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-coherent",
+    "headword": "coherent",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "coherente",
+    "definition": "logical, clear and easy to follow because the parts fit together well",
+    "example": "Her presentation was clear and coherent from start to finish.",
+    "exampleEs": "Su presentación fue clara y coherente de principio a fin.",
+    "cloze": "Her presentation was clear and ____ from start to finish.",
+    "answer": "coherent",
+    "distractors": [
+      "reluctant",
+      "confused",
+      "hesitant"
+    ],
+    "collocations": [
+      "coherent argument",
+      "coherent strategy",
+      "a coherent whole"
+    ],
+    "note": "It focuses on logic and clarity: ideas that fit together.",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-feasible",
+    "headword": "feasible",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "factible, viable",
+    "definition": "possible to do, especially in practice",
+    "example": "Is it feasible to finish the migration before the audit?",
+    "exampleEs": "¿Es factible terminar la migración antes de la auditoría?",
+    "cloze": "Is it ____ to finish the migration before the audit?",
+    "answer": "feasible",
+    "distractors": [
+      "flexible",
+      "durable",
+      "portable"
+    ],
+    "collocations": [
+      "technically feasible",
+      "feasible solution",
+      "financially feasible"
+    ],
+    "note": "Do not confuse with \"possible\". Feasible suggests it can realistically be done with the resources you have.",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-elaborate",
+    "headword": "elaborate",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "ampliar, dar más detalles",
+    "definition": "to give more details about something you have said",
+    "example": "Could you elaborate on how the pricing model works?",
+    "exampleEs": "¿Podrías dar más detalles sobre cómo funciona el modelo de precios?",
+    "cloze": "Could you ____ on how the pricing model works?",
+    "answer": "elaborate",
+    "distractors": [
+      "evaporate",
+      "estimate",
+      "separate"
+    ],
+    "collocations": [
+      "elaborate on",
+      "elaborate further",
+      "without elaborating"
+    ],
+    "note": "As a verb it takes \"on\": elaborate on something. As an adjective (complex) it sounds different (-ut).",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-allocate",
+    "headword": "allocate",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "asignar, destinar",
+    "definition": "to officially give time, money or resources for a particular purpose",
+    "example": "We allocated more budget to security this quarter.",
+    "exampleEs": "Asignamos más presupuesto a seguridad este trimestre.",
+    "cloze": "We ____ more budget to security this quarter.",
+    "answer": "allocated",
+    "distractors": [
+      "weighed",
+      "imagined",
+      "repaired"
+    ],
+    "collocations": [
+      "allocate resources",
+      "allocate funds",
+      "allocate time"
+    ],
+    "note": "Say \"allocate X to Y\". The noun is \"allocation\".",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-expedite",
+    "headword": "expedite",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "agilizar, acelerar",
+    "definition": "to make a process happen faster",
+    "example": "The release is late, so can we expedite the security review and finish it sooner?",
+    "exampleEs": "El lanzamiento va tarde, así que ¿podemos agilizar la revisión de seguridad y terminarla antes?",
+    "cloze": "The release is late, so can we ____ the security review and finish it sooner?",
+    "answer": "expedite",
+    "distractors": [
+      "abandon",
+      "prolong",
+      "require"
+    ],
+    "collocations": [
+      "expedite a request",
+      "expedite shipping",
+      "expedite the process"
+    ],
+    "note": "Formal business word. It is not related to \"expedition\" in meaning, though both come from the same root.",
+    "tags": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-plausible",
+    "headword": "plausible",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "plausible, verosímil",
+    "definition": "seeming reasonable and likely to be true",
+    "example": "That is a plausible explanation for the sudden drop in users.",
+    "exampleEs": "Esa es una explicación plausible de la caída repentina de usuarios.",
+    "cloze": "That is a ____ explanation for the sudden drop in users.",
+    "answer": "plausible",
+    "distractors": [
+      "portable",
+      "comfortable",
+      "fashionable"
+    ],
+    "collocations": [
+      "plausible explanation",
+      "plausible theory",
+      "seem plausible"
+    ],
+    "note": "\"Plausible\" means it sounds believable, but it may not be true.",
+    "tags": [
+      "academic",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-integral",
+    "headword": "integral",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "esencial, fundamental",
+    "definition": "being an essential part of something",
+    "example": "Code review is integral to how our team works, and we never skip it.",
+    "exampleEs": "La revisión de código es parte esencial de cómo trabaja nuestro equipo, y nunca la omitimos.",
+    "cloze": "Code review is ____ to how our team works, and we never skip it.",
+    "answer": "integral",
+    "distractors": [
+      "external",
+      "optional",
+      "minor"
+    ],
+    "collocations": [
+      "integral part",
+      "integral to",
+      "an integral role"
+    ],
+    "note": "Use \"integral to\" something. Stress: IN-tuh-gruhl.",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-detrimental",
+    "headword": "detrimental",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "perjudicial, dañino",
+    "definition": "causing harm or damage",
+    "example": "Working late every night is detrimental to your health, so doctors advise against it.",
+    "exampleEs": "Trabajar hasta tarde todas las noches es perjudicial para tu salud, por eso los médicos lo desaconsejan.",
+    "cloze": "Working late every night is ____ to your health, so doctors advise against it.",
+    "answer": "detrimental",
+    "distractors": [
+      "beneficial",
+      "essential",
+      "grateful"
+    ],
+    "collocations": [
+      "detrimental effect",
+      "detrimental to",
+      "detrimental impact"
+    ],
+    "note": "Use \"detrimental to\" something.",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-augment",
+    "headword": "augment",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "aumentar, complementar",
+    "definition": "to make something larger or better by adding to it",
+    "example": "We use AI tools to augment human reviewers, not replace them.",
+    "exampleEs": "Usamos herramientas de IA para complementar a los revisores humanos, no para reemplazarlos.",
+    "cloze": "We use AI tools to ____ human reviewers, not replace them.",
+    "answer": "augment",
+    "distractors": [
+      "invoice",
+      "forgive",
+      "absorb"
+    ],
+    "collocations": [
+      "augment income",
+      "augment a team",
+      "augmented reality"
+    ],
+    "note": "Familiar from \"augmented reality\" and \"augmented intelligence\".",
+    "tags": [
+      "tech",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-curtail",
+    "headword": "curtail",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "reducir, restringir",
+    "definition": "to reduce or limit something, especially suddenly",
+    "example": "The company had to curtail spending after the funding round fell through.",
+    "exampleEs": "La empresa tuvo que reducir el gasto después de que fracasó la ronda de financiamiento.",
+    "cloze": "The company had to ____ spending after the funding round fell through.",
+    "answer": "curtail",
+    "distractors": [
+      "inflate",
+      "decorate",
+      "finance"
+    ],
+    "collocations": [
+      "curtail spending",
+      "curtail activities",
+      "severely curtailed"
+    ],
+    "note": "It sounds like \"cur-TAYL\". It has nothing to do with animal tails in modern use.",
+    "tags": [
+      "workplace",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-meticulous",
+    "headword": "meticulous",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "meticuloso, minucioso",
+    "definition": "very careful and paying great attention to every detail",
+    "example": "Pharma work needs meticulous documentation of every step.",
+    "exampleEs": "El trabajo en farmacéutica requiere una documentación meticulosa de cada paso.",
+    "cloze": "Pharma work needs ____ documentation of every step.",
+    "answer": "meticulous",
+    "distractors": [
+      "careless",
+      "ridiculous",
+      "luxurious"
+    ],
+    "collocations": [
+      "meticulous attention",
+      "meticulous planning",
+      "meticulous record"
+    ],
+    "note": "Spanish \"meticuloso\" is very similar, so reuse it.",
+    "tags": [
+      "workplace",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-resilient",
+    "headword": "resilient",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "resiliente",
+    "definition": "able to recover quickly after difficulties or failures",
+    "example": "Resilient teams learn from failure and keep moving forward.",
+    "exampleEs": "Los equipos resilientes aprenden del fracaso y siguen avanzando.",
+    "cloze": "____ teams learn from failure and keep moving forward.",
+    "answer": "Resilient",
+    "distractors": [
+      "Fragile",
+      "Distant",
+      "Hostile"
+    ],
+    "collocations": [
+      "resilient system",
+      "resilient economy",
+      "remain resilient"
+    ],
+    "note": "The noun is \"resilience\". The answer is capitalized because it begins the sentence.",
+    "tags": [
+      "workplace",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-scalable",
+    "headword": "scalable",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "escalable",
+    "definition": "able to grow to handle more work or users without breaking",
+    "example": "We need a scalable architecture that can handle a million users without crashing.",
+    "exampleEs": "Necesitamos una arquitectura escalable que pueda manejar un millón de usuarios sin fallar.",
+    "cloze": "We need a ____ architecture that can handle a million users without crashing.",
+    "answer": "scalable",
+    "distractors": [
+      "portable",
+      "fashionable",
+      "colorful"
+    ],
+    "collocations": [
+      "scalable solution",
+      "highly scalable",
+      "scalable architecture"
+    ],
+    "note": "The verb is \"scale\" and the noun is \"scalability\".",
+    "tags": [
+      "tech",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-pitfall",
+    "headword": "pitfall",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "trampa, riesgo oculto",
+    "definition": "a hidden danger or a common mistake that is easy to make",
+    "example": "One common pitfall is estimating tasks without talking to the developers.",
+    "exampleEs": "Un error común es estimar tareas sin hablar con los desarrolladores.",
+    "cloze": "One common ____ is estimating tasks without talking to the developers.",
+    "answer": "pitfall",
+    "distractors": [
+      "bookmark",
+      "landmark",
+      "notebook"
+    ],
+    "collocations": [
+      "common pitfall",
+      "avoid the pitfalls",
+      "potential pitfalls"
+    ],
+    "note": "Usually followed by \"of\": the pitfalls of remote work.",
+    "tags": [
+      "workplace",
+      "tech"
+    ]
+  },
+  {
+    "id": "c1-advanced-salient",
+    "headword": "salient",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "destacado, más importante",
+    "definition": "most noticeable or most important",
+    "example": "Let me summarize the salient points of the report.",
+    "exampleEs": "Permítanme resumir los puntos más destacados del informe.",
+    "cloze": "Let me summarize the ____ points of the report.",
+    "answer": "salient",
+    "distractors": [
+      "silent",
+      "distant",
+      "ancient"
+    ],
+    "collocations": [
+      "salient point",
+      "salient feature",
+      "most salient"
+    ],
+    "note": "Pronounced SAY-lee-ent. Useful when summarizing in meetings.",
+    "tags": [
+      "academic",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-tangible",
+    "headword": "tangible",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "tangible, concreto",
+    "definition": "clear enough to be seen or measured in a real way",
+    "example": "We need tangible results, not just promises.",
+    "exampleEs": "Necesitamos resultados tangibles, no solo promesas.",
+    "cloze": "We need ____ results, not just promises.",
+    "answer": "tangible",
+    "distractors": [
+      "invisible",
+      "humble",
+      "probable"
+    ],
+    "collocations": [
+      "tangible results",
+      "tangible benefits",
+      "tangible evidence"
+    ],
+    "note": "Opposite: intangible. Both are common in business.",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "c1-advanced-intricate",
+    "headword": "intricate",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "intrincado, complejo",
+    "definition": "having many small parts that are closely connected, so complicated",
+    "example": "The intricate network of dependencies makes updates risky.",
+    "exampleEs": "La intrincada red de dependencias hace que las actualizaciones sean riesgosas.",
+    "cloze": "The ____ network of dependencies makes updates risky.",
+    "answer": "intricate",
+    "distractors": [
+      "friendly",
+      "hungry",
+      "frequent"
+    ],
+    "collocations": [
+      "intricate design",
+      "intricate details",
+      "intricate system"
+    ],
+    "note": "It means complex in a detailed way, not just \"difficult\".",
+    "tags": [
+      "academic",
+      "tech"
+    ]
+  },
+  {
+    "id": "c1-advanced-deter",
+    "headword": "deter",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "disuadir",
+    "definition": "to make someone decide not to do something",
+    "example": "High prices may deter customers from signing up.",
+    "exampleEs": "Los precios altos pueden disuadir a los clientes de registrarse.",
+    "cloze": "High prices may ____ customers from signing up.",
+    "answer": "deter",
+    "distractors": [
+      "invite",
+      "reward",
+      "greet"
+    ],
+    "collocations": [
+      "deter someone from",
+      "deter crime",
+      "a deterrent"
+    ],
+    "note": "Pattern: deter someone from doing something. The noun is \"deterrent\".",
+    "tags": [
+      "academic",
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "c1-advanced-refute",
+    "headword": "refute",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "refutar, desmentir",
+    "definition": "to prove that a statement or idea is wrong",
+    "example": "The new data refutes the claim that users prefer longer videos.",
+    "exampleEs": "Los nuevos datos refutan la afirmación de que los usuarios prefieren videos más largos.",
+    "cloze": "The new data ____ the claim that users prefer longer videos.",
+    "answer": "refutes",
+    "distractors": [
+      "rewards",
+      "reduces",
+      "refuels"
+    ],
+    "collocations": [
+      "refute a claim",
+      "refute an argument",
+      "hard to refute"
+    ],
+    "note": "It means to prove wrong, not just to say no. For simply saying no, use \"deny\".",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-advocate",
+    "headword": "advocate",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "abogar por, defender",
+    "definition": "to publicly support an idea or plan",
+    "example": "I strongly advocate using feature flags for every release.",
+    "exampleEs": "Yo defiendo firmemente usar feature flags en cada lanzamiento.",
+    "cloze": "I strongly ____ using feature flags for every release.",
+    "answer": "advocate",
+    "distractors": [
+      "interrupt",
+      "forget",
+      "borrow"
+    ],
+    "collocations": [
+      "advocate for",
+      "advocate a policy",
+      "advocate change"
+    ],
+    "note": "As a verb, it ends with a long \"ate\" sound. As a noun (a supporter), it ends with a short sound. Pattern: advocate doing something.",
+    "tags": [
+      "meetings",
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "c1-advanced-concurrently",
+    "headword": "concurrently",
+    "pos": "adverb",
+    "cefr": "C1",
+    "es": "simultáneamente, al mismo tiempo",
+    "definition": "at the same time",
+    "example": "The two migrations will run concurrently to save time.",
+    "exampleEs": "Las dos migraciones se ejecutarán simultáneamente para ahorrar tiempo.",
+    "cloze": "The two migrations will run ____ to save time.",
+    "answer": "concurrently",
+    "distractors": [
+      "eventually",
+      "previously",
+      "reluctantly"
+    ],
+    "collocations": [
+      "run concurrently",
+      "work concurrently",
+      "concurrently with"
+    ],
+    "note": "Common in tech: concurrent processes. Not \"currently\", which means \"now\".",
+    "tags": [
+      "tech",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-disparity",
+    "headword": "disparity",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "disparidad, desigualdad",
+    "definition": "a big and often unfair difference between two things",
+    "example": "There is a large disparity in pay between the two teams.",
+    "exampleEs": "Hay una gran disparidad salarial entre los dos equipos.",
+    "cloze": "There is a large ____ in pay between the two teams.",
+    "answer": "disparity",
+    "distractors": [
+      "majority",
+      "anxiety",
+      "sincerity"
+    ],
+    "collocations": [
+      "a disparity between",
+      "income disparity",
+      "wide disparity"
+    ],
+    "note": "Say \"a disparity in pay\" or \"a disparity between A and B\".",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-underpin",
+    "headword": "underpin",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "sustentar, servir de base a",
+    "definition": "to support something and make it strong, usually as its basis",
+    "example": "Strong research underpins every decision we make.",
+    "exampleEs": "Una investigación sólida sustenta cada decisión que tomamos.",
+    "cloze": "Strong research ____ every decision we make.",
+    "answer": "underpins",
+    "distractors": [
+      "untangles",
+      "undresses",
+      "undersells"
+    ],
+    "collocations": [
+      "underpin a theory",
+      "underpin growth",
+      "underpinned by"
+    ],
+    "note": "Careful: underpin supports, while \"undermine\" weakens. They look similar but have opposite effects.",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-ubiquitous",
+    "headword": "ubiquitous",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "omnipresente, ubicuo",
+    "definition": "seeming to be everywhere at the same time",
+    "example": "Smartphones have become ubiquitous in the workplace, and you see them on every desk.",
+    "exampleEs": "Los smartphones se han vuelto omnipresentes en el lugar de trabajo, y se ven en cada escritorio.",
+    "cloze": "Smartphones have become ____ in the workplace, and you see them on every desk.",
+    "answer": "ubiquitous",
+    "distractors": [
+      "scarce",
+      "obsolete",
+      "reluctant"
+    ],
+    "collocations": [
+      "ubiquitous technology",
+      "become ubiquitous",
+      "virtually ubiquitous"
+    ],
+    "note": "Pronounced yoo-BIK-wih-tus. Common in tech writing.",
+    "tags": [
+      "tech",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-pertinent",
+    "headword": "pertinent",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "pertinente, relevante",
+    "definition": "directly related to the subject you are discussing",
+    "example": "That is a pertinent question, so let me explain.",
+    "exampleEs": "Esa es una pregunta pertinente, así que permíteme explicarlo.",
+    "cloze": "That is a ____ question, so let me explain.",
+    "answer": "pertinent",
+    "distractors": [
+      "permanent",
+      "patient",
+      "persistent"
+    ],
+    "collocations": [
+      "pertinent question",
+      "pertinent information",
+      "pertinent to"
+    ],
+    "note": "Use \"pertinent to\" something. Slightly more formal than \"relevant\".",
+    "tags": [
+      "meetings",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-imperative",
+    "headword": "imperative",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "imprescindible, urgente",
+    "definition": "extremely important and needing immediate attention",
+    "example": "It is imperative that we fix this security hole today.",
+    "exampleEs": "Es imprescindible que arreglemos esta brecha de seguridad hoy.",
+    "cloze": "It is ____ that we fix this security hole today.",
+    "answer": "imperative",
+    "distractors": [
+      "accidental",
+      "tolerable",
+      "gradual"
+    ],
+    "collocations": [
+      "it is imperative that",
+      "absolutely imperative",
+      "imperative to"
+    ],
+    "note": "Pattern: \"It is imperative that we fix\" uses the base verb, without -s. Also: \"imperative to do\".",
+    "tags": [
+      "workplace",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-nascent",
+    "headword": "nascent",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "naciente, incipiente",
+    "definition": "just beginning to develop",
+    "example": "This is still a nascent market, so the rules are unclear.",
+    "exampleEs": "Este todavía es un mercado naciente, así que las reglas no están claras.",
+    "cloze": "This is still a ____ market, so the rules are unclear.",
+    "answer": "nascent",
+    "distractors": [
+      "frozen",
+      "mature",
+      "stable"
+    ],
+    "collocations": [
+      "nascent industry",
+      "nascent technology",
+      "nascent stage"
+    ],
+    "note": "Pronounced NAY-sunt. Often used for startups and new tech fields.",
+    "tags": [
+      "tech",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-mandate",
+    "headword": "mandate",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "mandato, obligación oficial",
+    "definition": "an official order or authority to do something",
+    "example": "The new regulation gives the agency a clear mandate to inspect factories.",
+    "exampleEs": "La nueva regulación le da a la agencia un mandato claro para inspeccionar fábricas.",
+    "cloze": "The new regulation gives the agency a clear ____ to inspect factories.",
+    "answer": "mandate",
+    "distractors": [
+      "calendar",
+      "souvenir",
+      "hobby"
+    ],
+    "collocations": [
+      "a clear mandate",
+      "a mandate to",
+      "regulatory mandate"
+    ],
+    "note": "It is also a verb: the law mandates that companies report data.",
+    "tags": [
+      "academic",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-reiterate",
+    "headword": "reiterate",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "reiterar, repetir",
+    "definition": "to say something again to make it clear",
+    "example": "I want to reiterate that the deadline cannot move.",
+    "exampleEs": "Quiero reiterar que la fecha límite no puede cambiar.",
+    "cloze": "I want to ____ that the deadline cannot move.",
+    "answer": "reiterate",
+    "distractors": [
+      "hesitate",
+      "negotiate",
+      "contribute"
+    ],
+    "collocations": [
+      "reiterate a point",
+      "reiterate support",
+      "worth reiterating"
+    ],
+    "note": "Useful in meetings to stress a key point. Stress: ree-IT-uh-rayt.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-pinpoint",
+    "headword": "pinpoint",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "identificar con precisión",
+    "definition": "to find or identify exactly what or where something is",
+    "example": "We still cannot pinpoint the exact line that causes the memory leak.",
+    "exampleEs": "Todavía no podemos identificar con precisión la línea exacta que causa la fuga de memoria.",
+    "cloze": "We still cannot ____ the exact line that causes the memory leak.",
+    "answer": "pinpoint",
+    "distractors": [
+      "forgive",
+      "borrow",
+      "decorate"
+    ],
+    "collocations": [
+      "pinpoint the cause",
+      "pinpoint the source",
+      "pinpoint a problem"
+    ],
+    "note": "Stronger than \"find\": it means to locate something precisely.",
+    "tags": [
+      "tech",
+      "workplace"
+    ]
+  },
+  {
+    "id": "c1-advanced-alleviate",
+    "headword": "alleviate",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "aliviar, mitigar",
+    "definition": "to make pain, stress or a problem less severe",
+    "example": "Automating reports should alleviate the pressure on the analysts.",
+    "exampleEs": "Automatizar los informes debería aliviar la presión sobre los analistas.",
+    "cloze": "Automating reports should ____ the pressure on the analysts.",
+    "answer": "alleviate",
+    "distractors": [
+      "illustrate",
+      "negotiate",
+      "decorate"
+    ],
+    "collocations": [
+      "alleviate stress",
+      "alleviate pain",
+      "alleviate concerns"
+    ],
+    "note": "Spanish \"aliviar\" helps you remember it.",
+    "tags": [
+      "workplace",
+      "academic"
+    ]
+  },
+  {
+    "id": "c1-advanced-contingency",
+    "headword": "contingency",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "contingencia, plan de emergencia",
+    "definition": "a plan or arrangement for something bad that might happen",
+    "example": "We need a contingency plan in case the vendor misses the deadline.",
+    "exampleEs": "Necesitamos un plan de contingencia por si el proveedor no cumple el plazo.",
+    "cloze": "We need a ____ plan in case the vendor misses the deadline.",
+    "answer": "contingency",
+    "distractors": [
+      "ceremony",
+      "audience",
+      "currency"
+    ],
+    "collocations": [
+      "contingency plan",
+      "contingency budget",
+      "a contingency for"
+    ],
+    "note": "Used as a noun adjunct: \"contingency plan\", not \"contingent plan\".",
+    "tags": [
+      "workplace",
+      "meetings"
+    ]
+  }
+]

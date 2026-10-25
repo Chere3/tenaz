@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "meeting-phrases-quick-update-on",
+    "headword": "quick update on",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "una actualización rápida sobre",
+    "definition": "a short way to start a status report",
+    "example": "Quick update on the login bug: we found the cause this morning.",
+    "exampleEs": "Una actualización rápida sobre el error de inicio de sesión: encontramos la causa esta mañana.",
+    "cloze": "Quick ____ on the login bug: we found the cause this morning.",
+    "answer": "update",
+    "distractors": [
+      "window",
+      "recipe",
+      "holiday"
+    ],
+    "collocations": [
+      "Quick update on...",
+      "Just a quick status on...",
+      "Short update on X in Slack: ..."
+    ],
+    "note": "Say 'update on', not 'update of'.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-heres-where-we-are-on",
+    "headword": "here's where we are on",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "así vamos con",
+    "definition": "introduces the current status of a task",
+    "example": "Here's where we are on the migration: we moved two services.",
+    "exampleEs": "Así vamos con la migración: ya movimos dos servicios.",
+    "cloze": "Here's where we ____ on the migration: we moved two services.",
+    "answer": "are",
+    "distractors": [
+      "is",
+      "be",
+      "am"
+    ],
+    "collocations": [
+      "Here's where we are on...",
+      "Let me tell you where we stand on...",
+      "Status of X: ..."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-were-on-track-to",
+    "headword": "we're on track to",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "vamos bien para",
+    "definition": "we will finish on time if nothing changes",
+    "example": "We're on track to release the new dashboard on Friday.",
+    "exampleEs": "Vamos bien para lanzar el nuevo panel el viernes.",
+    "cloze": "We're on ____ to release the new dashboard on Friday.",
+    "answer": "track",
+    "distractors": [
+      "road",
+      "rail",
+      "floor"
+    ],
+    "collocations": [
+      "We're on track to...",
+      "We're on schedule for...",
+      "On track for Friday."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-were-a-bit-behind-on",
+    "headword": "we're a bit behind on",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "vamos un poco atrasados con",
+    "definition": "politely says that a task is late",
+    "example": "We're a bit behind on testing, but we can catch up by Tuesday.",
+    "exampleEs": "Vamos un poco atrasados con las pruebas, pero podemos ponernos al día el martes.",
+    "cloze": "We're a bit ____ on testing, but we can catch up by Tuesday.",
+    "answer": "behind",
+    "distractors": [
+      "beyond",
+      "beside",
+      "below"
+    ],
+    "collocations": [
+      "We're a bit behind on...",
+      "We're slightly behind schedule on...",
+      "X is running a bit late."
+    ],
+    "note": "Add how you will catch up: it sounds more professional.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-were-blocked-on",
+    "headword": "we're blocked on",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "estamos bloqueados por, esperando",
+    "definition": "we cannot continue until something else happens",
+    "example": "We're blocked on the API keys from the security team.",
+    "exampleEs": "Estamos bloqueados esperando las claves de la API del equipo de seguridad.",
+    "cloze": "We're ____ on the API keys from the security team.",
+    "answer": "blocked",
+    "distractors": [
+      "locked",
+      "shocked",
+      "booked"
+    ],
+    "collocations": [
+      "We're blocked on...",
+      "We're waiting on X before we can...",
+      "Blocked: need X."
+    ],
+    "note": "'Blocked on' + the thing you need; 'blocked by' + the person or problem.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-the-main-thing-to-flag-is",
+    "headword": "the main thing to flag is",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "lo principal que quiero señalar es",
+    "definition": "introduces the most important risk or problem",
+    "example": "The main thing to flag is that the budget may not be approved this month.",
+    "exampleEs": "Lo principal que quiero señalar es que quizá no aprueben el presupuesto este mes.",
+    "cloze": "The main thing to ____ is that the budget may not be approved this month.",
+    "answer": "flag",
+    "distractors": [
+      "fly",
+      "fold",
+      "feed"
+    ],
+    "collocations": [
+      "The main thing to flag is...",
+      "One risk I want to highlight is...",
+      "Heads-up: ..."
+    ],
+    "note": "To flag = to point out a problem so people notice it.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-this-week-im-working-on",
+    "headword": "this week I'm working on",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "esta semana estoy trabajando en",
+    "definition": "the middle part of a standup update: what you are doing now",
+    "example": "Last week I finished the report; this week I'm working on the export feature.",
+    "exampleEs": "La semana pasada terminé el reporte; esta semana estoy trabajando en la función de exportar.",
+    "cloze": "Last week I finished the report; this week I'm ____ on the export feature.",
+    "answer": "working",
+    "distractors": [
+      "walking",
+      "waking",
+      "washing"
+    ],
+    "collocations": [
+      "Last week I finished X.",
+      "This week I'm working on Y.",
+      "I'm blocked by Z."
+    ],
+    "note": "Standup formula: finished (past), working on (now), blocked by (problem).",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-that-makes-sense",
+    "headword": "that makes sense",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "tiene sentido",
+    "definition": "you understand and accept the idea",
+    "example": "That makes sense, so let's test it with real users first.",
+    "exampleEs": "Tiene sentido, así que probémoslo primero con usuarios reales.",
+    "cloze": "That ____ sense, so let's test it with real users first.",
+    "answer": "makes",
+    "distractors": [
+      "does",
+      "takes",
+      "gives"
+    ],
+    "collocations": [
+      "That makes sense.",
+      "Got it, that's clear.",
+      "Makes sense 👍"
+    ],
+    "note": "Not 'that has sense': in English, things make sense.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-im-on-board-with-that",
+    "headword": "I'm on board with that",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "estoy de acuerdo, me sumo",
+    "definition": "you agree with a plan and will support it",
+    "example": "I'm on board with that, as long as we keep the deadline.",
+    "exampleEs": "Estoy de acuerdo con eso, siempre y cuando mantengamos la fecha límite.",
+    "cloze": "I'm on ____ with that, as long as we keep the deadline.",
+    "answer": "board",
+    "distractors": [
+      "deck",
+      "bench",
+      "shelf"
+    ],
+    "collocations": [
+      "I'm on board with that.",
+      "You have my support on this.",
+      "On board!"
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-fair-point",
+    "headword": "fair point",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "buen punto, tienes razón",
+    "definition": "you accept that the other person's idea is reasonable",
+    "example": "Fair point, we didn't think about the cost of the servers.",
+    "exampleEs": "Buen punto, no pensamos en el costo de los servidores.",
+    "cloze": "Fair ____, we didn't think about the cost of the servers.",
+    "answer": "point",
+    "distractors": [
+      "dot",
+      "coin",
+      "line"
+    ],
+    "collocations": [
+      "Fair point.",
+      "That's a valid point.",
+      "Fair point, agreed."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-i-agree-and-id-add-that",
+    "headword": "I agree, and I'd add that",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "estoy de acuerdo, y añadiría que",
+    "definition": "agree and then give one more idea",
+    "example": "I agree, and I'd add that we need better logs.",
+    "exampleEs": "Estoy de acuerdo, y añadiría que necesitamos mejores logs.",
+    "cloze": "I agree, and I'd ____ that we need better logs.",
+    "answer": "add",
+    "distractors": [
+      "sell",
+      "drop",
+      "lose"
+    ],
+    "collocations": [
+      "I agree, and I'd add that...",
+      "Building on that, ...",
+      "+1, and also..."
+    ],
+    "note": "Agree first, then add: it sounds positive, not competitive.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-sounds-good-to-me",
+    "headword": "sounds good to me",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "me parece bien",
+    "definition": "a friendly way to say yes",
+    "example": "Thursday at ten? Sounds good to me.",
+    "exampleEs": "¿El jueves a las diez? Me parece bien.",
+    "cloze": "Thursday at ten? ____ good to me.",
+    "answer": "Sounds",
+    "distractors": [
+      "Hears",
+      "Smells",
+      "Tastes"
+    ],
+    "collocations": [
+      "Sounds good to me.",
+      "That works for me.",
+      "SGTM"
+    ],
+    "note": "In Slack people often write SGTM.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-i-see-where-youre-coming-from-but",
+    "headword": "I see where you're coming from, but",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "entiendo tu punto, pero",
+    "definition": "shows respect before you disagree",
+    "example": "I see where you're coming from, but I think the risk is too high.",
+    "exampleEs": "Entiendo tu punto, pero creo que el riesgo es demasiado alto.",
+    "cloze": "I see where you're ____ from, but I think the risk is too high.",
+    "answer": "coming",
+    "distractors": [
+      "sitting",
+      "eating",
+      "leaving"
+    ],
+    "collocations": [
+      "I see where you're coming from, but...",
+      "I understand your position; however, ...",
+      "I get it, but..."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-im-not-sure-that-would-work-because",
+    "headword": "I'm not sure that would work because",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "no estoy seguro de que funcione porque",
+    "definition": "a soft way to disagree and give a reason",
+    "example": "I'm not sure that would work because the client needs it in English.",
+    "exampleEs": "No estoy seguro de que funcione porque el cliente lo necesita en inglés.",
+    "cloze": "I'm not sure that would ____ because the client needs it in English.",
+    "answer": "work",
+    "distractors": [
+      "walk",
+      "sleep",
+      "cook"
+    ],
+    "collocations": [
+      "I'm not sure that would work because...",
+      "I have some doubts about this because...",
+      "Not sure this works, since..."
+    ],
+    "note": "Always give the reason after 'because'.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-could-we-look-at-it-another-way",
+    "headword": "could we look at it another way?",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "¿podríamos verlo de otra forma?",
+    "definition": "invites a different solution without saying no",
+    "example": "Could we look at it another way? Maybe we don't need a new tool.",
+    "exampleEs": "¿Podríamos verlo de otra forma? Quizá no necesitamos una herramienta nueva.",
+    "cloze": "Could we look at it ____ way? Maybe we don't need a new tool.",
+    "answer": "another",
+    "distractors": [
+      "other",
+      "others",
+      "anything"
+    ],
+    "collocations": [
+      "Could we look at it another way?",
+      "Is there another option we could consider?",
+      "What if we tried...?"
+    ],
+    "note": "'Another way', not 'other way'.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-i-have-a-slightly-different-take",
+    "headword": "I have a slightly different take",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "tengo una opinión un poco distinta",
+    "definition": "says your opinion is different, politely",
+    "example": "I have a slightly different take: the problem is the process, not the people.",
+    "exampleEs": "Tengo una opinión un poco distinta: el problema es el proceso, no las personas.",
+    "cloze": "I have a slightly different ____: the problem is the process, not the people.",
+    "answer": "take",
+    "distractors": [
+      "step",
+      "nap",
+      "trip"
+    ],
+    "collocations": [
+      "I have a slightly different take.",
+      "I see it a little differently.",
+      "Slightly different view: ..."
+    ],
+    "note": "A take = an opinion (informal).",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-my-concern-is-that",
+    "headword": "my concern is that",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "lo que me preocupa es que",
+    "definition": "names a risk without blaming anyone",
+    "example": "My concern is that we are testing too late in the sprint.",
+    "exampleEs": "Lo que me preocupa es que estamos probando demasiado tarde en el sprint.",
+    "cloze": "My ____ is that we are testing too late in the sprint.",
+    "answer": "concern",
+    "distractors": [
+      "concert",
+      "consent",
+      "contest"
+    ],
+    "collocations": [
+      "My concern is that...",
+      "One concern I have is...",
+      "Concern: ..."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-sorry-to-jump-in-but",
+    "headword": "sorry to jump in, but",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "perdón por interrumpir, pero",
+    "definition": "politely interrupts someone",
+    "example": "Sorry to jump in, but we only have five minutes left.",
+    "exampleEs": "Perdón por interrumpir, pero solo nos quedan cinco minutos.",
+    "cloze": "Sorry to ____ in, but we only have five minutes left.",
+    "answer": "jump",
+    "distractors": [
+      "jog",
+      "fall",
+      "swim"
+    ],
+    "collocations": [
+      "Sorry to jump in, but...",
+      "If I could just come in here...",
+      "Quick interruption: ..."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-can-i-add-something-here",
+    "headword": "can I add something here?",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "¿puedo añadir algo aquí?",
+    "definition": "asks for a turn to speak",
+    "example": "Can I add something here? The data from last month tells a different story.",
+    "exampleEs": "¿Puedo añadir algo aquí? Los datos del mes pasado cuentan otra historia.",
+    "cloze": "Can I ____ something here? The data from last month tells a different story.",
+    "answer": "add",
+    "distractors": [
+      "sell",
+      "hide",
+      "lose"
+    ],
+    "collocations": [
+      "Can I add something here?",
+      "May I add a point?",
+      "Adding to this: ..."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-just-a-quick-point-on-that",
+    "headword": "just a quick point on that",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "solo un punto rápido sobre eso",
+    "definition": "says you will speak briefly about the current topic",
+    "example": "Just a quick point on that: the license costs more in Europe.",
+    "exampleEs": "Solo un punto rápido sobre eso: la licencia cuesta más en Europa.",
+    "cloze": "Just a ____ point on that: the license costs more in Europe.",
+    "answer": "quick",
+    "distractors": [
+      "quiet",
+      "thick",
+      "slow"
+    ],
+    "collocations": [
+      "Just a quick point on that.",
+      "One brief comment on this.",
+      "Small note: ..."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-may-i-finish-my-point",
+    "headword": "may I finish my point?",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "¿me dejas terminar mi idea?",
+    "definition": "politely stops someone from interrupting you",
+    "example": "Sorry, may I finish my point? I'm almost done.",
+    "exampleEs": "Perdón, ¿me dejas terminar mi idea? Ya casi acabo.",
+    "cloze": "Sorry, may I ____ my point? I'm almost done.",
+    "answer": "finish",
+    "distractors": [
+      "fill",
+      "fix",
+      "fish"
+    ],
+    "collocations": [
+      "May I finish my point?",
+      "Let me just finish this thought.",
+      "One second, almost done."
+    ],
+    "note": "Use it calmly: it helps you get interrupted less.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-just-to-make-sure-i-understand",
+    "headword": "just to make sure I understand",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "solo para asegurarme de que entiendo",
+    "definition": "starts checking that you understood correctly",
+    "example": "Just to make sure I understand, you want the report by Monday, right?",
+    "exampleEs": "Solo para asegurarme de que entiendo, quieres el reporte para el lunes, ¿verdad?",
+    "cloze": "Just to make ____ I understand, you want the report by Monday, right?",
+    "answer": "sure",
+    "distractors": [
+      "safe",
+      "sharp",
+      "short"
+    ],
+    "collocations": [
+      "Just to make sure I understand, you're saying...",
+      "So, if I understand correctly, ...",
+      "To confirm: ..."
+    ],
+    "note": "Repeat their idea in your words: it is the best tool for a non-native speaker.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-could-you-say-that-again",
+    "headword": "could you say that again?",
+    "pos": "phrase",
+    "cefr": "A2",
+    "es": "¿podrías repetirlo?",
+    "definition": "asks someone to repeat",
+    "example": "Sorry, the connection is bad. Could you say that again?",
+    "exampleEs": "Perdón, la conexión está mal. ¿Podrías repetirlo?",
+    "cloze": "Sorry, the connection is bad. Could you say that ____?",
+    "answer": "again",
+    "distractors": [
+      "away",
+      "aside",
+      "ahead"
+    ],
+    "collocations": [
+      "Could you say that again?",
+      "Would you mind repeating that?",
+      "Sorry, didn't catch that."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-what-do-you-mean-by",
+    "headword": "what do you mean by",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "¿a qué te refieres con...?",
+    "definition": "asks for the meaning of a word or idea",
+    "example": "What do you mean by 'quick win'?",
+    "exampleEs": "¿A qué te refieres con 'quick win'?",
+    "cloze": "What do you ____ by 'quick win'?",
+    "answer": "mean",
+    "distractors": [
+      "want",
+      "need",
+      "think"
+    ],
+    "collocations": [
+      "What do you mean by...?",
+      "Could you clarify what you mean by...?",
+      "What does X mean here?"
+    ],
+    "note": "Not 'what do you want to say with': that is Spanish word order.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-do-you-mean-x-or-y",
+    "headword": "do you mean X or Y?",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "¿quieres decir X o Y?",
+    "definition": "offers two options to check meaning",
+    "example": "Do you mean this Friday or next Friday?",
+    "exampleEs": "¿Te refieres a este viernes o al próximo?",
+    "cloze": "Do you ____ this Friday or next Friday?",
+    "answer": "mean",
+    "distractors": [
+      "meet",
+      "miss",
+      "move"
+    ],
+    "collocations": [
+      "Do you mean X or Y?",
+      "Are you referring to X or Y?",
+      "X or Y?"
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-let-me-rephrase-that",
+    "headword": "let me rephrase that",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "déjame decirlo de otra forma",
+    "definition": "you say your idea again in different words",
+    "example": "Let me rephrase that: we need one owner for each task.",
+    "exampleEs": "Déjame decirlo de otra forma: necesitamos un responsable para cada tarea.",
+    "cloze": "Let me ____ that: we need one owner for each task.",
+    "answer": "rephrase",
+    "distractors": [
+      "replace",
+      "refund",
+      "remove"
+    ],
+    "collocations": [
+      "Let me rephrase that.",
+      "Let me put it another way.",
+      "In other words, ..."
+    ],
+    "note": "Useful when you see confused faces.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-let-me-think-about-that",
+    "headword": "let me think about that",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "déjame pensarlo",
+    "definition": "asks for a moment before answering",
+    "example": "That's a big change. Let me think about that and reply tomorrow.",
+    "exampleEs": "Es un cambio grande. Déjame pensarlo y te respondo mañana.",
+    "cloze": "That's a big change. Let me ____ about that and reply tomorrow.",
+    "answer": "think",
+    "distractors": [
+      "thank",
+      "sink",
+      "drink"
+    ],
+    "collocations": [
+      "Let me think about that.",
+      "I'd like to give that some thought.",
+      "Let me think it over."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-let-me-get-back-to-you",
+    "headword": "let me get back to you",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "déjame revisarlo y te respondo",
+    "definition": "promises an answer later",
+    "example": "Good question. Let me get back to you after I check the numbers.",
+    "exampleEs": "Buena pregunta. Déjame revisar los números y te respondo.",
+    "cloze": "Good question. Let me get ____ to you after I check the numbers.",
+    "answer": "back",
+    "distractors": [
+      "down",
+      "off",
+      "out"
+    ],
+    "collocations": [
+      "Let me get back to you on that.",
+      "I'll come back to you with an answer by...",
+      "Will get back to you."
+    ],
+    "note": "Say when: 'by tomorrow' makes it a real promise.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-i-dont-have-the-number-at-hand",
+    "headword": "I don't have the number at hand",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "no tengo el número a la mano",
+    "definition": "the information is not with you right now",
+    "example": "I don't have the number at hand; I'll follow up by email.",
+    "exampleEs": "No tengo el número a la mano; te lo mando por correo.",
+    "cloze": "I don't have the number at ____; I'll follow up by email.",
+    "answer": "hand",
+    "distractors": [
+      "foot",
+      "arm",
+      "head"
+    ],
+    "collocations": [
+      "I don't have the number at hand.",
+      "I don't have that figure with me right now.",
+      "Will check and send it."
+    ],
+    "note": "Spanish 'a la mano' = English 'at hand'.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-let-me-walk-you-through",
+    "headword": "let me walk you through",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "déjame explicarte paso a paso",
+    "definition": "starts a step-by-step explanation",
+    "example": "Let me walk you through the new deployment process.",
+    "exampleEs": "Déjame explicarte paso a paso el nuevo proceso de despliegue.",
+    "cloze": "Let me ____ you through the new deployment process.",
+    "answer": "walk",
+    "distractors": [
+      "jump",
+      "fly",
+      "climb"
+    ],
+    "collocations": [
+      "Let me walk you through...",
+      "I'll take you through it step by step.",
+      "Walkthrough: ..."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-as-you-can-see-on-this-slide",
+    "headword": "as you can see on this slide",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "como pueden ver en esta diapositiva",
+    "definition": "points the audience to the screen",
+    "example": "As you can see on this slide, sign-ups doubled in March.",
+    "exampleEs": "Como pueden ver en esta diapositiva, los registros se duplicaron en marzo.",
+    "cloze": "As you can see on this ____, sign-ups doubled in March.",
+    "answer": "slide",
+    "distractors": [
+      "slice",
+      "slip",
+      "glide"
+    ],
+    "collocations": [
+      "As you can see on this slide, ...",
+      "If you look at this chart, ...",
+      "See the chart below."
+    ],
+    "note": "On a slide, in a chart, on the screen.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-to-sum-up-what-we-agreed",
+    "headword": "to sum up what we agreed",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "para resumir lo que acordamos",
+    "definition": "starts a short summary of the decisions at the end",
+    "example": "To sum up what we agreed, we fix the bug first and release on Friday.",
+    "exampleEs": "Para resumir lo que acordamos, primero arreglamos el error y lanzamos el viernes.",
+    "cloze": "To sum up what we ____, we fix the bug first and release on Friday.",
+    "answer": "agreed",
+    "distractors": [
+      "ordered",
+      "borrowed",
+      "painted"
+    ],
+    "collocations": [
+      "To sum up what we agreed, ...",
+      "So, in summary, we decided to...",
+      "Decisions: ..."
+    ],
+    "note": "Ends a meeting clearly: everyone hears the same decisions.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-the-key-takeaway-is",
+    "headword": "the key takeaway is",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "la idea clave es",
+    "definition": "names the one idea people should remember",
+    "example": "The key takeaway is that users want speed more than new features.",
+    "exampleEs": "La idea clave es que los usuarios quieren velocidad más que funciones nuevas.",
+    "cloze": "The ____ takeaway is that users want speed more than new features.",
+    "answer": "key",
+    "distractors": [
+      "lock",
+      "door",
+      "coin"
+    ],
+    "collocations": [
+      "The key takeaway is...",
+      "The main point to remember is...",
+      "Key takeaway: ..."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-any-questions-so-far",
+    "headword": "any questions so far?",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "¿alguna pregunta hasta ahora?",
+    "definition": "checks the audience before you continue",
+    "example": "That's the first part. Any questions so far?",
+    "exampleEs": "Esa es la primera parte. ¿Alguna pregunta hasta ahora?",
+    "cloze": "That's the first part. Any questions so ____?",
+    "answer": "far",
+    "distractors": [
+      "near",
+      "late",
+      "long"
+    ],
+    "collocations": [
+      "Any questions so far?",
+      "Does that all make sense so far?",
+      "Questions? Drop them here."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-so-the-next-steps-are",
+    "headword": "so the next steps are",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "entonces los siguientes pasos son",
+    "definition": "starts the list of actions at the end of a meeting",
+    "example": "So the next steps are: Ana updates the design and I write the tests.",
+    "exampleEs": "Entonces los siguientes pasos son: Ana actualiza el diseño y yo escribo las pruebas.",
+    "cloze": "So the next ____ are: Ana updates the design and I write the tests.",
+    "answer": "steps",
+    "distractors": [
+      "stairs",
+      "stops",
+      "stamps"
+    ],
+    "collocations": [
+      "So the next steps are...",
+      "To recap the action items, ...",
+      "Next steps: ..."
+    ],
+    "note": "Say who does what: one owner per step.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-who-can-take-that-on",
+    "headword": "who can take that on?",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "¿quién puede encargarse de eso?",
+    "definition": "asks someone to own a task",
+    "example": "We need someone to check the contracts. Who can take that on?",
+    "exampleEs": "Necesitamos a alguien que revise los contratos. ¿Quién puede encargarse de eso?",
+    "cloze": "We need someone to check the contracts. Who can ____ that on?",
+    "answer": "take",
+    "distractors": [
+      "make",
+      "bake",
+      "shake"
+    ],
+    "collocations": [
+      "Who can take that on?",
+      "Would anyone like to own this?",
+      "Any volunteers for X?"
+    ],
+    "note": "Take on = accept a task or responsibility.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-ill-send-a-summary-after-this-call",
+    "headword": "I'll send a summary after this call",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "enviaré un resumen después de esta llamada",
+    "definition": "promises written notes after the meeting",
+    "example": "Thanks, everyone. I'll send a summary after this call.",
+    "exampleEs": "Gracias a todos. Enviaré un resumen después de esta llamada.",
+    "cloze": "Thanks, everyone. I'll send a ____ after this call.",
+    "answer": "summary",
+    "distractors": [
+      "summer",
+      "salary",
+      "sugar"
+    ],
+    "collocations": [
+      "I'll send a summary after this call.",
+      "I'll circulate the notes this afternoon.",
+      "Summary coming in the thread."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-lets-circle-back-on-this",
+    "headword": "let's circle back on this",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "retomemos esto después",
+    "definition": "agrees to discuss a topic again at a later meeting",
+    "example": "Let's circle back on this next week when we have the data.",
+    "exampleEs": "Retomemos esto la próxima semana cuando tengamos los datos.",
+    "cloze": "Let's circle back on this ____ week when we have the data.",
+    "answer": "next",
+    "distractors": [
+      "last",
+      "past",
+      "old"
+    ],
+    "collocations": [
+      "Let's circle back on this next week.",
+      "Let's revisit this at our next meeting.",
+      "Parking this for next week."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-i-lost-you-at",
+    "headword": "I lost you at",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "te perdí en, dejé de entenderte en",
+    "definition": "says where you stopped understanding",
+    "example": "Sorry, I lost you at the part about the database.",
+    "exampleEs": "Perdón, te perdí en la parte de la base de datos.",
+    "cloze": "Sorry, I ____ you at the part about the database.",
+    "answer": "lost",
+    "distractors": [
+      "lent",
+      "sold",
+      "paid"
+    ],
+    "collocations": [
+      "Sorry, I lost you at...",
+      "Could you go back to the part about...?",
+      "Lost you at X, can you repeat?"
+    ],
+    "note": "Name the exact part: it is faster than 'I don't understand'.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-could-you-slow-down-a-little",
+    "headword": "could you slow down a little?",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "¿podrías hablar un poco más despacio?",
+    "definition": "asks someone to speak more slowly",
+    "example": "Could you slow down a little? My English is better at a calmer speed.",
+    "exampleEs": "¿Podrías hablar un poco más despacio? Mi inglés es mejor a un ritmo más tranquilo.",
+    "cloze": "Could you ____ down a little? My English is better at a calmer speed.",
+    "answer": "slow",
+    "distractors": [
+      "slip",
+      "glow",
+      "flow"
+    ],
+    "collocations": [
+      "Could you slow down a little?",
+      "Would you mind speaking a bit more slowly?",
+      "A bit slower, please."
+    ],
+    "note": "Nobody minds this request; native speakers forget they talk fast.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-could-you-share-your-screen",
+    "headword": "could you share your screen?",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "¿podrías compartir tu pantalla?",
+    "definition": "asks to see what the other person sees",
+    "example": "I can't follow the numbers. Could you share your screen?",
+    "exampleEs": "No puedo seguir los números. ¿Podrías compartir tu pantalla?",
+    "cloze": "I can't follow the numbers. Could you ____ your screen?",
+    "answer": "share",
+    "distractors": [
+      "shave",
+      "shake",
+      "scare"
+    ],
+    "collocations": [
+      "Could you share your screen?",
+      "Would you mind sharing your screen?",
+      "Can you screen-share?"
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-paste-it-in-the-chat",
+    "headword": "paste it in the chat",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "pegarlo en el chat",
+    "definition": "asks for written text during a call",
+    "example": "Could you paste the link in the chat?",
+    "exampleEs": "¿Podrías pegar el enlace en el chat?",
+    "cloze": "Could you ____ the link in the chat?",
+    "answer": "paste",
+    "distractors": [
+      "taste",
+      "waste",
+      "bake"
+    ],
+    "collocations": [
+      "Could you paste it in the chat?",
+      "Could you drop the link in the chat?",
+      "Link in chat pls."
+    ],
+    "note": "Written text helps when audio is hard to follow.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-lets-get-started",
+    "headword": "let's get started",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "empecemos",
+    "definition": "opens the meeting",
+    "example": "It's ten past, so let's get started.",
+    "exampleEs": "Ya son y diez, así que empecemos.",
+    "cloze": "It's ten past, so let's get ____.",
+    "answer": "started",
+    "distractors": [
+      "stopped",
+      "starred",
+      "stored"
+    ],
+    "collocations": [
+      "Let's get started.",
+      "Shall we begin?",
+      "Let's kick off."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-can-everyone-see-my-screen",
+    "headword": "can everyone see my screen?",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "¿todos ven mi pantalla?",
+    "definition": "checks that screen sharing works",
+    "example": "Can everyone see my screen? I'm sharing the roadmap.",
+    "exampleEs": "¿Todos ven mi pantalla? Estoy compartiendo el roadmap.",
+    "cloze": "Can everyone ____ my screen? I'm sharing the roadmap.",
+    "answer": "see",
+    "distractors": [
+      "say",
+      "sew",
+      "sell"
+    ],
+    "collocations": [
+      "Can everyone see my screen?",
+      "Is my screen showing?",
+      "Sharing now, can you see it?"
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-youre-on-mute",
+    "headword": "you're on mute",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "tienes el micrófono apagado",
+    "definition": "tells someone that nobody can hear them",
+    "example": "Carlos, I think you're on mute.",
+    "exampleEs": "Carlos, creo que tienes el micrófono apagado.",
+    "cloze": "Carlos, I think you're on ____.",
+    "answer": "mute",
+    "distractors": [
+      "mood",
+      "mule",
+      "mint"
+    ],
+    "collocations": [
+      "You're on mute.",
+      "I think your mic is off.",
+      "You're muted!"
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-does-that-work-for-everyone",
+    "headword": "does that work for everyone?",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "¿a todos les funciona?",
+    "definition": "checks agreement on a time or plan",
+    "example": "Let's move the demo to Thursday. Does that work for everyone?",
+    "exampleEs": "Movamos la demo al jueves. ¿A todos les funciona?",
+    "cloze": "Let's move the demo to Thursday. Does that ____ for everyone?",
+    "answer": "work",
+    "distractors": [
+      "walk",
+      "wash",
+      "wait"
+    ],
+    "collocations": [
+      "Does that work for everyone?",
+      "Is everyone OK with that?",
+      "Works for all?"
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-lets-take-this-offline",
+    "headword": "let's take this offline",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "hablemos de esto aparte",
+    "definition": "suggests discussing a topic later with fewer people",
+    "example": "This is getting very detailed, so let's take this offline.",
+    "exampleEs": "Esto se está volviendo muy detallado, así que hablemos de esto aparte.",
+    "cloze": "This is getting very detailed, so let's take this ____.",
+    "answer": "offline",
+    "distractors": [
+      "outside",
+      "upstairs",
+      "overseas"
+    ],
+    "collocations": [
+      "Let's take this offline.",
+      "Let's discuss this separately.",
+      "Let's DM about it."
+    ],
+    "note": "Offline here does not mean without internet: it means outside this meeting.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-can-we-put-a-pin-in-that",
+    "headword": "can we put a pin in that?",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "¿lo dejamos pendiente?",
+    "definition": "pauses a topic to come back to it later",
+    "example": "Good idea, but can we put a pin in that until the next sprint?",
+    "exampleEs": "Buena idea, pero ¿lo dejamos pendiente hasta el próximo sprint?",
+    "cloze": "Good idea, but can we put a ____ in that until the next sprint?",
+    "answer": "pin",
+    "distractors": [
+      "pen",
+      "pan",
+      "pie"
+    ],
+    "collocations": [
+      "Can we put a pin in that?",
+      "Let's park that for now.",
+      "Parking this."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-ill-keep-it-short",
+    "headword": "I'll keep it short",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "seré breve",
+    "definition": "promises a short update",
+    "example": "I'll keep it short because we're almost out of time.",
+    "exampleEs": "Seré breve porque ya casi no tenemos tiempo.",
+    "cloze": "I'll keep it ____ because we're almost out of time.",
+    "answer": "short",
+    "distractors": [
+      "shy",
+      "sharp",
+      "shiny"
+    ],
+    "collocations": [
+      "I'll keep it short.",
+      "I'll be brief.",
+      "Short one: ..."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-im-afraid-i-cant-make-it",
+    "headword": "I'm afraid I can't make it",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "me temo que no podré",
+    "definition": "politely says you cannot attend",
+    "example": "I'm afraid I can't make it to the 3 p.m. call; can we move it?",
+    "exampleEs": "Me temo que no podré llegar a la llamada de las 3; ¿podemos moverla?",
+    "cloze": "I'm afraid I can't ____ it to the 3 p.m. call; can we move it?",
+    "answer": "make",
+    "distractors": [
+      "bake",
+      "shake",
+      "fake"
+    ],
+    "collocations": [
+      "I'm afraid I can't make it.",
+      "Unfortunately I won't be able to attend.",
+      "Can't make it, sorry!"
+    ],
+    "note": "Make it = be able to attend or arrive.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-could-you-give-me-an-example",
+    "headword": "could you give me an example?",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "¿me puedes dar un ejemplo?",
+    "definition": "asks for a concrete case",
+    "example": "I'm not sure I follow. Could you give me an example?",
+    "exampleEs": "No estoy seguro de entender. ¿Me puedes dar un ejemplo?",
+    "cloze": "I'm not sure I follow. Could you give me an ____?",
+    "answer": "example",
+    "distractors": [
+      "exam",
+      "exit",
+      "engine"
+    ],
+    "collocations": [
+      "Could you give me an example?",
+      "What would that look like in practice?",
+      "Example?"
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-lets-go-around-the-table",
+    "headword": "let's go around the table",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "hagamos una ronda",
+    "definition": "everyone gives a short update in turn",
+    "example": "Let's go around the table and hear from each team.",
+    "exampleEs": "Hagamos una ronda y escuchemos a cada equipo.",
+    "cloze": "Let's go ____ the table and hear from each team.",
+    "answer": "around",
+    "distractors": [
+      "across",
+      "under",
+      "inside"
+    ],
+    "collocations": [
+      "Let's go around the table.",
+      "Let's do a quick round.",
+      "Round of updates: ..."
+    ],
+    "note": "Works on video calls too.",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-id-like-to-hear-from",
+    "headword": "I'd like to hear from",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "me gustaría escuchar a",
+    "definition": "invites a quiet person to speak",
+    "example": "I'd like to hear from Priya, since she tested it.",
+    "exampleEs": "Me gustaría escuchar a Priya, ya que ella lo probó.",
+    "cloze": "I'd like to ____ from Priya, since she tested it.",
+    "answer": "hear",
+    "distractors": [
+      "hire",
+      "hurt",
+      "heat"
+    ],
+    "collocations": [
+      "I'd like to hear from...",
+      "What do you think, X?",
+      "X, any thoughts?"
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-were-running-out-of-time",
+    "headword": "we're running out of time",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "se nos acaba el tiempo",
+    "definition": "the meeting will end soon",
+    "example": "We're running out of time, so let's decide in the chat.",
+    "exampleEs": "Se nos acaba el tiempo, así que decidamos en el chat.",
+    "cloze": "We're ____ out of time, so let's decide in the chat.",
+    "answer": "running",
+    "distractors": [
+      "ruining",
+      "raining",
+      "reading"
+    ],
+    "collocations": [
+      "We're running out of time.",
+      "We're almost at time.",
+      "Out of time, continuing async."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "meeting-phrases-ill-take-the-lead-on",
+    "headword": "I'll take the lead on",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "yo me encargo de, yo lidero",
+    "definition": "volunteers to own a task",
+    "example": "I'll take the lead on the security review.",
+    "exampleEs": "Yo me encargo de la revisión de seguridad.",
+    "cloze": "I'll take the ____ on the security review.",
+    "answer": "lead",
+    "distractors": [
+      "load",
+      "leaf",
+      "loan"
+    ],
+    "collocations": [
+      "I'll take the lead on...",
+      "I can own this.",
+      "I'll drive X."
+    ],
+    "note": "",
+    "tags": [
+      "meetings",
+      "workplace"
+    ]
+  }
+]

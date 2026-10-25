@@ -1,0 +1,962 @@
+[
+ {
+  "id": "grammar-a-001",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "My sister ____ in Guadalajara since 2022.",
+  "options": [
+   "has lived",
+   "lives",
+   "is living",
+   "lived"
+  ],
+  "answer": 0,
+  "explanation": "Since plus a starting point needs the present perfect.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-a-002",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "Based ____ the report, we should delay the launch.",
+  "options": [
+   "in",
+   "at",
+   "by",
+   "on"
+  ],
+  "answer": 3,
+  "explanation": "We say 'based on', not 'based in'.",
+  "pattern": "preposition"
+ },
+ {
+  "id": "grammar-a-003",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "The new features ____ very popular with users.",
+  "options": [
+   "is",
+   "was being",
+   "are",
+   "has"
+  ],
+  "answer": 2,
+  "explanation": "'Features' is plural, so it takes 'are'.",
+  "pattern": "agreement"
+ },
+ {
+  "id": "grammar-a-004",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "I want ____ join the call at ten.",
+  "options": [
+   "that you",
+   "you to",
+   "you",
+   "you will"
+  ],
+  "answer": 1,
+  "explanation": "After 'want' we use an object plus 'to' plus the verb.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-a-005",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "She asked me ____ the report to the client.",
+  "options": [
+   "send",
+   "to send",
+   "sending",
+   "for send"
+  ],
+  "answer": 1,
+  "explanation": "'Ask someone' is followed by 'to' plus the verb.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-a-006",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "If I ____ more time, I would learn Japanese.",
+  "options": [
+   "had",
+   "have",
+   "will have",
+   "would have"
+  ],
+  "answer": 0,
+  "explanation": "The second conditional uses the past simple in the if-clause.",
+  "pattern": "conditional"
+ },
+ {
+  "id": "grammar-a-007",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "This is the app ____ helps me learn new words.",
+  "options": [
+   "who",
+   "what",
+   "whose",
+   "which"
+  ],
+  "answer": 3,
+  "explanation": "Use 'which' (or 'that') for things in a relative clause.",
+  "pattern": "relative"
+ },
+ {
+  "id": "grammar-a-008",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "He is really good ____ explaining complex ideas.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "with"
+  ],
+  "answer": 2,
+  "explanation": "We say 'good at' something.",
+  "pattern": "preposition"
+ },
+ {
+  "id": "grammar-a-009",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "I ____ to the gym yesterday after work.",
+  "options": [
+   "have gone",
+   "go",
+   "went",
+   "was go"
+  ],
+  "answer": 2,
+  "explanation": "A finished time like 'yesterday' needs the past simple.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-a-010",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "My manager let me ____ from home on Fridays.",
+  "options": [
+   "to work",
+   "work",
+   "working",
+   "worked"
+  ],
+  "answer": 1,
+  "explanation": "'Let' is followed by an object and the base verb, without 'to'.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-a-011",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "She plays ____ guitar every evening.",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "(no article)"
+  ],
+  "answer": 0,
+  "explanation": "We use 'the' with musical instruments after 'play'.",
+  "pattern": "article"
+ },
+ {
+  "id": "grammar-a-012",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "We are looking forward ____ the demo next week.",
+  "options": [
+   "to see",
+   "seeing",
+   "see",
+   "to seeing"
+  ],
+  "answer": 3,
+  "explanation": "In 'look forward to', 'to' is a preposition, so the verb takes -ing.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-a-013",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "I enjoy ____ code late at night.",
+  "options": [
+   "to write",
+   "write",
+   "written",
+   "writing"
+  ],
+  "answer": 3,
+  "explanation": "'Enjoy' is followed by the -ing form.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-a-014",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "Both of my brothers ____ video games.",
+  "options": [
+   "plays",
+   "is playing",
+   "play",
+   "has played"
+  ],
+  "answer": 2,
+  "explanation": "'Both' means two people, so the verb is plural.",
+  "pattern": "agreement"
+ },
+ {
+  "id": "grammar-a-015",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "If it rains tomorrow, we ____ the match.",
+  "options": [
+   "would cancel",
+   "will cancel",
+   "cancelled",
+   "cancel to"
+  ],
+  "answer": 1,
+  "explanation": "The first conditional uses 'will' in the main clause.",
+  "pattern": "conditional"
+ },
+ {
+  "id": "grammar-a-016",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "She is the engineer ____ built our server.",
+  "options": [
+   "who",
+   "whose",
+   "which",
+   "whom"
+  ],
+  "answer": 0,
+  "explanation": "Use 'who' as the subject of a relative clause about a person.",
+  "pattern": "relative"
+ },
+ {
+  "id": "grammar-a-017",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "I bought this laptop three years ____.",
+  "options": [
+   "ago",
+   "before",
+   "since",
+   "for"
+  ],
+  "answer": 0,
+  "explanation": "'Ago' marks a time counted back from now, with the past simple.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-a-018",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "The meeting was really ____, so I almost fell asleep.",
+  "options": [
+   "bored",
+   "bore",
+   "boredom",
+   "boring"
+  ],
+  "answer": 3,
+  "explanation": "Use -ing to describe the thing that causes the feeling.",
+  "pattern": "word-form"
+ },
+ {
+  "id": "grammar-a-019",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "He suggested ____ the meeting to Monday.",
+  "options": [
+   "to move",
+   "move",
+   "moving",
+   "that moving"
+  ],
+  "answer": 2,
+  "explanation": "'Suggest' is followed by the -ing form.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-a-020",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "My brother is ____ engineer at a startup.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "(no article)"
+  ],
+  "answer": 1,
+  "explanation": "'Engineer' starts with a vowel sound, so we use 'an'.",
+  "pattern": "article"
+ },
+ {
+  "id": "grammar-a-021",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "By the time the client called, we ____ the bug.",
+  "options": [
+   "have already fixed",
+   "had already fixed",
+   "already fix",
+   "were already fix"
+  ],
+  "answer": 1,
+  "explanation": "The past perfect shows an action completed before another past moment.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-a-022",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "I ____ working at this company for two years now.",
+  "options": [
+   "have been",
+   "am",
+   "was",
+   "had been"
+  ],
+  "answer": 0,
+  "explanation": "'For' plus 'now' calls for the present perfect continuous.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-a-023",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "Neither the designer nor the developers ____ available today.",
+  "options": [
+   "is",
+   "was",
+   "has been",
+   "are"
+  ],
+  "answer": 3,
+  "explanation": "With 'neither... nor', the verb agrees with the nearer noun, 'developers'.",
+  "pattern": "agreement"
+ },
+ {
+  "id": "grammar-a-024",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "If I had known about the bug, I ____ it earlier.",
+  "options": [
+   "would fix",
+   "will have fixed",
+   "would have fixed",
+   "had fixed"
+  ],
+  "answer": 2,
+  "explanation": "The third conditional uses 'would have' plus the past participle.",
+  "pattern": "conditional"
+ },
+ {
+  "id": "grammar-a-025",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The report, ____ was published last week, changed my mind.",
+  "options": [
+   "that",
+   "what",
+   "which",
+   "who"
+  ],
+  "answer": 2,
+  "explanation": "After a comma, a non-defining clause needs 'which', not 'that'.",
+  "pattern": "relative"
+ },
+ {
+  "id": "grammar-a-026",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "She insisted ____ paying for dinner.",
+  "options": [
+   "in",
+   "on",
+   "to",
+   "at"
+  ],
+  "answer": 1,
+  "explanation": "We say 'insist on' followed by -ing.",
+  "pattern": "preposition"
+ },
+ {
+  "id": "grammar-a-027",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "I'm not used to ____ meetings in English yet.",
+  "options": [
+   "having",
+   "have",
+   "had",
+   "be having"
+  ],
+  "answer": 0,
+  "explanation": "In 'be used to', 'to' is a preposition, so the verb takes -ing.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-a-028",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "He managed ____ the deadline despite the delays.",
+  "options": [
+   "meeting",
+   "meet",
+   "that he met",
+   "to meet"
+  ],
+  "answer": 3,
+  "explanation": "'Manage' is followed by 'to' plus the base verb.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-a-029",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The new policy has not ____ announced yet.",
+  "options": [
+   "be",
+   "being",
+   "was",
+   "been"
+  ],
+  "answer": 3,
+  "explanation": "The present perfect passive is 'has been' plus the participle.",
+  "pattern": "passive"
+ },
+ {
+  "id": "grammar-a-030",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "I wish I ____ more time to study.",
+  "options": [
+   "have",
+   "would have",
+   "had",
+   "will have"
+  ],
+  "answer": 2,
+  "explanation": "'Wish' about the present takes the past simple.",
+  "pattern": "conditional"
+ },
+ {
+  "id": "grammar-a-031",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "____ being tired, she finished the sprint.",
+  "options": [
+   "Whereas",
+   "Despite",
+   "However",
+   "Because"
+  ],
+  "answer": 1,
+  "explanation": "'Despite' is followed by a noun or an -ing form.",
+  "pattern": "linker"
+ },
+ {
+  "id": "grammar-a-032",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The number of users ____ grown rapidly this year.",
+  "options": [
+   "has",
+   "have",
+   "are",
+   "were"
+  ],
+  "answer": 0,
+  "explanation": "'The number of' is singular, so it takes 'has'.",
+  "pattern": "agreement"
+ },
+ {
+  "id": "grammar-a-033",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "I've lived here ____ 2019.",
+  "options": [
+   "since",
+   "for",
+   "from",
+   "during"
+  ],
+  "answer": 0,
+  "explanation": "'Since' is used with a starting point in time.",
+  "pattern": "preposition"
+ },
+ {
+  "id": "grammar-a-034",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "He is responsible ____ the database migration.",
+  "options": [
+   "of",
+   "with",
+   "on",
+   "for"
+  ],
+  "answer": 3,
+  "explanation": "We say 'responsible for' something.",
+  "pattern": "preposition"
+ },
+ {
+  "id": "grammar-a-035",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "She suggested that he ____ a break.",
+  "options": [
+   "to take",
+   "taking",
+   "take",
+   "would to take"
+  ],
+  "answer": 2,
+  "explanation": "After 'suggest that', English uses the base form of the verb.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-a-036",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "We're thinking of ____ our servers to the cloud.",
+  "options": [
+   "migrate",
+   "migrating",
+   "to migrate",
+   "migrated"
+  ],
+  "answer": 1,
+  "explanation": "A preposition like 'of' is followed by the -ing form.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-a-037",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "That's the developer ____ code we reviewed yesterday.",
+  "options": [
+   "who",
+   "whose",
+   "whom",
+   "which"
+  ],
+  "answer": 1,
+  "explanation": "Use 'whose' to show that something belongs to a person.",
+  "pattern": "relative"
+ },
+ {
+  "id": "grammar-a-038",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "It's the first time I ____ a talk in English.",
+  "options": [
+   "have given",
+   "give",
+   "gave",
+   "am giving"
+  ],
+  "answer": 0,
+  "explanation": "'It's the first time' is followed by the present perfect.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-a-039",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "We need to ____ a decision by Friday.",
+  "options": [
+   "do",
+   "put",
+   "give",
+   "make"
+  ],
+  "answer": 3,
+  "explanation": "The natural collocation is 'make a decision'.",
+  "pattern": "collocation"
+ },
+ {
+  "id": "grammar-a-040",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The meeting was ____ than I expected.",
+  "options": [
+   "more long",
+   "the longest",
+   "longer",
+   "long"
+  ],
+  "answer": 2,
+  "explanation": "Short adjectives form the comparative with -er.",
+  "pattern": "word-form"
+ },
+ {
+  "id": "grammar-a-041",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "We are ____ using version 3, but we plan to upgrade soon.",
+  "options": [
+   "actually",
+   "eventually",
+   "currently",
+   "lately"
+  ],
+  "answer": 2,
+  "explanation": "'Actually' is a false friend of 'actualmente'; use 'currently' for 'right now'.",
+  "pattern": "false-friend"
+ },
+ {
+  "id": "grammar-a-042",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "You ____ have told me earlier! Now it's too late.",
+  "options": [
+   "will",
+   "should",
+   "would",
+   "can"
+  ],
+  "answer": 1,
+  "explanation": "'Should have' plus a participle criticizes a missed past action.",
+  "pattern": "modal"
+ },
+ {
+  "id": "grammar-a-043",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "He apologized ____ being late to the call.",
+  "options": [
+   "for",
+   "of",
+   "to",
+   "at"
+  ],
+  "answer": 0,
+  "explanation": "We say 'apologize for' something.",
+  "pattern": "preposition"
+ },
+ {
+  "id": "grammar-a-044",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "She's one of the few people who ____ the whole system.",
+  "options": [
+   "understands",
+   "understanding",
+   "has understood",
+   "understand"
+  ],
+  "answer": 3,
+  "explanation": "'Who' refers back to 'people', so the verb is plural.",
+  "pattern": "agreement"
+ },
+ {
+  "id": "grammar-a-045",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "____ the budget was tight, we hired two engineers.",
+  "options": [
+   "Despite",
+   "However",
+   "Because of",
+   "Although"
+  ],
+  "answer": 3,
+  "explanation": "'Although' is followed by a full clause.",
+  "pattern": "linker"
+ },
+ {
+  "id": "grammar-a-046",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "Not only ____ the deadline, but he also ignored the feedback.",
+  "options": [
+   "he missed",
+   "missed he",
+   "did he miss",
+   "he did miss"
+  ],
+  "answer": 2,
+  "explanation": "After 'not only' at the start, the auxiliary comes before the subject.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-a-047",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "Had I known about the outage, I ____ the release.",
+  "options": [
+   "would postpone",
+   "would have postponed",
+   "had postponed",
+   "will postpone"
+  ],
+  "answer": 1,
+  "explanation": "A third conditional with inversion keeps 'would have' plus the participle.",
+  "pattern": "conditional"
+ },
+ {
+  "id": "grammar-a-048",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "The findings, ____ of which were unexpected, led to a new study.",
+  "options": [
+   "some",
+   "whose",
+   "what",
+   "that"
+  ],
+  "answer": 0,
+  "explanation": "'Some of which' links a quantity to a previous noun.",
+  "pattern": "relative"
+ },
+ {
+  "id": "grammar-a-049",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "Were the server ____ down, the failover would kick in.",
+  "options": [
+   "to go",
+   "going",
+   "goes",
+   "gone"
+  ],
+  "answer": 0,
+  "explanation": "Inverted conditionals use 'were' plus 'to' plus the base verb.",
+  "pattern": "conditional"
+ },
+ {
+  "id": "grammar-a-050",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "I'd rather you ____ the client before the meeting.",
+  "options": [
+   "to not contact",
+   "won't contact",
+   "not contacted",
+   "didn't contact"
+  ],
+  "answer": 3,
+  "explanation": "'Would rather' plus another subject takes the past simple for present or future.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-a-051",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "She is believed ____ the algorithm back in 2019.",
+  "options": [
+   "to develop",
+   "to be developing",
+   "to have developed",
+   "developing"
+  ],
+  "answer": 2,
+  "explanation": "A past event with 'is believed' needs the perfect infinitive.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-a-052",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "Seldom ____ such a clear explanation of the problem.",
+  "options": [
+   "I have heard",
+   "have I heard",
+   "I heard",
+   "did I heard"
+  ],
+  "answer": 1,
+  "explanation": "Negative adverbs at the start trigger subject-auxiliary inversion.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-a-053",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "The team insists on ____ allowed to choose its own tools.",
+  "options": [
+   "be",
+   "being",
+   "to be",
+   "been"
+  ],
+  "answer": 1,
+  "explanation": "After a preposition, the passive uses 'being' plus the participle.",
+  "pattern": "passive"
+ },
+ {
+  "id": "grammar-a-054",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "By next June, I ____ in this role for five years.",
+  "options": [
+   "will have been working",
+   "will work",
+   "have worked",
+   "am working"
+  ],
+  "answer": 0,
+  "explanation": "The future perfect continuous shows duration up to a future point.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-a-055",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "It's high time we ____ our authentication system.",
+  "options": [
+   "replacing",
+   "will replace",
+   "are replacing",
+   "replaced"
+  ],
+  "answer": 3,
+  "explanation": "'It's high time' is followed by the past simple.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-a-056",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "Hardly ____ the presentation when the projector failed.",
+  "options": [
+   "I started",
+   "did I start",
+   "had I started",
+   "I had started"
+  ],
+  "answer": 2,
+  "explanation": "'Hardly' at the start needs the past perfect with inversion.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-a-057",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "The CEO, along with two advisors, ____ expected to attend.",
+  "options": [
+   "are",
+   "were",
+   "is",
+   "have been"
+  ],
+  "answer": 2,
+  "explanation": "'Along with' does not change the subject, which is singular.",
+  "pattern": "agreement"
+ },
+ {
+  "id": "grammar-a-058",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "He denied ____ the confidential file to the press.",
+  "options": [
+   "to leak",
+   "leaking",
+   "leak",
+   "to leaking"
+  ],
+  "answer": 1,
+  "explanation": "'Deny' is followed by the -ing form.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-a-059",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "We would have shipped on time ____ for the security issue.",
+  "options": [
+   "had it not been",
+   "if it would not be",
+   "unless it was",
+   "was it not"
+  ],
+  "answer": 0,
+  "explanation": "The inverted third conditional 'had it not been for' means 'if it hadn't been for'.",
+  "pattern": "conditional"
+ },
+ {
+  "id": "grammar-a-060",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "The more data we collect, ____ the model becomes.",
+  "options": [
+   "more accurate",
+   "the most accurate",
+   "accurate more",
+   "the more accurate"
+  ],
+  "answer": 3,
+  "explanation": "Comparative correlation uses 'the' plus a comparative twice.",
+  "pattern": "word-form"
+ }
+]

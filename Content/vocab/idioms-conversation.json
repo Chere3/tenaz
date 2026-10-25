@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "idioms-conversation-it-depends",
+    "headword": "it depends",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "depende",
+    "definition": "used when the answer changes based on the situation",
+    "example": "Can we ship it this week? Well, it depends on what QA finds.",
+    "exampleEs": "¿Podemos lanzarlo esta semana? Bueno, depende de lo que encuentre QA.",
+    "cloze": "Can we ship it this week? Well, ____ on what QA finds.",
+    "answer": "it depends",
+    "distractors": [
+      "it ends",
+      "it defends",
+      "it descends"
+    ],
+    "collocations": [
+      "it depends on",
+      "it depends who",
+      "that depends"
+    ],
+    "note": "Use 'depends ON', not 'depends of' (Spanish 'depende de').",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-sounds-good",
+    "headword": "sounds good",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "me parece bien, suena bien",
+    "definition": "a casual way to agree to a plan or suggestion",
+    "example": "Let's meet at ten tomorrow. Sounds good, see you then.",
+    "exampleEs": "Nos vemos mañana a las diez. Me parece bien, nos vemos.",
+    "cloze": "Let's meet at ten tomorrow. ____, see you then.",
+    "answer": "Sounds good",
+    "distractors": [
+      "Sounds tired",
+      "Looks hearing",
+      "Feels sound"
+    ],
+    "collocations": [
+      "sounds good to me",
+      "sounds great"
+    ],
+    "note": "Very common reply in Slack and meetings; no need to say 'It sounds good'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-i-m-on-it",
+    "headword": "I'm on it",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "yo me encargo, ya estoy en eso",
+    "definition": "I will handle this task right now",
+    "example": "The build is failing again? I'm on it, give me ten minutes.",
+    "exampleEs": "¿El build vuelve a fallar? Yo me encargo, dame diez minutos.",
+    "cloze": "The build is failing again? ____, give me ten minutes.",
+    "answer": "I'm on it",
+    "distractors": [
+      "I'm at it",
+      "I'm in it",
+      "I'm up it"
+    ],
+    "collocations": [
+      "I'm on it",
+      "we're on it"
+    ],
+    "note": "Said when you accept a task immediately.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-my-bad",
+    "headword": "my bad",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "error mío, mi culpa",
+    "definition": "an informal way to admit a small mistake",
+    "example": "I sent you the wrong file. My bad, here is the right one.",
+    "exampleEs": "Te mandé el archivo equivocado. Mi culpa, aquí está el correcto.",
+    "cloze": "I sent you the wrong file. ____, here is the right one.",
+    "answer": "My bad",
+    "distractors": [
+      "My sad",
+      "Me bad",
+      "My worse"
+    ],
+    "collocations": [
+      "oh, my bad"
+    ],
+    "note": "Informal and for small mistakes only; for serious errors say 'I apologize'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-no-worries",
+    "headword": "no worries",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "no te preocupes, no hay problema",
+    "definition": "a friendly way to say something is not a problem",
+    "example": "Sorry I joined late. No worries, we just started.",
+    "exampleEs": "Perdón por unirme tarde. No hay problema, apenas empezamos.",
+    "cloze": "Sorry I joined late. ____, we just started.",
+    "answer": "No worries",
+    "distractors": [
+      "No hurries",
+      "Not worries",
+      "No worry up"
+    ],
+    "collocations": [
+      "no worries at all",
+      "no worries about it"
+    ],
+    "note": "Used both to answer 'sorry' and 'thanks'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-heads-up",
+    "headword": "heads up",
+    "pos": "noun",
+    "cefr": "B2+",
+    "es": "aviso, un aviso previo",
+    "definition": "a short warning about something that will happen",
+    "example": "Just a heads up, the server will be down at midnight.",
+    "exampleEs": "Solo un aviso: el servidor estará caído a medianoche.",
+    "cloze": "Just a ____, the server will be down at midnight.",
+    "answer": "heads up",
+    "distractors": [
+      "head down",
+      "hands up",
+      "heads out"
+    ],
+    "collocations": [
+      "give someone a heads up",
+      "a quick heads up"
+    ],
+    "note": "Often 'a heads-up' (noun) or 'heads up!' (interjection).",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-long-story-short",
+    "headword": "long story short",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "para resumir, en pocas palabras",
+    "definition": "used before giving the short version of a story",
+    "example": "Long story short, the vendor missed the deadline, so we switched tools.",
+    "exampleEs": "En resumen, el proveedor no cumplió el plazo, así que cambiamos de herramienta.",
+    "cloze": "____, the vendor missed the deadline, so we switched tools.",
+    "answer": "Long story short",
+    "distractors": [
+      "Long short story",
+      "Big story small",
+      "Story long short"
+    ],
+    "collocations": [
+      "long story short"
+    ],
+    "note": "Say it first, then give the result.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-a-no-brainer",
+    "headword": "a no-brainer",
+    "pos": "noun",
+    "cefr": "B2+",
+    "es": "una decisión obvia, algo que ni se piensa",
+    "definition": "a decision that is very easy because the answer is obvious",
+    "example": "Free training from the company? That is a no-brainer.",
+    "exampleEs": "¿Capacitación gratis de la empresa? Eso es obvio que sí.",
+    "cloze": "Free training from the company? That is ____.",
+    "answer": "a no-brainer",
+    "distractors": [
+      "a no-idea",
+      "a brain-dead",
+      "a no-thinker"
+    ],
+    "collocations": [
+      "it's a no-brainer",
+      "an absolute no-brainer"
+    ],
+    "note": "Informal; it describes the decision, not a person.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-the-bottom-line",
+    "headword": "the bottom line",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "lo esencial, lo que importa al final",
+    "definition": "the most important fact after considering everything",
+    "example": "The bottom line is that we need two more engineers.",
+    "exampleEs": "Lo esencial es que necesitamos dos ingenieros más.",
+    "cloze": "____ is that we need two more engineers.",
+    "answer": "The bottom line",
+    "distractors": [
+      "The top line",
+      "The side line",
+      "The bottom floor"
+    ],
+    "collocations": [
+      "the bottom line is",
+      "what's the bottom line?"
+    ],
+    "note": "In finance it also means net profit.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-hit-the-ground-running",
+    "headword": "hit the ground running",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "empezar con todo desde el primer día",
+    "definition": "to start a new job or project quickly and with energy",
+    "example": "She joined on Monday and hit the ground running.",
+    "exampleEs": "Ella entró el lunes y arrancó a todo vapor.",
+    "cloze": "She joined on Monday and ____.",
+    "answer": "hit the ground running",
+    "distractors": [
+      "hit the road walking",
+      "touch the floor running",
+      "fall the ground running"
+    ],
+    "collocations": [
+      "hit the ground running"
+    ],
+    "note": "Often used for new hires: 'I want to hit the ground running'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-in-a-nutshell",
+    "headword": "in a nutshell",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "en pocas palabras, en resumen",
+    "definition": "in a very short and simple way",
+    "example": "In a nutshell, the model predicts which users will leave.",
+    "exampleEs": "En pocas palabras, el modelo predice qué usuarios se irán.",
+    "cloze": "____, the model predicts which users will leave.",
+    "answer": "In a nutshell",
+    "distractors": [
+      "In a seashell",
+      "On a nutshell",
+      "In a nutcase"
+    ],
+    "collocations": [
+      "put it in a nutshell"
+    ],
+    "note": "Use 'in' a nutshell, not 'on'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-get-the-hang-of",
+    "headword": "get the hang of",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "agarrarle el modo a, aprender a hacer",
+    "definition": "to learn how to do something after some practice",
+    "example": "It felt confusing at first, but I'm getting the hang of it.",
+    "exampleEs": "Al inicio era confuso, pero ya le estoy agarrando el modo.",
+    "cloze": "It felt confusing at first, but I'm ____.",
+    "answer": "getting the hang of it",
+    "distractors": [
+      "getting the hold up",
+      "taking the hung of",
+      "making the hang by"
+    ],
+    "collocations": [
+      "get the hang of it",
+      "getting the hang of"
+    ],
+    "note": "Informal; 'hang' here has no relation to hanging.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-play-it-by-ear",
+    "headword": "play it by ear",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "improvisar, ver cómo salen las cosas",
+    "definition": "to decide what to do as things happen, without a fixed plan",
+    "example": "We don't know the weather yet, so let's play it by ear.",
+    "exampleEs": "Aún no sabemos el clima, así que improvisemos.",
+    "cloze": "We don't know the weather yet, so let's ____.",
+    "answer": "play it by ear",
+    "distractors": [
+      "play it by eye",
+      "hear it by play",
+      "play it on ear"
+    ],
+    "collocations": [
+      "let's play it by ear"
+    ],
+    "note": "Not about music in this meaning.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-out-of-the-loop",
+    "headword": "out of the loop",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "desinformado, fuera de la jugada",
+    "definition": "not knowing about recent news or decisions",
+    "example": "I was on vacation, so I'm a bit out of the loop.",
+    "exampleEs": "Estuve de vacaciones, así que estoy algo desactualizado.",
+    "cloze": "I was on vacation, so I'm a bit ____.",
+    "answer": "out of the loop",
+    "distractors": [
+      "out of the circle",
+      "off the loop",
+      "outside the line"
+    ],
+    "collocations": [
+      "keep someone in the loop",
+      "stay out of the loop"
+    ],
+    "note": "Opposite: 'in the loop'. 'Loop me in' means 'include me'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-touch-base",
+    "headword": "touch base",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "ponerse en contacto, hablar brevemente",
+    "definition": "to contact someone briefly to share updates",
+    "example": "Let's touch base on Friday to review progress.",
+    "exampleEs": "Hablemos el viernes para revisar el avance.",
+    "cloze": "Let's ____ on Friday to review progress.",
+    "answer": "touch base",
+    "distractors": [
+      "touch ground",
+      "feel base",
+      "press base"
+    ],
+    "collocations": [
+      "touch base with",
+      "touch base on"
+    ],
+    "note": "Say 'touch base WITH someone'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-circle-back",
+    "headword": "circle back",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "retomar el tema más tarde",
+    "definition": "to return to a topic later",
+    "example": "I don't have the numbers now, but I'll circle back tomorrow.",
+    "exampleEs": "Ahora no tengo las cifras, pero lo retomo mañana.",
+    "cloze": "I don't have the numbers now, but I'll ____ tomorrow.",
+    "answer": "circle back",
+    "distractors": [
+      "round back",
+      "circle past",
+      "turn around"
+    ],
+    "collocations": [
+      "circle back to",
+      "circle back later"
+    ],
+    "note": "Common corporate phrase; people use it when postponing a topic.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-on-the-same-page",
+    "headword": "on the same page",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "de acuerdo, con el mismo entendimiento",
+    "definition": "having the same understanding of a situation",
+    "example": "Before we start, let's make sure we're all on the same page.",
+    "exampleEs": "Antes de empezar, asegurémonos de estar todos alineados.",
+    "cloze": "Before we start, let's make sure we're all ____.",
+    "answer": "on the same page",
+    "distractors": [
+      "in the same book",
+      "on the same line",
+      "at the same paper"
+    ],
+    "collocations": [
+      "get on the same page",
+      "be on the same page"
+    ],
+    "note": "Say 'on the same page', never 'in the same page'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-off-the-top-of-my-head",
+    "headword": "off the top of my head",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "así de memoria, sin pensarlo mucho",
+    "definition": "from memory, without checking exact facts",
+    "example": "Off the top of my head, I think the budget is about fifty thousand.",
+    "exampleEs": "Así de memoria, creo que el presupuesto es de unos cincuenta mil.",
+    "cloze": "____, I think the budget is about fifty thousand.",
+    "answer": "Off the top of my head",
+    "distractors": [
+      "Over the top of my head",
+      "Off the back of my head",
+      "Out of the top of my head"
+    ],
+    "collocations": [
+      "off the top of my head"
+    ],
+    "note": "Warns that your answer may be imprecise.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-ballpark-figure",
+    "headword": "ballpark figure",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "cifra aproximada",
+    "definition": "a rough estimate of a number",
+    "example": "Can you give me a ballpark figure for the cloud costs?",
+    "exampleEs": "¿Me puedes dar una cifra aproximada de los costos de la nube?",
+    "cloze": "Can you give me a ____ for the cloud costs?",
+    "answer": "ballpark figure",
+    "distractors": [
+      "stadium figure",
+      "ballroom figure",
+      "ball figure"
+    ],
+    "collocations": [
+      "a ballpark estimate",
+      "in the ballpark"
+    ],
+    "note": "Comes from baseball; 'in the ballpark' means roughly correct.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-take-it-offline",
+    "headword": "take it offline",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "hablarlo fuera de la reunión",
+    "definition": "to discuss something later, privately, not in the meeting",
+    "example": "This is getting detailed, so let's take it offline.",
+    "exampleEs": "Esto se está poniendo muy detallado, mejor hablémoslo aparte.",
+    "cloze": "This is getting detailed, so let's ____.",
+    "answer": "take it offline",
+    "distractors": [
+      "take it outline",
+      "put it offline",
+      "bring it online"
+    ],
+    "collocations": [
+      "let's take this offline",
+      "take it offline"
+    ],
+    "note": "Polite way to stop a side discussion in a meeting.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-drop-the-ball",
+    "headword": "drop the ball",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "fallar en algo, dejar algo sin hacer",
+    "definition": "to fail to do something you were responsible for",
+    "example": "I dropped the ball on that email and forgot to reply.",
+    "exampleEs": "Fallé con ese correo y se me olvidó responder.",
+    "cloze": "I ____ on that email and forgot to reply.",
+    "answer": "dropped the ball",
+    "distractors": [
+      "dropped the game",
+      "threw the ball",
+      "kicked the ball"
+    ],
+    "collocations": [
+      "drop the ball on",
+      "don't drop the ball"
+    ],
+    "note": "Regular verb: drop, dropped.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-move-the-needle",
+    "headword": "move the needle",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "hacer una diferencia real, tener impacto",
+    "definition": "to make a noticeable difference in results",
+    "example": "Small UI tweaks won't move the needle on retention.",
+    "exampleEs": "Pequeños ajustes de interfaz no cambiarán la retención de forma notable.",
+    "cloze": "Small UI tweaks won't ____ on retention.",
+    "answer": "move the needle",
+    "distractors": [
+      "push the pin",
+      "shift the arrow",
+      "turn the clock"
+    ],
+    "collocations": [
+      "move the needle on",
+      "really move the needle"
+    ],
+    "note": "Usually used in negative sentences or questions.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-low-hanging-fruit",
+    "headword": "low-hanging fruit",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "lo más fácil de lograr primero",
+    "definition": "an easy task or goal that gives quick results",
+    "example": "Let's fix the low-hanging fruit before the big refactor.",
+    "exampleEs": "Arreglemos lo más fácil antes del gran refactor.",
+    "cloze": "Let's fix the ____ before the big refactor.",
+    "answer": "low-hanging fruit",
+    "distractors": [
+      "high-flying fruit",
+      "low-growing seed",
+      "hard-hanging fruit"
+    ],
+    "collocations": [
+      "go after low-hanging fruit",
+      "pick the low-hanging fruit"
+    ],
+    "note": "Uncountable here; don't say 'low-hanging fruits'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-bite-the-bullet",
+    "headword": "bite the bullet",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "tragar el trago amargo, hacerlo aunque cueste",
+    "definition": "to do something difficult or unpleasant that you can't avoid",
+    "example": "We finally bit the bullet and rewrote the old system.",
+    "exampleEs": "Por fin nos armamos de valor y reescribimos el sistema viejo.",
+    "cloze": "We finally ____ and rewrote the old system.",
+    "answer": "bit the bullet",
+    "distractors": [
+      "bit the apple",
+      "ate the bullet",
+      "broke the bullet"
+    ],
+    "collocations": [
+      "bite the bullet and"
+    ],
+    "note": "Past tense: bit.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-back-to-square-one",
+    "headword": "back to square one",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "volver a empezar desde cero",
+    "definition": "back at the beginning after a failure",
+    "example": "The test failed, so we're back to square one.",
+    "exampleEs": "La prueba falló, así que volvimos a empezar.",
+    "cloze": "The test failed, so we're ____.",
+    "answer": "back to square one",
+    "distractors": [
+      "back to line two",
+      "up to square one",
+      "down to square zero"
+    ],
+    "collocations": [
+      "go back to square one",
+      "be back at square one"
+    ],
+    "note": "Comes from board games.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-a-blessing-in-disguise",
+    "headword": "a blessing in disguise",
+    "pos": "noun",
+    "cefr": "B2+",
+    "es": "un mal que resulta bueno",
+    "definition": "something that seems bad but has a good result",
+    "example": "Losing that client was a blessing in disguise.",
+    "exampleEs": "Perder a ese cliente resultó ser una bendición.",
+    "cloze": "Losing that client was ____.",
+    "answer": "a blessing in disguise",
+    "distractors": [
+      "a blessing with disguise",
+      "a blessing on disguise",
+      "a curse in costume"
+    ],
+    "collocations": [
+      "turn out to be a blessing in disguise"
+    ],
+    "note": "Pronounce 'disguise' as /dɪsˈɡaɪz/.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-under-the-weather",
+    "headword": "under the weather",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "sentirse mal, un poco enfermo",
+    "definition": "feeling slightly sick",
+    "example": "I'm feeling a bit under the weather, so I'll skip the meeting.",
+    "exampleEs": "Me siento un poco mal, así que me salto la reunión.",
+    "cloze": "I'm feeling a bit ____, so I'll skip the meeting.",
+    "answer": "under the weather",
+    "distractors": [
+      "below the weather",
+      "under the climate",
+      "over the weather"
+    ],
+    "collocations": [
+      "feel under the weather",
+      "a little under the weather"
+    ],
+    "note": "Used for mild illness, not serious sickness.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-call-it-a-day",
+    "headword": "call it a day",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "dar por terminado el trabajo del día",
+    "definition": "to stop working for the day",
+    "example": "We've done enough for now, so let's call it a day.",
+    "exampleEs": "Ya hicimos suficiente por ahora, terminemos por hoy.",
+    "cloze": "We've done enough for now, so let's ____.",
+    "answer": "call it a day",
+    "distractors": [
+      "call it a night shift",
+      "name it a day",
+      "make it a day"
+    ],
+    "collocations": [
+      "let's call it a day"
+    ],
+    "note": "Can also mean to stop doing something for good.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-cut-corners",
+    "headword": "cut corners",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "hacer algo a medias para ahorrar",
+    "definition": "to do something cheaply or quickly by skipping steps",
+    "example": "We can't cut corners on security testing.",
+    "exampleEs": "No podemos ahorrarnos pasos en las pruebas de seguridad.",
+    "cloze": "We can't ____ on security testing.",
+    "answer": "cut corners",
+    "distractors": [
+      "cut edges",
+      "turn corners",
+      "break corners"
+    ],
+    "collocations": [
+      "cut corners on",
+      "without cutting corners"
+    ],
+    "note": "Always plural: 'cut corners'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-keep-me-posted",
+    "headword": "keep me posted",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "mantenme al tanto",
+    "definition": "please keep telling me about updates",
+    "example": "Keep me posted if anything changes with the release.",
+    "exampleEs": "Mantenme al tanto si algo cambia con el lanzamiento.",
+    "cloze": "____ if anything changes with the release.",
+    "answer": "Keep me posted",
+    "distractors": [
+      "Keep me post",
+      "Hold me posted",
+      "Keep me poster"
+    ],
+    "collocations": [
+      "keep me posted on",
+      "keep us posted"
+    ],
+    "note": "Past participle 'posted', not 'post'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-give-it-a-shot",
+    "headword": "give it a shot",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "intentarlo, probarlo",
+    "definition": "to try something even if you may not succeed",
+    "example": "I've never used Rust, but I'll give it a shot.",
+    "exampleEs": "Nunca he usado Rust, pero lo voy a intentar.",
+    "cloze": "I've never used Rust, but I'll ____.",
+    "answer": "give it a shot",
+    "distractors": [
+      "give it a gun",
+      "make it a shot",
+      "put it a shot"
+    ],
+    "collocations": [
+      "give it a try",
+      "give it a go"
+    ],
+    "note": "Similar to 'give it a try'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-at-the-end-of-the-day",
+    "headword": "at the end of the day",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "al final del día, a fin de cuentas",
+    "definition": "used to introduce the most important point",
+    "example": "At the end of the day, users just want it to work.",
+    "exampleEs": "A fin de cuentas, los usuarios solo quieren que funcione.",
+    "cloze": "____, users just want it to work.",
+    "answer": "At the end of the day",
+    "distractors": [
+      "At the end of the night",
+      "By the end of day",
+      "In the end of day"
+    ],
+    "collocations": [
+      "at the end of the day"
+    ],
+    "note": "Very common in American meetings.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-the-ball-is-in-your-court",
+    "headword": "the ball is in your court",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "te toca a ti decidir o actuar",
+    "definition": "it is now your turn to act or decide",
+    "example": "I sent you my proposal, so the ball is in your court.",
+    "exampleEs": "Te mandé mi propuesta, así que ahora te toca a ti.",
+    "cloze": "I sent you my proposal, so ____.",
+    "answer": "the ball is in your court",
+    "distractors": [
+      "the ball is on your field",
+      "the game is in your court",
+      "the ball is at your hand"
+    ],
+    "collocations": [
+      "the ball is in his court"
+    ],
+    "note": "Comes from tennis.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-on-my-plate",
+    "headword": "on my plate",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "tener pendiente, a mi cargo",
+    "definition": "things you have to do or deal with",
+    "example": "I can't take that task; I already have a lot on my plate.",
+    "exampleEs": "No puedo tomar esa tarea; ya tengo mucho pendiente.",
+    "cloze": "I can't take that task; I already have a lot ____.",
+    "answer": "on my plate",
+    "distractors": [
+      "on my desk top",
+      "in my dish",
+      "at my table"
+    ],
+    "collocations": [
+      "a lot on my plate",
+      "full plate"
+    ],
+    "note": "Use for workload: 'My plate is full'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-run-it-by",
+    "headword": "run it by",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "consultarlo con, pedir opinión",
+    "definition": "to tell someone your idea to get their opinion",
+    "example": "Let me run it by my manager before I confirm.",
+    "exampleEs": "Déjame consultarlo con mi jefe antes de confirmar.",
+    "cloze": "Let me ____ my manager before I confirm.",
+    "answer": "run it by",
+    "distractors": [
+      "run it over",
+      "walk it by",
+      "drive it by"
+    ],
+    "collocations": [
+      "run something by someone",
+      "run it by you"
+    ],
+    "note": "Pattern: run + something + by + person.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-a-steep-learning-curve",
+    "headword": "a steep learning curve",
+    "pos": "noun",
+    "cefr": "B2+",
+    "es": "una curva de aprendizaje empinada",
+    "definition": "something that is hard to learn at first",
+    "example": "This tool has a steep learning curve, but it's worth it.",
+    "exampleEs": "Esta herramienta es difícil de aprender al inicio, pero vale la pena.",
+    "cloze": "This tool has ____, but it's worth it.",
+    "answer": "a steep learning curve",
+    "distractors": [
+      "a high learning hill",
+      "a sharp learning road",
+      "a deep learning line"
+    ],
+    "collocations": [
+      "a steep learning curve",
+      "a gentle learning curve"
+    ],
+    "note": "Steep means hard at first; it does NOT mean slow learning.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-get-the-ball-rolling",
+    "headword": "get the ball rolling",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "poner las cosas en marcha",
+    "definition": "to start a process or activity",
+    "example": "Let's get the ball rolling with a quick kickoff call.",
+    "exampleEs": "Pongamos las cosas en marcha con una llamada de arranque.",
+    "cloze": "Let's ____ with a quick kickoff call.",
+    "answer": "get the ball rolling",
+    "distractors": [
+      "make the ball spinning",
+      "get the wheel rolling",
+      "start the ball running"
+    ],
+    "collocations": [
+      "get the ball rolling on",
+      "start the ball rolling"
+    ],
+    "note": "Used to begin projects or discussions.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-wrap-up",
+    "headword": "wrap up",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "terminar, concluir",
+    "definition": "to finish something",
+    "example": "We need to wrap up in five minutes because of the next meeting.",
+    "exampleEs": "Necesitamos terminar en cinco minutos por la siguiente reunión.",
+    "cloze": "We need to ____ in five minutes because of the next meeting.",
+    "answer": "wrap up",
+    "distractors": [
+      "wrap in",
+      "wrap out",
+      "wrap over"
+    ],
+    "collocations": [
+      "wrap up a meeting",
+      "wrap things up"
+    ],
+    "note": "Also noun: 'a wrap-up'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-throw-someone-under-the-bus",
+    "headword": "throw someone under the bus",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "echarle la culpa a alguien para salvarse",
+    "definition": "to blame someone unfairly to protect yourself",
+    "example": "He threw his teammate under the bus after the outage.",
+    "exampleEs": "Le echó la culpa a su compañero después de la caída.",
+    "cloze": "He ____ after the outage.",
+    "answer": "threw his teammate under the bus",
+    "distractors": [
+      "threw his teammate over the bus",
+      "pushed his teammate in the train",
+      "left his teammate on the bus"
+    ],
+    "collocations": [
+      "throw someone under the bus"
+    ],
+    "note": "Past tense: threw.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-beat-around-the-bush",
+    "headword": "beat around the bush",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "andarse con rodeos",
+    "definition": "to avoid saying the main point directly",
+    "example": "Don't beat around the bush; just tell me the issue.",
+    "exampleEs": "No te andes con rodeos; dime el problema.",
+    "cloze": "Don't ____; just tell me the issue.",
+    "answer": "beat around the bush",
+    "distractors": [
+      "hit around the tree",
+      "beat inside the bush",
+      "walk around the garden"
+    ],
+    "collocations": [
+      "stop beating around the bush"
+    ],
+    "note": "Say 'AROUND the bush'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-a-piece-of-cake",
+    "headword": "a piece of cake",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "pan comido, muy fácil",
+    "definition": "something very easy to do",
+    "example": "The setup was a piece of cake.",
+    "exampleEs": "La configuración fue pan comido.",
+    "cloze": "The setup was ____.",
+    "answer": "a piece of cake",
+    "distractors": [
+      "a slice of pie",
+      "a part of cake",
+      "a piece of bread"
+    ],
+    "collocations": [
+      "it was a piece of cake"
+    ],
+    "note": "Informal and very common.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-break-the-ice",
+    "headword": "break the ice",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "romper el hielo",
+    "definition": "to make people feel more relaxed at the start",
+    "example": "He told a joke to break the ice at the meeting.",
+    "exampleEs": "Contó un chiste para romper el hielo en la reunión.",
+    "cloze": "He told a joke to ____ at the meeting.",
+    "answer": "break the ice",
+    "distractors": [
+      "crack the snow",
+      "freeze the ice",
+      "cut the cold"
+    ],
+    "collocations": [
+      "an icebreaker",
+      "break the ice with"
+    ],
+    "note": "Noun: icebreaker.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-once-in-a-blue-moon",
+    "headword": "once in a blue moon",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "muy rara vez",
+    "definition": "very rarely",
+    "example": "I only eat fast food once in a blue moon.",
+    "exampleEs": "Solo como comida rápida muy rara vez.",
+    "cloze": "I only eat fast food ____.",
+    "answer": "once in a blue moon",
+    "distractors": [
+      "once on a red moon",
+      "one in a blue moon",
+      "twice in a blue sun"
+    ],
+    "collocations": [
+      "happens once in a blue moon"
+    ],
+    "note": "Don't use it for 'sometimes'; it means almost never.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-hang-in-there",
+    "headword": "hang in there",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "aguanta, no te rindas",
+    "definition": "a way to tell someone to stay strong in a hard time",
+    "example": "The release week is tough, but hang in there.",
+    "exampleEs": "La semana de lanzamiento es dura, pero aguanta.",
+    "cloze": "The release week is tough, but ____.",
+    "answer": "hang in there",
+    "distractors": [
+      "hang to there",
+      "hold in here",
+      "hang up there"
+    ],
+    "collocations": [
+      "hang in there"
+    ],
+    "note": "Encouraging; not for formal emails.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-cut-to-the-chase",
+    "headword": "cut to the chase",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "ir al grano",
+    "definition": "to get quickly to the main point",
+    "example": "I'll cut to the chase: we need more time.",
+    "exampleEs": "Voy al grano: necesitamos más tiempo.",
+    "cloze": "I'll ____: we need more time.",
+    "answer": "cut to the chase",
+    "distractors": [
+      "cut to the race",
+      "run to the chase",
+      "cut at the point"
+    ],
+    "collocations": [
+      "let's cut to the chase"
+    ],
+    "note": "Similar to 'get to the point'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-think-outside-the-box",
+    "headword": "think outside the box",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "pensar de forma creativa",
+    "definition": "to think in a new and creative way",
+    "example": "To solve this, we need to think outside the box.",
+    "exampleEs": "Para resolver esto, necesitamos pensar de forma creativa.",
+    "cloze": "To solve this, we need to ____.",
+    "answer": "think outside the box",
+    "distractors": [
+      "think outside the room",
+      "think inside the box",
+      "think beyond a box"
+    ],
+    "collocations": [
+      "thinking outside the box"
+    ],
+    "note": "Sometimes seen as overused in business.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-read-the-room",
+    "headword": "read the room",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "percibir el ambiente del grupo",
+    "definition": "to understand the mood of a group and act accordingly",
+    "example": "He didn't read the room and joked during a serious talk.",
+    "exampleEs": "No supo leer el ambiente y bromeó en una charla seria.",
+    "cloze": "He didn't ____ and joked during a serious talk.",
+    "answer": "read the room",
+    "distractors": [
+      "read the house",
+      "see the room",
+      "hear the room"
+    ],
+    "collocations": [
+      "learn to read the room"
+    ],
+    "note": "Useful social skill in meetings.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-go-the-extra-mile",
+    "headword": "go the extra mile",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "esforzarse más de lo esperado",
+    "definition": "to make more effort than is required",
+    "example": "She always goes the extra mile for her clients.",
+    "exampleEs": "Ella siempre se esfuerza de más por sus clientes.",
+    "cloze": "She always ____ for her clients.",
+    "answer": "goes the extra mile",
+    "distractors": [
+      "goes the long road",
+      "walks the extra step",
+      "runs the last mile"
+    ],
+    "collocations": [
+      "go the extra mile for"
+    ],
+    "note": "Verb agrees with subject: she goes.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-jump-on-a-call",
+    "headword": "jump on a call",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "conectarse a una llamada rápida",
+    "definition": "to quickly join a phone or video call",
+    "example": "Do you have time to jump on a call with the team?",
+    "exampleEs": "¿Tienes tiempo de entrar a una llamada rápida con el equipo?",
+    "cloze": "Do you have time to ____ with the team?",
+    "answer": "jump on a call",
+    "distractors": [
+      "jump in a phone",
+      "leap on a call",
+      "fall on a call"
+    ],
+    "collocations": [
+      "hop on a call",
+      "jump on a quick call"
+    ],
+    "note": "Preposition is ON, not 'in'.",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "idioms-conversation-it-s-not-rocket-science",
+    "headword": "it's not rocket science",
+    "pos": "phrase",
+    "cefr": "B2+",
+    "es": "no es tan complicado",
+    "definition": "it is not difficult to understand",
+    "example": "Follow the guide; it's not rocket science.",
+    "exampleEs": "Sigue la guía; no es tan complicado.",
+    "cloze": "Follow the guide; ____.",
+    "answer": "it's not rocket science",
+    "distractors": [
+      "it's not brain surgery science",
+      "it's no space book",
+      "it's not a rocket scientist"
+    ],
+    "collocations": [
+      "it isn't rocket science"
+    ],
+    "note": "Used to encourage someone.",
+    "tags": [
+      "idiom"
+    ]
+  }
+]

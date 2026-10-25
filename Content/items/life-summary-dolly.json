@@ -1,0 +1,727 @@
+[
+  {
+    "id": "lp-dolly-68de6f3e05bc",
+    "type": "lifeParagraph",
+    "cefr": "B2+",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "Under American securities law, there are two-time windows commonly referred to as \"quiet periods\" during an IPO's history. The first and the one linked above is the period of time following the filing of the company's S-1 but before SEC staff declare the registration statement effective. During this time, issuers, company insiders, analysts, and other parties are legally restricted in their ability to discuss or promote the upcoming IPO (U.S. Securities and Exchange Commission, 2005). The other \"quiet period\" refers to a period of 10 calendar days following an IPO's first day of public trading. During this time, insiders and any underwriters involved in the IPO are restricted from issuing any earnings forecasts or research reports for the company. When the quiet period is over, generally the underwriters will initiate research coverage on the firm. A three-day waiting period exists for any member that has acted as a manager or co-manager in a secondary offering.",
+    "reference": [
+      "There are two quiet periods during an IPO during which company insiders cannot promote the IPO or issue information that might affect it. One is after the Form S-1 is filed but before the SEC approves it, and one is the 10 calendar days after an IPO's first day of trading."
+    ],
+    "mustUse": [
+      "focuses on",
+      "as a result"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "68de6f3e05bc",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "lp-dolly-bcb21ca27048",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "Singapore has a generally efficient healthcare system, even though health expenditures are relatively low for developed countries. The World Health Organisation ranks Singapore's healthcare system as 6th overall in the world in its World Health Report. Singapore has had the lowest infant mortality rates in the world for the past two decades. In 2019, Singaporeans had the longest life expectancy of any country at 84.8 years. Women can expect to live an average of 87.6 years with 75.8 years in good health. The averages are lower for men. Singapore is ranked 1st on the Global Food Security Index.",
+    "reference": [
+      "For the last two decades, Singapore has had the world's lowest infant mortality rates. Additionally, in 2019, Singapore had the world's longest life expectancy."
+    ],
+    "mustUse": [
+      "the main point",
+      "this shows that"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "bcb21ca27048",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-c3b8a6383aea",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "A heritage railway or heritage railroad (US usage) is a railway operated as living history to re-create or preserve railway scenes of the past. Heritage railways are often old railway lines preserved in a state depicting a period (or periods) in the history of rail transport. The British Office of Rail and Road defines heritage railways as follows:...'lines of local interest', museum railways or tourist railways that have retained or assumed the character and appearance and operating practices of railways of former times. Several lines that operate in isolation provide genuine transport facilities, providing community links. Most lines constitute tourist or educational attractions in their own right. Much of the rolling stock and other equipment used on these systems is original and is of historic value in its own right. Many systems aim to replicate both the look and operating practices of historic former railways companies.",
+    "reference": [
+      "Generally speaking, a railway can be considered a heritage railway when it assumes the appearance, characteristics, and operations of that railway from a period(s) in its past. These railways are often old and have been intentionally preserved to maintain its operating practices from prior times, purposely keeping equipment and processes original to a period in the past. Many of these heritage railways are preserved for educational purposes or as tourist attractions."
+    ],
+    "mustUse": [
+      "as a result",
+      "focuses on"
+    ],
+    "minWords": 50,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "c3b8a6383aea",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-678da787c7ff",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "In mathematics, a Markov decision process (MDP) is a discrete-time stochastic control process. It provides a mathematical framework for modeling decision making in situations where outcomes are partly random and partly under the control of a decision maker. MDPs are useful for studying optimization problems solved via dynamic programming. MDPs were known at least as early as the 1950s; a core body of research on Markov decision processes resulted from Ronald Howard's 1960 book, Dynamic Programming and Markov Processes. They are used in many disciplines, including robotics, automatic control, economics and manufacturing. The name of MDPs comes from the Russian mathematician Andrey Markov as they are an extension of Markov chains.",
+    "reference": [
+      "A Markov decision process (MDP) is a mathematical framework for modeling decision making in cases where outcomes are not entirely under the control of decision makers. MDPs are used in a variety of disciplines, such as robotics and economics."
+    ],
+    "mustUse": [
+      "in short",
+      "focuses on"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "678da787c7ff",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "lp-dolly-bf74d67902b9",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "In 1971, Sir Martin Ryle described why, in the late 1950s, radio astronomers at MRAO decided on the construction of the new One Mile telescope: \"Our object was twofold. First we wanted to extend the range of our observations far back in time to the earliest days of the Universe, and this required a large increase in both sensitivity and resolution. With greater resolution we hoped that we might be able to draw radio maps of individual radio sources with sufficient detail to give some indication of the physical processes which brought them into being.\"",
+    "reference": [
+      "The One Mile Telescope was built in the late 1950s with the goal of observing the early days of the universe. The construction of the telescope allowed to get more detailed images, allowing a better understanding of the physical phenomena at work."
+    ],
+    "mustUse": [
+      "in short",
+      "overall"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "bf74d67902b9",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-6b51d0d7f174",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "The Great Barrier Reef Marine Park Authority considers the greatest threat to the Great Barrier Reef to be climate change, causing ocean warming which increases coral bleaching. Mass coral bleaching events due to marine heatwaves occurred in the summers of 1998, 2002, 2006, 2016, 2017 and 2020, and coral bleaching is expected to become an annual occurrence. In 2020, a study found that the Great Barrier Reef has lost more than half of its corals since 1995 due to warmer seas driven by climate change. As global warming continues, corals will not be able to keep up with increasing ocean temperatures. Coral bleaching events lead to increased disease susceptibility, which causes detrimental ecological effects for reef communities.",
+    "reference": [
+      "Climate change is the biggest threat to the Great Barrier Reef. Major heat waves over the past 30 years have increased coral bleaching and is now expected to occur yearly. Coral bleaching increases the likelihood of disease and is therefore destroying reef communities."
+    ],
+    "mustUse": [
+      "in other words",
+      "overall"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "6b51d0d7f174",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-c9b0e5fda877",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "Regular, brisk exercise of any kind can improve confidence, stamina, energy, weight control and life expectancy and reduces stress. It can also decrease the risk of coronary heart disease, strokes, diabetes, high blood pressure, bowel cancer and osteoporosis. Scientific studies have also shown that walking, besides its physical benefits, is also beneficial for the mind, improving memory skills, learning ability, concentration, mood, creativity, and abstract reasoning. Sustained walking sessions for a minimum period of thirty to sixty minutes a day, five days a week, with the correct walking posture, reduce health risks and have various overall health benefits, such as reducing the chances of cancer, type 2 diabetes, heart disease, anxiety disorder and depression. Life expectancy is also increased even for individuals suffering from obesity or high blood pressure. Walking also improves bone health, especially strengthening the hip bone, and lowering the harmful low-density lipoprotein (LDL) cholesterol, and raising the useful high-density lipoprotein (HDL) cholesterol. Studies have found that walking may also help prevent dementia and Alzheimer's.",
+    "reference": [
+      "Walking daily, as little as 30 minutes a day, provides several physical and mental benefits. It can lower stress, is beneficial for the mind and reduces several health risks."
+    ],
+    "mustUse": [
+      "the main point",
+      "overall"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "c9b0e5fda877",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-ac5fe2a8cfd8",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "The Beatles were an English rock band, formed in Liverpool in 1960, that comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band of all time and were integral to the development of 1960s counterculture and popular music's recognition as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways; the band also explored music styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+    "reference": [
+      "The Beatles were a rock band comprised of 4 musicians. They were pioneers who had a huge influence on the music industry and wider sociocultural movements."
+    ],
+    "mustUse": [
+      "according to",
+      "the main point"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "ac5fe2a8cfd8",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-184465fceb49",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "Disk Manager is a discontinued software (that was a popular 1980s and 1990s) and documentation package for MS-DOS and PC DOS computers, useful for self-installing personal computer hard disks. It was written by Ontrack, a company that is now part of KLDiscovery. Installation covered different aspects: explaining personal computer hardware concepts documenting switches of many of the existing disks putting into place custom device drivers which circumvented BIOS limitations, notably those related to maximum disk or partition size and logical block addressing providing testing and informational utilities Drivers could be either DOS-type, or replacement master boot record code. Diskettes with Disk Manager were provided by some disk manufacturers (e.g. IBM), in custom OEM versions, supporting all of their models. Not long after launching in 1985, Ontrack also started providing computer disk data recovery services as Ontrack Data Recovery.",
+    "reference": [
+      "Disk Manager is a discontinued software and documentation package for MS-DOS and PC DOS computers. It was written by Ontrack, a company that is now part of KLDiscovery. Diskettes with Disk Manager were provided by some disk manufacturers in custom OEM versions, supporting all of their models."
+    ],
+    "mustUse": [
+      "in other words",
+      "the main point"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "184465fceb49",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-90dd6a72f603",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "Ultimate, originally known as ultimate frisbee, is a non-contact team sport played with a disc flung by hand. Ultimate was developed in 1968 by AJ Gator in Maplewood, New Jersey. Although ultimate resembles many traditional sports in its athletic requirements, it is unlike most sports due to its focus on self-officiating, even at the highest levels of competition. The term \"frisbee\" is a registered trademark of the Wham-O toy company, and thus the sport is not formally called \"ultimate Frisbee\", though this name is still in common casual use. Points are scored by passing the disc to a teammate in the opposing end zone. Other basic rules are that players must not take steps while holding the disc, and interceptions, incomplete passes, and passes out of bounds are turnovers. Rain, wind, or occasionally other adversities can make for a testing match with rapid turnovers, heightening the pressure of play.",
+    "reference": [
+      "The key reason why the sport \"Ultimate Frisbee\" is legally known as \"Ultimate\" comes down to copyright issues. The sports company \"Wham-O\" trademarked one of their products as the \"Ultimate Frisbee\" which would require licensing fees for the sport to use this name or risk facing legal action."
+    ],
+    "mustUse": [
+      "focuses on",
+      "in short"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "90dd6a72f603",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-eb830f875d75",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "A PCM signal is a sequence of digital audio samples containing the data providing the necessary information to reconstruct the original analog signal. Each sample represents the amplitude of the signal at a specific point in time, and the samples are uniformly spaced in time. The amplitude is the only information explicitly stored in the sample, and it is typically stored as either an integer or a floating point number, encoded as a binary number with a fixed number of digits: the sample's bit depth, also referred to as word length or word size. The resolution indicates the number of discrete values that can be represented over the range of analog values. The resolution of binary integers increases exponentially as the word length increases. Adding one bit doubles the resolution, adding two quadruples it and so on. The number of possible values that can be represented by an integer bit depth can be calculated by using 2^n, where n is the bit depth. Thus, a 16-bit system has a resolution of 65,536 (2^16) possible values.",
+    "reference": [
+      "Converting sound into a digital format requires taking samples of the original sound wave at regular points in time. These samples numerically represent the relative strength, or amplitude, of the analog wave as it varies over time. For digital audio, these numbers are recorded in binary notation. When digital audio is advertised as 16-bit, we mean that the numerical samples of the artist's recording were recorded as 16 digit-long binary numbers."
+    ],
+    "mustUse": [
+      "in other words",
+      "focuses on"
+    ],
+    "minWords": 50,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "eb830f875d75",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-a77af21b0b27",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "Anime differs from other forms of animation by its art styles, methods of animation, its production, and its process. Visually, anime works exhibit a wide variety of art styles, differing between creators, artists, and studios. While no single art style predominates anime as a whole, they do share some similar attributes in terms of animation technique and character design. Anime is fundamentally characterized by the use of limited animation, flat expression, the suspension of time, its thematic range, the presence of historical figures, its complex narrative line and, above all, a peculiar drawing style, with characters characterized by large and oval eyes, with very defined lines, bright colors and reduced movement of the lips The cinematic effects of anime differentiates itself from the stage plays found in American animation. Anime is cinematically shot as if by camera, including panning, zooming, distance and angle shots to more complex dynamic shots that would be difficult to produce in reality. In anime, the animation is produced before the voice acting, contrary to American animation which does the voice acting first.",
+    "reference": [
+      "Anime separates itself from other forms of animation through its depiction of characters, as well as portrayal of cinematic effects. Characters in anime are often drawn with very well defined features, highlighted by bold lines and bright colors, along with large oval eyes. Cinematic effects are often highlighted by dynamic shots, including panning, zooming, angle shots, as if the scene was shot on a camera."
+    ],
+    "mustUse": [
+      "in other words",
+      "the main point"
+    ],
+    "minWords": 50,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "a77af21b0b27",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-21245c9824ba",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "If a superhuman intelligence were to be invented - either through the amplification of human intelligence or through artificial intelligence - it would vastly improve over human problem-solving and inventive skills. Such an AI is referred to as Seed AI because if an AI were created with engineering capabilities that matched or surpassed those of its human creators, it would have the potential to autonomously improve its own software and hardware to design an even more capable machine, which could repeat the process in turn. This recursive self-improvement could accelerate, potentially allowing enormous qualitative change before any upper limits imposed by the laws of physics or theoretical computation set in. It is speculated that over many iterations, such an AI would far surpass human cognitive abilities.",
+    "reference": [
+      "An AI system needs to have the capability of recursive self-improvement. Once available such a capability would allow the AI system to accelerate its development at a rapid rate."
+    ],
+    "mustUse": [
+      "overall",
+      "the main point"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "21245c9824ba",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-6ad7df2ba2dc",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "Until several years later when Einstein developed general relativity, which introduced a curved spacetime to incorporate gravity, the phrase \"special relativity\" was not used. A translation sometimes used is \"restricted relativity\"; \"special\" really means \"special case\".[p 2][p 3][p 4][note 1] Some of the work of Albert Einstein in special relativity is built on the earlier work by Hendrik Lorentz and Henri Poincaré. The theory became essentially complete in 1907. The theory is \"special\" in that it only applies in the special case where the spacetime is \"flat\", that is, where the curvature of spacetime (a consequence of the energy-momentum tensor and representing gravity) is negligible.[note 2] In order to correctly accommodate gravity, Einstein formulated general relativity in 1915. Special relativity, contrary to some historical descriptions, does accommodate accelerations as well as accelerating frames of reference.",
+    "reference": [
+      "The \"special\" part of Einstein's special theory of relativity is a reference to it being a special case of his General Theory of Relativity. Special relativity only applies in the special case where the curvature of spacetime is negligible, i.e., spacetime is \"flat\". Special relativity was formulated in 1907, and in order to correctly accommodate gravity, Einstein formulated general relativity in 1915."
+    ],
+    "mustUse": [
+      "according to",
+      "in other words"
+    ],
+    "minWords": 50,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "6ad7df2ba2dc",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-30088bec7d7a",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "Advocates of the designated hitter point to the extension of many careers it has enabled, and, in a few cases, created long, productive careers for players who are weak fielders or have a history of injuries, such as Cecil Fielder and David Ortiz. Hall of Fame members George Brett, Carl Yastrzemski, Paul Molitor, Harold Baines and Edgar Martínez continued their careers longer than they ordinarily would have without the rule. Barry Bonds, who spent his entire career in the National League and even won eight Gold Gloves earlier in his career, was used strictly as a DH later in his career when the San Francisco Giants played away interleague games because of his diminishing fielding skills. Some believe that extending careers of older players is more of a disadvantage than an advantage, filling spots that otherwise may have been taken by younger players who end up not finding a place in the major leagues.",
+    "reference": [
+      "The designated hitter role has extended the careers of baseball players who are weak fielders or have a history of injuries. However, this means they take up team roster spots that otherwise might be filled by younger players."
+    ],
+    "mustUse": [
+      "focuses on",
+      "overall"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "30088bec7d7a",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-29193dd2138e",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "A system of promotion and relegation exists between the Premier League and the EFL Championship. The three lowest placed teams in the Premier League are relegated to the Championship, and the top two teams from the Championship promoted to the Premier League, with an additional team promoted after a series of play-offs involving the third, fourth, fifth and sixth placed clubs. The number of clubs was reduced from 22 to 20 in 1995, when four teams were relegated from the league and only two teams promoted. The top flight had only been expanded to 22 teams at the start of the 1991-92 season - the year prior to the formation of the Premier League. On 8 June 2006, FIFA requested that all major European leagues, including Italy's Serie A and Spain's La Liga, be reduced to 18 teams by the start of the 2007-08 season. The Premier League responded by announcing their intention to resist such a reduction. Ultimately, the 2007-08 season kicked off again with 20 teams.",
+    "reference": [
+      "The Premier league consists of 20 teams. At the end of each season the bottom three teams gets relegated to the EFL and three teams from the EFL gets promoted to the premier league."
+    ],
+    "mustUse": [
+      "as a result",
+      "in other words"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "29193dd2138e",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-f3440a01bf02",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "The symptoms of COVID-19 are variable depending on the type of variant contracted, ranging from mild symptoms to a potentially fatal illness. Common symptoms include coughing, fever, loss of smell (anosmia) and taste (ageusia), with less common ones including headaches, nasal congestion and runny nose, muscle pain, sore throat, diarrhea, eye irritation, and toes swelling or turning purple, and in moderate to severe cases, breathing difficulties. People with the COVID-19 infection may have different symptoms, and their symptoms may change over time. Three common clusters of symptoms have been identified: one respiratory symptom cluster with cough, sputum, shortness of breath, and fever; a musculoskeletal symptom cluster with muscle and joint pain, headache, and fatigue; and a cluster of digestive symptoms with abdominal pain, vomiting, and diarrhea. In people without prior ear, nose, or throat disorders, loss of taste combined with loss of smell is associated with COVID-19 and is reported in as many as 88% of symptomatic cases.",
+    "reference": [
+      "Common symptoms of COVID-19 includes coughing, fever, loss of smell and taste. Some people may also experience headaches, nasal congestion, runny nose, muscle pain, sore throat, diarrhea, and eye irritation."
+    ],
+    "mustUse": [
+      "overall",
+      "according to"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "f3440a01bf02",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-056504d67a6c",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. Developed during live performances before recording began, it was conceived as a concept album that would focus on the pressures faced by the band during their arduous lifestyle, and also deal with the mental health problems of former band member Syd Barrett, who departed the group in 1968. New material was recorded in two sessions in 1972 and 1973 at EMI Studios (now Abbey Road Studios) in London.",
+    "reference": [
+      "The Dark Side of the Moon is Pink Floyd's 8th studio album. It is about the band's difficult lifestyle and touches on the mental health problems of former band member Syd Barrett."
+    ],
+    "mustUse": [
+      "overall",
+      "as a result"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "056504d67a6c",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-0e0eaecb79b9",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "Penguin Books is a British publishing house. It was co-founded in 1935 by Allen Lane with his brothers Richard and John, as a line of the publishers The Bodley Head, only becoming a separate company the following year. Penguin revolutionised publishing in the 1930s through its inexpensive paperbacks, sold through Woolworths and other stores for sixpence, bringing high-quality fiction and non-fiction to the mass market. Its success showed that large audiences existed for serious books. It also affected modern British popular culture significantly through its books concerning politics, the arts, and science.",
+    "reference": [
+      "Penguin Books is a publishing house of inexpensive fiction and non-fiction paperbacks. It was founded by the Lane brothers in 1935 as a line of the publishers The Bodley Head. It became a separate publisher in 1936."
+    ],
+    "mustUse": [
+      "in other words",
+      "according to"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "0e0eaecb79b9",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-1345f52c2fa7",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "South Africa has a mixed economy, the third largest in Africa, after Nigeria and Egypt and the 39th largest in the world. It also has a relatively high gross domestic product (GDP) per capita compared to other countries in sub-Saharan Africa US$16,040 at purchasing power parity as of 2023 ranked 95th. South Africa is ranked 40th by total Wealth, making it the second wealthiest country in Africa, and in terms of private wealth South Africa has a private wealth of $651 billion making it the wealthiest country in Africa by private wealth followed by Egypt with $307 billion and Nigeria with $228 billion. Unlike most of the world's poor countries, South Africa does not have a thriving informal economy. Only 15% of South African jobs are in the informal sector, compared with around half in Brazil and India",
+    "reference": [
+      "South Africa has the third largest economy in Africa, and is the second wealthiest country on the continent, and the wealthiest by private wealth ($651 billion), followed by Egypt with $307 billion and Nigeria with $228 billion. South Africa's economy is mainly formal, with only 15% of jobs in the informal sector, compared with 50% in Brazil and India who have a thriving informal economy."
+    ],
+    "mustUse": [
+      "focuses on",
+      "overall"
+    ],
+    "minWords": 50,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "1345f52c2fa7",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-18a290aaa386",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "Horses and humans interact in a wide variety of sport competitions and non-competitive recreational pursuits as well as in working activities such as police work, agriculture, entertainment, and therapy. Horses were historically used in warfare, from which a wide variety of riding and driving techniques developed, using many different styles of equipment and methods of control. Many products are derived from horses, including meat, milk, hide, hair, bone, and pharmaceuticals extracted from the urine of pregnant mares. Humans provide domesticated horses with food, water, and shelter as well as attention from specialists such as veterinarians and farriers.",
+    "reference": [
+      "Horses can be used for recreational activities and therapy as well as working activities like police work or agriculture. Historically horses were also used in warfare. Horses can also provide products like meat, milk, hide, hair, bone or pharmaceuticals."
+    ],
+    "mustUse": [
+      "this shows that",
+      "in short"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "18a290aaa386",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-2ca55bebe7ed",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "During the 1960s, digital computer music was pioneered, innovation in live electronics took place, and Japanese electronic musical instruments began to influence the music industry. In the early 1970s, Moog synthesizers and drum machines helped popularize synthesized electronic music. The 1970s also saw electronic music begin to have a significant influence on popular music, with the adoption of polyphonic synthesizers, electronic drums, drum machines, and turntables, through the emergence of genres such as disco, krautrock, new wave, synth-pop, hip hop, and EDM. In the early 1980s mass-produced digital synthesizers, such as the Yamaha DX7, became popular, and MIDI (Musical Instrument Digital Interface) was developed. In the same decade, with a greater reliance on synthesizers and the adoption of programmable drum machines, electronic popular music came to the fore. During the 1990s, with the proliferation of increasingly affordable music technology, electronic music production became an established part of popular culture. In Berlin starting in 1989, the Love Parade became the largest street party with over 1 million visitors, inspiring other such popular celebrations of electronic music.",
+    "reference": [
+      "With the advent of new electronic instruments in the 60s and 70s, namely synthesizers and drum machines, electronic music quickly gained mainstream popularity through genres like disco and hip hop. As the technology progressed through the 80s and 90s, more affordable instruments led electronic music to be even more widely embraced, cementing its status in pop culture and leading to the rise of large electronic music events around the globe."
+    ],
+    "mustUse": [
+      "according to",
+      "this shows that"
+    ],
+    "minWords": 50,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "2ca55bebe7ed",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-7f46ab85b07e",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "In domestic cats, many signals that occur when interacting with humans seem to originate from when the animal was dependent on the mother. Cats have been observed to purr for most of their lifespan, starting from when they were young and suckling from their mother. Purring may have developed as an evolutionary advantage as a signaling mechanism of reassurance between mother cats and nursing kittens. Post-nursing cats often purr as a sign of contentment: when being petted, becoming relaxed, or eating. Some purring may be a signal to another animal that the purring cat does not pose a threat.",
+    "reference": [
+      "Cats purr for a variety of reasons. Purring can be a sign of contentment or comfort, for example when being pet, while relaxing or eating. It is thought that purring may have developed as an evolutionary trait signaling reassurance between the mother cat and its nursing kittens."
+    ],
+    "mustUse": [
+      "the main point",
+      "focuses on"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "7f46ab85b07e",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-a42bb94b29e2",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "In physics, gravity (from Latin gravitas 'weight') is a fundamental interaction which causes mutual attraction between all things with mass or energy. Gravity is, by far, the weakest of the four fundamental interactions, approximately 10^38 times weaker than the strong interaction, 10^36 times weaker than the electromagnetic force and 10^29 times weaker than the weak interaction. As a result, it has no significant influence at the level of subatomic particles. However, gravity is the most significant interaction between objects at the macroscopic scale, and it determines the motion of planets, stars, galaxies, and even light.",
+    "reference": [
+      "Gravity can be described as the fundamental interaction which causes mutual attraction between all objects with mass or energy. While it is considered the weakest of the four fundamental forces (electromagnetic, strong interaction, and weak interaction), it is most significant force at the macroscopic scale and can influence the motion of planets, stars, galaxies, and light."
+    ],
+    "mustUse": [
+      "in short",
+      "the main point"
+    ],
+    "minWords": 50,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "a42bb94b29e2",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-a77a2f17d0c9",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "Using the semiconductor technology of its day, Intel's engineers weren't able to translate the design into a very efficient first implementation. Along with the lack of optimization in a premature Ada compiler, this contributed to rather slow but expensive computer systems, performing typical benchmarks at roughly 1/4 the speed of the new 80286 chip at the same clock frequency (in early 1982). This initial performance gap to the rather low-profile and low-priced 8086 line was probably the main reason why Intel's plan to replace the latter (later known as x86) with the iAPX 432 failed. Although engineers saw ways to improve a next generation design, the iAPX 432 capability architecture had now started to be regarded more as an implementation overhead rather than as the simplifying support it was intended to be",
+    "reference": [
+      "The many features included resulted in a very complex processor that was difficult to manufacture. The complexity also resulted in a very slow and expensive processor which was not competitive in the market. The initial failure cast doubt on the entire approach taken to develop a new architecture, making further iterations to improve the processor more difficult."
+    ],
+    "mustUse": [
+      "focuses on",
+      "according to"
+    ],
+    "minWords": 50,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "a77a2f17d0c9",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-bf90a91c4ed0",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "In Sweden, as well as Norway, a trollkors or troll cross is a bent piece of iron worn as an amulet to ward off malevolent magic, allegedly stemming from medieval Sweden. According to those claiming its authenticity it represented the Norse symbol of protection; thus if a Norseman wore this symbol, they believed that chances of falling into danger would decrease. However, although commonly thought of as a part of Swedish folklore, it was first created - as an item of jewelry - by the smith Kari Erlands from western Dalarna, sometime in the late 1990s. It was claimed to have been a copy of a protective rune found at her grandparents' farm, but this has not been verified. While it does bear some resemblance to the othala rune in Elder Futhark and Anglo-Saxon runic writing systems, it is more likely that Erlands mistook a Bumerke for a protective symbol.",
+    "reference": [
+      "The Troll Cross originated in the western Dalarna region of Sweden. It is worn as an amulet or piece of jewelry to ward off malevolent magic."
+    ],
+    "mustUse": [
+      "focuses on",
+      "in other words"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "bf90a91c4ed0",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-c51153355a11",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "Unsupervised learning is a type of algorithm that learns patterns from untagged data. The goal is that through mimicry, which is an important mode of learning in people, the machine is forced to build a concise representation of its world and then generate imaginative content from it. In contrast to supervised learning where data is tagged by an expert, e.g. tagged as a \"ball\" or \"fish\", unsupervised methods exhibit self-organization that captures patterns as probability densities or a combination of neural feature preferences encoded in the machine's weights and activations. The other levels in the supervision spectrum are reinforcement learning where the machine is given only a numerical performance score as guidance, and semi-supervised learning where a small portion of the data is tagged.",
+    "reference": [
+      "Unsupervised learning can be understood in contrast to supervised learning. The latter requires a data set tagged by an expert to train the machine learning model. The former learns patterns directly from the (unlabeled or untagged) data."
+    ],
+    "mustUse": [
+      "focuses on",
+      "as a result"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "c51153355a11",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-dbce5aa9d47d",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "At sufficiently low temperatures, electrons near the Fermi surface become unstable against the formation of Cooper pairs. Cooper showed such binding will occur in the presence of an attractive potential, no matter how weak. In conventional superconductors, an attraction is generally attributed to an electron-lattice interaction. The BCS theory, however, requires only that the potential be attractive, regardless of its origin. In the BCS framework, superconductivity is a macroscopic effect which results from the condensation of Cooper pairs. These have some bosonic properties, and bosons, at sufficiently low temperature, can form a large Bose-Einstein condensate. Superconductivity was simultaneously explained by Nikolay Bogolyubov, by means of the Bogoliubov transformations.",
+    "reference": [
+      "Cooper Pairs - consisting of two lightly attracted electrons - still carry charge, but now act more like bosons than fermions. Unlike fermions, bosons can all behave the exact same. Cooper Pairs all \"acting the same\" is the mechanism of conventional superconductivity."
+    ],
+    "mustUse": [
+      "the main point",
+      "according to"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "dbce5aa9d47d",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "id": "lp-dolly-fc35b07db153",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "prompt": "Summarise this in 2-3 sentences.",
+    "text": "The festival of San Fermín is a weeklong, historically rooted celebration held annually in the city of Pamplona, Navarre, in northern Spain. The celebrations start at noon on July 6 and continue until midnight on July 14. A firework starts off the celebrations and the popular song Pobre de mí is sung at the end. The most famous event is the running of the bulls, which begins at 8 in the morning from July 7 to 14, but the festival involves many other traditional and folkloric events. It is known locally as Sanfermines and is held in honour of Saint Fermin, the co-patron of Navarre. Its events were central to the plot of The Sun Also Rises by Ernest Hemingway, which brought it to the general attention of the English-speaking world. It has become probably the most internationally renowned festival in Spain with over a million people coming to participate.",
+    "reference": [
+      "The festival has celebrations that last an entire week, made up of several festivities, from fireworks and a traditional closing song to the famous running of the bulls. It became world-renowned due to its feature on the novel The Sun Also Rises by Ernest Hemingway."
+    ],
+    "mustUse": [
+      "as a result",
+      "the main point"
+    ],
+    "minWords": 40,
+    "kind": "summary",
+    "source": "dolly",
+    "sourceId": "fc35b07db153",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "origin": "verbatim",
+    "topics": [
+      "general"
+    ]
+  }
+]

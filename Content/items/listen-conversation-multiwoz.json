@@ -1,0 +1,780 @@
+[
+  {
+    "id": "lc-multiwoz-mw-mul2419",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Booking a European restaurant",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yes thank you. I'd also like to find a restaurant in the same area."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Any criteria come in mind for the restaurant as far as price, location, type of food?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Would like to dine somewhere with a moderate price range."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "The Oak Bistro is a nice British Restaurant in the centre. Does that sound appetizing?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Does that serve European food?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yes it does serve European food. Would you like me to book it?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yes, I'd like a table for 2 on Tuesday at 18:45 if that's possible."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "My apologies. The Oak Bistro is a British restaurant, but if you want a restaurant that specializes in European food, I'd suggest Galleria. How about booking that?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Sounds good. I need it for 2 people at 18:45 on Tuesday."
+      }
+    ],
+    "topics": [
+      "dining",
+      "scheduling"
+    ],
+    "group": "multiwoz:mul2419",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2419",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What kind of food does the customer ask for?",
+        "options": [
+          "European",
+          "Turkish",
+          "Thai",
+          "Mexican"
+        ],
+        "answer": 0,
+        "explanation": "A asks 'Does that serve European food?' and later accepts a European restaurant."
+      },
+      {
+        "q": "At what time does the customer want the table?",
+        "options": [
+          "13:30",
+          "19:45",
+          "17:45",
+          "18:45"
+        ],
+        "answer": 3,
+        "explanation": "A says 'I'd like a table for 2 on Tuesday at 18:45'."
+      },
+      {
+        "q": "Why does B suggest Galleria instead of Oak Bistro?",
+        "options": [
+          "Oak Bistro is too expensive",
+          "Galleria is closer to the center",
+          "Oak Bistro is a British restaurant",
+          "Oak Bistro is fully booked on Tuesday"
+        ],
+        "answer": 2,
+        "explanation": "B apologizes: 'The Oak Bistro is a British restaurant' and recommends Galleria for European food."
+      }
+    ]
+  },
+  {
+    "id": "lc-multiwoz-mw-pmul0094",
+    "type": "listenConversation",
+    "cefr": "B1+",
+    "skill": "listening",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hello, I'm looking for a modern European restaurant. Got any?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "You might like City Harvest. It's a very popular modern European restaurant."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Can you book it for me for 3 people at 14:00 on Wednesday?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I'm sorry, that restaurant seems to have closed. I can reserve a table at The River Bar Steakhouse and Grill if you'd like."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yes, that is fine. I also need a place to stay that has free parking and at least a three star rating, can you find one for me?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yes, I have 5 that meet that criteria."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I need one to be the same price range as the restaurant."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I found no hotels that are in the cheap price range like the restaurant. Is there another price range or star rating you would consider?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Actually it should be in the moderate price range."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Would you like to try Hamilton lodge?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yes. I will need it for three nights, 3 people starting Wednesday."
+      }
+    ],
+    "topics": [
+      "dining",
+      "scheduling"
+    ],
+    "group": "multiwoz:pmul0094",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0094",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "title": "Booking a restaurant and hotel",
+    "questions": [
+      {
+        "q": "What kind of food does the customer ask for?",
+        "options": [
+          "Crossover",
+          "Mediterranean",
+          "Modern European",
+          "Modern Eclectic"
+        ],
+        "answer": 2,
+        "explanation": "The customer asks for 'a modern European restaurant'."
+      },
+      {
+        "q": "At what time does the customer want the table?",
+        "options": [
+          "16:45",
+          "14:00",
+          "10:00",
+          "17:00"
+        ],
+        "answer": 1,
+        "explanation": "The customer asks to book 'for 3 people at 14:00 on Wednesday'."
+      },
+      {
+        "q": "What does the customer want help with?",
+        "options": [
+          "Only a table for lunch",
+          "A taxi and a train ticket",
+          "A restaurant and a hotel stay",
+          "A flight and a rental car"
+        ],
+        "answer": 2,
+        "explanation": "The customer books a table, then says 'I also need a place to stay'."
+      },
+      {
+        "q": "Why can the first restaurant not be booked?",
+        "options": [
+          "It is fully booked that day",
+          "It only serves lunch",
+          "It has closed down",
+          "It is too expensive"
+        ],
+        "answer": 2,
+        "explanation": "The assistant says 'that restaurant seems to have closed'."
+      }
+    ]
+  },
+  {
+    "id": "lc-multiwoz-mw-pmul0340",
+    "type": "listenConversation",
+    "cefr": "B1",
+    "skill": "listening",
+    "title": "Booking Bloomsbury Restaurant",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I need a place to eat in the moderate price range."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "We have quite a few restaurants. Do you have any preferences as to area or type of cuisine?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I'm interested in international food."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I would suggest either the varsity restaurant or bloomsbury restaurant."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I will choose the Bloomsbury Restaurant, thanks."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Would you like me to book it for you?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Sure. I'd like it for 11:45 on Thursday. There will be 3 people."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay great. I will work on that now and be back with you shortly."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Sure, take your time."
+      }
+    ],
+    "topics": [
+      "dining",
+      "scheduling"
+    ],
+    "group": "multiwoz:pmul0340",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0340",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What kind of food does the customer ask for?",
+        "options": [
+          "Moroccan",
+          "International",
+          "Vegetarian",
+          "Chinese"
+        ],
+        "answer": 1,
+        "explanation": "A says \"I'm interested in international food.\""
+      },
+      {
+        "q": "At what time does the customer want the table?",
+        "options": [
+          "11:45",
+          "16:00",
+          "21:00",
+          "19:30"
+        ],
+        "answer": 0,
+        "explanation": "A says \"I'd like it for 11:45 on Thursday.\""
+      },
+      {
+        "q": "On which day does the customer book the table?",
+        "options": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Saturday"
+        ],
+        "answer": 2,
+        "explanation": "A says \"I'd like it for 11:45 on Thursday.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-multiwoz-mw-pmul0848",
+    "type": "listenConversation",
+    "cefr": "B1",
+    "skill": "listening",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "That is fine. Can I get the price for a ticket please?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Sure, that ticket costs 10.24 pounds. Do you want me to book it?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Not just yet. I am just getting some information for now."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "OK. Is there anything else you'd like to know, about the train or about anything else?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I would like to find a restaurant in the moderate price range."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I have 31 moderate priced restaurants. Is there a certain cuisine or area of town you would be interested in?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I'm interested in an Italian restaurant. What would you recommend in the moderate price range?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Pizza hut cherry hinton looks pretty good. Would you like me to make you a reservation?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yes, for 8 people at 10:15 on Sunday."
+      }
+    ],
+    "topics": [
+      "dining",
+      "scheduling"
+    ],
+    "group": "multiwoz:pmul0848",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0848",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "title": "Booking an Italian restaurant",
+    "questions": [
+      {
+        "q": "What kind of food does the customer ask for?",
+        "options": [
+          "Brazilian",
+          "Italian",
+          "Cantonese",
+          "Swiss"
+        ],
+        "answer": 1,
+        "explanation": "The customer asks for 'an Italian restaurant'."
+      },
+      {
+        "q": "At what time does the customer want the table?",
+        "options": [
+          "18:30",
+          "20:30",
+          "11:15",
+          "10:15"
+        ],
+        "answer": 3,
+        "explanation": "The customer asks for a table 'for 8 people at 10:15 on Sunday'."
+      },
+      {
+        "q": "What does the customer say about the train ticket?",
+        "options": [
+          "They do not want to book it yet",
+          "They have already paid for it",
+          "They want two tickets",
+          "They want to cancel it"
+        ],
+        "answer": 0,
+        "explanation": "The customer says 'Not just yet. I am just getting some information for now.'"
+      }
+    ]
+  },
+  {
+    "id": "lc-multiwoz-mw-pmul2112",
+    "type": "listenConversation",
+    "cefr": "B1",
+    "skill": "listening",
+    "title": "Booking a restaurant table",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Great! Thanks so much for the info. I am also hoping you might help me find a restaurant in the centre."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "There are many wonderful restaurants in the city centre. Do you have a price range?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yes. It should be moderately priced."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Were you interested in a specific kind of cuisine?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "European would be a nice change."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay there are four matches for your request. May I make a suggestion?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yes, I would like your suggestion."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "The Galleria. Shall I book it?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yes, for 7 people please."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "What time would you like?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "At 12:45 please."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I also need the day in order to book it."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Thursday, please. Thank you."
+      }
+    ],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2112",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2112",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What kind of food does the customer ask for?",
+        "options": [
+          "Japanese",
+          "Christmas",
+          "Modern European",
+          "European"
+        ],
+        "answer": 3,
+        "explanation": "A says \"European would be a nice change\", so the cuisine is European."
+      },
+      {
+        "q": "At what time does the customer want the table?",
+        "options": [
+          "13:15",
+          "12:45",
+          "14:15",
+          "15:00"
+        ],
+        "answer": 1,
+        "explanation": "A answers \"At 12:45 please\", so the table is for 12:45."
+      },
+      {
+        "q": "What is the customer's main goal in this call?",
+        "options": [
+          "To change a hotel reservation",
+          "To ask for a taxi to a museum",
+          "To complain about a meal",
+          "To find and book a restaurant"
+        ],
+        "answer": 3,
+        "explanation": "A asks for \"a restaurant in the centre\" and then books it."
+      },
+      {
+        "q": "How many people is the booking for?",
+        "options": [
+          "Seven",
+          "Five",
+          "Two",
+          "Nine"
+        ],
+        "answer": 0,
+        "explanation": "A says \"Yes, for 7 people please.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-multiwoz-mw-pmul2795",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Taxi from museum to hotel",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Do they have free parking and what type of hotel is it?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "It is a guesthouse and it does have free parking. Would you like me to make a reservation for you?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I'm also looking for attractions in center and free entrance."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "We have 25 attractions in the centre with free entry. Do you have a preference for what type of attraction you'd like to visit?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Not really, pick the one you think would be best for a tourist."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I would recommend the primavera museum, would you like more info?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Is there an entrance fee?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "The entrance fee is free. Would you like me to look up anything else for you?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes, I need to book a taxi to get between the two places."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What time would you like to leave the finches bed and breakfast?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Actually, I want to go from Primavera to the hotel, please."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What time would you like to be picked up?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I need to leave the attraction by 9:15."
+      }
+    ],
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2795",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2795",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What time does the customer want the taxi to leave?",
+        "options": [
+          "21:25",
+          "9:15",
+          "06:00",
+          "23:30"
+        ],
+        "answer": 1,
+        "explanation": "A says \"I need to leave the attraction by 9:15.\""
+      },
+      {
+        "q": "Where does the customer want to be picked up?",
+        "options": [
+          "Gonville Hotel",
+          "Milton country park",
+          "Riverboat Georgina",
+          "Primavera"
+        ],
+        "answer": 3,
+        "explanation": "A says \"I want to go from Primavera to the hotel.\""
+      },
+      {
+        "q": "What does the customer mainly arrange?",
+        "options": [
+          "A hotel room with a swimming pool",
+          "A restaurant table for a tourist group",
+          "A train ticket to another city",
+          "A free attraction to visit and a taxi ride"
+        ],
+        "answer": 3,
+        "explanation": "A asks about free attractions, then says \"I need to book a taxi.\""
+      },
+      {
+        "q": "How does the customer choose an attraction?",
+        "options": [
+          "By going through a list of all twenty-five",
+          "By naming a museum from a guidebook",
+          "By asking B to recommend one for tourists",
+          "By picking the one nearest the hotel"
+        ],
+        "answer": 2,
+        "explanation": "A says \"pick the one you think would be best for a tourist.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-multiwoz-mw-pmul3154",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Taxi from park to guesthouse",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Thank you. Can you help me find a place to go? Maybe a park."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Milton county park is in the north area and has no entrance fee."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Thank you so much for your help."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Is there anything else I can help you with?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yes, what was the name of the guesthouse you booked for me?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I'm sorry about that! It is the acorn guest house."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Can I get a taxi between Acorn and the park?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "What time would you like to leave and arrive by?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I would like to leave the park by 04:00."
+      }
+    ],
+    "topics": [
+      "transport",
+      "scheduling"
+    ],
+    "group": "multiwoz:pmul3154",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3154",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "Where does the customer want to go?",
+        "options": [
+          "Downing College",
+          "Acorn",
+          "Royal spice",
+          "Allenbell"
+        ],
+        "answer": 1,
+        "explanation": "A asks for \"a taxi between Acorn and the park\" and leaves the park, so Acorn is the destination."
+      },
+      {
+        "q": "What time does the customer want the taxi to leave?",
+        "options": [
+          "04:00",
+          "14:15",
+          "17:00",
+          "15:45"
+        ],
+        "answer": 0,
+        "explanation": "A says \"I would like to leave the park by 04:00.\""
+      },
+      {
+        "q": "What does the customer ask B at first?",
+        "options": [
+          "The entrance fee of the park",
+          "The area where the park is",
+          "The time of the taxi pickup",
+          "The name of the booked guesthouse"
+        ],
+        "answer": 3,
+        "explanation": "A asks \"what was the name of the guesthouse you booked for me?\""
+      }
+    ]
+  }
+]

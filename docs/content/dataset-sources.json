@@ -1,0 +1,698 @@
+[
+ {
+  "family": "reading",
+  "sources": [
+   {
+    "name": "OneStopQA (STARC, Guardian articles at 3 levels)",
+    "url": "https://huggingface.co/datasets/malmaud/onestop_qa",
+    "license": "CC BY-SA 4.0 (HF card and GitHub berzak/onestop-qa both state CC-BY-SA-4.0)",
+    "licenseClass": "share-alike",
+    "verified": true,
+    "size": "1,458 rows in one train split (HF card). Each row is one question over a 50-100 word paragraph. Each paragraph has 3 questions and exists in 3 difficulty versions (Elementary, Intermediate, Advanced). About 162 paragraphs x 3 levels.",
+    "access": "HF datasets-server and `load_dataset('malmaud/onestop_qa')`, a ~220 KB parquet download. No login. Columns: title, paragraph, level (Adv/Int/Ele), question, paragraph_index, answers (4 strings), a_span, d_span.",
+    "mapsTo": [
+     "readDaily"
+    ],
+    "quality": "Very good. Native-written, news-style Guardian text, adult and non-childish, with exactly 4 options and 3 questions per paragraph, which is the readDaily shape. The first row is the 'message in a bottle' article. Gaps: the card does not make the correct-answer index obvious. In the paper's STARC scheme answers[0] is the correct one (the a_span is the answer evidence), so shuffle the options and verify this on a sample. Paragraphs are US-English conversions of British text. Distractor types are annotated, which makes them good B2 distractors. There are only about 160 paragraphs, so this is a small but high-quality source. The Adv and Int versions are B2-C1.",
+    "conversion": "Group rows by (title, paragraph_index, level) to get one text with 3 questions. Use the Int and Adv levels for the learner (B2). Shuffle options with a fixed seed. Write a one-sentence English explanation from the a_span evidence. Spanish is not needed. Where a paragraph is under 40 words, merge adjacent paragraphs of the same article and level into a readDaily text of 40-150 words. Two or three adjacent paragraphs at Adv level (about 150 words) can be stitched into readAcademic, but this needs 5 questions, so combine 2 paragraphs (6 questions) and drop one.",
+    "estimatedItems": 420
+   },
+   {
+    "name": "Belebele English (FLORES-200 passages, 4-option MCQ)",
+    "url": "https://huggingface.co/datasets/facebook/belebele",
+    "license": "CC BY-SA 4.0 (HF license tag; passages come from FLORES-200, itself CC BY-SA 4.0 from Wikinews, Wikijunior and Wikivoyage). The GitHub repo shows NOASSERTION, so use the HF tag.",
+    "licenseClass": "share-alike",
+    "verified": true,
+    "size": "900 questions in config eng_Latn, split test (datasets-server size endpoint). About 488 distinct passages averaging ~80 words in the first 100 rows (58 unique passages per 100 rows), so roughly 1.8 questions per passage.",
+    "access": "`load_dataset('facebook/belebele', 'eng_Latn', split='test')` or datasets-server rows API with config=eng_Latn. No login. Columns: flores_passage, question, mc_answer1..4, correct_answer_num (string '1'-'4'), link, question_number.",
+    "mapsTo": [
+     "readDaily",
+     "readAcademic",
+     "completeWords"
+    ],
+    "quality": "Good. Encyclopedic and news-like adult text on travel, science, history, news and accessibility. Questions are fairly hard and need inference or paraphrase, and are designed to be answerable without outside knowledge. They are not Q&A kid-level. Texts are short (about 80 words), so for readAcademic (150-220 words) concatenate 2 passages from the same `link` page, or use them as readDaily with 2-3 Qs. Many passages are Wikinews and Wikivoyage with a flat register. The passage also works as completeWords source text, because it is expository.",
+    "conversion": "Group by flores_passage to get 2-3 questions per passage (readDaily). For readAcademic, join the passages from the same `link` and pick 5 questions. For completeWords, take passages of 70-110 words, drop the first sentence unmodified, and hide the second half of every second word with the app's gap generator (programmatic, no LLM needed). Explanations need a one-line LLM pass. Spanish is not needed.",
+    "estimatedItems": 600
+   },
+   {
+    "name": "RACE (middle + high school English exams, Chinese teachers)",
+    "url": "https://huggingface.co/datasets/ehovy/race",
+    "license": "HF tag 'other'. The card states: 'RACE dataset is available for non-commercial research purpose only', and that passages come from the Internet and are not CMU's property.",
+    "licenseClass": "non-commercial",
+    "verified": true,
+    "size": "all config: 87,866 train + 4,887 validation + 4,934 test = 97,687 questions (HF card). high: 62,445 / 3,451 / 3,498. middle: 25,421 / 1,436 / 1,436. About 28k passages. Download ~41.5 MB for 'all' (parquet), above your 5 MB limit, so fetch per config or by shard only when building. ~54k downloads.",
+    "access": "`load_dataset('ehovy/race', 'high')` (or 'middle' or 'all'). No login. Columns: example_id, article, question, options (4 strings), answer ('A'-'D').",
+    "mapsTo": [
+     "readDaily",
+     "readAcademic",
+     "completeWords"
+    ],
+    "quality": "The best volume and the closest thing to a real exam: Chinese middle and high school English exams. The first sampled high-school article had 327 words with exact 4-option items. Problems: (1) many articles are 250-500 words, so for readAcademic (150-220 words) filter by length, which leaves a large pool; (2) some questions are fill-in-the-blank stems ending in '_' ('Many graduates today turn to cosmetic surgery to_.') and some say 'which of the following is NOT true'; (3) some options are 'All of the above'; (4) the topics lean to China, school life and moral stories; (5) a few passages have OCR-like noise. The high config is roughly B1-C1 and middle is A2-B1, so use high first. The license is the main caveat: personal local study only, never redistribute.",
+    "conversion": "Filter high config: 140-230 words, at least 5 questions on the same article (many articles have 4-5 questions), no 'all of the above' options. Map answer letter to a 0-based index. Drop the stems that need '_' filling or rewrite them. Explanations: generate one sentence with an LLM. For readDaily, take articles of 40-150 words and use 2-3 questions. For completeWords, reuse articles of 70-110 words (or the first 100 words of longer ones) as academic paragraphs, since the gaps are generated programmatically. Spanish is not needed.",
+    "estimatedItems": 9000
+   },
+   {
+    "name": "RACE-C (college-level extension of RACE)",
+    "url": "https://huggingface.co/datasets/tasksource/race-c",
+    "license": "No license on the HF mirror card. It is the Lai et al. / CMU RACE extension for Chinese college English exams, so assume the same terms as RACE: non-commercial research only. Unverified at the original source in this session.",
+    "licenseClass": "unclear",
+    "verified": false,
+    "size": "14,122 rows in total (datasets-server size endpoint, 38 MB original, 6 MB parquet). About 4,275 passages and 14k questions per the paper.",
+    "access": "`load_dataset('tasksource/race-c')`, no login. Columns: article, question, option (4 strings), label (int, 0-based), id. Parquet is ~6 MB, so fetch only the shard needed.",
+    "mapsTo": [
+     "readAcademic",
+     "readDaily"
+    ],
+    "quality": "Harder than RACE high: college-entrance and CET-style passages with more academic topics, which is a good fit for B2+/C1. Passages are longer on average (about 350 words), so the 150-220 word band needs filtering or truncation. The label is already a 0-based int, which makes conversion easy. The mirror has no card, so the license is not confirmed.",
+    "conversion": "Same pipeline as RACE: filter by length, keep only articles with enough questions, shuffle nothing since label is 0-based, and write explanations with an LLM. Check the CMU page (www.cs.cmu.edu/~glai1/data/race/) for the RACE-C terms before adding it to the bank.",
+    "estimatedItems": 2500
+   },
+   {
+    "name": "Cosmos QA (commonsense reading comprehension of everyday narratives)",
+    "url": "https://huggingface.co/datasets/allenai/cosmos_qa",
+    "license": "CC BY 4.0 (HF license tag; the card says Yejin Choi confirmed CC BY 4.0 by email)",
+    "licenseClass": "permissive",
+    "verified": true,
+    "size": "35,210 questions: 25,262 train + 2,985 validation + 6,963 test (HF card). ~12k downloads. The dataset uses a loading script, so the datasets-server preview fails; use the parquet branch `refs/convert/parquet`.",
+    "access": "`load_dataset('allenai/cosmos_qa')` (script) or the auto-converted parquet. No login. Columns: context, question, answer0..answer3, label (0-3).",
+    "mapsTo": [
+     "readDaily"
+    ],
+    "quality": "Good for readDaily. Contexts are short first-person blog-style paragraphs of everyday life (40-120 words): job stress, family, trips, work. This matches the learner's need for workplace and daily English far more than school stories. Questions test inference ('What may happen next?', 'Why did the narrator...?'). Weak points: some contexts have typos and informal grammar from blogs, a small share of questions are unanswerable ('None of the above choices'), and the register is casual US English. Only one question per context, so group two or three contexts into a thematic set or use each as a 1-question readDaily.",
+    "conversion": "Drop rows whose answers include 'None of the above choices'. Use label as the 0-based index. Each context becomes a readDaily text with 1 question. Merge near-duplicate contexts if you want 2-3 questions per text. Write a title and explanation with an LLM (short). Optionally correct typos in the context. Spanish is not needed.",
+    "estimatedItems": 12000
+   },
+   {
+    "name": "DREAM (dialogue-based reading comprehension from English exams)",
+    "url": "https://huggingface.co/datasets/dataset-org/dream",
+    "license": "HF tag 'unknown'. The original repo's license.txt (github.com/nlpdata/dream) says: 'DREAM dataset is intended for non-commercial research purpose only.'",
+    "licenseClass": "non-commercial",
+    "verified": true,
+    "size": "HF card shows 6,116 train + 2,040 validation + 2,041 test = 10,197 questions (about 6,444 dialogues, 2-3 questions each, per the paper). The dataset uses a script, so the datasets-server preview fails; use the repo JSON on GitHub (a few MB).",
+    "access": "GitHub raw JSON at github.com/nlpdata/dream (data/train.json, dev.json, test.json), or `load_dataset('dataset-org/dream')`. No login.",
+    "mapsTo": [
+     "readDaily"
+    ],
+    "quality": "Good, with an extra use. These are multi-turn dialogues from English-as-a-foreign-language listening and reading exams (the same source type as TOEFL conversations), with 3 options and 1 correct (not 4, so a distractor must be generated). Many questions need discourse understanding, such as speaker intent and inferred relationships, which is where the learner's listening is weak (4.5). Short dialogues map to readDaily (chat) and also to listenConversation, but listening is another agent's family. Only 3 options: add a 4th plausible distractor per question.",
+    "conversion": "Render the dialogue as a 'chat' text (A:/B: lines). 3 options become 4 by LLM-generated distractor. Questions are already 1-3 per dialogue. Keep dialogues of 40-150 words. Explanation: one sentence by LLM. Use as readDaily and hand the same dialogues to the listening family.",
+    "estimatedItems": 4000
+   },
+   {
+    "name": "QuAIL (Quick Adversarial/Interesting Long reading, 4 domains)",
+    "url": "https://huggingface.co/datasets/textmachinelab/quail",
+    "license": "CC BY-NC-SA 4.0 (HF license tag)",
+    "licenseClass": "non-commercial",
+    "verified": true,
+    "size": "12,966 rows total, ~2.3 MB parquet, ~30k downloads. About 800 contexts of 300-350 words (fiction, news, blogs, user stories from Reddit-style posts) with 15 questions each. Questions have 4 options.",
+    "access": "`load_dataset('textmachinelab/quail')`, a single ~2.3 MB file. No login. Columns: id, context_id, question_id, domain, metadata, context, question, question_type, answers, correct_answer_id.",
+    "mapsTo": [
+     "readAcademic",
+     "readDaily"
+    ],
+    "quality": "Mixed but useful. Contexts are real adult prose of 300+ words, longer than readAcademic's 150-220 words, so truncate or split into 2 pieces and keep questions answerable from that part (hard to guarantee). Question types include 'text-based', 'world knowledge', and 'unanswerable' (the unanswerable ones must be dropped because Tenaz needs exactly one correct option). Fiction and user stories give natural informal English that suits meetings and daily talk less than news and blogs do. Noisy items exist.",
+    "conversion": "Keep only question_type 'Factual', 'Event ordering', 'Causality', 'Character identity' and 'Temporal order' (drop 'Unanswerable'). Use the news and blog domains. Cut the context to a 150-220 word window and keep questions whose evidence sits in it (check with an LLM or simple string overlap). Explanations: LLM. NC-SA means personal study only.",
+    "estimatedItems": 1500
+   },
+   {
+    "name": "MCTest (MC160 + MC500 fictional stories for children)",
+    "url": "https://huggingface.co/datasets/sagnikrayc/mctest",
+    "license": "HF tag 'other'. Microsoft Research MCTest terms are research use only. Not read at the source in this session, so treat as research-only.",
+    "licenseClass": "research-only",
+    "verified": false,
+    "size": "2,640 questions total: mc160 has 640 and mc500 has 2,000 (datasets-server size endpoint). 160 + 500 stories, 4 questions each, 4 options.",
+    "access": "`load_dataset('sagnikrayc/mctest', 'mc500')` (or mc160), ~2.4 MB. No login.",
+    "mapsTo": [
+     "readDaily"
+    ],
+    "quality": "Low for B2. These are short fiction stories at a grade-school level (the first story is about a girl visiting Miami friends), 150-300 words, with literal questions. Good only as an easy warm-up (A2-B1) and not for the learner's band 4.0 / B2 target. Include only if you want filler or a lower-level ramp. Many stories are too long for readDaily, so truncate.",
+    "conversion": "Use the story as the text, take 2-3 of the 4 questions, shuffle options, LLM explanation. Skip unless a low-level ramp is needed.",
+    "estimatedItems": 400
+   },
+   {
+    "name": "OneStopEnglish corpus (Guardian articles at 3 levels, for completeWords and reading texts)",
+    "url": "https://github.com/nishkalavallabhi/OneStopEnglishCorpus",
+    "license": "CC BY-SA 4.0 (README of the repo, and GitHub license API says CC-BY-SA-4.0)",
+    "licenseClass": "share-alike",
+    "verified": true,
+    "size": "567 texts: 189 articles x 3 levels (Elementary, Intermediate, Advanced), taken from the paper's description (not counted in this session). Plain text files, a few MB.",
+    "access": "git clone github.com/nishkalavallabhi/OneStopEnglishCorpus (small, a few MB). No login. Folders Ele-txt, Int-txt, Adv-txt.",
+    "mapsTo": [
+     "completeWords",
+     "readAcademic"
+    ],
+    "quality": "Excellent as source text for completeWords: adult British-newspaper prose on science, society, technology, work and the environment, in level-matched versions. Use Intermediate and Advanced (B2/C1) texts. It has no questions, so it does not give readAcademic items by itself, but the same articles are what OneStopQA questions use, so there is overlap. Texts are 250-700 words, cut to 70-110 word chunks at paragraph boundaries.",
+    "conversion": "completeWords is programmatic: pick a 70-110 word paragraph, keep the first sentence intact, hide the second half of every second word from the second sentence, 10 gaps. No LLM needed. For readAcademic, pair with OneStopQA questions or have an LLM write 5 questions per 150-220 word chunk (a generated-question pass, with a verification step).",
+    "estimatedItems": 1500
+   },
+   {
+    "name": "OpenStax paragraphs (HuggingFaceTB/openstax_paragraphs)",
+    "url": "https://huggingface.co/datasets/HuggingFaceTB/openstax_paragraphs",
+    "license": "CC BY 4.0 (HF license tag; OpenStax textbooks are CC BY 4.0)",
+    "licenseClass": "permissive",
+    "verified": true,
+    "size": "77 rows, one per OpenStax textbook (book_title, language, nested chapters/sections/paragraph); ~6.5 MB parquet, 14.6 MB original. Thousands of academic paragraphs when flattened. Download slightly above the 5 MB limit, so do this only in the build step.",
+    "access": "`load_dataset('HuggingFaceTB/openstax_paragraphs')`. No login. Nested JSON structure (chapters -> sections -> paragraph).",
+    "mapsTo": [
+     "completeWords"
+    ],
+    "quality": "Good only as raw academic text. It is textbook prose (biology, economics, business, psychology, sociology, etc.) at college level, clean and permissive. Needs filtering: skip math, tables, headings and exercises, and keep 70-110 word expository paragraphs. No questions. Business, economics and operations-management books suit the learner's supply-chain job. It is a text source only, with no exam-style questions.",
+    "conversion": "Flatten the nested JSON, keep paragraphs of 70-110 words with at least 4 sentences, and exclude language != 'English'. Apply the app's programmatic gap generator for completeWords. For readAcademic, an LLM would have to write 5 questions per 150-220 word passage; this is generated content and so needs verification of one-correct-answer.",
+    "estimatedItems": 5000
+   }
+  ],
+  "notes": "Checked at source this session: HF API license tags and sizes for the HF datasets, RACE and DREAM license statements (RACE card and DREAM license.txt), OneStopQA, OneStopEnglish and ReClor via GitHub, and a first-rows sample of RACE, Belebele, Cosmos QA, MCTest, QuAIL, OneStopQA and RACE-C. Not verified: the RACE-C and MCTest licenses at their original sites; the OneStopEnglish article count (189) is from the paper, not counted here; the Cosmos QA count is from the HF card, and its preview fails because it uses a loading script, so I could not view a Cosmos sample (the context/answer fields come from the card).\n\nExcluded and why: ReClor (tasksource/reclor, HF 'other'; GitHub repo yuweihao/reclor ships its zip with the password 'for_non-commercial_research_purpose_only') is LSAT/GMAT logical reasoning, 5,138 rows, and does not fit B2 reading. CLOTH has no HF mirror under any name I tried and its GitHub repo was not found at the expected path; it is on the CMU RACE page and I could not verify it, so it was left out. SciQ (allenai/sciq) is CC BY-NC 3.0 science QA with support paragraphs, 4 options, but its paragraphs are short and textbook-like, which makes it a minor option for completeWords or readDaily. AGIEval (github.com/ruixiangcui/AGIEval, MIT code license; the data inherits per-exam terms) has gaokao-english and sat-en reading items, but they number only a few hundred and the data licenses are unclear. Wikipedia (wikimedia/wikipedia, CC BY-SA 3.0 + GFDL) is an unlimited source of academic paragraphs for completeWords.\n\nRecommended build order for the learner: (1) RACE high + RACE-C for volume (non-commercial, fine for a private local app); (2) OneStopQA + Belebele for clean permissive-ish (CC BY-SA) high quality, which are the best-licensed readDaily / short-passage items; (3) Cosmos QA (CC BY 4.0) for 10k+ everyday-life readDaily items, the only large permissive source; (4) DREAM for chat-style items that also feed the listening family; (5) OneStopEnglish + OpenStax / Wikipedia for completeWords text. Estimated totals are after filtering for B1-C1, one-correct-answer, 4 options and length bands; they depend on how strictly the length filter is applied, especially for readAcademic where most RACE, RACE-C and QuAIL passages exceed 220 words and need truncation, which can break questions. Every converted item needs a short English explanation generated by an LLM, and the 3-option DREAM items need a generated 4th distractor. Spanish is not required for reading items per FORMAT.md. Keep a `source` and `license` field per imported item (FORMAT.md has no such field; the current bank says all content is original, so the docs would need updating) so non-commercial items can be excluded if the app is ever shared."
+ },
+ {
+  "family": "listening",
+  "sources": [
+   {
+    "name": "DREAM (dialogue-based reading comprehension exam)",
+    "url": "https://github.com/nlpdata/dream",
+    "license": "license.txt in repo: 'DREAM dataset is intended for non-commercial research purpose only.' (GitHub API license: other/NOASSERTION; HF dataset-org/dream tag: unknown)",
+    "licenseClass": "non-commercial",
+    "verified": true,
+    "size": "6,444 dialogues / 10,197 questions per the paper (not re-counted this session); repo splits data/train.json, dev.json, test.json",
+    "access": "Direct GitHub raw JSON: https://raw.githubusercontent.com/nlpdata/dream/master/data/{train,dev,test}.json (no login). Also HF dataset-org/dream, but it uses a loading script, so use the GitHub files.",
+    "mapsTo": [
+     "listenConversation"
+    ],
+    "quality": "Sampled dev.json: nested [dialogue turns, [{question, 3 choices, answer}], id]. Turns are prefixed 'M:'/'W:' and come from Chinese English-as-a-foreign-language listening exams. Language is clean and the dialogues are short (2 to 14 turns). Questions are in real listening-test style. Level is roughly A2 to B2. Only 3 choices per question. Many dialogues are very short, so keep the longer ones.",
+    "conversion": "Map to listenConversation: M/W prefixes become speaker A/B and voice male/female, and each dialogue becomes a script. Keep dialogues with 8 or more turns, or merge or extend shorter ones, because FORMAT.md asks for 8 to 14 lines. Questions are already multiple choice with an answer string, so the correct index is found by matching. Add one generated distractor to reach 4 options and write a one-sentence English explanation with an LLM. Filter by length and difficulty to roughly B1 to B2. Short 2-turn dialogues can be turned into listenResponse items (last turn is the reply to pick) after an LLM generates 3 distractors. Since the data is non-commercial, treat it as personal-use seed material, or have an LLM paraphrase and extend it into new original dialogues.",
+    "estimatedItems": 2500
+   },
+   {
+    "name": "MuTual (multi-turn dialogue reasoning, from Chinese high-school English listening exams)",
+    "url": "https://github.com/Nealcly/MuTual",
+    "license": "No LICENSE file in the GitHub repo and no license stated in the README. HF EleutherAI/mutual tag says license: other. Treat as research-only and unclear.",
+    "licenseClass": "unclear",
+    "verified": true,
+    "size": "README states 6,371 original dialogues / 11,323 original questions. The MuTual paper reports 8,860 instances (derived by me, not re-verified here). Average 4.73 turns. Splits data/mutual/{train,dev,test}.",
+    "access": "GitHub raw files, e.g. https://raw.githubusercontent.com/Nealcly/MuTual/master/data/mutual/dev/dev_1.txt (one JSON object per file: article, options (4), answers). Also HF mirrors lighteval/mutual and tasksource/mutual (license field empty) and EleutherAI/mutual (license: other).",
+    "mapsTo": [
+     "listenResponse",
+     "buildSentence"
+    ],
+    "quality": "Sampled dev_1.txt. The article is lowercased and tokenized ('m : hi , della . ... ', spaces before punctuation) and has no capitalization. Each item has 4 reply options where all are on topic and only one is logically correct, so it fits listenResponse well. Level is B1 to B2. The test split has no public answers, so use train+dev only.",
+    "conversion": "Detokenize and recapitalize with a small script or LLM pass. Context turns become the spoken prompt (voice picked from the m/f tags), or a short listenConversation script with the 4 options as written replies. This is almost a one-to-one fit for listenResponse (4 options, 1 correct). For buildSentence, use the correct reply as the 'answer' and split it into 5 to 8 chunks, with the preceding turn as 'context'. Generate the explanation with an LLM. Only a light cleanup of tokenization is needed.",
+    "estimatedItems": 4000
+   },
+   {
+    "name": "TOEFL-QA (real TOEFL listening transcripts, Tseng et al. 2016)",
+    "url": "https://github.com/iamyuanchung/TOEFL-QA",
+    "license": "No LICENSE file and no license stated in the README; the author says the data is released to encourage research and to cite the papers. Treat as research-only and unclear.",
+    "licenseClass": "research-only",
+    "verified": true,
+    "size": "README: 963 examples (717 train / 124 dev / 122 test), each with story, question and 4 choices. Files in data/{train,dev,test}/ are named like tpo_1-conversation_1_1, about 3 KB each.",
+    "access": "GitHub API: https://api.github.com/repos/iamyuanchung/TOEFL-QA/contents/data/train, then raw files from raw.githubusercontent.com. Dev/test folders are small. No login needed. Total repo is small (a few MB).",
+    "mapsTo": [
+     "listenConversation",
+     "listenTalk",
+     "listenAnnouncement"
+    ],
+    "quality": "Closest thing to genuine TOEFL listening material in open form: student-professor conversations and class lectures (about 5 minutes of audio each), transcripts at roughly 400 to 700 words. Each story has several questions, and the format is the 4-choice TOEFL style the learner needs. Only about 100 distinct stories (963 questions across them), so it adds depth but not volume. Transcripts are ASR/hand transcripts with possible disfluencies ('um', repetitions), and content is B2 to C1 academic, so it may be hard for the learner at band 4.0. Not fully sampled in this session: only the README and file listing were checked.",
+    "conversion": "Group the 963 examples by story id (the file prefix) and make about 100 stories. Conversations become listenConversation (split on speaker turns into 8 to 14 lines, or trim). Lectures become listenTalk (condense to 180 to 250 words with an LLM, keeping the original questions where they still apply). Each question already has 4 choices. Explanations and any trimmed or paraphrased script need to be LLM-generated. Because the license is unclear, paraphrasing is the safer route for any use beyond personal study.",
+    "estimatedItems": 150
+   },
+   {
+    "name": "DailyDialog",
+    "url": "https://huggingface.co/datasets/li2017dailydialog/daily_dialog",
+    "license": "CC BY-NC-SA 4.0 (HF card and tag cc-by-nc-sa-4.0). Card also says 'provided for research purposes only'.",
+    "licenseClass": "non-commercial",
+    "verified": true,
+    "size": "Card table: 11,118 train / 1,000 validation / 1,000 test = 13,118 multi-turn dialogues (about 8 turns each) with dialog-act and emotion labels; ~5.6k downloads/month. The viewer does not work because it is a script dataset, so use the repo files.",
+    "access": "HF repo li2017dailydialog/daily_dialog (script-based). Alternative HF mirror with data files: ConvLab/dailydialog (same cc-by-nc-sa-4.0 tag) or the original zip at http://yanran.li/dailydialog. Under 5 MB per split in the original zip is not guaranteed; the full archive is a few MB.",
+    "mapsTo": [
+     "listenConversation",
+     "listenResponse",
+     "buildSentence"
+    ],
+    "quality": "Human-written daily-life English dialogues scraped from English-learner sites, clean and A2 to B1, with natural turns (travel, shopping, work, small talk). Low difficulty, so it is good for listenResponse and buildSentence warm-ups rather than for B2 comprehension. Has no comprehension questions, which must be generated. The text is tokenized with spaces before punctuation and has some British/Chinese-English phrasing. Dialogue-act labels (question/inform) help pick turns that need a reply.",
+    "conversion": "Detokenize. For listenResponse, take a turn labelled 'question' or 'directive' as the spoken prompt, and use the real next turn as the correct reply with 3 LLM-generated wrong replies. For buildSentence, use the previous turn as 'context' and the real reply (5 to 12 words) as the answer, split into 5 to 8 chunks. For listenConversation, take dialogues with 8 to 14 turns and have an LLM write 3 to 4 questions plus options and explanations. The LLM is needed for distractors, questions and explanations. The NC license means personal use only, or paraphrase.",
+    "estimatedItems": 6000
+   },
+   {
+    "name": "Tatoeba English sentences (with Spanish translations)",
+    "url": "https://tatoeba.org/en/downloads",
+    "license": "Per the Tatoeba downloads page: CC BY 2.0 FR for the sentences (and a CC0 1.0 portion also shown on the page). The HF mirror Helsinki-NLP/tatoeba is tagged cc-by-2.0, and ZomiLearner/English-Zomi-OPUS_Tatoeba_v20230412 is tagged cc0-1.0. Individual sentences can carry their own license, so the exact split should be rechecked per sentence if redistribution ever matters.",
+    "licenseClass": "permissive",
+    "verified": true,
+    "size": "Tatoeba exports are multi-million sentences overall; English alone is on the order of 1 million or more (not counted in this session). HF Helsinki-NLP/tatoeba is tagged size 10K<n<100K per language pair; sentence-transformers/parallel-sentences-tatoeba is tagged 1M<n<10M.",
+    "access": "Weekly exports at https://tatoeba.org/en/downloads (sentences.tar.bz2, links.tar.bz2; per-language files are small, but the English file may exceed 5 MB so I did not download it). HF alternatives: Helsinki-NLP/tatoeba (config eng-spa), sentence-transformers/parallel-sentences-tatoeba (en-es pairs, no login).",
+    "mapsTo": [
+     "listenRepeat",
+     "buildSentence"
+    ],
+    "quality": "Short everyday sentences, mostly 4 to 12 words, human-contributed and with a few errors or odd phrases. Quality varies; a 'native-speaker' tag exists in the metadata but is not reliable. English-Spanish pairs give a ready translation for hints. Mostly A2 to B1 vocabulary, with very few workplace or meeting sentences, so filter by length (8 to 18 words) and by keyword.",
+    "conversion": "listenRepeat: choose English sentences of 8 to 18 words (TTS plays them, the learner repeats them), with the Spanish translation as an optional hint. buildSentence: split the sentence into 5 to 8 chunks, with the 'context' written by an LLM as the line that would prompt it (or reuse the previous sentence in a conversation list). No distractors are needed for these two types. The CEFR level can be estimated with a word-frequency filter or an LLM batch pass.",
+    "estimatedItems": 20000
+   },
+   {
+    "name": "Mozilla Common Voice English sentence corpus (text only)",
+    "url": "https://commonvoice.mozilla.org/en/datasets",
+    "license": "CC0 1.0 (Common Voice sentences and audio are released into the public domain; HF mirrors fsicoli/common_voice_17_0 and 0x3/common_voice_17_0 are tagged cc0-1.0, while the official mozilla-foundation/common_voice_17_0 repo is gated and has no license tag in the API).",
+    "licenseClass": "permissive",
+    "verified": false,
+    "size": "The English text corpus has hundreds of thousands of sentences (exact count not verified in this session). The audio is not needed since Tenaz generates TTS.",
+    "access": "The sentence text is in the open GitHub repo common-voice/common-voice, under server/data/en/*.txt, and does not require a login. The HF official dataset needs a login and gated acceptance, and bundles audio (huge), so avoid it. The license and size were checked only through HF tags and prior knowledge, not at the Mozilla page itself.",
+    "mapsTo": [
+     "listenRepeat",
+     "buildSentence"
+    ],
+    "quality": "Sentences are public-domain text such as Wikipedia extracts, parliament speeches and contributed lines; clean, 5 to 15 words, but often encyclopedic or political, not conversational. Useful for pronunciation drills (listenRepeat) where topic matters less.",
+    "conversion": "Take the text files only. Filter by length (8 to 18 words), remove names, numbers and offensive items, then use as listenRepeat prompts. For buildSentence, an LLM must write a 'context' line, so Tatoeba is a better base. CC0 means no attribution is needed.",
+    "estimatedItems": 15000
+   },
+   {
+    "name": "Taskmaster-1 and Taskmaster-2 (Google, spoken-style task dialogues)",
+    "url": "https://huggingface.co/datasets/google-research-datasets/taskmaster2",
+    "license": "CC BY 4.0 (HF tags on both google-research-datasets/taskmaster1 and taskmaster2)",
+    "licenseClass": "permissive",
+    "verified": true,
+    "size": "HF tags: taskmaster1 and taskmaster2 each in the 1K<n<10K size bracket (Taskmaster-1 has 13,215 dialogues per the original release; Taskmaster-2 about 17,289 across domains; I did not recount). The datasets-server viewer is unavailable because they are script-based.",
+    "access": "HF repos google-research-datasets/taskmaster1 and taskmaster2 (script-based, so download the raw JSON from https://github.com/google-research-datasets/Taskmaster instead). No login.",
+    "mapsTo": [
+     "listenConversation",
+     "listenResponse"
+    ],
+    "quality": "Dialogues between a user and an assistant, or two people booking tickets, restaurants, flights, hotels, appointments. Natural spoken style with some disfluency. Fits real-life B1 transactional English (booking, scheduling, rescheduling), useful for the learner's meetings and travel. I did not read a sample this session, so the style description comes from the dataset cards.",
+    "conversion": "Select dialogues of 8 to 14 turns, relabel as speakers A/B and assign two TTS voices, clean up the disfluencies, and have an LLM write 3 to 4 comprehension questions with 4 options and explanations. Single turns work as listenResponse prompts with 3 LLM-written wrong replies. CC BY needs attribution only if the content is ever shared.",
+    "estimatedItems": 5000
+   },
+   {
+    "name": "MultiWOZ 2.2",
+    "url": "https://huggingface.co/datasets/pfb30/multi_woz_v22",
+    "license": "Apache-2.0 (HF tags on pfb30/multi_woz_v22 and tuetschek/multi_woz_v22)",
+    "licenseClass": "permissive",
+    "verified": true,
+    "size": "HF tag: 10K<n<100K dialogues (about 10,400 dialogues in the original MultiWOZ release; not recounted). About 3.1k downloads/month for pfb30/multi_woz_v22.",
+    "access": "HF dataset pfb30/multi_woz_v22 (parquet-based, usable through datasets-server first-rows) or the GitHub repo budzianowski/multiwoz. No login.",
+    "mapsTo": [
+     "listenConversation",
+     "listenResponse"
+    ],
+    "quality": "Human-to-human Wizard-of-Oz dialogues about Cambridge hotels, restaurants, trains, taxis, attractions. Clean and natural, B1 level, but the setting is a UK tourist and the dialogues are repetitive in structure, so it adds topic variety only after filtering. Sample not read this session.",
+    "conversion": "Pick 8 to 14 turn windows, relabel as A/B, then generate comprehension questions (price, time, place details are easy to ask about) with 4 options each plus explanations using an LLM. Because the facts are explicit slots, distractors can be built programmatically from other dialogues' slot values. Single user turns work for listenResponse.",
+    "estimatedItems": 3000
+   }
+  ],
+  "notes": "What I checked at the source: HF API license tags and sizes for DailyDialog, DREAM (dataset-org/dream, tag 'unknown'), EleutherAI/mutual, Tatoeba mirrors, Taskmaster 1 and 2, MultiWOZ, and Common Voice mirrors. I also read the GitHub READMEs and license files for DREAM, MuTual and TOEFL-QA. I sampled real rows from DREAM dev.json and MuTual dev_1.txt, and the TOEFL-QA file listing. I did not read samples of Taskmaster, MultiWOZ or Common Voice, so their quality notes come from the dataset cards.\n\nLicenses that matter:\n- DREAM is explicitly non-commercial research only.\n- DailyDialog is CC BY-NC-SA 4.0, also noted as research use.\n- MuTual has no license on GitHub, and HF says 'other'. TOEFL-QA states no license either.\n- All four are fine for the learner's private local use but should not be redistributed in a public app. Treat their text as seed material that is paraphrased or rewritten, if the app is ever shared.\n- Tatoeba (CC BY 2.0 FR), Common Voice sentences (CC0), Taskmaster (CC BY 4.0) and MultiWOZ (Apache-2.0) are the safe ones to build the big bank on.\n\nGaps: I could not confirm exact English sentence counts for Tatoeba and Common Voice, and the item estimates are rough guesses after filtering to about B1 to C1 and the Tenaz length rules. Exact original-dialogue counts for DREAM and MuTual come from the READMEs and the paper, not from a recount.\n\nNot found: no open-licensed set of real TOEFL or IELTS listening transcripts with questions beyond TOEFL-QA (about 100 stories). HF 'IELTS' search results are audio and transcription sets without clear licenses, so I left them out.\n\nPractical recommendation: for listenResponse use MuTual, DREAM and DailyDialog (the real next turn plus 3 LLM-written wrong replies). For listenConversation use DREAM, Taskmaster and MultiWOZ. For listenRepeat and buildSentence use Tatoeba plus Common Voice CC0. Use TOEFL-QA for listenTalk and academic conversations. The Tenaz validator should still check that each item matches FORMAT.md (4 options, answer index, 8 to 14 lines)."
+ },
+ {
+  "family": "grammar",
+  "sources": [
+   {
+    "name": "dry-melon/Chinese-middle-school-English-exam-questions (Multiple-Choice-Question + Cloze-With-Multiple-Choices)",
+    "url": "https://huggingface.co/datasets/dry-melon/Chinese-middle-school-English-exam-questions",
+    "license": "CC BY 4.0 as tagged by the uploader. The card also says content was compiled from public exam sites and 'assumed' to be fair use or public domain, so the upstream copyright of the questions is not cleared.",
+    "licenseClass": "unclear",
+    "verified": true,
+    "size": "Downloaded the six relevant jsonl files (each 1-5 MB; grade7/8/9). Standalone MCQ: 9,418 + 8,390 + 12,670 = 30,478 questions. Passage cloze MC: 1,216 passages with 12,326 blanks. About 62% of answers have is_answer_provided=true; the rest were filled in by an LLM, so check those. The full repo is about 77 MB and has 105,633 rows across all types.",
+    "access": "HF dataset dry-melon/Chinese-middle-school-English-exam-questions. No login needed. Files are at dataset/grade{7,8,9}/Multiple-Choice-Question.jsonl and Cloze-With-Multiple-Choices.jsonl. Fetch with https://huggingface.co/datasets/dry-melon/Chinese-middle-school-English-exam-questions/resolve/main/dataset/grade9/Multiple-Choice-Question.jsonl. Or use the datasets config 'question_type', splits multiple_choice_question and cloze_with_multiple_choices.",
+    "mapsTo": [
+     "grammarMC"
+    ],
+    "quality": "Real exam-style grammar MCQs with 4 options (A-D), a blank written as <blank>, an English 'explanation' and a 'test_point' such as 'Prepositions; as' or 'Gerunds & Infinitives; Verb Patterns'. Example: 'It's really kind of you <blank> your boat <blank> me.' Weaknesses: level is mostly A2-B1 (grade 9 is roughly B1), the tone is school-style, some items have two blanks, and some answers or explanations are LLM-generated. The cloze passages carry Chinese glosses in brackets, e.g. boxer(\u62f3\u51fb\u624b).",
+    "conversion": "Keep single-blank MCQs. Replace <blank> with ____, map A-D to options[] and answer to a 0-based index, and use explanation as it is. Derive pattern from test_point by keyword mapping to the FORMAT.md list (preposition, verb-pattern, tense, agreement, article, conditional, passive, relative, modal, word-form, linker, collocation, false-friend). Drop two-blank items, Chinese characters and items whose answers were not provided and fail an LLM or rule check. Deduplicate, then use the grade 9 files first. Cloze passages can become one grammarMC per blank, using a sentence window as context. Level estimate: A2-B1, so only the harder items fit B1+/B2. Run a cheap Claude pass over a sample to relabel cefr and fix wrong answers. Estimated 8,000-12,000 usable B1+ items after filtering.",
+    "estimatedItems": 10000,
+    "level": "A2-B1 (grades 7-9 of Chinese middle school; the top end only reaches B1+)"
+   },
+   {
+    "name": "CoEdIT (Grammarly), GEC subset",
+    "url": "https://huggingface.co/datasets/grammarly/coedit",
+    "license": "Apache-2.0 (HF tag and card)",
+    "licenseClass": "permissive",
+    "verified": true,
+    "size": "70,783 rows in total (69,071 train and 1,712 validation). The 'gec' task is roughly a quarter to a third of them, from instructions like 'Remove all grammatical errors from this text'. About 20 MB as jsonl.",
+    "access": "HF dataset grammarly/coedit. No login needed. Files are train.jsonl and validation.jsonl; the task field is gec, simplification, coherence, etc. Filter task=='gec'.",
+    "mapsTo": [
+     "grammarMC",
+     "buildSentence"
+    ],
+    "quality": "Pairs of src (learner or student-like erroneous sentence) and tgt (corrected). The sentences are mostly from academic essays by non-native writers, e.g. 'the need of habitable environment' becoming 'the need for a habitable environment'. The text is advanced and academic, close to B2-C1, and some corrections change more than grammar.",
+    "conversion": "Align src and tgt at token level (difflib). Keep pairs with exactly one small edit: a preposition, article, verb form, word form or agreement change. For grammarMC, put ____ at the edit, make the answer the corrected token(s), take two or three distractors from the original wrong token plus rule-based variants, and fill the pattern from the edit type. For buildSentence, shuffle chunks of the corrected sentence if it is 8-16 words, and use the sentence before it as context or a generic prompt. Claude can add the explanation and Spanish notes. The single-edit filter leaves about 5,000-8,000 items.",
+    "estimatedItems": 6000,
+    "level": "B2-C1 (academic register)"
+   },
+   {
+    "name": "C4_200M synthetic GEC corpus (Google Research)",
+    "url": "https://github.com/google-research-datasets/C4_200M-synthetic-dataset-for-grammatical-error-correction",
+    "license": "Corruption edits are CC BY 4.0, from the repo README. The source text is C4, which is ODC-BY. The HF mirror liweili/c4_200m has no license tag.",
+    "licenseClass": "permissive",
+    "verified": true,
+    "size": "About 200M sentence pairs, in 10 edit shards on Kaggle. The HF mirror liweili/c4_200m is tagged 10M-100M rows and is a single data.zip. A 100k-train and 25k-validation clean subset is at agentlans/grammar-correction (no license tag on the card; it inherits C4_200M's).",
+    "access": "https://huggingface.co/datasets/liweili/c4_200m, a script dataset with data.zip. The zip is far larger than 5 MB, so stream or use the datasets library. Easier route: HF agentlans/grammar-correction with columns input and output. Original edits: https://www.kaggle.com/felixstahlberg/the-c4-200m-dataset-for-gec, which needs a Kaggle login. I did not download it.",
+    "mapsTo": [
+     "grammarMC",
+     "buildSentence"
+    ],
+    "quality": "The input is the corrupted sentence and the output the original C4 web sentence. The errors are synthetic (a model injected article, preposition, verb-form and spelling errors), so they are less like a Spanish speaker's mistakes. The sentences are web text and sometimes noisy or US-centric. It is useful as a bulk source of varied sentences with a known single-error location.",
+    "conversion": "Filter to single-edit pairs of 8-20 words, no URLs or profanity, then choose the topic. For grammarMC, blank out the corrected span and use the corrupted token as one distractor, adding rule-based neighbours: other prepositions, a/the/zero article, tense forms. Get pattern from the edit type, then have Claude check sentence quality and write the explanation. For buildSentence, use the clean output sentence. Quality needs a filter pass, so use only a sample such as 50k rows.",
+    "estimatedItems": 20000,
+    "level": "B1-C1 (mixed web sentences; relabel with a CEFR classifier)"
+   },
+   {
+    "name": "JFLEG (JHU FLuency-Extended GUG)",
+    "url": "https://huggingface.co/datasets/jhu-clsp/jfleg",
+    "license": "CC BY-NC-SA 4.0 (HF tag and card)",
+    "licenseClass": "non-commercial",
+    "verified": true,
+    "size": "1,511 source sentences (755 validation and 748 test), each with 4 human corrections. Parquet files of about 290 KB in total.",
+    "access": "HF dataset jhu-clsp/jfleg. No login needed. Files are data/validation-00000-of-00001.parquet and data/test-00000-of-00001.parquet. Rows are available via https://datasets-server.huggingface.co/first-rows?dataset=jhu-clsp/jfleg&config=default&split=validation.",
+    "mapsTo": [
+     "grammarMC",
+     "buildSentence"
+    ],
+    "quality": "Real L2 learner sentences from the GUG exam essays, with natural errors such as 'So I think we can not live if old people could not find siences and tecnologies'. Four fluent corrections each. Tokenized with spaces before punctuation, and many sentences are heavily broken.",
+    "conversion": "Choose sentences where at least 3 of the 4 corrections agree on a small edit. Retokenize, then build the grammarMC blank from the error span and use the learner wording as a distractor. Use the agreed correction as a buildSentence answer, and the other corrections as 'accepted'. Claude writes the explanation. A small source, but its errors are authentic learner errors.",
+    "estimatedItems": 600,
+    "level": "B1-B2 learner writing"
+   },
+   {
+    "name": "Cambridge English Write & Improve + LOCNESS (BEA-2019)",
+    "url": "https://huggingface.co/datasets/bea2019st/wi_locness",
+    "license": "Cambridge English Write & Improve (CEWI) licence: non-commercial research and educational use only, excerpts of less than 100 words may be published. LOCNESS: non-commercial only, and no redistribution to third parties without CECL authorization. The HF tag is 'other'.",
+    "licenseClass": "research-only",
+    "verified": true,
+    "size": "W&I train 3,000 texts, validation 300; LOCNESS validation 50 (native-speaker essays). About 6 MB download. Each text carries CEFR (A, B, C) and an edit list with character offsets.",
+    "access": "HF dataset bea2019st/wi_locness. It is a loading script (wi_locness.py) that downloads the BEA-2019 zip, so it needs an older datasets version with trust_remote_code. Related mirrors: matejklemen/wi_locness, 512duncanl/wi_locness_detokenized. Original data at https://www.cl.cam.ac.uk/research/nl/bea2019st/. I did not download it.",
+    "mapsTo": [
+     "grammarMC",
+     "buildSentence"
+    ],
+    "quality": "Genuine essays by learners worldwide, graded A, B or C, with corrections annotated by experts. It has the realistic error distribution (prepositions, articles, verb forms) plus a CEFR label per text, which is the best fit for the learner's B1-C1 range. The text is noisy, and the data is licensed for research and education only.",
+    "conversion": "Apply the edits to get sentence-level pairs. Keep sentences with one replacement edit of a function word or inflection. That gives the blank, the correct answer and the learner's wrong form as a distractor. Claude generates the other distractors and the explanation. For the learner's personal local study this seems within the 'educational' clause, but nothing should be redistributed or put in a published build. Estimate about 3,000-5,000 usable items.",
+    "estimatedItems": 3000,
+    "level": "A-C CEFR labels per essay (use B and C)"
+   },
+   {
+    "name": "CEFR-SP (sentence-level CEFR annotations)",
+    "url": "https://github.com/yukiar/CEFR-SP",
+    "license": "CC BY-NC-SA 4.0 on the original GitHub README and in UniversalCEFR/cefr_sp_en. The HF mirror edesaras/CEFR-Sentence-Level-Annotations is tagged MIT, which conflicts with the upstream licence, so treat the upstream licence as binding.",
+    "licenseClass": "non-commercial",
+    "verified": true,
+    "size": "About 17k sentences. The mirror has 7,178 train, 1,366 validation and 1,460 test rows, about 540 KB; labels are integers 1-6 from two annotators.",
+    "access": "HF edesaras/CEFR-Sentence-Level-Annotations (parquet, public, columns text, Annotator I, Annotator II) or UniversalCEFR/cefr_sp_en (cefr-sp.json). Upstream is https://github.com/yukiar/CEFR-SP. The labels are integers 1-6 for A1-C2. Sample rows with the first-rows API: 'Is that your bike ?'.",
+    "mapsTo": [
+     "buildSentence",
+     "grammarMC"
+    ],
+    "quality": "Sentences were rated by English education professionals, and the sentences come from Newsela and Wikipedia, plus similar sources. They are clean and standalone, with a CEFR label, so you can pick B1-C1 sentences directly. They are tokenized with spaces before punctuation. There are no questions or errors, so the sentences are only raw material.",
+    "conversion": "Select the sentences where both annotators say 3-5 (B1-C1) and that are 7-14 words long. For buildSentence, split each into 5-8 chunks and shuffle; context is a Claude-generated prompt, or the item can be left context-free. For grammarMC, have Claude pick a testable function word, blank it and add distractors. Detokenize first. Estimate: about 6,000 sentences at B1-C1, with perhaps 4,000 good ones after dedupe.",
+    "estimatedItems": 4000,
+    "level": "A1-C2 labelled (select B1-C1)"
+   },
+   {
+    "name": "Tatoeba (English sentences, CC BY 2.0 FR)",
+    "url": "https://huggingface.co/datasets/Helsinki-NLP/tatoeba_mt",
+    "license": "CC BY 2.0 FR (HF tag on Helsinki-NLP/tatoeba_mt is cc-by-2.0; Tatoeba's own terms say CC BY 2.0 FR, with some sentences CC0)",
+    "licenseClass": "permissive",
+    "verified": true,
+    "size": "Millions of sentence pairs across languages (10M-100M rows tagged on the HF mirror). The English-Spanish pairs run to about 200k+. Files are large, so download only the language pair you need.",
+    "access": "Official dumps: https://tatoeba.org/en/downloads (sentences.tar.bz2, links.tar.bz2, per-language files). Or HF Helsinki-NLP/tatoeba_mt with an eng-spa config. I did not download it because of the 5 MB limit. License text on tatoeba.org was not retrievable in my check; this follows the HF tag, so confirm on the Tatoeba terms page before using.",
+    "mapsTo": [
+     "buildSentence"
+    ],
+    "quality": "Short everyday sentences with a Spanish translation, ideal for buildSentence with a Spanish prompt. The user-submitted English is sometimes unnatural, and the level is mostly A1-B1. There is no CEFR label, but sentence length is a rough proxy.",
+    "conversion": "Take English sentences of 7-14 words that have a Spanish translation. Chunk into 5-8 pieces and shuffle. The Spanish translation can be the context or a hint. A classifier trained on CEFR-SP, or Claude, can filter for B1+. The level is lower than the learner's band, so it is best for drills and Spanish-speaker confusions such as false friends.",
+    "estimatedItems": 10000,
+    "level": "A1-B2 (mostly A2-B1)"
+   }
+  ],
+  "notes": "What I could and could not confirm.\n\nBest find: dry-melon/Chinese-middle-school-English-exam-questions. I downloaded and counted the six relevant files: 30,478 standalone grammar MCQs and 12,326 cloze blanks, with answers, explanations and a test_point that maps to the FORMAT.md patterns. Two caveats. Its CC BY 4.0 tag is only the uploader's claim over exam papers collected from public sites. The level is A2-B1, with grade 9 the strongest. About 38% of answers were not provided by the source and are LLM-filled, so verify them.\n\nCLOTH (the main cloze exam dataset) is not in the list above. The 8.9 MB CLOTH.zip is at http://www.cs.cmu.edu/~glai1/data/cloth/CLOTH.zip, but I found no license statement and no HF mirror. It is about 7,131 passages and 99,433 blanks from Chinese middle- and high-school exams, per the paper, and I did not verify that count at the source. I also did not download it because it is over 5 MB. Treat it as an unclear-license candidate. It is probably fine for private study, but no licence is stated.\n\nNot found or not usable:\n- A TOEIC Part 5 dataset or CEFR grammar quiz dataset on HF with a clear licence. My HF searches returned only vocab sets.\n- cLang-8 (Google): the GitHub repo has only target sentences, and the Lang-8 source text needs a request form. NAIST Lang-8 is non-commercial.\n- FCE (matejklemen/clc_fce) and EFCAMDAT: research-only licences.\n- CEPOC (Cambridge open-cloze, CEFR A2-C2): described in LREC 2022 (aclanthology 2022.lrec-1.456), but I could not find where it is released, nor its licence.\n- UNED_1425, B2 sentences by Spanish learners corrected with ChatGPT (portalcientifico.uned.es), CC BY-NC-SA 4.0 according to a search summary. I did not open the record, so it is unverified. It is the only Spanish-speaker-specific English error source I found.\n- falko_merlin (CC BY-SA 4.0) is German learner data, and ltg/ask-gec (CC BY-4.0) is Norwegian, so neither fits.\n\nSpanish-speaker errors: no dataset covers them directly. The practical route is to generate them. Use the real-error corpora (W&I, JFLEG, CoEdIT) for authentic wrong forms, then write the pattern='false-friend' and 'preposition' items and their 'note' tips with Claude, based on known Spanish-English interference.\n\nSuggested order: dry-melon (bulk, B1), then CoEdIT (B2-C1 academic), then CEFR-SP and Tatoeba for buildSentence, then JFLEG and W&I as small authentic sets.\n\nLicence summary: permissive are dry-melon (tag only), CoEdIT, C4_200M and Tatoeba. Non-commercial are JFLEG and CEFR-SP. W&I/LOCNESS is research-only.\n\nI did not read W&I/LOCNESS sample rows."
+ },
+ {
+  "family": "vocab",
+  "sources": [
+   {
+    "name": "Tatoeba EN-ES sentence pairs (official exports)",
+    "url": "https://tatoeba.org/en/downloads",
+    "license": "CC BY 2.0 FR for the exports (attribution to the sentence author); a subset of sentences is also CC0 1.0 (spa_sentences_CC0 is tiny, ~2 KB). Source: tatoeba.org/en/downloads and terms_of_use.",
+    "licenseClass": "permissive",
+    "verified": true,
+    "size": "eng-spa_links.tsv has 283,904 linked ID pairs (checked by downloading the 1.7 MB file). spa_sentences has 442,728 Spanish lines. eng_sentences.tsv.bz2 is 25 MB, so I did not download it.",
+    "access": "Direct, no login: https://downloads.tatoeba.org/exports/per_language/eng/eng-spa_links.tsv.bz2 (pairs of IDs), .../per_language/eng/eng_sentences.tsv.bz2 and .../per_language/spa/spa_sentences.tsv.bz2 (id, lang, text). Join on ID. The Hugging Face mirror Helsinki-NLP/tatoeba_mt is gated (HTTP 401) and Helsinki-NLP/tatoeba is only a loader script, so use the direct downloads.",
+    "mapsTo": [
+     "vocab example",
+     "vocab exampleEs",
+     "vocab cloze",
+     "grammar"
+    ],
+    "quality": "Spanish sample lines are short, natural and conversational (e.g. 'Tengo que irme a dormir.'). Many sentences are very short or A1-A2, and some translations are loose or wrong because the data is crowdsourced. Filter by length (8-20 words) and by headword match, and keep the author for attribution.",
+    "conversion": "For each target headword, find English sentences containing it (lemma or inflected form) and take the linked Spanish translation as exampleEs. Blank the word with ____ once to make the cloze, and set answer to the exact form. Distractors are 3 same-POS, same-inflection words from the NGSL/CEFR-J list, checked against the sentence with a language model. Keep the Tatoeba sentence ID and author in a credits file.",
+    "estimatedItems": 15000
+   },
+   {
+    "name": "NGSL / NAWL / BSL / TSL (New General Service List Project)",
+    "url": "https://www.newgeneralservicelist.com/word-lists",
+    "license": "Creative Commons Attribution-ShareAlike 4.0 International (the NGSL page says the lists are 'licensed under a Creative Commons Attribution-ShareAlike 4.0 International License'; the site says all lists are free, including for commercial use). Authors: Browne, Culligan, Phillips.",
+    "licenseClass": "share-alike",
+    "verified": true,
+    "size": "NGSL 2,809 words; NAWL 960; BSL 1,700; TSL 1,200 (site home page, 2026). Also NGSL-Spoken 721.",
+    "access": "Direct download links on each list page, no login: e.g. https://www.newgeneralservicelist.com/s/NGSL_12_lemmatized_for_teaching.csv, /s/NGSL_12_stats.csv, /s/NGSL_12_with_English_definitions.xlsx. BSL, NAWL and TSL pages have matching 1.2 files. I did not find a Spanish-translation file on the site.",
+    "mapsTo": [
+     "vocab headword selection",
+     "vocab tags workplace/academic/meetings",
+     "vocab definition (the NGSL with-definitions xlsx)"
+    ],
+    "quality": "These are frequency and coverage lists, not CEFR-graded, so the headword list is clean but has no level, no Spanish and no examples. BSL (97% of business English) is the best fit for work meetings. Use the NGSL-with-English-definitions xlsx as a ready simple-English definition field.",
+    "conversion": "Use as the headword spine: BSL, then NAWL, then NGSL ranks 800-2809. Take cefr from CEFR-J (or the Words-CEFR-Dataset lookup) and, when there is no match, estimate it from frequency rank. Take es and example from the Wiktionary and Tatoeba sources. Tag BSL words workplace and NAWL words academic. Generate collocations with a language model and check them against the corpus.",
+    "estimatedItems": 4500
+   },
+   {
+    "name": "CEFR-J Vocabulary Profile 1.5 + Octanove C1/C2 profile",
+    "url": "https://github.com/openlanguageprofiles/olp-en-cefrj",
+    "license": "CEFR-J Vocabulary Profile: free for research and commercial use if properly cited; copyright Tono Laboratory, TUFS (README 'Terms of use'; not a standard SPDX license). Octanove Vocabulary Profile C1/C2: CC BY-SA 4.0.",
+    "licenseClass": "unclear",
+    "verified": true,
+    "size": "cefrj-vocabulary-profile-1.5.csv is 233 KB (about 7,800 entries); octanove-vocabulary-profile-c1c2-1.0.csv is 46 KB (about 1,500 entries). I checked the file sizes through the GitHub API but did not count the rows.",
+    "access": "Direct: https://raw.githubusercontent.com/openlanguageprofiles/olp-en-cefrj/master/cefrj-vocabulary-profile-1.5.csv and .../octanove-vocabulary-profile-c1c2-1.0.csv. A CEFR-J grammar profile CSV (72 KB) is in the same repo. No login.",
+    "mapsTo": [
+     "vocab cefr",
+     "vocab pos",
+     "grammar item list (the CEFR-J grammar profile)"
+    ],
+    "quality": "This is the only human-curated headword + POS + CEFR (A1-C2) list with a clear permissive-use statement. Levels use CEFR-J sublevels such as A1, A2, B1, B2, and the C1/C2 part is extended by Octanove. It has no Spanish, definitions or examples. The grammar profile is only partly translated from Japanese.",
+    "conversion": "Map to the cefr field (A2, B1, B1+, B2, B2+, C1, C2) and keep B1-C1 (about 3,000-4,000 words). Use headword and POS as the key for the rows from the other sources. The grammar-profile CSV is a ready topic list for the grammar family, but the exercises still have to be generated.",
+    "estimatedItems": 3500
+   },
+   {
+    "name": "kaikki.org Wiktionary extract (Wiktextract, English edition)",
+    "url": "https://kaikki.org/dictionary/rawdata.html",
+    "license": "Same licenses as Wiktionary: CC BY-SA and GFDL (kaikki.org: 'made available under the same licenses as Wiktionary - both CC-BY-SA and GFDL'). The extraction code, wiktextract, is MIT.",
+    "licenseClass": "share-alike",
+    "verified": true,
+    "size": "English dictionary JSONL is about 3.43 GB (Content-Length 3,430,807,113 on kaikki.org-dictionary-English.jsonl, checked with a HEAD request). The per-word JSONL is under 5 MB per word. Do not fetch the full file for a sample.",
+    "access": "Direct, no login: https://kaikki.org/dictionary/English/kaikki.org-dictionary-English.jsonl (3.4 GB, download only after a size check), or per-word pages such as https://kaikki.org/dictionary/English/meaning/a/ab/abandon.html. The word page I fetched shows per-sense Spanish translations, e.g. abandon gives 'desenfreno' and 'renunciar', 'suspender', 'abandonar'. The Spanish-edition dump (kaikki.org/dictionary/Spanish/) has Spanish glosses.",
+    "mapsTo": [
+     "vocab es",
+     "vocab definition",
+     "vocab pos",
+     "vocab tags phrasal/idiom/collocation",
+     "vocab note"
+    ],
+    "quality": "Definitions are good and precise. The Spanish translations come from the translations tables, which are listed per sense, sometimes missing or too literal, and they include several senses per word, so choosing the sense that matches the example needs a language model. Tags such as 'phrasal verb' and 'idiomatic' are available, so it also covers phrasal verbs and idioms.",
+    "conversion": "Stream the JSONL and keep entries whose word is in the NGSL/BSL/CEFR-J spine. Take definition from senses[].glosses and es from translations where lang_code is 'es', matched to the sense. For missing es, have a language model write the Spanish and mark it as generated. Attribute the data to Wiktionary and keep the whole vocab file under CC BY-SA, because it is a derivative.",
+    "estimatedItems": 4000
+   },
+   {
+    "name": "EFLLex (CEFR-graded English lexicon, UCLouvain CENTAL)",
+    "url": "https://cental.uclouvain.be/cefrlex/efllex/download/",
+    "license": "CC BY-NC-SA 4.0 (the version with NLP4J POS tags, according to the search result for the CENTAL download page). I did not open the license text on the page itself.",
+    "licenseClass": "non-commercial",
+    "verified": false,
+    "size": "15,280 lemmas with frequency distributions across CEFR levels A1-C1 (C2 excluded), according to the search summary.",
+    "access": "Download form on https://cental.uclouvain.be/cefrlex/efllex/download/ (for research and teaching use; the page may ask you to cite Durlich & Francois, LREC 2018). Check that it needs no registration.",
+    "mapsTo": [
+     "vocab cefr (cross-check)"
+    ],
+    "quality": "Level estimates come from textbook and graded-reader corpora, and it has 15k lemmas, so it is wide, but there are no Spanish glosses, definitions or examples. It is useful for choosing the level of a word that CEFR-J misses.",
+    "conversion": "Use only to fill or check cefr: take the first CEFR level where the word's normalized frequency passes a threshold. Do not copy values into the shipped bank if the bank might ever be distributed. For personal study the NC clause is not a problem, but flag it.",
+    "estimatedItems": 0
+   },
+   {
+    "name": "Kelly list (English, Kilgarriff et al., via Sprakbanken Text)",
+    "url": "https://spraakbanken.gu.se/en/resources/kelly",
+    "license": "Not confirmed for English. The Sprakbanken page shows CC-BY-4.0 on some resource entries and CC-BY-SA 3.0 / LGPL 3.0 for the Swedish Kelly list, but I could not tie a license to the English file, so check the English entry before relying on it.",
+    "licenseClass": "unclear",
+    "verified": false,
+    "size": "About 6,000 words per language at CEFR levels A1-C2 (from memory; I did not verify the English count at the source).",
+    "access": "Sprakbanken resource page lists Arabic, Chinese, English, Italian, Russian. Download details for English not verified.",
+    "mapsTo": [
+     "vocab cefr (cross-check)"
+    ],
+    "quality": "Frequency-ranked and mapped to CEFR using web corpus data. It is a good second opinion on levels for the CEFR-J spine, but it has no Spanish or examples. Lower priority than CEFR-J.",
+    "conversion": "Use only for level cross-checks, like EFLLex.",
+    "estimatedItems": 0
+   },
+   {
+    "name": "Open English WordNet 2024 (definitions and example sentences)",
+    "url": "https://github.com/globalwordnet/english-wordnet",
+    "license": "The GitHub API reports NOASSERTION for the repo; the repo has a LICENSE.md. Open English WordNet is generally published under CC BY 4.0, but I did not read LICENSE.md in this session, so confirm it.",
+    "licenseClass": "unclear",
+    "verified": false,
+    "size": "About 120,000 synsets (from memory, not checked).",
+    "access": "Direct from GitHub (releases include XML/JSON/WN-LMF files); no login. Not downloaded here.",
+    "mapsTo": [
+     "vocab definition",
+     "vocab example",
+     "vocab collocations (via sense examples)"
+    ],
+    "quality": "Definitions are precise but written in dictionary style and skew to a higher level than B2 learners need. Example sentences cover only a minority of senses. It is a good fallback when Wiktionary lacks a definition for a word.",
+    "conversion": "Match headword and POS to a synset and take the gloss and any example. Rewrite the definition in simpler English with a language model for B1-B2 learners.",
+    "estimatedItems": 1500
+   }
+  ],
+  "notes": "I verified the Tatoeba, NGSL, CEFR-J and kaikki sources directly. The last three (EFLLex, Kelly, Open English WordNet) are only partly verified, and I marked them verified:false. Their licenses and sizes need a check at the source, and none of them is critical.\n\nEstimated yield. The numbers are rough: about 4,500 headwords from the NGSL/BSL/NAWL/CEFR-J spine, minus overlap and entries that lack a usable Spanish gloss. Tatoeba alone could supply tens of thousands of cloze sentences, but I counted 15,000 conservatively after filtering for length and for headword match.\n\nLicensing summary. Everything usable carries attribution or share-alike terms. NGSL/BSL/NAWL/TSL and the Octanove C1/C2 list are CC BY-SA 4.0, kaikki.org data is CC BY-SA plus GFDL, and Tatoeba is CC BY 2.0 FR. The CEFR-J profile is free with citation. For a private local bank that is fine. If it were ever shared, the combined vocab bank would have to be CC BY-SA with credits. EFLLex is CC BY-NC-SA and is used only as a cross-check.\n\nGaps I did not fill:\n- Collocations: I found no open, ready-made collocation dataset. The only hit was the R package 'phrases' (about 1,100 EnglishClub phrasal verbs, package GPL-3, but the underlying site content is not clearly open), so I left it out. Generate collocations with a language model and check them against Tatoeba and Wiktionary examples.\n- Phrasal verbs: use the Wiktionary tags in the kaikki extract instead.\n- Ready-made Spanish translations: no list is both CEFR-graded and translated into Spanish under an open license. Spanish has to come from Wiktionary, Tatoeba, or generation by a language model.\n\nA tooling note: the Hugging Face dataset Helsinki-NLP/tatoeba_mt is gated, so use the direct Tatoeba downloads instead."
+ },
+ {
+  "family": "writing-speaking",
+  "sources": [
+   {
+    "name": "WritingPrompts (euclaise/writingprompts, from Reddit r/WritingPrompts)",
+    "url": "https://huggingface.co/datasets/euclaise/writingprompts",
+    "license": "MIT (HF card/tag). Underlying Reddit text is user content, so the MIT tag is the mirror's claim.",
+    "licenseClass": "permissive",
+    "verified": true,
+    "size": "272,600 train + 15,138 test + validation, about 303k prompt/story pairs; roughly 1 GB total.",
+    "access": "HF id euclaise/writingprompts, default config, splits train/validation/test, columns prompt and story. Do not download whole files: use datasets-server /rows?offset=&length=100 or an HTTP Range request on the parquet shard.",
+    "mapsTo": [
+     "lifeParagraph",
+     "writeDiscussion"
+    ],
+    "quality": "Prompts are tokenised ('You 've', ' . '), prefixed '[ WP ]', and mostly fantasy/sci-fi, with some NSFW. Good for story continuation and creative prompts, weak for B2 workplace English. Stories are useless at this level; keep only prompts.",
+    "conversion": "Keep the prompt only. Strip '[ WP ]' and detokenise. Keep 12-45 words, drop NSFW and violence with a blocklist. Rewrite each as a second-person micro-task ('Continue this story in 40-60 words') or a 'what would you do' lifeParagraph with generated mustUse words. Generate mustUse and minWords by script. No Spanish needed.",
+    "estimatedItems": 20000
+   },
+   {
+    "name": "IELTS Writing Task 2 essays + prompts (chillies/IELTS-writing-task-2-evaluation)",
+    "url": "https://huggingface.co/datasets/chillies/IELTS-writing-task-2-evaluation",
+    "license": "No license stated on the HF repo (tags empty). Data appears scraped from real 2022-23 IELTS essays, so treat as unclear/personal use only.",
+    "licenseClass": "unclear",
+    "verified": true,
+    "size": "10,324 rows (datasets-server /size), 4 columns: prompt, essay, evaluation, band. Original files about 47 MB.",
+    "access": "HF id chillies/IELTS-writing-task-2-evaluation, default/train. Use the first-rows or rows API. Parquet is 18 MB, over the 5 MB limit, so page through /rows.",
+    "mapsTo": [
+     "writeDiscussion",
+     "writeEmail"
+    ],
+    "quality": "First row is a real Task 2 prompt ('Interviews form the basic criteria for most large companies... To what extent do you agree or disagree?'). Many rows share the same prompt, so unique prompts are far fewer than 10k and need dedupe. Prompts are real exam style with the usual agree/disagree, discuss-both-views and advantages/disadvantages types. Essays are not model answers. Related repos nlpatunt/D_Ielts_Writing_Task_2_Dataset (no license) and btnotpt/ielts_task_2 (apache-2.0 tag, but a copy of the same content) were seen but not inspected.",
+    "conversion": "Take the distinct prompt column only. Dedupe, then reshape into a TOEFL academic-discussion item: generate a professor post from the prompt topic plus two short student posts (Claude-generated, original). Keep prompts that are not academic or education-only. Use the essay band only as a hint for difficulty. Estimate is a guess and needs a dedupe pass to confirm.",
+    "estimatedItems": 1500
+   },
+   {
+    "name": "args.me corpus (debate portals: Debatewise, IDebate, Debatepedia, Debate.org)",
+    "url": "https://huggingface.co/datasets/webis/args_me",
+    "license": "CC BY 4.0 (HF card, README line 154).",
+    "licenseClass": "permissive",
+    "verified": true,
+    "size": "382,545 arguments; single file args-me.jsonl is 886 MB. HF tag 100K<n<1M.",
+    "access": "HF id webis/args_me, but the viewer does not support it (loading script) and the file is huge. Stream the first few MB with curl -r 0-4000000 https://huggingface.co/datasets/webis/args_me/resolve/main/args-me.jsonl. Fields include conclusion, premises, context (debate title) and stance.",
+    "mapsTo": [
+     "writeDiscussion",
+     "interview"
+    ],
+    "quality": "The 'conclusion' field is a debate claim ('Science is the best!', 'School uniforms should be banned'), which makes a good opinion or agree/disagree prompt. Many conclusions are noisy, informal or US-centric, and Debate.org text has typos. Premises give ready-made 'student A / student B' stances for writeDiscussion.",
+    "conversion": "Group by context/debate title, keep topics with both pro and con arguments. Use the conclusion as the question and the shortest clean pro and con premises (30-60 words) as studentA/studentB; Claude writes the professor post. Filter on length, profanity and dedupe. Also usable as abstract questions for interview.",
+    "estimatedItems": 4000
+   },
+   {
+    "name": "Tatoeba (English-Spanish sentence pairs)",
+    "url": "https://tatoeba.org/en/downloads",
+    "license": "CC BY 2.0 FR (stated on the downloads page); a subset is also CC0 1.0; the Tanaka Corpus portion is public domain.",
+    "licenseClass": "permissive",
+    "verified": true,
+    "size": "Page gives no counts. Weekly exports: sentences, links.tar.bz2 (pairs of translated sentence IDs), plus a custom 'Sentence pairs' export for any language pair. The Spanish-English pair count is not verified here; my recollection is in the low hundreds of thousands.",
+    "access": "Direct download from tatoeba.org/en/downloads (per-language sentences files and links.tar.bz2), or the on-demand 'Sentence pairs' tool for spa->eng. HF mirror Helsinki-NLP/tatoeba is CC BY 2.0 but its configs did not list en-es in my check, and Helsinki-NLP/tatoeba_mt is gated.",
+    "mapsTo": [
+     "lifeParagraph",
+     "interview"
+    ],
+    "quality": "Short, clean, mixed-level sentences (3-20 words), often daily-life. Spanish side can be regional or have errors. Good for 'translate this Spanish sentence into English' and as seeds for buildSentence.",
+    "conversion": "Pick pairs where the Spanish is 8-25 words and the English is 8-22 words. Show Spanish, ask for an English translation, accept the Tatoeba English plus other translations linked to the same Spanish sentence as references. Claude grades it. Needs no distractors. Also usable as listenRepeat sentences.",
+    "estimatedItems": 20000
+   },
+   {
+    "name": "JFLEG (error correction of learner sentences)",
+    "url": "https://huggingface.co/datasets/jhu-clsp/jfleg",
+    "license": "CC BY-NC-SA 4.0 (HF tag).",
+    "licenseClass": "non-commercial",
+    "verified": true,
+    "size": "HF tag 1K<n<10K. I recall about 1,500 sentences across dev and test, each with 4 human corrections, but did not confirm the exact split sizes.",
+    "access": "HF id jhu-clsp/jfleg, default config, splits validation and test, fields sentence and corrections (list of 4). Small, fine to download.",
+    "mapsTo": [
+     "lifeParagraph"
+    ],
+    "quality": "Real learner sentences with natural errors (e.g. 'For not use car .', 'we can not live if old people could not find siences'). Tokenised with spaces before punctuation. Good fit for 'correct your own mistakes' exercises.",
+    "conversion": "Detokenise. Show the faulty sentence, user rewrites it, then compare against the four reference corrections and let Claude judge. Drop the very short or unintelligible sentences. Share-alike plus NC applies, so the content cannot be redistributed commercially.",
+    "estimatedItems": 1200
+   },
+   {
+    "name": "CoEdIT (grammarly/coedit, text editing instructions)",
+    "url": "https://huggingface.co/datasets/grammarly/coedit",
+    "license": "apache-2.0 per the HF card, but the tasks are built from several upstream corpora (e.g. JFLEG, ASSET, others) whose own terms may be non-commercial. Treat as unclear for redistribution.",
+    "licenseClass": "unclear",
+    "verified": true,
+    "size": "HF tag 10K<n<100K (about 82k instruction/source/target rows per the paper; exact count not confirmed).",
+    "access": "HF id grammarly/coedit, fields _id, task, src, tgt. Task values include gec, simplification, paraphrase, coherence, neutralization and formality-style tasks. Use the first-rows API or filter by task.",
+    "mapsTo": [
+     "writeEmail",
+     "lifeParagraph"
+    ],
+    "quality": "Instruction-formatted ('Make this text more formal: ...', 'Fix grammar: ...'). Sentence-level, clean, a mix of Wikipedia and learner-like text. Good for 'rewrite formally / rewrite more simply / combine sentences' tasks.",
+    "conversion": "Use the src as the text to rewrite and the tgt as the reference answer. Select formality, simplification and coherence tasks. Convert the instruction to a plain label ('Rewrite for a manager'). Claude judges the learner's rewrite against the reference. Filter to B1-C1 vocabulary.",
+    "estimatedItems": 8000
+   },
+   {
+    "name": "EmpatheticDialogues (Facebook Research)",
+    "url": "https://github.com/facebookresearch/EmpatheticDialogues",
+    "license": "CC BY-NC 4.0 (HF tag cc-by-nc-4.0 on facebook/empathetic_dialogues). The GitHub repo reports NOASSERTION as its license, so check the LICENSE file.",
+    "licenseClass": "non-commercial",
+    "verified": true,
+    "size": "25k conversations grounded in emotional situations (README); HF tag 10K<n<100K. 32 emotion labels per my recollection (not confirmed).",
+    "access": "HF id facebook/empathetic_dialogues (the datasets-server did not return rows for it, probably a loading script), or download the tarball linked in the GitHub README (a few MB). Fields include context (emotion), prompt (the situation), utterance and speaker turns.",
+    "mapsTo": [
+     "lifeParagraph",
+     "interview",
+     "writeEmail"
+    ],
+    "quality": "Each conversation starts with a short first-person situation ('I felt so proud when...') that is easy to turn into a personal question. Casual, US-flavoured, a few typos. Good for personal reflection prompts and for 'reply to this message' tasks.",
+    "conversion": "Use the situation as a message the user must reply to with empathy or advice (reply to a message, give advice). Or turn the emotion + situation into a lifeParagraph question about the user's own similar experience. Generate mustUse with a script. Keep one situation per conversation.",
+    "estimatedItems": 10000
+   },
+   {
+    "name": "DailyDialog (multi-turn everyday dialogues)",
+    "url": "https://huggingface.co/datasets/li2017dailydialog/daily_dialog",
+    "license": "CC BY-NC-SA 4.0 (HF tag and the roskoN mirror's README).",
+    "licenseClass": "non-commercial",
+    "verified": true,
+    "size": "HF tag 10K<n<100K (about 13k dialogues per the paper, not confirmed here).",
+    "access": "HF id li2017dailydialog/daily_dialog (loading script). Mirrors without a loading script: roskoN/dailydialog or ConvLab/dailydialog (also cc-by-nc-sa-4.0). Each has dialog turns plus act and emotion labels.",
+    "mapsTo": [
+     "interview",
+     "writeEmail",
+     "lifeParagraph"
+    ],
+    "quality": "Written by English learners/teachers for practice, so the register is basic and everyday (A2-B1). Good seed for conversation topics and for the 'build a reply' format. Too easy for B2 writing on its own.",
+    "conversion": "Take the first one or two turns as a message to answer, or extract the topic to generate follow-up interview questions. Pair with Claude-written B2 level-up. Not suitable as a direct source of listening transcripts at B2+.",
+    "estimatedItems": 5000
+   },
+   {
+    "name": "databricks-dolly-15k (brainstorming, creative writing, summarization subsets)",
+    "url": "https://huggingface.co/datasets/databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0 (HF card, line 17 and 111).",
+    "licenseClass": "share-alike",
+    "verified": true,
+    "size": "Over 15,000 records (card). HF tag 10K<n<100K. Categories: brainstorming, classification, closed QA, creative writing, general QA, information extraction, open QA, summarization. Per-category counts not confirmed here.",
+    "access": "HF id databricks/databricks-dolly-15k, columns instruction, context, response, category. About 13 MB in total (check size), so filter by category through the rows API or download the jsonl.",
+    "mapsTo": [
+     "lifeParagraph",
+     "writeDiscussion"
+    ],
+    "quality": "Human-written prompts by employees; creative-writing instructions are specific and constrained; summarization rows come with a Wikipedia reference paragraph, so they work as 'summarise this paragraph in 2 sentences' tasks. Wikipedia context adds CC BY-SA on top.",
+    "conversion": "Pick category in {brainstorming, creative_writing, summarization}. For summarisation use context as the text and the response as the reference summary. For brainstorming/creative writing reuse the instruction as an advice or opinion prompt. Filter length, drop US trivia. Share-alike applies to published derivatives.",
+    "estimatedItems": 3500
+   }
+  ],
+  "notes": "Verification status: licenses/sizes above were read from the HF API/cards or the source page in this session. Items marked 'my recollection' or 'not confirmed' were not checked. Estimated item counts are my estimates after filtering, not measured.\n\nChecked but dropped or weak:\n- PERSUADE 2.0 (github.com/scrosseye/persuade_corpus_2.0): README says CC BY-NC-SA 4.0 (the Zenodo paper record says cc-by-4.0, which is for the article). Only 15 prompts, written for grades 6-12, so little value as a prompt bank.\n- Cambridge W&I+LOCNESS (HF bea2019st/wi_locness): licence is the Cambridge 'CEWI' agreement, non-commercial research and educational use only. Good learner essays with CEFR labels (useful for calibrating B2 level) but not for prompt generation. Research-only.\n- PersonaChat (bavard/personachat_truecased, AlekseyKorshuk/persona-chat): no license on the HF repos; unclear. Skip unless you only want persona sentences as interview seeds.\n- EmpatheticDialogues is NC; DailyDialog, JFLEG are NC-SA. Fine for a private local app, but do not redistribute.\n- No open IELTS Task 1 (chart) prompt dataset found. For describe-a-chart, generate small tables/charts yourself with a script and let Claude describe the expected key points. Related open chart data: ahmed-masry/ChartQA is GPL-3.0 (HF tag) and heavy; probably not worth it. vis-nlp/Chart-to-text had no HF API response.\n- No openly licensed ESL conversation-question list or business-email prompt set found. EnglishPost/iTESL-style lists carry no license; do not copy. AESLC (Enron subject lines) has no clear license. danielrosehill/Writing-System-Prompts (cc-by-4.0) and wardacoder/business-email-dataset (MIT, synthetic) appeared in search but were not inspected. The practical route for interview/writeEmail is to have Claude generate scenarios from taxonomies (below) and use these corpora only as seeds for variety.\n- IBM Project Debater motions: licence not confirmed on IBM's page (a secondary site says CC BY-SA), and downloads need a request form. Skipped.\n\nWriting exercise kinds (to break the 'same exercise' feeling) and an open source for each:\n1. Reply to a message (emotional or workplace): EmpatheticDialogues situations (NC), DailyDialog first turns (NC-SA).\n2. Rewrite formally / for a manager / simpler: CoEdIT formality and simplification tasks (apache-2.0 tag, see caveat). Workplace flavor: have Claude write blunt Slack messages to rewrite.\n3. Summarise a short text: Dolly summarization with Wikipedia contexts (CC BY-SA 3.0). Alternative: abisee/cnn_dailymail (apache-2.0 tag), long news, so pick short articles only.\n4. Opinion / agree-disagree: args.me conclusions (CC BY 4.0), IELTS Task 2 prompts (license unclear).\n5. Compare two options / pros and cons: args.me gives pro and con premises. Otherwise generate from topics.\n6. Give advice: EmpatheticDialogues speaker situations; also allenai/prosocial-dialog (cc-by-4.0, 1.2k downloads, 100K<n<1M, not inspected) has problematic-situation openers.\n7. Complaint / request email: no open set found. Generate from a scenario matrix (service, delay, billing, supply-chain supplier issue, meeting reschedule) for the learner's work context.\n8. Story continuation: WritingPrompts (MIT).\n9. Error correction of your own or learner sentences: JFLEG (NC-SA), CoEdIT gec.\n10. Translation from Spanish: Tatoeba (CC BY 2.0 FR). Add a 'say it more naturally' variant using multiple references per Spanish sentence.\n11. Describe a chart/table: no open prompt set; generate synthetic tables.\n12. Speaking/interview: argue-a-side from args.me, EmpatheticDialogues situations as 'tell me about a time...', DailyDialog topics.\n\nSuggested priority for the Write screen: Tatoeba, args.me, WritingPrompts and CoEdIT give the most distinct exercise types per effort. Add a 'kind' field per item and rotate kinds (no two consecutive of the same kind) rather than only enlarging the bank. Unrelated to this family: the placeholder-overlapping-text bug in the writing input is a UI fix (hide the placeholder once the text field is non-empty, and pick the placeholder from the item's own prompt/kind instead of a fixed 'routines' example)"
+ }
+]

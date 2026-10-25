@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "tech-english-deploy",
+    "headword": "deploy",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "desplegar, poner en producción",
+    "definition": "to release new code so that users can use it",
+    "example": "We plan to deploy the new version to production after lunch.",
+    "exampleEs": "Planeamos desplegar la nueva versión a producción después de comer.",
+    "cloze": "We plan to ____ the new version to production after lunch.",
+    "answer": "deploy",
+    "distractors": [
+      "borrow",
+      "swim",
+      "marry"
+    ],
+    "collocations": [
+      "deploy to production",
+      "deploy a fix",
+      "deploy automatically"
+    ],
+    "note": "The noun is deployment. In meetings people also say 'push to prod'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-roll-back",
+    "headword": "roll back",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "revertir un despliegue, hacer rollback",
+    "definition": "to return software to an earlier, working version after a problem",
+    "example": "If the error rate goes up, we'll roll back the release immediately.",
+    "exampleEs": "Si sube la tasa de errores, revertiremos el release de inmediato.",
+    "cloze": "If the error rate goes up, we'll ____ the release immediately.",
+    "answer": "roll back",
+    "distractors": [
+      "stand up",
+      "fall over",
+      "cook down"
+    ],
+    "collocations": [
+      "roll back a release",
+      "roll back a migration",
+      "roll back to the previous version"
+    ],
+    "note": "The noun is 'rollback'. You can say 'roll back the release' or 'roll the release back'.",
+    "tags": [
+      "tech",
+      "phrasal"
+    ]
+  },
+  {
+    "id": "tech-english-bottleneck",
+    "headword": "bottleneck",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "cuello de botella",
+    "definition": "the slowest part of a system, which limits how fast everything else can go",
+    "example": "The database is the main bottleneck in our checkout flow.",
+    "exampleEs": "La base de datos es el principal cuello de botella en nuestro flujo de pago.",
+    "cloze": "The database is the main ____ in our checkout flow.",
+    "answer": "bottleneck",
+    "distractors": [
+      "birthday",
+      "sandwich",
+      "umbrella"
+    ],
+    "collocations": [
+      "a performance bottleneck",
+      "identify the bottleneck",
+      "remove a bottleneck"
+    ],
+    "note": "",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-scalable",
+    "headword": "scalable",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "escalable",
+    "definition": "able to handle more users or data without breaking or needing a full redesign",
+    "example": "We need a more scalable architecture before the launch.",
+    "exampleEs": "Necesitamos una arquitectura más escalable antes del lanzamiento.",
+    "cloze": "We need a more ____ architecture before the launch.",
+    "answer": "scalable",
+    "distractors": [
+      "delicious",
+      "jealous",
+      "sleepy"
+    ],
+    "collocations": [
+      "a scalable solution",
+      "highly scalable",
+      "scalable architecture"
+    ],
+    "note": "The noun is 'scalability'. Pronounce it SKAY-luh-bul.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-legacy",
+    "headword": "legacy",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "heredado, antiguo (código o sistema)",
+    "definition": "old and still in use, often hard to change",
+    "example": "Most of the bugs come from the legacy code nobody wants to touch.",
+    "exampleEs": "La mayoría de los errores vienen del código heredado que nadie quiere tocar.",
+    "cloze": "Most of the bugs come from the ____ code nobody wants to touch.",
+    "answer": "legacy",
+    "distractors": [
+      "frozen",
+      "tasty",
+      "rainy"
+    ],
+    "collocations": [
+      "legacy code",
+      "a legacy system",
+      "legacy application"
+    ],
+    "note": "'Legacy' is not a compliment in tech. It usually means old and risky.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-maintain",
+    "headword": "maintain",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "mantener (un sistema o código)",
+    "definition": "to keep software working, fixed and up to date over time",
+    "example": "Who is going to maintain this library once Ana leaves the team?",
+    "exampleEs": "¿Quién va a mantener esta biblioteca cuando Ana deje el equipo?",
+    "cloze": "Who is going to ____ this library once Ana leaves the team?",
+    "answer": "maintain",
+    "distractors": [
+      "borrow",
+      "marry",
+      "whisper"
+    ],
+    "collocations": [
+      "maintain a codebase",
+      "maintain an open-source project",
+      "hard to maintain"
+    ],
+    "note": "The noun is 'maintenance'. Stress is on the second syllable: muhn-TAYN.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-troubleshoot",
+    "headword": "troubleshoot",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "diagnosticar y resolver un problema",
+    "definition": "to look for the cause of a problem and fix it step by step",
+    "example": "I spent the morning trying to troubleshoot the failing build.",
+    "exampleEs": "Me pasé la mañana intentando diagnosticar el build que fallaba.",
+    "cloze": "I spent the morning trying to ____ the failing build.",
+    "answer": "troubleshoot",
+    "distractors": [
+      "celebrate",
+      "decorate",
+      "borrow"
+    ],
+    "collocations": [
+      "troubleshoot an issue",
+      "troubleshoot a connection problem",
+      "troubleshoot together"
+    ],
+    "note": "It is one word, not 'trouble shoot'. The noun is 'troubleshooting'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-deprecate",
+    "headword": "deprecate",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "deprecar, marcar como obsoleto",
+    "definition": "to officially say that something should no longer be used because it will be removed",
+    "example": "We're going to deprecate the old API at the end of the quarter.",
+    "exampleEs": "Vamos a deprecar la API antigua a finales del trimestre.",
+    "cloze": "We're going to ____ the old API at the end of the quarter.",
+    "answer": "deprecate",
+    "distractors": [
+      "inhabit",
+      "knit",
+      "whisper"
+    ],
+    "collocations": [
+      "deprecate an endpoint",
+      "a deprecated method",
+      "deprecate in favor of"
+    ],
+    "note": "Often used as an adjective: 'a deprecated function'. Do not confuse it with 'depreciate' (lose value).",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-edge-case",
+    "headword": "edge case",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "caso límite, caso extremo",
+    "definition": "an unusual situation that can break code that works in normal conditions",
+    "example": "Your fix works, but it doesn't handle the edge case where the list is empty.",
+    "exampleEs": "Tu corrección funciona, pero no maneja el caso límite en el que la lista está vacía.",
+    "cloze": "Your fix works, but it doesn't handle the ____ where the list is empty.",
+    "answer": "edge case",
+    "distractors": [
+      "front door",
+      "side dish",
+      "sea level"
+    ],
+    "collocations": [
+      "handle an edge case",
+      "miss an edge case",
+      "a rare edge case"
+    ],
+    "note": "Also written 'edge-case' before a noun, or 'corner case'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-workaround",
+    "headword": "workaround",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "solución provisional, parche temporal",
+    "definition": "a temporary way to avoid a problem without fixing its real cause",
+    "example": "It's not a real fix, just a workaround until we update the library.",
+    "exampleEs": "No es una solución real, solo un parche temporal hasta que actualicemos la biblioteca.",
+    "cloze": "It's not a real fix, just a ____ until we update the library.",
+    "answer": "workaround",
+    "distractors": [
+      "weekend",
+      "passport",
+      "elevator"
+    ],
+    "collocations": [
+      "a temporary workaround",
+      "find a workaround",
+      "a simple workaround"
+    ],
+    "note": "It is one word. As a verb you say 'work around a problem' (two words).",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-throughput",
+    "headword": "throughput",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "rendimiento, capacidad de procesamiento",
+    "definition": "the amount of work or data a system can process in a given time",
+    "example": "After the change, the throughput went from 200 to 900 requests per second.",
+    "exampleEs": "Después del cambio, el rendimiento pasó de 200 a 900 solicitudes por segundo.",
+    "cloze": "After the change, the ____ went from 200 to 900 requests per second.",
+    "answer": "throughput",
+    "distractors": [
+      "breakfast",
+      "neighbor",
+      "furniture"
+    ],
+    "collocations": [
+      "high throughput",
+      "increase throughput",
+      "network throughput"
+    ],
+    "note": "It is uncountable. Pronounce it THROO-put.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-outage",
+    "headword": "outage",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "caída del servicio, interrupción",
+    "definition": "a period when a service is not working",
+    "example": "The outage lasted forty minutes and affected about a thousand users.",
+    "exampleEs": "La caída duró cuarenta minutos y afectó a unos mil usuarios.",
+    "cloze": "The ____ lasted forty minutes and affected about a thousand users.",
+    "answer": "outage",
+    "distractors": [
+      "wardrobe",
+      "sunrise",
+      "garden"
+    ],
+    "collocations": [
+      "a major outage",
+      "a service outage",
+      "cause an outage"
+    ],
+    "note": "People say 'we had an outage', not 'a fall of the service'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-reproduce",
+    "headword": "reproduce",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "reproducir (un error)",
+    "definition": "to make a bug happen again on purpose so you can study it",
+    "example": "I can't reproduce the bug on my machine.",
+    "exampleEs": "No puedo reproducir el error en mi máquina.",
+    "cloze": "I can't ____ the bug on my machine.",
+    "answer": "reproduce",
+    "distractors": [
+      "swallow",
+      "borrow",
+      "marry"
+    ],
+    "collocations": [
+      "reproduce a bug",
+      "steps to reproduce",
+      "reproduce the issue locally"
+    ],
+    "note": "Bug reports always include 'steps to reproduce'. The adjective is 'reproducible'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-ship",
+    "headword": "ship",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "lanzar, entregar (un producto o función)",
+    "definition": "to release a feature or product to users",
+    "example": "We want to ship the dark mode feature by Friday.",
+    "exampleEs": "Queremos lanzar la función de modo oscuro para el viernes.",
+    "cloze": "We want to ____ the dark mode feature by Friday.",
+    "answer": "ship",
+    "distractors": [
+      "marry",
+      "sneeze",
+      "sleep"
+    ],
+    "collocations": [
+      "ship a feature",
+      "ship to production",
+      "ship it"
+    ],
+    "note": "Past form is 'shipped'. 'Ship it!' is a common way to approve a release.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-refactor",
+    "headword": "refactor",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "refactorizar",
+    "definition": "to rewrite code to make it cleaner without changing what it does",
+    "example": "Can we refactor this function before adding more logic to it?",
+    "exampleEs": "¿Podemos refactorizar esta función antes de agregarle más lógica?",
+    "cloze": "Can we ____ this function before adding more logic to it?",
+    "answer": "refactor",
+    "distractors": [
+      "sneeze",
+      "swallow",
+      "bake"
+    ],
+    "collocations": [
+      "refactor the code",
+      "refactor into smaller functions",
+      "needs refactoring"
+    ],
+    "note": "Stress the second syllable of the verb: ree-FAK-ter. The noun is 'refactoring'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-blocker",
+    "headword": "blocker",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "bloqueo, impedimento",
+    "definition": "something that stops you from continuing your work",
+    "example": "My only blocker is that I still don't have access to the staging server.",
+    "exampleEs": "Mi único bloqueo es que todavía no tengo acceso al servidor de staging.",
+    "cloze": "My only ____ is that I still don't have access to the staging server.",
+    "answer": "blocker",
+    "distractors": [
+      "mushroom",
+      "pillow",
+      "bicycle"
+    ],
+    "collocations": [
+      "a blocker",
+      "remove a blocker",
+      "any blockers?"
+    ],
+    "note": "In standups people ask 'Any blockers?'. Do not say 'blocking' as a noun here.",
+    "tags": [
+      "tech",
+      "meetings"
+    ]
+  },
+  {
+    "id": "tech-english-regression",
+    "headword": "regression",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "regresión (un error nuevo en algo que antes funcionaba)",
+    "definition": "a bug where something that used to work stops working after a change",
+    "example": "The last release introduced a regression in the login page.",
+    "exampleEs": "El último release introdujo una regresión en la página de inicio de sesión.",
+    "cloze": "The last release introduced a ____ in the login page.",
+    "answer": "regression",
+    "distractors": [
+      "vacation",
+      "sandwich",
+      "anniversary"
+    ],
+    "collocations": [
+      "introduce a regression",
+      "a regression bug",
+      "regression testing"
+    ],
+    "note": "In tech it always means going backwards, never a statistical regression unless the context is data.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-backlog",
+    "headword": "backlog",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "backlog, lista de tareas pendientes",
+    "definition": "the list of tasks the team still has to do",
+    "example": "The backlog is full of tickets nobody has looked at in months.",
+    "exampleEs": "El backlog está lleno de tickets que nadie ha revisado en meses.",
+    "cloze": "The ____ is full of tickets nobody has looked at in months.",
+    "answer": "backlog",
+    "distractors": [
+      "refrigerator",
+      "mountain",
+      "holiday"
+    ],
+    "collocations": [
+      "groom the backlog",
+      "a product backlog",
+      "clear the backlog"
+    ],
+    "note": "Pronounce it BAK-log. 'Backlog grooming' or 'refinement' means cleaning it up.",
+    "tags": [
+      "tech",
+      "meetings"
+    ]
+  },
+  {
+    "id": "tech-english-merge",
+    "headword": "merge",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "fusionar (código), hacer merge",
+    "definition": "to combine changes from one branch of code into another",
+    "example": "I'll merge your pull request as soon as the tests pass.",
+    "exampleEs": "Haré merge de tu pull request en cuanto pasen las pruebas.",
+    "cloze": "I'll ____ your pull request as soon as the tests pass.",
+    "answer": "merge",
+    "distractors": [
+      "sneeze",
+      "borrow",
+      "marry"
+    ],
+    "collocations": [
+      "merge a branch",
+      "merge into main",
+      "merge conflict"
+    ],
+    "note": "Say 'merge into main', not 'merge in main'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-pull-request",
+    "headword": "pull request",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "pull request, solicitud de integración de cambios",
+    "definition": "a request to review your code changes and add them to the main project",
+    "example": "Could you review my pull request when you have a minute? It's only about fifty lines.",
+    "exampleEs": "¿Podrías revisar mi pull request cuando tengas un minuto? Son solo unas cincuenta líneas.",
+    "cloze": "Could you review my ____ when you have a minute? It's only about fifty lines.",
+    "answer": "pull request",
+    "distractors": [
+      "birthday cake",
+      "train ticket",
+      "coffee break"
+    ],
+    "collocations": [
+      "open a pull request",
+      "review a pull request",
+      "approve a pull request"
+    ],
+    "note": "People shorten it to 'PR'. You 'open' or 'raise' a PR and 'approve' or 'merge' it.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-latency",
+    "headword": "latency",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "latencia",
+    "definition": "the delay between a request and its response",
+    "example": "Users in Asia are complaining about high latency.",
+    "exampleEs": "Los usuarios en Asia se quejan de la alta latencia.",
+    "cloze": "Users in Asia are complaining about high ____.",
+    "answer": "latency",
+    "distractors": [
+      "elbow",
+      "blanket",
+      "candle"
+    ],
+    "collocations": [
+      "high latency",
+      "low latency",
+      "reduce latency"
+    ],
+    "note": "It is uncountable in most cases. The adjective is 'latent', which is a different word.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-dependency",
+    "headword": "dependency",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "dependencia",
+    "definition": "an external library or package your project needs in order to work",
+    "example": "We should update this dependency because it has a security vulnerability.",
+    "exampleEs": "Deberíamos actualizar esta dependencia porque tiene una vulnerabilidad de seguridad.",
+    "cloze": "We should update this ____ because it has a security vulnerability.",
+    "answer": "dependency",
+    "distractors": [
+      "mattress",
+      "suitcase",
+      "anniversary"
+    ],
+    "collocations": [
+      "update a dependency",
+      "a third-party dependency",
+      "dependency hell"
+    ],
+    "note": "Plural is 'dependencies'. Pay attention to the spelling: -ency, not -ancy.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-hotfix",
+    "headword": "hotfix",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "corrección urgente (en producción)",
+    "definition": "a quick fix released right away to solve a serious problem in production",
+    "example": "We pushed a hotfix last night to stop the payment errors.",
+    "exampleEs": "Subimos una corrección urgente anoche para detener los errores de pago.",
+    "cloze": "We pushed a ____ last night to stop the payment errors.",
+    "answer": "hotfix",
+    "distractors": [
+      "holiday",
+      "jacket",
+      "blanket"
+    ],
+    "collocations": [
+      "push a hotfix",
+      "a hotfix release",
+      "deploy a hotfix"
+    ],
+    "note": "Usually written as one word. It skips the normal release schedule.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-feature-flag",
+    "headword": "feature flag",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "feature flag, interruptor de funcionalidad",
+    "definition": "a setting that lets you turn a feature on or off without deploying new code",
+    "example": "Let's put it behind a feature flag so we can turn it off if something breaks.",
+    "exampleEs": "Pongámoslo detrás de un feature flag para poder apagarlo si algo se rompe.",
+    "cloze": "Let's put it behind a ____ so we can turn it off if something breaks.",
+    "answer": "feature flag",
+    "distractors": [
+      "family photo",
+      "bus ticket",
+      "street lamp"
+    ],
+    "collocations": [
+      "behind a feature flag",
+      "enable a feature flag",
+      "a feature flag rollout"
+    ],
+    "note": "People say 'behind a flag' or 'flagged'. Also called a 'feature toggle'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-prototype",
+    "headword": "prototype",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "prototipo",
+    "definition": "an early, simple version of a product used to test an idea",
+    "example": "I built a quick prototype to show the team how the flow would work.",
+    "exampleEs": "Armé un prototipo rápido para mostrarle al equipo cómo funcionaría el flujo.",
+    "cloze": "I built a quick ____ to show the team how the flow would work.",
+    "answer": "prototype",
+    "distractors": [
+      "grandmother",
+      "mountain",
+      "sandwich"
+    ],
+    "collocations": [
+      "build a prototype",
+      "a working prototype",
+      "rapid prototype"
+    ],
+    "note": "Pronounce it PRO-tuh-type. The verb is 'prototype' too.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-tech-debt",
+    "headword": "tech debt",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "deuda técnica",
+    "definition": "the extra work you create later by choosing a quick solution now",
+    "example": "We keep shipping features and ignoring the tech debt, and it's slowing us down.",
+    "exampleEs": "Seguimos lanzando funciones e ignorando la deuda técnica, y nos está frenando.",
+    "cloze": "We keep shipping features and ignoring the ____, and it's slowing us down.",
+    "answer": "tech debt",
+    "distractors": [
+      "weather forecast",
+      "pizza party",
+      "bank holiday"
+    ],
+    "collocations": [
+      "pay down tech debt",
+      "accumulate tech debt",
+      "a lot of tech debt"
+    ],
+    "note": "It is uncountable. The full form is 'technical debt'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-downtime",
+    "headword": "downtime",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "tiempo de inactividad",
+    "definition": "the time when a system is not available",
+    "example": "We need to schedule the migration so there's zero downtime.",
+    "exampleEs": "Necesitamos programar la migración para que no haya nada de tiempo de inactividad.",
+    "cloze": "We need to schedule the migration so there's zero ____.",
+    "answer": "downtime",
+    "distractors": [
+      "birthday",
+      "bedroom",
+      "breakfast"
+    ],
+    "collocations": [
+      "scheduled downtime",
+      "zero downtime",
+      "minimize downtime"
+    ],
+    "note": "It is uncountable, so you do not say 'a downtime'. A short event is an 'outage'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-patch",
+    "headword": "patch",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "parchear, aplicar un parche",
+    "definition": "to fix a problem or security hole by applying a small update",
+    "example": "We need to patch the server before the vulnerability goes public.",
+    "exampleEs": "Necesitamos parchear el servidor antes de que la vulnerabilidad se haga pública.",
+    "cloze": "We need to ____ the server before the vulnerability goes public.",
+    "answer": "patch",
+    "distractors": [
+      "bake",
+      "sneeze",
+      "borrow"
+    ],
+    "collocations": [
+      "patch a vulnerability",
+      "patch the server",
+      "patch a bug"
+    ],
+    "note": "The noun is also 'patch': 'a security patch'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-scope-creep",
+    "headword": "scope creep",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "crecimiento descontrolado del alcance",
+    "definition": "when new requests keep getting added to a project after it has started",
+    "example": "The project is late because of scope creep; the client keeps adding requests.",
+    "exampleEs": "El proyecto va tarde por el crecimiento del alcance; el cliente sigue agregando solicitudes.",
+    "cloze": "The project is late because of ____; the client keeps adding requests.",
+    "answer": "scope creep",
+    "distractors": [
+      "bus delay",
+      "fire drill",
+      "snow day"
+    ],
+    "collocations": [
+      "avoid scope creep",
+      "cause scope creep",
+      "a victim of scope creep"
+    ],
+    "note": "It is uncountable. Pronounce 'creep' as KREEP.",
+    "tags": [
+      "tech",
+      "meetings"
+    ]
+  },
+  {
+    "id": "tech-english-flaky",
+    "headword": "flaky",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "inestable, intermitente (una prueba)",
+    "definition": "working only some of the time, without a clear reason",
+    "example": "This test is flaky; it fails randomly about one time in ten.",
+    "exampleEs": "Esta prueba es inestable; falla al azar una de cada diez veces.",
+    "cloze": "This test is ____; it fails randomly about one time in ten.",
+    "answer": "flaky",
+    "distractors": [
+      "hungry",
+      "jealous",
+      "sleepy"
+    ],
+    "collocations": [
+      "a flaky test",
+      "flaky behavior",
+      "a flaky connection"
+    ],
+    "note": "In normal English 'flaky' also means unreliable about plans: 'He's flaky, he always cancels.'",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-stale",
+    "headword": "stale",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "desactualizado, obsoleto (datos)",
+    "definition": "not fresh or no longer up to date",
+    "example": "The cache returns stale data for a few seconds after an update.",
+    "exampleEs": "La caché devuelve datos desactualizados durante unos segundos después de una actualización.",
+    "cloze": "The cache returns ____ data for a few seconds after an update.",
+    "answer": "stale",
+    "distractors": [
+      "angry",
+      "thirsty",
+      "brave"
+    ],
+    "collocations": [
+      "stale data",
+      "a stale cache",
+      "a stale branch"
+    ],
+    "note": "Also used for bread. In code, a 'stale' branch is one nobody has touched in a long time.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-verbose",
+    "headword": "verbose",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "verboso, demasiado detallado",
+    "definition": "using more words or output than necessary",
+    "example": "The error messages are too verbose, so nobody reads them.",
+    "exampleEs": "Los mensajes de error son demasiado verbosos, así que nadie los lee.",
+    "cloze": "The error messages are too ____, so nobody reads them.",
+    "answer": "verbose",
+    "distractors": [
+      "tasty",
+      "rainy",
+      "jealous"
+    ],
+    "collocations": [
+      "verbose logging",
+      "a verbose output",
+      "too verbose"
+    ],
+    "note": "Many tools have a '--verbose' flag that prints extra detail. Stress: ver-BOHSS.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-robust",
+    "headword": "robust",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "robusto, resistente a fallos",
+    "definition": "strong and able to keep working even when things go wrong",
+    "example": "We want a robust solution that doesn't break every time the input changes.",
+    "exampleEs": "Queremos una solución robusta que no se rompa cada vez que cambia la entrada.",
+    "cloze": "We want a ____ solution that doesn't break every time the input changes.",
+    "answer": "robust",
+    "distractors": [
+      "hungry",
+      "jealous",
+      "sleepy"
+    ],
+    "collocations": [
+      "a robust system",
+      "robust error handling",
+      "highly robust"
+    ],
+    "note": "Spanish 'robusto' is similar, but in English it is almost always used for systems and code, not for people.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-redundant",
+    "headword": "redundant",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "redundante, innecesario",
+    "definition": "not needed because something else already does the same thing",
+    "example": "This check is redundant because we already validate the input earlier.",
+    "exampleEs": "Esta comprobación es redundante porque ya validamos la entrada antes.",
+    "cloze": "This check is ____ because we already validate the input earlier.",
+    "answer": "redundant",
+    "distractors": [
+      "delicious",
+      "friendly",
+      "thirsty"
+    ],
+    "collocations": [
+      "a redundant check",
+      "redundant code",
+      "completely redundant"
+    ],
+    "note": "In infrastructure, 'redundant' can be good: a redundant server is a backup.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-backward-compatible",
+    "headword": "backward compatible",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "retrocompatible, compatible con versiones anteriores",
+    "definition": "still working with older versions of a product or system",
+    "example": "The new endpoint has to be backward compatible with the mobile app.",
+    "exampleEs": "El nuevo endpoint tiene que ser retrocompatible con la aplicación móvil.",
+    "cloze": "The new endpoint has to be ____ with the mobile app.",
+    "answer": "backward compatible",
+    "distractors": [
+      "freshly baked",
+      "deeply sleepy",
+      "very jealous"
+    ],
+    "collocations": [
+      "backward compatible with",
+      "a backward compatible change",
+      "stay backward compatible"
+    ],
+    "note": "Both 'backward' and 'backwards' are used. Add a hyphen before a noun: 'a backward-compatible API'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-optimize",
+    "headword": "optimize",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "optimizar",
+    "definition": "to make something run faster or use fewer resources",
+    "example": "We need to optimize this query because it takes eight seconds to run.",
+    "exampleEs": "Necesitamos optimizar esta consulta porque tarda ocho segundos en ejecutarse.",
+    "cloze": "We need to ____ this query because it takes eight seconds to run.",
+    "answer": "optimize",
+    "distractors": [
+      "marry",
+      "sneeze",
+      "borrow"
+    ],
+    "collocations": [
+      "optimize performance",
+      "optimize a query",
+      "optimize for speed"
+    ],
+    "note": "US spelling is 'optimize'; the UK uses 'optimise'. Stress is on OP.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-debug",
+    "headword": "debug",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "depurar, buscar y corregir errores",
+    "definition": "to find and fix the cause of errors in code",
+    "example": "It took me two hours to debug a single missing comma.",
+    "exampleEs": "Me tomó dos horas depurar una sola coma faltante.",
+    "cloze": "It took me two hours to ____ a single missing comma.",
+    "answer": "debug",
+    "distractors": [
+      "knit",
+      "bake",
+      "hug"
+    ],
+    "collocations": [
+      "debug the code",
+      "debug an issue",
+      "hard to debug"
+    ],
+    "note": "The pronunciation is dee-BUG. Do not add -ize or -ing in the base verb.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-log",
+    "headword": "log",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "registrar (eventos o errores)",
+    "definition": "to record information about what a program is doing",
+    "example": "Make sure you log every failed request so we can trace the problem.",
+    "exampleEs": "Asegúrate de registrar cada solicitud fallida para que podamos rastrear el problema.",
+    "cloze": "Make sure you ____ every failed request so we can trace the problem.",
+    "answer": "log",
+    "distractors": [
+      "hug",
+      "bake",
+      "sneeze"
+    ],
+    "collocations": [
+      "log an error",
+      "log a message",
+      "log in or log out"
+    ],
+    "note": "As a noun, 'a log' is the record itself. 'Log in' (verb) is different from 'login' (noun).",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-monitor",
+    "headword": "monitor",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "monitorear, vigilar",
+    "definition": "to watch a system's behavior over time to catch problems early",
+    "example": "We monitor the API with alerts that go off when the error rate goes up.",
+    "exampleEs": "Monitoreamos la API con alertas que se activan cuando sube la tasa de errores.",
+    "cloze": "We ____ the API with alerts that go off when the error rate goes up.",
+    "answer": "monitor",
+    "distractors": [
+      "bake",
+      "hug",
+      "knit"
+    ],
+    "collocations": [
+      "monitor performance",
+      "monitor closely",
+      "monitor for errors"
+    ],
+    "note": "Say 'monitor', not 'monitorize'. The noun 'monitoring' is the activity; 'a monitor' is a screen.",
+    "tags": [
+      "tech",
+      "false-friend"
+    ]
+  },
+  {
+    "id": "tech-english-rollout",
+    "headword": "rollout",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "despliegue gradual, lanzamiento por fases",
+    "definition": "the process of releasing something to users step by step",
+    "example": "The rollout will be gradual: first 5% of users, then everyone.",
+    "exampleEs": "El despliegue será gradual: primero el 5 % de los usuarios y luego todos.",
+    "cloze": "The ____ will be gradual: first 5% of users, then everyone.",
+    "answer": "rollout",
+    "distractors": [
+      "birthday",
+      "sandwich",
+      "umbrella"
+    ],
+    "collocations": [
+      "a gradual rollout",
+      "a phased rollout",
+      "the rollout plan"
+    ],
+    "note": "As a noun it is one word. The verb is two words: 'roll out'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-handoff",
+    "headword": "handoff",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "traspaso, entrega de trabajo entre equipos",
+    "definition": "the moment when one person or team passes work to another",
+    "example": "The handoff between the design and dev teams is always messy.",
+    "exampleEs": "El traspaso entre los equipos de diseño y desarrollo siempre es desordenado.",
+    "cloze": "The ____ between the design and dev teams is always messy.",
+    "answer": "handoff",
+    "distractors": [
+      "mountain",
+      "pillow",
+      "umbrella"
+    ],
+    "collocations": [
+      "a smooth handoff",
+      "design handoff",
+      "handoff meeting"
+    ],
+    "note": "The verb is two words: 'hand off the work'. Also spelled 'hand-off'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-sprint",
+    "headword": "sprint",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "sprint (ciclo corto de trabajo)",
+    "definition": "a short, fixed period, often two weeks, in which a team finishes a set of tasks",
+    "example": "We committed to too many tickets for this sprint.",
+    "exampleEs": "Nos comprometimos con demasiados tickets para este sprint.",
+    "cloze": "We committed to too many tickets for this ____.",
+    "answer": "sprint",
+    "distractors": [
+      "bedroom",
+      "pillow",
+      "mountain"
+    ],
+    "collocations": [
+      "sprint planning",
+      "this sprint",
+      "a two-week sprint"
+    ],
+    "note": "Use 'in this sprint' or 'for this sprint'. A 'sprint review' shows the results.",
+    "tags": [
+      "tech",
+      "meetings"
+    ]
+  },
+  {
+    "id": "tech-english-estimate",
+    "headword": "estimate",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "estimar",
+    "definition": "to say roughly how long or how much work something will take",
+    "example": "It's hard to estimate how long the migration will take.",
+    "exampleEs": "Es difícil estimar cuánto va a tardar la migración.",
+    "cloze": "It's hard to ____ how long the migration will take.",
+    "answer": "estimate",
+    "distractors": [
+      "sneeze",
+      "bake",
+      "hug"
+    ],
+    "collocations": [
+      "estimate the effort",
+      "estimate the time",
+      "roughly estimate"
+    ],
+    "note": "The verb ends with a clear /eyt/ sound; the noun ends with a softer /it/ sound.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-prioritize",
+    "headword": "prioritize",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "priorizar",
+    "definition": "to decide what is most important and do it first",
+    "example": "We have to prioritize the security fixes over the new features.",
+    "exampleEs": "Tenemos que priorizar las correcciones de seguridad sobre las funciones nuevas.",
+    "cloze": "We have to ____ the security fixes over the new features.",
+    "answer": "prioritize",
+    "distractors": [
+      "bake",
+      "knit",
+      "hug"
+    ],
+    "collocations": [
+      "prioritize tasks",
+      "prioritize over",
+      "prioritize the backlog"
+    ],
+    "note": "Say 'prioritize X over Y'. Do not say 'prioritarize'.",
+    "tags": [
+      "tech",
+      "meetings"
+    ]
+  },
+  {
+    "id": "tech-english-integrate",
+    "headword": "integrate",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "integrar",
+    "definition": "to connect one tool or system with another so they work together",
+    "example": "We want to integrate the chatbot with the company's Slack workspace.",
+    "exampleEs": "Queremos integrar el chatbot con el espacio de trabajo de Slack de la empresa.",
+    "cloze": "We want to ____ the chatbot with the company's Slack workspace.",
+    "answer": "integrate",
+    "distractors": [
+      "swim",
+      "sneeze",
+      "bake"
+    ],
+    "collocations": [
+      "integrate with",
+      "integrate into",
+      "easy to integrate"
+    ],
+    "note": "Use 'integrate X with Y' or 'integrate X into Y'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-migrate",
+    "headword": "migrate",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "migrar",
+    "definition": "to move data or systems from one place or technology to another",
+    "example": "We're going to migrate the database to Postgres next month.",
+    "exampleEs": "Vamos a migrar la base de datos a Postgres el próximo mes.",
+    "cloze": "We're going to ____ the database to Postgres next month.",
+    "answer": "migrate",
+    "distractors": [
+      "borrow",
+      "marry",
+      "whisper"
+    ],
+    "collocations": [
+      "migrate data",
+      "migrate to the cloud",
+      "migrate from X to Y"
+    ],
+    "note": "The noun is 'migration'. Stress the first syllable: MY-grate.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-benchmark",
+    "headword": "benchmark",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "prueba de rendimiento, referencia comparativa",
+    "definition": "a test that measures how fast or well something performs",
+    "example": "Let's run a benchmark before and after the change to see if it's really faster.",
+    "exampleEs": "Hagamos una prueba de rendimiento antes y después del cambio para ver si de verdad es más rápido.",
+    "cloze": "Let's run a ____ before and after the change to see if it's really faster.",
+    "answer": "benchmark",
+    "distractors": [
+      "birthday",
+      "sandwich",
+      "umbrella"
+    ],
+    "collocations": [
+      "run a benchmark",
+      "benchmark results",
+      "a performance benchmark"
+    ],
+    "note": "It can also be a verb: 'We benchmarked three databases'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-crash",
+    "headword": "crash",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "fallar, cerrarse de golpe",
+    "definition": "to stop working suddenly and unexpectedly",
+    "example": "The app crashes every time you upload a file bigger than 10 MB.",
+    "exampleEs": "La aplicación se cierra de golpe cada vez que subes un archivo de más de 10 MB.",
+    "cloze": "The app ____ every time you upload a file bigger than 10 MB.",
+    "answer": "crashes",
+    "distractors": [
+      "sings",
+      "bakes",
+      "hugs"
+    ],
+    "collocations": [
+      "the app crashes",
+      "crash on startup",
+      "crash report"
+    ],
+    "note": "A 'crash' is the event (noun). Not the same as 'freeze', where the app stays open but stops responding.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-revert",
+    "headword": "revert",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "revertir (un cambio)",
+    "definition": "to undo a change and go back to the previous state",
+    "example": "I had to revert my commit because it broke the build.",
+    "exampleEs": "Tuve que revertir mi commit porque rompió el build.",
+    "cloze": "I had to ____ my commit because it broke the build.",
+    "answer": "revert",
+    "distractors": [
+      "bake",
+      "hug",
+      "knit"
+    ],
+    "collocations": [
+      "revert a commit",
+      "revert a change",
+      "revert to the previous version"
+    ],
+    "note": "Git has a command called 'git revert'. Do not confuse it with 'convert'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-provision",
+    "headword": "provision",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "aprovisionar",
+    "definition": "to set up servers or cloud resources so they are ready to use",
+    "example": "Terraform can provision the whole environment in a few minutes.",
+    "exampleEs": "Terraform puede aprovisionar todo el entorno en pocos minutos.",
+    "cloze": "Terraform can ____ the whole environment in a few minutes.",
+    "answer": "provision",
+    "distractors": [
+      "borrow",
+      "marry",
+      "whisper"
+    ],
+    "collocations": [
+      "provision a server",
+      "provision resources",
+      "automatically provision"
+    ],
+    "note": "Not related to the Spanish 'provisión' as supplies. The noun is 'provisioning'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-stakeholder",
+    "headword": "stakeholder",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "parte interesada",
+    "definition": "a person or group who is affected by a project or has a say in it",
+    "example": "We should keep the stakeholders updated on the delays.",
+    "exampleEs": "Deberíamos mantener informadas a las partes interesadas sobre los retrasos.",
+    "cloze": "We should keep the ____ updated on the delays.",
+    "answer": "stakeholders",
+    "distractors": [
+      "pillows",
+      "mountains",
+      "sandwiches"
+    ],
+    "collocations": [
+      "key stakeholders",
+      "keep stakeholders informed",
+      "stakeholder meeting"
+    ],
+    "note": "Very common in corporate meetings, including at pharma companies.",
+    "tags": [
+      "tech",
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "tech-english-spike",
+    "headword": "spike",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "investigación acotada (en un sprint)",
+    "definition": "a short task whose goal is to learn something, not to build the final solution",
+    "example": "Let's do a two-day spike to see if this library can handle our traffic.",
+    "exampleEs": "Hagamos una investigación de dos días para ver si esta biblioteca puede con nuestro tráfico.",
+    "cloze": "Let's do a two-day ____ to see if this library can handle our traffic.",
+    "answer": "spike",
+    "distractors": [
+      "birthday",
+      "sandwich",
+      "umbrella"
+    ],
+    "collocations": [
+      "do a spike",
+      "a technical spike",
+      "a two-day spike"
+    ],
+    "note": "'Spike' also means a sudden jump: 'a spike in traffic'.",
+    "tags": [
+      "tech",
+      "meetings"
+    ]
+  },
+  {
+    "id": "tech-english-root-cause",
+    "headword": "root cause",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "causa raíz",
+    "definition": "the deepest reason a problem happened",
+    "example": "We found the root cause: a missing index on the orders table.",
+    "exampleEs": "Encontramos la causa raíz: un índice faltante en la tabla de pedidos.",
+    "cloze": "We found the ____: a missing index on the orders table.",
+    "answer": "root cause",
+    "distractors": [
+      "birthday gift",
+      "bus stop",
+      "coffee break"
+    ],
+    "collocations": [
+      "find the root cause",
+      "root cause analysis",
+      "the root cause of"
+    ],
+    "note": "Say 'the root cause of the outage', using 'of'.",
+    "tags": [
+      "tech",
+      "meetings"
+    ]
+  },
+  {
+    "id": "tech-english-postmortem",
+    "headword": "postmortem",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "análisis posterior a un incidente",
+    "definition": "a review of what went wrong after an incident, to learn from it",
+    "example": "After the outage we wrote a postmortem and shared it with the whole company.",
+    "exampleEs": "Después de la caída escribimos un análisis posterior al incidente y lo compartimos con toda la empresa.",
+    "cloze": "After the outage we wrote a ____ and shared it with the whole company.",
+    "answer": "postmortem",
+    "distractors": [
+      "birthday",
+      "sandwich",
+      "umbrella"
+    ],
+    "collocations": [
+      "write a postmortem",
+      "a blameless postmortem",
+      "hold a postmortem"
+    ],
+    "note": "Literally 'after death', but in tech it is a normal word. Often 'blameless' to avoid pointing fingers.",
+    "tags": [
+      "tech",
+      "meetings"
+    ]
+  },
+  {
+    "id": "tech-english-ownership",
+    "headword": "ownership",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "responsabilidad sobre algo, apropiación",
+    "definition": "responsibility for a task, a system or a result from start to finish",
+    "example": "Good teams take ownership of their code after it ships.",
+    "exampleEs": "Los buenos equipos asumen la responsabilidad de su código después de lanzarlo.",
+    "cloze": "Good teams take ____ of their code after it ships.",
+    "answer": "ownership",
+    "distractors": [
+      "birthday",
+      "sandwich",
+      "umbrella"
+    ],
+    "collocations": [
+      "take ownership",
+      "clear ownership",
+      "code ownership"
+    ],
+    "note": "Say 'take ownership of X'. It is a positive word in workplaces.",
+    "tags": [
+      "tech",
+      "workplace"
+    ]
+  },
+  {
+    "id": "tech-english-fallback",
+    "headword": "fallback",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "alternativa de respaldo",
+    "definition": "a backup option that is used when the main one fails",
+    "example": "If the main API times out, we use a cached response as a fallback.",
+    "exampleEs": "Si la API principal agota el tiempo de espera, usamos una respuesta en caché como respaldo.",
+    "cloze": "If the main API times out, we use a cached response as a ____.",
+    "answer": "fallback",
+    "distractors": [
+      "birthday",
+      "mattress",
+      "umbrella"
+    ],
+    "collocations": [
+      "a fallback option",
+      "a fallback plan",
+      "as a fallback"
+    ],
+    "note": "The verb is two words: 'fall back on' something.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-overhead",
+    "headword": "overhead",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "sobrecarga, costo adicional",
+    "definition": "extra time, memory or work needed just to support something",
+    "example": "The extra logging adds some overhead, but it's worth it.",
+    "exampleEs": "El registro adicional agrega algo de sobrecarga, pero vale la pena.",
+    "cloze": "The extra logging adds some ____, but it's worth it.",
+    "answer": "overhead",
+    "distractors": [
+      "birthday",
+      "sandwich",
+      "umbrella"
+    ],
+    "collocations": [
+      "performance overhead",
+      "add overhead",
+      "minimal overhead"
+    ],
+    "note": "Uncountable here. It can also mean fixed business costs.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-race-condition",
+    "headword": "race condition",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "condición de carrera",
+    "definition": "a bug that happens when the result depends on which of two processes finishes first",
+    "example": "The bug only happens sometimes, so I think it's a race condition.",
+    "exampleEs": "El error solo ocurre a veces, así que creo que es una condición de carrera.",
+    "cloze": "The bug only happens sometimes, so I think it's a ____.",
+    "answer": "race condition",
+    "distractors": [
+      "dinner party",
+      "bus stop",
+      "family trip"
+    ],
+    "collocations": [
+      "a race condition",
+      "cause a race condition",
+      "fix a race condition"
+    ],
+    "note": "Often hard to reproduce, which is exactly why they are painful.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-lightweight",
+    "headword": "lightweight",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "ligero, liviano",
+    "definition": "small, simple and using few resources",
+    "example": "We chose a lightweight framework because the app is very small.",
+    "exampleEs": "Elegimos un framework ligero porque la aplicación es muy pequeña.",
+    "cloze": "We chose a ____ framework because the app is very small.",
+    "answer": "lightweight",
+    "distractors": [
+      "hungry",
+      "jealous",
+      "sleepy"
+    ],
+    "collocations": [
+      "a lightweight framework",
+      "lightweight solution",
+      "relatively lightweight"
+    ],
+    "note": "It is one word. The opposite is 'heavyweight'.",
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "id": "tech-english-push-back",
+    "headword": "push back",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "poner resistencia, objetar",
+    "definition": "to disagree with a request or plan and say why it is a bad idea",
+    "example": "I'd push back on adding that feature this late in the sprint.",
+    "exampleEs": "Yo pondría resistencia a agregar esa función tan tarde en el sprint.",
+    "cloze": "I'd ____ on adding that feature this late in the sprint.",
+    "answer": "push back",
+    "distractors": [
+      "sit down",
+      "fall over",
+      "wake up"
+    ],
+    "collocations": [
+      "push back on",
+      "push back against",
+      "a polite push back"
+    ],
+    "note": "Use 'push back on' + the idea. It is polite and common in meetings. Also means 'delay' a date.",
+    "tags": [
+      "tech",
+      "phrasal",
+      "meetings"
+    ]
+  }
+]

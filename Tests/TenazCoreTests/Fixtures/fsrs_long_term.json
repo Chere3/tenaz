@@ -1,0 +1,68 @@
+{
+  "generator": "py-fsrs 6.3.2, learning_steps=(), relearning_steps=(), enable_fuzzing=False",
+  "sequences": [
+    {
+      "desiredRetention": 0.9,
+      "learningSteps": [],
+      "name": "fluoTable",
+      "relearningSteps": [],
+      "reviews": [
+        {
+          "at": 1767268800,
+          "difficulty": 2.118103970459016,
+          "due": 1767441600,
+          "rating": 3,
+          "stability": 2.3065,
+          "state": "review",
+          "step": null
+        },
+        {
+          "at": 1767441600,
+          "difficulty": 4.752858488532557,
+          "due": 1768132800,
+          "rating": 2,
+          "stability": 7.513320366762569,
+          "state": "review",
+          "step": null
+        },
+        {
+          "at": 1768132800,
+          "difficulty": 4.743333999340863,
+          "due": 1770379200,
+          "rating": 3,
+          "stability": 26.407944217282477,
+          "state": "review",
+          "step": null
+        },
+        {
+          "at": 1770379200,
+          "difficulty": 8.257398000208983,
+          "due": 1770552000,
+          "rating": 1,
+          "stability": 2.2027164074623666,
+          "state": "review",
+          "step": null
+        },
+        {
+          "at": 1770552000,
+          "difficulty": 8.244368971505612,
+          "due": 1770984000,
+          "rating": 3,
+          "stability": 4.8639534297470055,
+          "state": "review",
+          "step": null
+        },
+        {
+          "at": 1770984000,
+          "difficulty": 7.642947263485554,
+          "due": 1772280000,
+          "rating": 4,
+          "stability": 15.46153530591491,
+          "state": "review",
+          "step": null
+        }
+      ],
+      "start": 1767268800
+    }
+  ]
+}

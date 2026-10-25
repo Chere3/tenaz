@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "life-paragraphs-001",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "What is the first thing you did today, and how did it set the mood for the rest of your day?",
+    "mustUse": [
+      "use the present perfect",
+      "although",
+      "right now"
+    ],
+    "minWords": 40
+  },
+  {
+    "id": "life-paragraphs-002",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Describe a meeting in English that went well for you recently. What made it work?",
+    "mustUse": [
+      "based on",
+      "manage to",
+      "although"
+    ],
+    "minWords": 40
+  },
+  {
+    "id": "life-paragraphs-003",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "What kind of app would keep you learning every day, and why would it work for you?",
+    "mustUse": [
+      "an app that keeps",
+      "I tend to",
+      "extremely"
+    ],
+    "minWords": 40
+  },
+  {
+    "id": "life-paragraphs-004",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Tell us about a project you are building right now and what you hope it will become.",
+    "mustUse": [
+      "use the present perfect",
+      "aim to",
+      "so far"
+    ],
+    "minWords": 40
+  },
+  {
+    "id": "life-paragraphs-005",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "What is the hardest part of speaking English at work, and how do you deal with it?",
+    "mustUse": [
+      "struggle with",
+      "I've started + -ing",
+      "whereas"
+    ],
+    "minWords": 40
+  },
+  {
+    "id": "life-paragraphs-006",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Describe your ideal morning before a big deadline.",
+    "mustUse": [
+      "make sure",
+      "as soon as",
+      "rather than"
+    ],
+    "minWords": 40
+  },
+  {
+    "id": "life-paragraphs-007",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "What did you do last weekend? Tell the story in order, with at least one surprise.",
+    "mustUse": [
+      "past simple",
+      "while",
+      "eventually"
+    ],
+    "minWords": 40
+  },
+  {
+    "id": "life-paragraphs-008",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Which technology have you started using recently, and how has it changed the way you work?",
+    "mustUse": [
+      "use the present perfect",
+      "leverage",
+      "significantly"
+    ],
+    "minWords": 40
+  },
+  {
+    "id": "life-paragraphs-009",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "What is one habit you want to break, and what makes it so hard?",
+    "mustUse": [
+      "tend to",
+      "let me",
+      "in the long run"
+    ],
+    "minWords": 40
+  },
+  {
+    "id": "life-paragraphs-010",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Explain what you do at work to someone who has never written code.",
+    "mustUse": [
+      "in other words",
+      "responsible for",
+      "that keeps/helps"
+    ],
+    "minWords": 40
+  },
+  {
+    "id": "life-paragraphs-011",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "What was your favorite Minecraft build or world, and what did you learn from making it?",
+    "mustUse": [
+      "past simple",
+      "end up",
+      "in the end"
+    ],
+    "minWords": 45
+  },
+  {
+    "id": "life-paragraphs-012",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "How do you feel before an important call in English? Describe your body, your thoughts and what helps.",
+    "mustUse": [
+      "nervous about",
+      "make me feel",
+      "although"
+    ],
+    "minWords": 45
+  },
+  {
+    "id": "life-paragraphs-013",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Tell us about a time you made a mistake at work. What would you do differently now?",
+    "mustUse": [
+      "if I had",
+      "realize",
+      "lesson"
+    ],
+    "minWords": 45
+  },
+  {
+    "id": "life-paragraphs-014",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Which AI tool do you rely on most, and what is a task you would never hand over to it?",
+    "mustUse": [
+      "rely on",
+      "whereas",
+      "drawback"
+    ],
+    "minWords": 45
+  },
+  {
+    "id": "life-paragraphs-015",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Describe your Discord community life: which servers matter to you and why?",
+    "mustUse": [
+      "belong to",
+      "engagement",
+      "based on"
+    ],
+    "minWords": 45
+  },
+  {
+    "id": "life-paragraphs-016",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "What are your plans for the next six months to reach B2 English?",
+    "mustUse": [
+      "going to",
+      "aim to",
+      "by the end of"
+    ],
+    "minWords": 45
+  },
+  {
+    "id": "life-paragraphs-017",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Who has influenced the way you think about technology, and what did they teach you?",
+    "mustUse": [
+      "influence",
+      "look up to",
+      "as a result"
+    ],
+    "minWords": 45
+  },
+  {
+    "id": "life-paragraphs-018",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Explain a bug or technical problem you solved recently, step by step.",
+    "mustUse": [
+      "first",
+      "turn out",
+      "eventually"
+    ],
+    "minWords": 45
+  },
+  {
+    "id": "life-paragraphs-019",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "What is the best piece of advice you have ever received? Why did it stick with you?",
+    "mustUse": [
+      "advice",
+      "which means",
+      "ever since"
+    ],
+    "minWords": 45
+  },
+  {
+    "id": "life-paragraphs-020",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Describe a sci-fi world you would love to live in. What would your daily life look like?",
+    "mustUse": [
+      "would",
+      "imagine",
+      "rather than"
+    ],
+    "minWords": 45
+  },
+  {
+    "id": "life-paragraphs-021",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "How do you decide what to work on first when everything feels urgent?",
+    "mustUse": [
+      "prioritize",
+      "depend on",
+      "in order to"
+    ],
+    "minWords": 50
+  },
+  {
+    "id": "life-paragraphs-022",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Talk about a skill you learned on your own. How did you stay motivated?",
+    "mustUse": [
+      "by + -ing",
+      "discipline",
+      "despite"
+    ],
+    "minWords": 50
+  },
+  {
+    "id": "life-paragraphs-023",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "What does a perfect Sunday look like for you, from morning to night?",
+    "mustUse": [
+      "would rather",
+      "as long as",
+      "peaceful"
+    ],
+    "minWords": 50
+  },
+  {
+    "id": "life-paragraphs-024",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Do you think remote work is better than working in an office? Give your opinion with reasons.",
+    "mustUse": [
+      "in my opinion",
+      "whereas",
+      "on the other hand"
+    ],
+    "minWords": 50
+  },
+  {
+    "id": "life-paragraphs-025",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Describe someone in your team and what you admire about how they communicate.",
+    "mustUse": [
+      "who",
+      "admire",
+      "tends to"
+    ],
+    "minWords": 50
+  },
+  {
+    "id": "life-paragraphs-026",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What is something about psychology that surprised you, and how does it apply to your own life?",
+    "mustUse": [
+      "turn out",
+      "according to",
+      "apply to"
+    ],
+    "minWords": 50
+  },
+  {
+    "id": "life-paragraphs-027",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "How did you get into programming? Tell the story from the beginning.",
+    "mustUse": [
+      "past simple",
+      "at first",
+      "since then"
+    ],
+    "minWords": 50
+  },
+  {
+    "id": "life-paragraphs-028",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What are you afraid of when it comes to your career, and how are you preparing for it?",
+    "mustUse": [
+      "afraid of",
+      "prepare for",
+      "in case"
+    ],
+    "minWords": 50
+  },
+  {
+    "id": "life-paragraphs-029",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Describe a time when you had to explain a technical idea to a non-technical person.",
+    "mustUse": [
+      "manage to",
+      "simplify",
+      "instead of"
+    ],
+    "minWords": 50
+  },
+  {
+    "id": "life-paragraphs-030",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What is the most valuable skill in the tech industry right now, in your view?",
+    "mustUse": [
+      "at this time",
+      "extremely",
+      "in my view"
+    ],
+    "minWords": 50
+  },
+  {
+    "id": "life-paragraphs-031",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Tell us about a goal you set this year. How far have you come?",
+    "mustUse": [
+      "use the present perfect",
+      "so far",
+      "achieve"
+    ],
+    "minWords": 55
+  },
+  {
+    "id": "life-paragraphs-032",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Describe a game or community that taught you something about teamwork.",
+    "mustUse": [
+      "cooperate",
+      "which taught me",
+      "although"
+    ],
+    "minWords": 55
+  },
+  {
+    "id": "life-paragraphs-033",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "If you could redesign your daily routine from scratch, what would you change first?",
+    "mustUse": [
+      "if I could",
+      "would",
+      "instead of"
+    ],
+    "minWords": 55
+  },
+  {
+    "id": "life-paragraphs-034",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What do you do when you feel unmotivated or distracted? Be honest about what really works.",
+    "mustUse": [
+      "tend to",
+      "whenever",
+      "rather than"
+    ],
+    "minWords": 55
+  },
+  {
+    "id": "life-paragraphs-035",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Write about a long meeting that was not productive. How would you have run it?",
+    "mustUse": [
+      "should have",
+      "agenda",
+      "waste of"
+    ],
+    "minWords": 55
+  },
+  {
+    "id": "life-paragraphs-036",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What is your opinion on startups versus big companies? Which one fits you better right now?",
+    "mustUse": [
+      "whereas",
+      "fit",
+      "on the other hand"
+    ],
+    "minWords": 55
+  },
+  {
+    "id": "life-paragraphs-037",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Describe a memory from childhood that you still remember clearly.",
+    "mustUse": [
+      "used to",
+      "remember + -ing",
+      "vivid"
+    ],
+    "minWords": 55
+  },
+  {
+    "id": "life-paragraphs-038",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What is something you want your friends to understand about how your mind works?",
+    "mustUse": [
+      "want + object + to",
+      "let me",
+      "even though"
+    ],
+    "minWords": 55
+  },
+  {
+    "id": "life-paragraphs-039",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "How do you prepare for a presentation in English? Walk us through your process.",
+    "mustUse": [
+      "make sure",
+      "rehearse",
+      "before + -ing"
+    ],
+    "minWords": 55
+  },
+  {
+    "id": "life-paragraphs-040",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Tell us about a person you met online who became important to you.",
+    "mustUse": [
+      "who",
+      "get along",
+      "ever since"
+    ],
+    "minWords": 55
+  },
+  {
+    "id": "life-paragraphs-041",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What would you build if you had unlimited time and money for one year?",
+    "mustUse": [
+      "if I had",
+      "would",
+      "launch"
+    ],
+    "minWords": 60
+  },
+  {
+    "id": "life-paragraphs-042",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What is the biggest challenge you are facing at work this month?",
+    "mustUse": [
+      "challenge",
+      "deal with",
+      "although"
+    ],
+    "minWords": 60
+  },
+  {
+    "id": "life-paragraphs-043",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "How has your relationship with social media changed over the last few years?",
+    "mustUse": [
+      "use the present perfect",
+      "used to",
+      "compared to"
+    ],
+    "minWords": 60
+  },
+  {
+    "id": "life-paragraphs-044",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Pick a decision you are unsure about. Compare the options and explain which one you lean toward.",
+    "mustUse": [
+      "on the one hand",
+      "lean toward",
+      "ultimately"
+    ],
+    "minWords": 60
+  },
+  {
+    "id": "life-paragraphs-045",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Tell the story of the best day you have had this year.",
+    "mustUse": [
+      "past simple",
+      "while",
+      "unforgettable"
+    ],
+    "minWords": 60
+  },
+  {
+    "id": "life-paragraphs-046",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What do you think will change in software development in the next five years because of AI?",
+    "mustUse": [
+      "will",
+      "likely",
+      "as a result"
+    ],
+    "minWords": 60
+  },
+  {
+    "id": "life-paragraphs-047",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Describe a moment when you felt proud of your English.",
+    "mustUse": [
+      "manage to",
+      "proud of",
+      "at that moment"
+    ],
+    "minWords": 60
+  },
+  {
+    "id": "life-paragraphs-048",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What kind of leader do you want to become? Describe the qualities you value.",
+    "mustUse": [
+      "who",
+      "value",
+      "rather than"
+    ],
+    "minWords": 60
+  },
+  {
+    "id": "life-paragraphs-049",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "How do you handle disagreement in a team? Give a real or imagined example.",
+    "mustUse": [
+      "point out",
+      "compromise",
+      "whereas"
+    ],
+    "minWords": 60
+  },
+  {
+    "id": "life-paragraphs-050",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What is a book, series or film that changed how you see the world?",
+    "mustUse": [
+      "which made me",
+      "based on",
+      "profound"
+    ],
+    "minWords": 60
+  },
+  {
+    "id": "life-paragraphs-051",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What does being disciplined mean to you? Do you think it can be learned?",
+    "mustUse": [
+      "mean",
+      "depend on",
+      "in the long run"
+    ],
+    "minWords": 65
+  },
+  {
+    "id": "life-paragraphs-052",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Tell us how your way of thinking shapes your work, including the strengths nobody talks about.",
+    "mustUse": [
+      "tends to",
+      "both",
+      "workaround"
+    ],
+    "minWords": 65
+  },
+  {
+    "id": "life-paragraphs-053",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Describe an email or message you wrote at work that you are not proud of.",
+    "mustUse": [
+      "should have",
+      "tone",
+      "misunderstanding"
+    ],
+    "minWords": 65
+  },
+  {
+    "id": "life-paragraphs-054",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What would you say to yourself two years ago, when you were just starting out?",
+    "mustUse": [
+      "if I could",
+      "wish",
+      "advice"
+    ],
+    "minWords": 65
+  },
+  {
+    "id": "life-paragraphs-055",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What is your biggest weakness when speaking English, and what is your plan to fix it?",
+    "mustUse": [
+      "struggle with",
+      "aim to",
+      "on a daily basis"
+    ],
+    "minWords": 65
+  },
+  {
+    "id": "life-paragraphs-056",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Write about a product you think is badly designed, and explain how you would improve it.",
+    "mustUse": [
+      "I would",
+      "frustrating",
+      "instead of"
+    ],
+    "minWords": 65
+  },
+  {
+    "id": "life-paragraphs-057",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Describe a trip you would like to take and what you would do there.",
+    "mustUse": [
+      "would like to",
+      "as long as",
+      "in particular"
+    ],
+    "minWords": 65
+  },
+  {
+    "id": "life-paragraphs-058",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What have you learned about yourself from building things in public or sharing your work?",
+    "mustUse": [
+      "use the present perfect",
+      "realize",
+      "feedback"
+    ],
+    "minWords": 65
+  },
+  {
+    "id": "life-paragraphs-059",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What does a good code review look like, and how do you give feedback kindly?",
+    "mustUse": [
+      "point out",
+      "constructive",
+      "rather than"
+    ],
+    "minWords": 65
+  },
+  {
+    "id": "life-paragraphs-060",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What is one thing about your job that you did not expect before you started?",
+    "mustUse": [
+      "expect",
+      "turn out",
+      "compared to"
+    ],
+    "minWords": 65
+  },
+  {
+    "id": "life-paragraphs-061",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What do you do to recover after a stressful week?",
+    "mustUse": [
+      "recover from",
+      "whenever",
+      "in order to"
+    ],
+    "minWords": 70
+  },
+  {
+    "id": "life-paragraphs-062",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What is a rule you set for yourself, and what happens when you break it?",
+    "mustUse": [
+      "tend to",
+      "consequence",
+      "as a result"
+    ],
+    "minWords": 70
+  },
+  {
+    "id": "life-paragraphs-063",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Tell us about a time when you helped someone in a community you belong to.",
+    "mustUse": [
+      "past simple",
+      "who",
+      "grateful"
+    ],
+    "minWords": 70
+  },
+  {
+    "id": "life-paragraphs-064",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Why do you think some people stay motivated for years while others quit quickly?",
+    "mustUse": [
+      "whereas",
+      "depend on",
+      "in my opinion"
+    ],
+    "minWords": 70
+  },
+  {
+    "id": "life-paragraphs-065",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Describe your dream job in tech. What would you work on, and with whom?",
+    "mustUse": [
+      "would",
+      "who",
+      "meaningful"
+    ],
+    "minWords": 70
+  },
+  {
+    "id": "life-paragraphs-066",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What did you think about the last meeting you attended? Summarize it and give your reaction.",
+    "mustUse": [
+      "based on",
+      "main point",
+      "although"
+    ],
+    "minWords": 70
+  },
+  {
+    "id": "life-paragraphs-067",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "How would you explain the difference between a good plan and a good habit?",
+    "mustUse": [
+      "whereas",
+      "in other words",
+      "stick to"
+    ],
+    "minWords": 70
+  },
+  {
+    "id": "life-paragraphs-068",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What feels easier in English, writing or speaking? Explain why, using examples.",
+    "mustUse": [
+      "compared to",
+      "whereas",
+      "mainly because"
+    ],
+    "minWords": 70
+  },
+  {
+    "id": "life-paragraphs-069",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Tell us about a time when you were surprised by how a project turned out.",
+    "mustUse": [
+      "past simple",
+      "expected",
+      "end up"
+    ],
+    "minWords": 70
+  },
+  {
+    "id": "life-paragraphs-070",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What would you do if your manager asked you to lead a meeting in English tomorrow?",
+    "mustUse": [
+      "if + past",
+      "would",
+      "prepare for"
+    ],
+    "minWords": 70
+  },
+  {
+    "id": "life-paragraphs-071",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Describe a moment when technology failed you at the worst possible time.",
+    "mustUse": [
+      "past simple",
+      "just when",
+      "deal with"
+    ],
+    "minWords": 75
+  },
+  {
+    "id": "life-paragraphs-072",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What is your attitude toward making mistakes? Has it changed over time?",
+    "mustUse": [
+      "use the present perfect",
+      "used to",
+      "learn from"
+    ],
+    "minWords": 75
+  },
+  {
+    "id": "life-paragraphs-073",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Which of your current projects excites you the most, and what is the next milestone?",
+    "mustUse": [
+      "look forward to",
+      "milestone",
+      "by + date"
+    ],
+    "minWords": 75
+  },
+  {
+    "id": "life-paragraphs-074",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What do you think makes a Discord server feel alive instead of empty?",
+    "mustUse": [
+      "engagement",
+      "whereas",
+      "as a result"
+    ],
+    "minWords": 75
+  },
+  {
+    "id": "life-paragraphs-075",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Write about a goal that scares you a little. Why do you want it anyway?",
+    "mustUse": [
+      "although",
+      "afraid of",
+      "worth"
+    ],
+    "minWords": 75
+  },
+  {
+    "id": "life-paragraphs-076",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Imagine it is one year from now and you speak English with confidence. Describe a normal workday.",
+    "mustUse": [
+      "will have",
+      "by then",
+      "comfortable with"
+    ],
+    "minWords": 75
+  },
+  {
+    "id": "life-paragraphs-077",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "What is the best compromise you have made between speed and quality in your work?",
+    "mustUse": [
+      "trade-off",
+      "rather than",
+      "in the long run"
+    ],
+    "minWords": 75
+  },
+  {
+    "id": "life-paragraphs-078",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Reflect on what you have achieved in the last month and what you want to improve next.",
+    "mustUse": [
+      "use the present perfect",
+      "achievement",
+      "next month"
+    ],
+    "minWords": 75
+  },
+  {
+    "id": "life-paragraphs-079",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Convince a friend to start learning English seriously. What arguments would you use?",
+    "mustUse": [
+      "I would suggest",
+      "not only ... but also",
+      "as a result"
+    ],
+    "minWords": 75
+  },
+  {
+    "id": "life-paragraphs-080",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "prompt": "Describe the person you want to be at the end of this year. What will you have done to get there?",
+    "mustUse": [
+      "will have",
+      "want + object + to",
+      "in order to"
+    ],
+    "minWords": 80
+  }
+]

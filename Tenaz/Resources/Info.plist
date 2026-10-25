@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Tenaz</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.education</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>$(MACOSX_DEPLOYMENT_TARGET)</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Tenaz checks which website is open during exams so you can't use AI to cheat.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Tenaz checks your calendar so it never interrupts a meeting.</string>
+	<key>NSFocusStatusUsageDescription</key>
+	<string>Tenaz stays quiet while a Focus mode is on.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Tenaz listens when you practice speaking so it can grade your English.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Tenaz transcribes your speaking practice on this Mac.</string>
+</dict>
+</plist>

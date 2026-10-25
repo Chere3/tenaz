@@ -1,0 +1,1253 @@
+[
+  {
+    "id": "linkers-however",
+    "headword": "however",
+    "pos": "adverb",
+    "cefr": "B1+",
+    "es": "sin embargo, no obstante",
+    "definition": "used to add a contrasting point to what you just said",
+    "example": "We wanted to launch on Friday. However, the tests failed.",
+    "exampleEs": "Queríamos lanzar el viernes. Sin embargo, fallaron las pruebas.",
+    "cloze": "We wanted to launch on Friday. ____, the tests failed.",
+    "answer": "However",
+    "distractors": [
+      "Similarly",
+      "Firstly",
+      "Namely"
+    ],
+    "collocations": [
+      "However, we",
+      "however hard we try"
+    ],
+    "note": "Put a comma after it at the start of a sentence. Use a period or semicolon before it, not a comma.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-whereas",
+    "headword": "whereas",
+    "pos": "conjunction",
+    "cefr": "B2",
+    "es": "mientras que, en cambio",
+    "definition": "used to compare two things that are different",
+    "example": "Our old tool is slow, whereas the new one responds instantly.",
+    "exampleEs": "Nuestra herramienta antigua es lenta, mientras que la nueva responde al instante.",
+    "cloze": "Our old tool is slow, ____ the new one responds instantly.",
+    "answer": "whereas",
+    "distractors": [
+      "unless",
+      "because",
+      "until"
+    ],
+    "collocations": [
+      "whereas the other",
+      "whereas in contrast"
+    ],
+    "note": "Formal contrast. It joins two clauses, so both sides need a subject and a verb.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-although",
+    "headword": "although",
+    "pos": "conjunction",
+    "cefr": "B1+",
+    "es": "aunque",
+    "definition": "used to introduce a fact that is surprising or contrasts with the main clause",
+    "example": "Although I was tired, I stayed for the whole meeting.",
+    "exampleEs": "Aunque estaba cansado, me quedé toda la reunión.",
+    "cloze": "____ I was tired, I stayed for the whole meeting.",
+    "answer": "Although",
+    "distractors": [
+      "Because",
+      "Unless",
+      "Whenever"
+    ],
+    "collocations": [
+      "although it",
+      "although I know"
+    ],
+    "note": "Do not add 'but' in the same sentence: 'Although I was tired, but I stayed' is wrong.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-despite",
+    "headword": "despite",
+    "pos": "preposition",
+    "cefr": "B2",
+    "es": "a pesar de",
+    "definition": "used to say that something happened even though something else made it difficult",
+    "example": "Despite the time difference, we managed to join the call.",
+    "exampleEs": "A pesar de la diferencia horaria, logramos conectarnos a la llamada.",
+    "cloze": "____ the time difference, we managed to join the call.",
+    "answer": "Despite",
+    "distractors": [
+      "Because of",
+      "Instead of",
+      "According to"
+    ],
+    "collocations": [
+      "despite the fact that",
+      "despite the weather",
+      "despite his efforts"
+    ],
+    "note": "No 'of' after it: 'despite', not 'despite of'. It is followed by a noun or -ing, not a full clause.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-on-the-other-hand",
+    "headword": "on the other hand",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "por otro lado",
+    "definition": "used to introduce a different or opposite point of view",
+    "example": "Remote work saves time. On the other hand, it can feel isolating.",
+    "exampleEs": "El trabajo remoto ahorra tiempo. Por otro lado, puede sentirse aislante.",
+    "cloze": "Remote work saves time. ____, it can feel isolating.",
+    "answer": "On the other hand",
+    "distractors": [
+      "In the meantime",
+      "As a result",
+      "For example"
+    ],
+    "collocations": [
+      "on the one hand",
+      "on the other hand, we"
+    ],
+    "note": "Often paired with 'on the one hand'. Do not say 'in the other hand'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-as-a-result",
+    "headword": "as a result",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "como resultado, por lo tanto",
+    "definition": "used to introduce the consequence of something",
+    "example": "The server crashed. As a result, users could not log in.",
+    "exampleEs": "El servidor se cayó. Como resultado, los usuarios no pudieron iniciar sesión.",
+    "cloze": "The server crashed. ____, users could not log in.",
+    "answer": "As a result",
+    "distractors": [
+      "In contrast",
+      "In the meantime",
+      "On the contrary"
+    ],
+    "collocations": [
+      "as a result of",
+      "as a direct result"
+    ],
+    "note": "'As a result of' + noun means 'because of'. 'As a result,' alone starts a new sentence.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-in-addition",
+    "headword": "in addition",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "además",
+    "definition": "used to add another piece of information",
+    "example": "We need to fix the login bug. In addition, we need to update the documentation.",
+    "exampleEs": "Necesitamos arreglar el error de inicio de sesión. Además, necesitamos actualizar la documentación.",
+    "cloze": "We need to fix the login bug. ____, we need to update the documentation.",
+    "answer": "In addition",
+    "distractors": [
+      "In contrast",
+      "On the contrary",
+      "In conclusion"
+    ],
+    "collocations": [
+      "in addition to",
+      "in addition, we"
+    ],
+    "note": "'In addition to' is followed by a noun or -ing: 'in addition to working late'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-that-said",
+    "headword": "that said",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "dicho esto, aun así",
+    "definition": "used to introduce a point that softens or contrasts with what you just said",
+    "example": "The plan is risky. That said, it could double our users.",
+    "exampleEs": "El plan es arriesgado. Dicho esto, podría duplicar nuestros usuarios.",
+    "cloze": "The plan is risky. ____, it could double our users.",
+    "answer": "That said",
+    "distractors": [
+      "For example",
+      "As a result",
+      "In conclusion"
+    ],
+    "collocations": [
+      "that said, I think",
+      "that said, we should"
+    ],
+    "note": "Very common in meetings and informal writing. Short and natural.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-having-said-that",
+    "headword": "having said that",
+    "pos": "phrase",
+    "cefr": "C1",
+    "es": "dicho eso, aun así",
+    "definition": "used to add a contrasting idea after you have agreed with or accepted something",
+    "example": "I agree with your proposal. Having said that, I have one concern.",
+    "exampleEs": "Estoy de acuerdo con tu propuesta. Dicho eso, tengo una preocupación.",
+    "cloze": "I agree with your proposal. ____, I have one concern.",
+    "answer": "Having said that",
+    "distractors": [
+      "Because of that",
+      "To sum up",
+      "In the meantime"
+    ],
+    "collocations": [
+      "having said that, I",
+      "having said that, it"
+    ],
+    "note": "Slightly more formal than 'that said'. Say it as one smooth chunk.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-in-other-words",
+    "headword": "in other words",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "en otras palabras, es decir",
+    "definition": "used to say the same thing again in a simpler or clearer way",
+    "example": "The project is behind schedule. In other words, we will miss the deadline.",
+    "exampleEs": "El proyecto va retrasado. En otras palabras, no cumpliremos la fecha límite.",
+    "cloze": "The project is behind schedule. ____, we will miss the deadline.",
+    "answer": "In other words",
+    "distractors": [
+      "On the contrary",
+      "In contrast",
+      "In case"
+    ],
+    "collocations": [
+      "in other words, we",
+      "to put it in other words"
+    ],
+    "note": "Great for clarifying in meetings when someone looks confused.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-to-sum-up",
+    "headword": "to sum up",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "para resumir",
+    "definition": "used before a short summary of the main points",
+    "example": "We discussed cost, scope, and timing. To sum up, we need more time, a bigger budget, and a clearer scope.",
+    "exampleEs": "Hablamos de costo, alcance y plazos. Para resumir, necesitamos más tiempo, un presupuesto mayor y un alcance más claro.",
+    "cloze": "We discussed cost, scope, and timing. ____, we need more time, a bigger budget, and a clearer scope.",
+    "answer": "To sum up",
+    "distractors": [
+      "To begin with",
+      "On the other hand",
+      "In contrast"
+    ],
+    "collocations": [
+      "to sum up, we",
+      "to sum up briefly"
+    ],
+    "note": "You can also say 'to sum it up' or 'in summary'. Use it at the end of your answer.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-meanwhile",
+    "headword": "meanwhile",
+    "pos": "adverb",
+    "cefr": "B2",
+    "es": "mientras tanto",
+    "definition": "used to say what happens at the same time or in the period between two events",
+    "example": "The data is still loading. Meanwhile, you can review the report.",
+    "exampleEs": "Los datos aún se están cargando. Mientras tanto, puedes revisar el informe.",
+    "cloze": "The data is still loading. ____, you can review the report.",
+    "answer": "Meanwhile",
+    "distractors": [
+      "Otherwise",
+      "Previously",
+      "Namely"
+    ],
+    "collocations": [
+      "meanwhile, back at",
+      "meanwhile in"
+    ],
+    "note": "Similar to 'in the meantime'. Do not confuse with 'mean time'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-otherwise",
+    "headword": "otherwise",
+    "pos": "adverb",
+    "cefr": "B2",
+    "es": "de lo contrario, si no",
+    "definition": "used to say what would happen if something does not happen",
+    "example": "Back up your files today. Otherwise, you could lose everything.",
+    "exampleEs": "Haz una copia de seguridad hoy. De lo contrario, podrías perderlo todo.",
+    "cloze": "Back up your files today. ____, you could lose everything.",
+    "answer": "Otherwise",
+    "distractors": [
+      "Therefore",
+      "Meanwhile",
+      "Similarly"
+    ],
+    "collocations": [
+      "otherwise, we",
+      "or otherwise"
+    ],
+    "note": "It means 'if not', so it does not need a separate 'if'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-nevertheless",
+    "headword": "nevertheless",
+    "pos": "adverb",
+    "cefr": "C1",
+    "es": "no obstante, sin embargo",
+    "definition": "used to say that something is true or happens despite what was just said",
+    "example": "The results were disappointing. Nevertheless, the team stayed positive.",
+    "exampleEs": "Los resultados fueron decepcionantes. No obstante, el equipo se mantuvo positivo.",
+    "cloze": "The results were disappointing. ____, the team stayed positive.",
+    "answer": "Nevertheless",
+    "distractors": [
+      "Therefore",
+      "Furthermore",
+      "Previously"
+    ],
+    "collocations": [
+      "nevertheless, the",
+      "but nevertheless"
+    ],
+    "note": "Formal. Spell it as one word: never-the-less.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-given-that",
+    "headword": "given that",
+    "pos": "phrase",
+    "cefr": "C1",
+    "es": "dado que, teniendo en cuenta que",
+    "definition": "used to introduce a fact that explains or supports your next statement",
+    "example": "Given that the budget is fixed, we should cut some features.",
+    "exampleEs": "Dado que el presupuesto es fijo, deberíamos recortar algunas funciones.",
+    "cloze": "____ the budget is fixed, we should cut some features.",
+    "answer": "Given that",
+    "distractors": [
+      "In spite of",
+      "Even though",
+      "As far as"
+    ],
+    "collocations": [
+      "given that we",
+      "given the fact that"
+    ],
+    "note": "Followed by a full clause. Without 'that', 'given' takes a noun: 'given the budget'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-therefore",
+    "headword": "therefore",
+    "pos": "adverb",
+    "cefr": "B2",
+    "es": "por lo tanto, por eso",
+    "definition": "used to show that something is a logical result of what you just said",
+    "example": "The sample size was small. Therefore, the results may not be reliable.",
+    "exampleEs": "La muestra fue pequeña. Por lo tanto, los resultados podrían no ser confiables.",
+    "cloze": "The sample size was small. ____, the results may not be reliable.",
+    "answer": "Therefore",
+    "distractors": [
+      "However",
+      "Meanwhile",
+      "Instead"
+    ],
+    "collocations": [
+      "therefore, we",
+      "and therefore"
+    ],
+    "note": "More formal than 'so'. Good for writing and presentations.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-moreover",
+    "headword": "moreover",
+    "pos": "adverb",
+    "cefr": "C1",
+    "es": "además, es más",
+    "definition": "used to add a stronger or more important point to what you just said",
+    "example": "The tool is cheap. Moreover, it integrates with everything we use.",
+    "exampleEs": "La herramienta es barata. Además, se integra con todo lo que usamos.",
+    "cloze": "The tool is cheap. ____, it integrates with everything we use.",
+    "answer": "Moreover",
+    "distractors": [
+      "However",
+      "Otherwise",
+      "Instead"
+    ],
+    "collocations": [
+      "moreover, it",
+      "moreover, the"
+    ],
+    "note": "Formal. In speech, prefer 'plus' or 'and also'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-furthermore",
+    "headword": "furthermore",
+    "pos": "adverb",
+    "cefr": "C1",
+    "es": "asimismo, además",
+    "definition": "used to add extra information that supports your argument",
+    "example": "The plan is affordable. Furthermore, it is easy to maintain.",
+    "exampleEs": "El plan es económico. Asimismo, es fácil de mantener.",
+    "cloze": "The plan is affordable. ____, it is easy to maintain.",
+    "answer": "Furthermore",
+    "distractors": [
+      "Nevertheless",
+      "Otherwise",
+      "Meanwhile"
+    ],
+    "collocations": [
+      "furthermore, it",
+      "and furthermore"
+    ],
+    "note": "Formal writing. Do not overuse it; one per paragraph is plenty.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-in-spite-of",
+    "headword": "in spite of",
+    "pos": "preposition",
+    "cefr": "B2",
+    "es": "a pesar de",
+    "definition": "used to say that something happened although something else made it hard",
+    "example": "In spite of the delay, the client was happy.",
+    "exampleEs": "A pesar del retraso, el cliente estaba contento.",
+    "cloze": "____ the delay, the client was happy.",
+    "answer": "In spite of",
+    "distractors": [
+      "Instead of",
+      "According to",
+      "Along with"
+    ],
+    "collocations": [
+      "in spite of the fact that",
+      "in spite of everything"
+    ],
+    "note": "Same meaning as 'despite'. Always three words: 'in spite of', never 'in spite'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-even-though",
+    "headword": "even though",
+    "pos": "conjunction",
+    "cefr": "B1+",
+    "es": "aunque, a pesar de que",
+    "definition": "a stronger form of 'although', used for a surprising fact",
+    "example": "Even though it was midnight, he kept debugging.",
+    "exampleEs": "Aunque era medianoche, él siguió depurando.",
+    "cloze": "____ it was midnight, he kept debugging.",
+    "answer": "Even though",
+    "distractors": [
+      "As soon as",
+      "So that",
+      "Unless"
+    ],
+    "collocations": [
+      "even though it",
+      "even though I"
+    ],
+    "note": "Stronger than 'although'. Never write 'even' alone for this: 'even I was tired' means something else.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-while",
+    "headword": "while",
+    "pos": "conjunction",
+    "cefr": "B1+",
+    "es": "mientras que, mientras",
+    "definition": "used to contrast two ideas or to say two things happen at the same time",
+    "example": "While some users love the feature, others find it confusing.",
+    "exampleEs": "Mientras que a algunos usuarios les encanta la función, otros la encuentran confusa.",
+    "cloze": "____ some users love the feature, others find it confusing.",
+    "answer": "While",
+    "distractors": [
+      "Unless",
+      "Because",
+      "Therefore"
+    ],
+    "collocations": [
+      "while I was",
+      "while some"
+    ],
+    "note": "Can mean 'whereas' (contrast) or 'during the time that'. Context tells you which.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-unless",
+    "headword": "unless",
+    "pos": "conjunction",
+    "cefr": "B1+",
+    "es": "a menos que, salvo que",
+    "definition": "used to say something is true only if another thing does not happen",
+    "example": "We will ship on Monday unless the tests fail.",
+    "exampleEs": "Lanzaremos el lunes a menos que fallen las pruebas.",
+    "cloze": "We will ship on Monday ____ the tests fail.",
+    "answer": "unless",
+    "distractors": [
+      "whereas",
+      "since",
+      "therefore"
+    ],
+    "collocations": [
+      "unless I'm mistaken",
+      "unless otherwise stated"
+    ],
+    "note": "It already means 'if not', so do not add 'not': 'unless it rains', not 'unless it does not rain'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-provided-that",
+    "headword": "provided that",
+    "pos": "conjunction",
+    "cefr": "C1",
+    "es": "siempre que, con la condición de que",
+    "definition": "used to say that something will happen only if a condition is met",
+    "example": "You can use my laptop, provided that you back up your files.",
+    "exampleEs": "Puedes usar mi laptop, siempre que respaldes tus archivos.",
+    "cloze": "You can use my laptop, ____ you back up your files.",
+    "answer": "provided that",
+    "distractors": [
+      "even though",
+      "in spite of",
+      "as a result"
+    ],
+    "collocations": [
+      "provided that you",
+      "provided that we"
+    ],
+    "note": "Also 'providing that' or just 'provided'. Common in contracts and rules.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-in-case",
+    "headword": "in case",
+    "pos": "conjunction",
+    "cefr": "B1+",
+    "es": "por si acaso, en caso de que",
+    "definition": "used to say you do something as a precaution for a possible future event",
+    "example": "Take a charger with you in case the battery dies.",
+    "exampleEs": "Lleva un cargador por si se acaba la batería.",
+    "cloze": "Take a charger with you ____ the battery dies.",
+    "answer": "in case",
+    "distractors": [
+      "ever since",
+      "in return",
+      "so that"
+    ],
+    "collocations": [
+      "just in case",
+      "in case of emergency"
+    ],
+    "note": "False friend with 'en caso de que' as 'if'. 'In case' = as a precaution, not 'if'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-so-that",
+    "headword": "so that",
+    "pos": "conjunction",
+    "cefr": "B1+",
+    "es": "para que",
+    "definition": "used to say the purpose of an action",
+    "example": "I wrote the steps down so that everyone can follow them.",
+    "exampleEs": "Anoté los pasos para que todos puedan seguirlos.",
+    "cloze": "I wrote the steps down ____ everyone can follow them.",
+    "answer": "so that",
+    "distractors": [
+      "ever since",
+      "unless",
+      "as if"
+    ],
+    "collocations": [
+      "so that you can",
+      "so that it will"
+    ],
+    "note": "For a purpose with a new subject, use 'so that', not 'for' or 'to': 'so that you can', not 'for you can'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-as-long-as",
+    "headword": "as long as",
+    "pos": "conjunction",
+    "cefr": "B1+",
+    "es": "siempre y cuando, mientras",
+    "definition": "used to say something is true or allowed only under a condition",
+    "example": "You can work from home as long as you attend the weekly meeting.",
+    "exampleEs": "Puedes trabajar desde casa siempre y cuando asistas a la reunión semanal.",
+    "cloze": "You can work from home ____ you attend the weekly meeting.",
+    "answer": "as long as",
+    "distractors": [
+      "even though",
+      "in spite of",
+      "so that"
+    ],
+    "collocations": [
+      "as long as you",
+      "as long as it works"
+    ],
+    "note": "Common and natural in speech. Same idea as 'provided that', but less formal.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-consequently",
+    "headword": "consequently",
+    "pos": "adverb",
+    "cefr": "C1",
+    "es": "en consecuencia, por consiguiente",
+    "definition": "used to introduce a result of what was just said",
+    "example": "The company missed its targets. Consequently, the team was restructured.",
+    "exampleEs": "La empresa no alcanzó sus metas. En consecuencia, se reestructuró el equipo.",
+    "cloze": "The company missed its targets. ____, the team was restructured.",
+    "answer": "Consequently",
+    "distractors": [
+      "Nevertheless",
+      "Previously",
+      "Alternatively"
+    ],
+    "collocations": [
+      "consequently, the",
+      "and consequently"
+    ],
+    "note": "Formal. Do not confuse with 'subsequently' (= later, afterward).",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-thus",
+    "headword": "thus",
+    "pos": "adverb",
+    "cefr": "C1",
+    "es": "así, de este modo, por lo tanto",
+    "definition": "used to show a result or a way something is done",
+    "example": "The model was trained on more data and thus became more accurate.",
+    "exampleEs": "El modelo se entrenó con más datos y así se volvió más preciso.",
+    "cloze": "The model was trained on more data and ____ became more accurate.",
+    "answer": "thus",
+    "distractors": [
+      "however",
+      "instead",
+      "otherwise"
+    ],
+    "collocations": [
+      "thus far",
+      "and thus"
+    ],
+    "note": "Formal and short. 'Thus far' means 'until now'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-for-instance",
+    "headword": "for instance",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "por ejemplo",
+    "definition": "used to introduce an example",
+    "example": "Many tools can help. For instance, Notion is great for notes.",
+    "exampleEs": "Muchas herramientas pueden ayudar. Por ejemplo, Notion es excelente para notas.",
+    "cloze": "Many tools can help. ____, Notion is great for notes.",
+    "answer": "For instance",
+    "distractors": [
+      "In contrast",
+      "As a result",
+      "In conclusion"
+    ],
+    "collocations": [
+      "for instance, a",
+      "for instance, when"
+    ],
+    "note": "Same as 'for example'. Use a comma after it.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-in-particular",
+    "headword": "in particular",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "en particular, especialmente",
+    "definition": "used to point out one especially important thing from a group",
+    "example": "I like sci-fi, in particular stories about artificial intelligence.",
+    "exampleEs": "Me gusta la ciencia ficción, en particular las historias sobre inteligencia artificial.",
+    "cloze": "I like sci-fi, ____ stories about artificial intelligence.",
+    "answer": "in particular",
+    "distractors": [
+      "in return",
+      "by contrast",
+      "on average"
+    ],
+    "collocations": [
+      "in particular, the",
+      "nothing in particular"
+    ],
+    "note": "Do not say 'in special'. The word is 'particular'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-on-the-contrary",
+    "headword": "on the contrary",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "al contrario",
+    "definition": "used to say that the opposite of what was just said is true",
+    "example": "The update did not slow the app down. On the contrary, it made it faster.",
+    "exampleEs": "La actualización no hizo más lenta la app. Al contrario, la hizo más rápida.",
+    "cloze": "The update did not slow the app down. ____, it made it faster.",
+    "answer": "On the contrary",
+    "distractors": [
+      "In the meantime",
+      "Previously",
+      "To begin with"
+    ],
+    "collocations": [
+      "quite the contrary",
+      "on the contrary, it"
+    ],
+    "note": "Use it to correct a negative statement. For a simple difference, use 'on the other hand'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-by-contrast",
+    "headword": "by contrast",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "en cambio, por el contrario",
+    "definition": "used to compare two things that are very different",
+    "example": "Sales in Mexico grew fast. By contrast, sales in Spain stayed flat.",
+    "exampleEs": "Las ventas en México crecieron rápido. En cambio, las ventas en España se mantuvieron estables.",
+    "cloze": "Sales in Mexico grew fast. ____, sales in Spain stayed flat.",
+    "answer": "By contrast",
+    "distractors": [
+      "For example",
+      "As a result",
+      "In conclusion"
+    ],
+    "collocations": [
+      "by contrast, the",
+      "in contrast"
+    ],
+    "note": "Also 'in contrast'. Use it to compare two facts, not to correct an idea.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-similarly",
+    "headword": "similarly",
+    "pos": "adverb",
+    "cefr": "B2",
+    "es": "de manera similar, igualmente",
+    "definition": "used to say that something is like what you just mentioned",
+    "example": "Python is popular for data science. Similarly, JavaScript dominates web development.",
+    "exampleEs": "Python es popular para ciencia de datos. De manera similar, JavaScript domina el desarrollo web.",
+    "cloze": "Python is popular for data science. ____, JavaScript dominates web development.",
+    "answer": "Similarly",
+    "distractors": [
+      "Otherwise",
+      "Previously",
+      "Therefore"
+    ],
+    "collocations": [
+      "similarly, the",
+      "and similarly"
+    ],
+    "note": "Goes at the start of the second sentence to show a parallel.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-likewise",
+    "headword": "likewise",
+    "pos": "adverb",
+    "cefr": "C1",
+    "es": "igualmente, del mismo modo",
+    "definition": "used to say that something is also true or should be done in the same way",
+    "example": "I always give feedback politely, and I expect my team to do likewise.",
+    "exampleEs": "Siempre doy retroalimentación con cortesía y espero que mi equipo haga lo mismo.",
+    "cloze": "I always give feedback politely, and I expect my team to do ____.",
+    "answer": "likewise",
+    "distractors": [
+      "however",
+      "instead",
+      "otherwise"
+    ],
+    "collocations": [
+      "do likewise",
+      "and likewise"
+    ],
+    "note": "Often replaces 'the same' after a verb: 'do likewise'. Also a polite reply: 'Nice to meet you.' 'Likewise.'",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-instead",
+    "headword": "instead",
+    "pos": "adverb",
+    "cefr": "B1+",
+    "es": "en cambio, en su lugar",
+    "definition": "used to say that something replaces another thing",
+    "example": "The meeting was cancelled. Let's chat on Slack instead.",
+    "exampleEs": "La reunión se canceló. Mejor charlemos por Slack.",
+    "cloze": "The meeting was cancelled. Let's chat on Slack ____.",
+    "answer": "instead",
+    "distractors": [
+      "moreover",
+      "besides",
+      "therefore"
+    ],
+    "collocations": [
+      "instead of",
+      "do it instead"
+    ],
+    "note": "'Instead' goes alone, usually at the end. 'Instead of' is followed by a noun or -ing.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-in-the-meantime",
+    "headword": "in the meantime",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "mientras tanto",
+    "definition": "used to say what happens during the time before something else happens",
+    "example": "The release is next week. In the meantime, please keep testing.",
+    "exampleEs": "El lanzamiento es la próxima semana. Mientras tanto, por favor sigan probando.",
+    "cloze": "The release is next week. ____, please keep testing.",
+    "answer": "In the meantime",
+    "distractors": [
+      "On the contrary",
+      "To sum up",
+      "As a result"
+    ],
+    "collocations": [
+      "in the meantime, we",
+      "for the meantime"
+    ],
+    "note": "Always 'the': 'in the meantime', not 'in meantime'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-first-of-all",
+    "headword": "first of all",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "en primer lugar, antes que nada",
+    "definition": "used to introduce the first point in a list or the first thing you want to say",
+    "example": "First of all, I want to thank everyone for joining. Second, I will share the agenda.",
+    "exampleEs": "Antes que nada, quiero agradecer a todos por unirse. Segundo, compartiré la agenda.",
+    "cloze": "____, I want to thank everyone for joining. Second, I will share the agenda.",
+    "answer": "First of all",
+    "distractors": [
+      "Finally",
+      "To conclude",
+      "All in all"
+    ],
+    "collocations": [
+      "first of all, let",
+      "first of all, we"
+    ],
+    "note": "Great opening for a presentation. Next ones: 'second', 'then', 'finally'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-afterwards",
+    "headword": "afterwards",
+    "pos": "adverb",
+    "cefr": "B1+",
+    "es": "después, luego",
+    "definition": "used to say something happens later than the event you just mentioned",
+    "example": "We finished the demo, and afterwards we had lunch.",
+    "exampleEs": "Terminamos la demo y después almorzamos.",
+    "cloze": "We finished the demo, and ____ we had lunch.",
+    "answer": "afterwards",
+    "distractors": [
+      "otherwise",
+      "namely",
+      "however"
+    ],
+    "collocations": [
+      "shortly afterwards",
+      "soon afterwards"
+    ],
+    "note": "In US English 'afterward' is also common. Do not confuse with 'after' + noun.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-eventually",
+    "headword": "eventually",
+    "pos": "adverb",
+    "cefr": "B2",
+    "es": "con el tiempo, finalmente",
+    "definition": "used to say that something happens after a long time or many problems",
+    "example": "After many failed attempts, we eventually fixed the bug.",
+    "exampleEs": "Después de muchos intentos fallidos, finalmente arreglamos el error.",
+    "cloze": "After many failed attempts, we ____ fixed the bug.",
+    "answer": "eventually",
+    "distractors": [
+      "currently",
+      "rarely",
+      "hardly"
+    ],
+    "collocations": [
+      "eventually, the",
+      "will eventually"
+    ],
+    "note": "False friend: it does not mean 'eventualmente' (possibly). It means 'in the end'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-in-conclusion",
+    "headword": "in conclusion",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "en conclusión",
+    "definition": "used to introduce the final point or summary of a talk or text",
+    "example": "In conclusion, the new process saves time and reduces errors.",
+    "exampleEs": "En conclusión, el nuevo proceso ahorra tiempo y reduce errores.",
+    "cloze": "____, the new process saves time and reduces errors.",
+    "answer": "In conclusion",
+    "distractors": [
+      "To begin with",
+      "For example",
+      "In the meantime"
+    ],
+    "collocations": [
+      "in conclusion, I",
+      "and in conclusion"
+    ],
+    "note": "Formal. For speaking, 'to wrap up' sounds more natural.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-all-in-all",
+    "headword": "all in all",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "en resumen, en general",
+    "definition": "used to give an overall judgment after considering everything",
+    "example": "All in all, the launch went better than we expected.",
+    "exampleEs": "En general, el lanzamiento salió mejor de lo que esperábamos.",
+    "cloze": "____, the launch went better than we expected.",
+    "answer": "All in all",
+    "distractors": [
+      "To begin with",
+      "On the contrary",
+      "In the meantime"
+    ],
+    "collocations": [
+      "all in all, it was",
+      "all in all, a"
+    ],
+    "note": "Informal and friendly. Good for opinions and reviews.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-in-fact",
+    "headword": "in fact",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "de hecho, en realidad",
+    "definition": "used to add a surprising or stronger detail that supports your point",
+    "example": "I like remote meetings. In fact, I prefer them to office ones.",
+    "exampleEs": "Me gustan las reuniones remotas. De hecho, las prefiero a las de oficina.",
+    "cloze": "I like remote meetings. ____, I prefer them to office ones.",
+    "answer": "In fact",
+    "distractors": [
+      "In contrast",
+      "In case",
+      "In the meantime"
+    ],
+    "collocations": [
+      "in fact, I",
+      "as a matter of fact"
+    ],
+    "note": "Do not translate as 'actually' only. 'In fact' adds emphasis to a true detail.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-as-a-matter-of-fact",
+    "headword": "as a matter of fact",
+    "pos": "phrase",
+    "cefr": "C1",
+    "es": "de hecho, en realidad",
+    "definition": "used to introduce a true detail, often one that is surprising or corrects someone",
+    "example": "Do I know her? As a matter of fact, she was my manager.",
+    "exampleEs": "¿La conozco? De hecho, fue mi jefa.",
+    "cloze": "Do I know her? ____, she was my manager.",
+    "answer": "As a matter of fact",
+    "distractors": [
+      "As a result",
+      "In the meantime",
+      "To sum up"
+    ],
+    "collocations": [
+      "as a matter of fact, I",
+      "as a matter of fact, it"
+    ],
+    "note": "Sounds a bit more formal than 'in fact'. Often used to gently correct someone.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-besides",
+    "headword": "besides",
+    "pos": "adverb",
+    "cefr": "B2",
+    "es": "además, por otra parte",
+    "definition": "used to add one more reason, often a stronger one",
+    "example": "I don't have time for that project. Besides, nobody asked for it.",
+    "exampleEs": "No tengo tiempo para ese proyecto. Además, nadie lo pidió.",
+    "cloze": "I don't have time for that project. ____, nobody asked for it.",
+    "answer": "Besides",
+    "distractors": [
+      "Meanwhile",
+      "Instead",
+      "Therefore"
+    ],
+    "collocations": [
+      "besides, it",
+      "and besides"
+    ],
+    "note": "Different from 'beside' (= next to). Add the final -s: 'besides' = 'also'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-owing-to",
+    "headword": "owing to",
+    "pos": "phrase",
+    "cefr": "C1",
+    "es": "debido a, a causa de",
+    "definition": "used to give the cause of something, followed by a noun",
+    "example": "The call was postponed owing to technical problems.",
+    "exampleEs": "La llamada se pospuso debido a problemas técnicos.",
+    "cloze": "The call was postponed ____ technical problems.",
+    "answer": "owing to",
+    "distractors": [
+      "despite",
+      "instead of",
+      "in spite of"
+    ],
+    "collocations": [
+      "owing to the fact that",
+      "owing to a lack of"
+    ],
+    "note": "Formal. Followed by a noun, not a full clause.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-due-to",
+    "headword": "due to",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "debido a",
+    "definition": "used to show the cause of something, followed by a noun",
+    "example": "The flight was delayed due to bad weather.",
+    "exampleEs": "El vuelo se retrasó debido al mal clima.",
+    "cloze": "The flight was delayed ____ bad weather.",
+    "answer": "due to",
+    "distractors": [
+      "despite",
+      "instead of",
+      "thanks for"
+    ],
+    "collocations": [
+      "due to the fact that",
+      "due to a delay"
+    ],
+    "note": "Followed by a noun phrase. For a full clause use 'because'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-since",
+    "headword": "since",
+    "pos": "conjunction",
+    "cefr": "B1+",
+    "es": "ya que, dado que",
+    "definition": "used to give a reason that the listener already knows",
+    "example": "Since you're already here, can you help me with this bug?",
+    "exampleEs": "Ya que estás aquí, ¿me puedes ayudar con este error?",
+    "cloze": "____ you're already here, can you help me with this bug?",
+    "answer": "Since",
+    "distractors": [
+      "Unless",
+      "Whereas",
+      "Although"
+    ],
+    "collocations": [
+      "since then",
+      "ever since"
+    ],
+    "note": "Two meanings: reason ('since you asked') and time ('since 2020'). The reason meaning starts a sentence often.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-in-order-to",
+    "headword": "in order to",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "para, con el fin de",
+    "definition": "used to say the purpose of an action",
+    "example": "In order to improve my English, I practice every day.",
+    "exampleEs": "Para mejorar mi inglés, practico todos los días.",
+    "cloze": "____ improve my English, I practice every day.",
+    "answer": "In order to",
+    "distractors": [
+      "Because of",
+      "Instead of",
+      "Even though"
+    ],
+    "collocations": [
+      "in order to be",
+      "in order not to"
+    ],
+    "note": "Followed by the base verb. For a negative purpose: 'in order not to forget'.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-on-top-of-that",
+    "headword": "on top of that",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "además de eso, encima",
+    "definition": "used to add something extra, often another problem or benefit",
+    "example": "The bug broke the login. On top of that, it deleted some data.",
+    "exampleEs": "El error rompió el inicio de sesión. Además de eso, borró algunos datos.",
+    "cloze": "The bug broke the login. ____, it deleted some data.",
+    "answer": "On top of that",
+    "distractors": [
+      "In contrast",
+      "In the meantime",
+      "In conclusion"
+    ],
+    "collocations": [
+      "on top of that, we",
+      "on top of this"
+    ],
+    "note": "Informal and spoken. Often adds a second problem.",
+    "tags": [
+      "linker"
+    ]
+  },
+  {
+    "id": "linkers-anyway",
+    "headword": "anyway",
+    "pos": "adverb",
+    "cefr": "B1+",
+    "es": "de todos modos, en fin",
+    "definition": "used to return to the main topic or to say something is true in spite of the situation",
+    "example": "Anyway, let's get back to the agenda.",
+    "exampleEs": "En fin, volvamos a la agenda.",
+    "cloze": "____, let's get back to the agenda.",
+    "answer": "Anyway",
+    "distractors": [
+      "Moreover",
+      "Therefore",
+      "Consequently"
+    ],
+    "collocations": [
+      "anyway, back to",
+      "thanks anyway"
+    ],
+    "note": "Write it as one word. 'Any way' (two words) means 'any method'.",
+    "tags": [
+      "linker"
+    ]
+  }
+]

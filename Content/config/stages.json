@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "note": "Defaults from PLAN F8. Gates are evidence AND a time floor since the previous stage; stages never regress. Mastered = per note on its primary card (L, else C): stability >= 21 d and the last 3 recalls correct. The bundled bank has 740 notes, so stages 6-7 need the M13 datasets. Stage 3 is provisional on day 1: the app seeds privateBand with the B1+ starting prior (3.5).",
+  "mastered": { "minStabilityDays": 21, "lastCorrectRecalls": 3 },
+  "microGrowthEvery": 25,
+  "cosmeticWeeks": [2, 4, 8, 12],
+  "stages": [
+    { "stage": 0, "name": "Egg", "requires": {}, "floor": {} },
+    { "stage": 1, "name": "Hatchling",
+      "requires": { "onboardingDone": true, "levelParagraphDone": true },
+      "floor": {} },
+    { "stage": 2, "name": "Larva",
+      "requires": { "reviewsDone": 5 },
+      "floor": {} },
+    { "stage": 3, "name": "Juvenile",
+      "requires": { "privateBandAtLeast": 3.5 },
+      "floor": { "qualifiedDays": 1 },
+      "catchingUpBelowPlacementBand": 3.5 },
+    { "stage": 4, "name": "Sub-adult",
+      "requires": { "mastered": 150, "publicBandAtLeast": 4.0 },
+      "floor": { "days": 28 } },
+    { "stage": 5, "name": "Adult",
+      "requires": { "mastered": 400, "publicBandAtLeast": 4.5, "writingMedianAtLeast": 4.0, "rolePlayAtLeast": 4.0 },
+      "floor": { "days": 56 } },
+    { "stage": 6, "name": "Elder",
+      "requires": { "mastered": 800, "publicBandAtLeast": 5.0, "writingMedianAtLeast": 4.5 },
+      "floor": { "days": 70 } },
+    { "stage": 7, "name": "Metamorph",
+      "requires": { "mastered": 1400, "publicBandAtLeast": 5.0, "monthlyMocksAtBand": 2, "writingMedianAtLeast": 5.0 },
+      "floor": { "days": 84 } }
+  ]
+}

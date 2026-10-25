@@ -1,0 +1,647 @@
+[
+  {
+    "file": "items/build-sentence-multiwoz.json",
+    "source": "MultiWOZ 2.2",
+    "url": "https://huggingface.co/datasets/pfb30/multi_woz_v22",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "attribution": "Zang et al. 2020, MultiWOZ 2.2 (Budzianowski et al. 2018), pfb30/multi_woz_v22, Apache-2.0; distractors, questions and explanations written with Claude",
+    "retrieved": "2026-10-24",
+    "items": 145,
+    "origin": {
+      "verbatim": 145,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/build-sentence-taskmaster.json",
+    "source": "Taskmaster-1/2",
+    "url": "https://github.com/google-research-datasets/Taskmaster",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "attribution": "Byrne et al. 2019 (Taskmaster-1) and Taskmaster-2 (2020), Google Research, CC BY 4.0; distractors, questions and explanations written with Claude",
+    "retrieved": "2026-10-24",
+    "items": 326,
+    "origin": {
+      "verbatim": 326,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/complete-words-belebele.json",
+    "source": "belebele",
+    "url": "https://huggingface.co/datasets/facebook/belebele",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "attribution": "Belebele (Meta AI, facebook/belebele eng_Latn); passages from FLORES-200 (Wikinews, Wikivoyage), CC BY-SA 4.0",
+    "retrieved": "2026-10-24",
+    "items": 30,
+    "origin": {
+      "verbatim": 30,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/complete-words-openstax.json",
+    "source": "OpenStax paragraphs (HuggingFaceTB/openstax_paragraphs)",
+    "url": "https://huggingface.co/datasets/HuggingFaceTB/openstax_paragraphs",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "attribution": "OpenStax, Rice University (CC BY 4.0); via HuggingFaceTB/openstax_paragraphs. Passages are verbatim excerpts with letters hidden.",
+    "retrieved": "2026-10-24",
+    "items": 165,
+    "origin": {
+      "verbatim": 165,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/complete-words-ose.json",
+    "source": "OneStopEnglish corpus (Int-Txt, Adv-Txt)",
+    "url": "https://github.com/nishkalavallabhi/OneStopEnglishCorpus",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "attribution": "Vajjala, S. and Lucic, I. (2018). OneStopEnglish corpus: A new corpus for automatic readability assessment and text simplification. BEA Workshop, ACL. Texts adapted from Guardian articles by onestopenglish.com. Gaps added; text otherwise unchanged. Licensed CC BY-SA 4.0.",
+    "retrieved": "2026-10-24",
+    "items": 352,
+    "origin": {
+      "verbatim": 352,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/grammar-coedit.nc.json",
+    "source": "CoEdIT (grammarMC, gec)",
+    "url": "https://huggingface.co/datasets/grammarly/coedit",
+    "license": "Apache-2.0 (HF tag and card; the public release keeps only rows from publicly available datasets, but upstream corpora behind the gec/simplification/coherence tasks may carry their own terms)",
+    "tier": "unclear",
+    "attribution": "Raheja et al. 2023, grammarly/coedit (gec task)",
+    "retrieved": "2026-10-24",
+    "items": 208,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 208,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/grammar-drymelon.nc.json",
+    "source": "dry-melon Chinese middle-school English exam questions",
+    "url": "https://huggingface.co/datasets/dry-melon/Chinese-middle-school-English-exam-questions",
+    "license": "CC BY 4.0 as tagged by the uploader (dry-melon). The card says the exam questions were compiled from public Chinese exam sites and 'assumed' to be educational fair use / public domain, so upstream copyright is not cleared",
+    "tier": "unclear",
+    "attribution": "Questions compiled by dry-melon (CC BY 4.0 tag); upstream exam copyright not cleared. Explanations by Claude.",
+    "retrieved": "2026-10-24",
+    "items": 1232,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 1232,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/grammar-rules-ose.json",
+    "source": "OneStopEnglish corpus (rule-based blanking)",
+    "url": "https://github.com/nishkalavallabhi/OneStopEnglishCorpus",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "attribution": "Vajjala & Lucic 2018, OneStopEnglish corpus",
+    "retrieved": "2026-10-24",
+    "items": 108,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 108,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/grammar-rules.json",
+    "source": "Tatoeba; OpenStax paragraphs (rule-based blanking)",
+    "url": "https://tatoeba.org/en/downloads ; https://huggingface.co/datasets/HuggingFaceTB/openstax_paragraphs",
+    "license": "CC BY 2.0 FR (Tatoeba); CC BY 4.0 (OpenStax)",
+    "tier": "permissive",
+    "attribution": "Tatoeba contributors; OpenStax (Rice University)",
+    "retrieved": "2026-10-24",
+    "items": 775,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 775,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/interview-argsme.json",
+    "source": "args.me (webis/args_me)",
+    "url": "https://huggingface.co/datasets/webis/args_me",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "attribution": "Ajjour et al. 2019, webis/args_me (CC BY 4.0); posts and questions adapted/generated from idebate/debatewise arguments",
+    "retrieved": "2026-10-24",
+    "items": 90,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 0,
+      "generated": 90
+    }
+  },
+  {
+    "file": "items/life-correct-coedit.nc.json",
+    "source": "CoEdIT (correct)",
+    "url": "https://huggingface.co/datasets/grammarly/coedit",
+    "license": "Apache-2.0 (HF tag and card; the public release keeps only rows from publicly available datasets, but upstream corpora behind the gec/simplification/coherence tasks may carry their own terms)",
+    "tier": "unclear",
+    "attribution": "Raheja et al. 2023, CoEdIT: Text Editing by Task-Specific Instruction Tuning, grammarly/coedit",
+    "retrieved": "2026-10-24",
+    "items": 100,
+    "origin": {
+      "verbatim": 100,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/life-rewrite-coedit.nc.json",
+    "source": "CoEdIT (rewrite)",
+    "url": "https://huggingface.co/datasets/grammarly/coedit",
+    "license": "Apache-2.0 (HF tag and card; the public release keeps only rows from publicly available datasets, but upstream corpora behind the gec/simplification/coherence tasks may carry their own terms)",
+    "tier": "unclear",
+    "attribution": "Raheja et al. 2023, CoEdIT: Text Editing by Task-Specific Instruction Tuning, grammarly/coedit",
+    "retrieved": "2026-10-24",
+    "items": 60,
+    "origin": {
+      "verbatim": 60,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/life-story-wp.nc.json",
+    "source": "WritingPrompts (euclaise/writingprompts)",
+    "url": "https://huggingface.co/datasets/euclaise/writingprompts",
+    "license": "MIT (HF dataset card; underlying text is Reddit r/WritingPrompts user content, so the MIT tag is the mirror's claim)",
+    "tier": "unclear",
+    "attribution": "Fan et al. 2018, Hierarchical Neural Story Generation; euclaise/writingprompts (prompts only)",
+    "retrieved": "2026-10-24",
+    "items": 104,
+    "origin": {
+      "verbatim": 104,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/life-summary-dolly.json",
+    "source": "databricks-dolly-15k",
+    "url": "https://huggingface.co/datasets/databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0",
+    "tier": "share-alike",
+    "attribution": "Conover et al. 2023, Databricks, databricks/databricks-dolly-15k (contexts from Wikipedia, also CC BY-SA 3.0)",
+    "retrieved": "2026-10-24",
+    "items": 29,
+    "origin": {
+      "verbatim": 29,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/life-translate-tatoeba.json",
+    "source": "Tatoeba",
+    "url": "https://tatoeba.org/en/downloads",
+    "license": "CC BY 2.0 FR",
+    "tier": "permissive",
+    "attribution": "Sentences from Tatoeba (tatoeba.org), CC BY 2.0 FR; each sentence's contributor is recorded in sourceId as <sentenceId>/<username>.",
+    "retrieved": "2026-10-24",
+    "items": 150,
+    "origin": {
+      "verbatim": 150,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/listen-announcement-gen.json",
+    "source": "Tenaz generated announcements",
+    "url": "",
+    "license": "Original (written for Tenaz)",
+    "tier": "permissive",
+    "attribution": "Generated for Tenaz from the scenario matrix in scripts/ingest/sources/gen-announce.py",
+    "retrieved": "2026-10-24",
+    "items": 240,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 0,
+      "generated": 240
+    }
+  },
+  {
+    "file": "items/listen-conversation-dream.nc.json",
+    "source": "DREAM",
+    "url": "https://github.com/nlpdata/dream",
+    "license": "Non-commercial research purpose only (DREAM license.txt)",
+    "tier": "nc",
+    "attribution": "Sun et al. 2019, DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension (nlpdata/dream), non-commercial research only; 4th option, extra questions, titles and explanations written with Claude",
+    "retrieved": "2026-10-24",
+    "items": 232,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 232,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/listen-conversation-gen.json",
+    "source": "Generated workplace dialogues (Tenaz)",
+    "url": "n/a (original)",
+    "license": "Original text written for Tenaz (generated)",
+    "tier": "permissive",
+    "attribution": "Dialogues, questions and explanations written with Claude from the gen-dialogue scenario matrix",
+    "retrieved": "2026-10-24",
+    "items": 282,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 0,
+      "generated": 282
+    }
+  },
+  {
+    "file": "items/listen-conversation-multiwoz.json",
+    "source": "MultiWOZ 2.2",
+    "url": "https://huggingface.co/datasets/pfb30/multi_woz_v22",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "attribution": "Zang et al. 2020, MultiWOZ 2.2 (Budzianowski et al. 2018), pfb30/multi_woz_v22, Apache-2.0; distractors, questions and explanations written with Claude",
+    "retrieved": "2026-10-24",
+    "items": 7,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 7,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/listen-conversation-taskmaster.json",
+    "source": "Taskmaster-1/2",
+    "url": "https://github.com/google-research-datasets/Taskmaster",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "attribution": "Byrne et al. 2019 (Taskmaster-1) and Taskmaster-2 (2020), Google Research, CC BY 4.0; distractors, questions and explanations written with Claude",
+    "retrieved": "2026-10-24",
+    "items": 54,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 54,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/listen-conversation-toeflqa.nc.json",
+    "source": "TOEFL-QA",
+    "url": "https://github.com/iamyuanchung/TOEFL-QA",
+    "license": "No license stated (research release, cite Tseng et al. 2016); treated as unclear, personal study only",
+    "tier": "unclear",
+    "attribution": "Tseng et al. 2016 (INTERSPEECH), Chung et al. 2018 (NAACL), iamyuanchung/TOEFL-QA; transcripts condensed and questions verified with Claude; personal study only, not redistributed",
+    "retrieved": "2026-10-24",
+    "items": 63,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 63,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/listen-repeat-commonvoice.json",
+    "source": "Mozilla Common Voice English sentences",
+    "url": "https://github.com/common-voice/common-voice/tree/main/server/data/en",
+    "license": "CC0 1.0",
+    "tier": "permissive",
+    "attribution": "Mozilla Common Voice sentence collection (public domain, CC0; no attribution required)",
+    "retrieved": "2026-10-24",
+    "items": 100,
+    "origin": {
+      "verbatim": 100,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/listen-repeat-tatoeba.json",
+    "source": "Tatoeba",
+    "url": "https://tatoeba.org/en/downloads",
+    "license": "CC BY 2.0 FR",
+    "tier": "permissive",
+    "attribution": "Sentences from Tatoeba (tatoeba.org), CC BY 2.0 FR; each sentence's contributor is recorded in sourceId as <sentenceId>/<username>.",
+    "retrieved": "2026-10-24",
+    "items": 700,
+    "origin": {
+      "verbatim": 700,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/listen-response-multiwoz.json",
+    "source": "MultiWOZ 2.2",
+    "url": "https://huggingface.co/datasets/pfb30/multi_woz_v22",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "attribution": "Zang et al. 2020, MultiWOZ 2.2 (Budzianowski et al. 2018), pfb30/multi_woz_v22, Apache-2.0; distractors, questions and explanations written with Claude",
+    "retrieved": "2026-10-24",
+    "items": 95,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 95,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/listen-response-mutual.nc.json",
+    "source": "MuTual",
+    "url": "https://github.com/Nealcly/MuTual",
+    "license": "No license stated (unclear); treated as research-only",
+    "tier": "unclear",
+    "attribution": "Cui et al. 2020, MuTual: A Dataset for Multi-Turn Dialogue Reasoning (ACL), Nealcly/MuTual; explanations written with Claude",
+    "retrieved": "2026-10-24",
+    "items": 229,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 229,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/listen-response-taskmaster.json",
+    "source": "Taskmaster-1/2",
+    "url": "https://github.com/google-research-datasets/Taskmaster",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "attribution": "Byrne et al. 2019 (Taskmaster-1) and Taskmaster-2 (2020), Google Research, CC BY 4.0; distractors, questions and explanations written with Claude",
+    "retrieved": "2026-10-24",
+    "items": 310,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 310,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/listen-talk-gen-ose.json",
+    "source": "OneStopEnglish corpus (talks adapted)",
+    "url": "https://github.com/nishkalavallabhi/OneStopEnglishCorpus",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "attribution": "Adapted from the OneStopEnglish corpus (Vajjala and Lucic 2018), CC BY-SA 4.0; talks and questions written with Claude, shared under CC BY-SA 4.0.",
+    "retrieved": "2026-10-24",
+    "items": 40,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 40,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/listen-talk-gen.json",
+    "source": "Tenaz generated talks (OpenStax seeds + business topics)",
+    "url": "https://huggingface.co/datasets/HuggingFaceTB/openstax_paragraphs",
+    "license": "CC BY 4.0 (OpenStax-seeded items); matrix items original",
+    "tier": "permissive",
+    "attribution": "Seeded items adapted from OpenStax, Rice University (CC BY 4.0) via HuggingFaceTB/openstax_paragraphs; lectures and questions written with Claude. Matrix items are original, generated with Claude.",
+    "retrieved": "2026-10-24",
+    "items": 286,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 185,
+      "generated": 101
+    }
+  },
+  {
+    "file": "items/listen-talk-toeflqa.nc.json",
+    "source": "TOEFL-QA",
+    "url": "https://github.com/iamyuanchung/TOEFL-QA",
+    "license": "No license stated (research release, cite Tseng et al. 2016); treated as unclear, personal study only",
+    "tier": "unclear",
+    "attribution": "Tseng et al. 2016 (INTERSPEECH), Chung et al. 2018 (NAACL), iamyuanchung/TOEFL-QA; transcripts condensed and questions verified with Claude; personal study only, not redistributed",
+    "retrieved": "2026-10-24",
+    "items": 122,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 122,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/read-academic-onestopqa.json",
+    "source": "OneStopQA",
+    "url": "https://huggingface.co/datasets/malmaud/onestop_qa",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "attribution": "Berzak, Malmaud and Levy (2020). STARC: Structured Annotations for Reading Comprehension (OneStopQA). Texts adapted from the Guardian via onestopenglish.com. Answer options reshuffled; explanations LLM-written. CC BY-SA 4.0.",
+    "retrieved": "2026-10-24",
+    "items": 16,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 16,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/read-academic-openstax.json",
+    "source": "OpenStax (HuggingFaceTB/openstax_paragraphs)",
+    "url": "https://huggingface.co/datasets/HuggingFaceTB/openstax_paragraphs",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "attribution": "OpenStax, Rice University (CC BY 4.0); via HuggingFaceTB/openstax_paragraphs. Passages are verbatim paragraphs from the textbooks; questions, options and explanations are LLM-written.",
+    "retrieved": "2026-10-24",
+    "items": 132,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 132,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/read-academic-ose.json",
+    "source": "OneStopEnglish corpus (Adv-Txt)",
+    "url": "https://github.com/nishkalavallabhi/OneStopEnglishCorpus",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "attribution": "Vajjala, S. and Lucic, I. (2018). OneStopEnglish corpus: A new corpus for automatic readability assessment and text simplification. BEA Workshop, ACL. Texts adapted from Guardian articles by onestopenglish.com. Passages unchanged; questions, options and explanations LLM-written. CC BY-SA 4.0.",
+    "retrieved": "2026-10-24",
+    "items": 58,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 58,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/read-academic-race.nc.json",
+    "source": "RACE (high)",
+    "url": "https://huggingface.co/datasets/ehovy/race",
+    "license": "Non-commercial research use only (CMU RACE terms; HF card license: other)",
+    "tier": "nc",
+    "attribution": "Lai et al. 2017, RACE (CMU); personal study only, not redistributed",
+    "retrieved": "2026-10-24",
+    "items": 25,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 25,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/read-daily-belebele.json",
+    "source": "belebele",
+    "url": "https://huggingface.co/datasets/facebook/belebele",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "attribution": "Belebele (Meta AI, facebook/belebele eng_Latn); passages from FLORES-200 (Wikinews, Wikivoyage), CC BY-SA 4.0; titles and explanations written by Claude",
+    "retrieved": "2026-10-24",
+    "items": 50,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 50,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/read-daily-cosmos.json",
+    "source": "Cosmos QA",
+    "url": "https://huggingface.co/datasets/allenai/cosmos_qa",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "attribution": "Huang et al. 2019, allenai/cosmos_qa (CC BY 4.0); explanations and extra questions LLM-written",
+    "retrieved": "2026-10-24",
+    "items": 101,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 101,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/read-daily-gen.json",
+    "source": "Tenaz generated readDaily genres",
+    "url": "n/a (original, LLM-generated from scenario matrix)",
+    "license": "Original text written for Tenaz (generated)",
+    "tier": "permissive",
+    "attribution": "Generated with Claude from scripts/ingest/sources/gen-readdaily.py scenarios",
+    "retrieved": "2026-10-24",
+    "items": 400,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 0,
+      "generated": 400
+    }
+  },
+  {
+    "file": "items/read-daily-onestopqa.json",
+    "source": "OneStopQA",
+    "url": "https://huggingface.co/datasets/malmaud/onestop_qa",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "attribution": "Berzak, Malmaud and Levy (2020). STARC: Structured Annotations for Reading Comprehension (OneStopQA). Texts adapted from the Guardian via onestopenglish.com. Answer options reshuffled; explanations LLM-written. CC BY-SA 4.0.",
+    "retrieved": "2026-10-24",
+    "items": 74,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 74,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/read-daily-race.nc.json",
+    "source": "RACE (high)",
+    "url": "https://huggingface.co/datasets/ehovy/race",
+    "license": "Non-commercial research use only (CMU RACE terms; HF card license: other)",
+    "tier": "nc",
+    "attribution": "Lai et al. 2017, RACE (CMU); personal study only, not redistributed",
+    "retrieved": "2026-10-24",
+    "items": 4,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 4,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/write-discussion-argsme.json",
+    "source": "args.me (webis/args_me)",
+    "url": "https://huggingface.co/datasets/webis/args_me",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "attribution": "Ajjour et al. 2019, webis/args_me (CC BY 4.0); posts and questions adapted/generated from idebate/debatewise arguments",
+    "retrieved": "2026-10-24",
+    "items": 76,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 76,
+      "generated": 0
+    }
+  },
+  {
+    "file": "items/write-email-gen.json",
+    "source": "Tenaz generated writeEmail matrix",
+    "url": "",
+    "license": "original Tenaz content",
+    "tier": "permissive",
+    "attribution": "Generated by Claude for Tenaz from scenario matrix scripts/ingest/sources/gen-email.py",
+    "retrieved": "2026-10-24",
+    "items": 407,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 0,
+      "generated": 407
+    }
+  },
+  {
+    "file": "vocab/bsl-workplace.json",
+    "source": "BSL 1.2 (Business Service List)",
+    "url": "https://www.newgeneralservicelist.com/business-service-list",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "attribution": "Headwords: Browne, Culligan & Phillips, New General Service List / New Academic Word List / Business Service List (newgeneralservicelist.com), CC BY-SA 4.0; levels: CEFR-J Vocabulary Profile 1.5 (Tono Laboratory, TUFS) and Octanove Vocabulary Profile C1/C2 (CC BY-SA 4.0); examples: Tatoeba (CC BY 2.0 FR, authors in sourceId); Spanish glosses, definitions, distractors, collocations and notes written with Claude.",
+    "retrieved": "2026-10-24",
+    "items": 355,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "vocab/nawl-academic.json",
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "url": "https://www.newgeneralservicelist.com/new-academic-word-list",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "attribution": "Headwords: Browne, Culligan & Phillips, New General Service List / New Academic Word List / Business Service List (newgeneralservicelist.com), CC BY-SA 4.0; levels: CEFR-J Vocabulary Profile 1.5 (Tono Laboratory, TUFS) and Octanove Vocabulary Profile C1/C2 (CC BY-SA 4.0); examples: Tatoeba (CC BY 2.0 FR, authors in sourceId); Spanish glosses, definitions, distractors, collocations and notes written with Claude.",
+    "retrieved": "2026-10-24",
+    "items": 88,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 0,
+      "generated": 0
+    }
+  },
+  {
+    "file": "vocab/ngsl-core.json",
+    "source": "NGSL 1.2 (New General Service List)",
+    "url": "https://www.newgeneralservicelist.com/new-general-service-list",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "attribution": "Headwords: Browne, Culligan & Phillips, New General Service List / New Academic Word List / Business Service List (newgeneralservicelist.com), CC BY-SA 4.0; levels: CEFR-J Vocabulary Profile 1.5 (Tono Laboratory, TUFS) and Octanove Vocabulary Profile C1/C2 (CC BY-SA 4.0); examples: Tatoeba (CC BY 2.0 FR, authors in sourceId); Spanish glosses, definitions, distractors, collocations and notes written with Claude.",
+    "retrieved": "2026-10-24",
+    "items": 663,
+    "origin": {
+      "verbatim": 0,
+      "adapted": 0,
+      "generated": 0
+    }
+  }
+]

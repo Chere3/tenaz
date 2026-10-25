@@ -1,0 +1,4056 @@
+[
+  {
+    "id": "bs-multiwoz-mw-mul0131-t13",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "Yes, please book this.",
+    "chunks": [
+      "time,",
+      "What date,",
+      "to book?",
+      "you like",
+      "would",
+      "and party size"
+    ],
+    "answer": "What date, time, and party size would you like to book?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0131",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0131#13",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul0250-t11",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I also need a train leaving from Cambridge on Friday.",
+    "chunks": [
+      "the destination",
+      "What is",
+      "to leave?",
+      "would",
+      "and what time",
+      "you like"
+    ],
+    "answer": "What is the destination and what time would you like to leave?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0250",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0250#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul0251-t12",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "The travel time is 50 minutes and it costs 13.20 pounds.",
+    "chunks": [
+      "much for all",
+      "very",
+      "you",
+      "of your help.",
+      "Thank"
+    ],
+    "answer": "Thank you very much for all of your help.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0251",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0251#12",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul0252-t18",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Thank you for calling.",
+    "chunks": [
+      "me get",
+      "you very",
+      "Thank",
+      "in order.",
+      "much for helping",
+      "my reservations"
+    ],
+    "answer": "Thank you very much for helping me get my reservations in order.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0252",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0252#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul0299-t7",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Yes, I'd like a table for 5 on Friday.",
+    "chunks": [
+      "your reservation",
+      "would you like",
+      "for?",
+      "What time",
+      "to make",
+      "for me"
+    ],
+    "answer": "What time would you like for me to make your reservation for?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0299",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0299#7",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul0327-t14",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Is there anything else I can do for you today?",
+    "chunks": [
+      "of the train.",
+      "Yes,",
+      "time",
+      "and departure time",
+      "the travel",
+      "I need"
+    ],
+    "answer": "Yes, I need the travel time and departure time of the train.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0327",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0327#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul0426-t5",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Yes. I would like to book a train from Leicester.",
+    "chunks": [
+      "and what time",
+      "to travel?",
+      "do",
+      "OK,",
+      "what is",
+      "you need",
+      "your travel day,"
+    ],
+    "answer": "OK, what is your travel day, and what time do you need to travel?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0426",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0426#5",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul0526-t14",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "You're welcome. Is there anything else I can help you with today?",
+    "chunks": [
+      "you",
+      "much for your time!",
+      "thank",
+      "I needed,",
+      "very",
+      "That's everything"
+    ],
+    "answer": "That's everything I needed, thank you very much for your time!",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0526",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0526#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul0602-t14",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "That's not a problem. What day would you like?",
+    "chunks": [
+      "and can",
+      "the price",
+      "you please",
+      "and travel time?",
+      "Sunday",
+      "give me"
+    ],
+    "answer": "Sunday and can you please give me the price and travel time?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0602",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0602#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul0676-t14",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "Travel time is 17 minutes.",
+    "chunks": [
+      "the price",
+      "What",
+      "is",
+      "on",
+      "that train?"
+    ],
+    "answer": "What is the price on that train?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0676",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0676#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul0720-t16",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "Yes, the cost is 17.60 pounds. Do you want to book it?",
+    "chunks": [
+      "you please",
+      "the travel time",
+      "Could",
+      "for that?",
+      "tell me"
+    ],
+    "answer": "Could you please tell me the travel time for that?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0720",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0720#16",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1126-t11",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I would first like to book a taxi, between the museum and the hotel please.",
+    "chunks": [
+      "you like",
+      "picked up",
+      "What time",
+      "to be",
+      "at the museum?",
+      "would"
+    ],
+    "answer": "What time would you like to be picked up at the museum?",
+    "accepted": [],
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1126",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1126#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1138-t13",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I'll be staying at The Carolina Bed and Breakfast.",
+    "chunks": [
+      "at the college?",
+      "you up",
+      "you like",
+      "the taxi",
+      "to pick",
+      "would",
+      "What time"
+    ],
+    "answer": "What time would you like the taxi to pick you up at the college?",
+    "accepted": [],
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1138",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1138#13",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1155-t13",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I also need a taxi to commute between the two places.",
+    "chunks": [
+      "at the hotel",
+      "the taxi",
+      "at the museum?",
+      "Will",
+      "be picking",
+      "you up",
+      "or"
+    ],
+    "answer": "Will the taxi be picking you up at the hotel or at the museum?",
+    "accepted": [],
+    "topics": [
+      "transport",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1155",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1155#13",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1344-t12",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Certainly. Where are you departing from and where are you going? I also need the time you are leaving or need to arrive.",
+    "chunks": [
+      "to get",
+      "need",
+      "to the restaurant",
+      "the reservation",
+      "I just",
+      "starts.",
+      "by the time"
+    ],
+    "answer": "I just need to get to the restaurant by the time the reservation starts.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1344",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1344#12",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1407-t11",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "I don't have a departure time in mind but I would like to arrive by 21:45.",
+    "chunks": [
+      "will",
+      "you need",
+      "For how",
+      "many people",
+      "to purchase tickets?"
+    ],
+    "answer": "For how many people will you need to purchase tickets?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1407",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1407#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1440-t16",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "Will there be anything else you need?",
+    "chunks": [
+      "time",
+      "I get",
+      "in minutes please?",
+      "the travel",
+      "Can"
+    ],
+    "answer": "Can I get the travel time in minutes please?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1440",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1440#16",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1448-t10",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "There are 8 possible trains to take, do you have a preference on your departure time from Cambridge?",
+    "chunks": [
+      "I arrive",
+      "on time.",
+      "picky",
+      "as",
+      "long as",
+      "I am not"
+    ],
+    "answer": "I am not picky as long as I arrive on time.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1448",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1448#10",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1451-t13",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I am looking to leave Cambridge on Saturday.",
+    "chunks": [
+      "or arrive",
+      "by?",
+      "to leave",
+      "you want",
+      "Do you have",
+      "a time"
+    ],
+    "answer": "Do you have a time you want to leave or arrive by?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1451",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1451#13",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1545-t6",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "The price is 17.90 and the travel time is 90 minutes.",
+    "chunks": [
+      "for a cheap",
+      "in the centre",
+      "restaurant",
+      "need",
+      "I also",
+      "of town.",
+      "a suggestion"
+    ],
+    "answer": "I also need a suggestion for a cheap restaurant in the centre of town.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1545",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1545#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1623-t6",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "It will cost 3.52 pounds and takes 17 minutes total. Would you like to book it?",
+    "chunks": [
+      "No,",
+      "I am also",
+      "for a cheap",
+      "restaurant",
+      "in the centre.",
+      "looking"
+    ],
+    "answer": "No, I am also looking for a cheap restaurant in the centre.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1623",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1623#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1639-t9",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I am departing from Cambridge.",
+    "chunks": [
+      "and at",
+      "to,",
+      "Where would",
+      "and day?",
+      "what time",
+      "to travel",
+      "you like"
+    ],
+    "answer": "Where would you like to travel to, and at what time and day?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1639",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1639#9",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1774-t6",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Travel time is 17 minutes.",
+    "chunks": [
+      "I",
+      "to go",
+      "in the centre.",
+      "for a place",
+      "looking",
+      "am also"
+    ],
+    "answer": "I am also looking for a place to go in the centre.",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1774",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1774#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1798-t11",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I want to leave from Stansted Airport.",
+    "chunks": [
+      "by?",
+      "a certain time",
+      "or arrive",
+      "Is",
+      "you would like",
+      "to leave",
+      "there"
+    ],
+    "answer": "Is there a certain time you would like to leave or arrive by?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1798",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1798#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1916-t9",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I also need a train departing Ely and bound for Cambridge.",
+    "chunks": [
+      "in mind",
+      "a day",
+      "and time",
+      "Did",
+      "for your travels?",
+      "you have"
+    ],
+    "answer": "Did you have a day and time in mind for your travels?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1916",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1916#9",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul1948-t10",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Would you like me to book it?",
+    "chunks": [
+      "Before you",
+      "you tell me",
+      "can",
+      "will cost?",
+      "do,",
+      "how much it"
+    ],
+    "answer": "Before you do, can you tell me how much it will cost?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1948",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1948#10",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul2002-t6",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "The travel time is 88 minutes. Can I help you with anything else?",
+    "chunks": [
+      "does",
+      "leave?",
+      "that train",
+      "Yes,",
+      "what time"
+    ],
+    "answer": "Yes, what time does that train leave?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2002",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2002#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul2003-t9",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Yes I also need a train. I'm planning to travel from Cambridge to Stevenage on Friday.",
+    "chunks": [
+      "a time",
+      "Do",
+      "you have",
+      "to leave",
+      "or get",
+      "you want",
+      "there by?"
+    ],
+    "answer": "Do you have a time you want to leave or get there by?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2003",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2003#9",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul2041-t8",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "It costs 4.40 pounds. May I book it for you?",
+    "chunks": [
+      "it really?",
+      "is",
+      "That seems",
+      "how long",
+      "short train ride,",
+      "like",
+      "a really"
+    ],
+    "answer": "That seems like a really short train ride, how long is it really?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2041",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2041#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul2127-t1",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I'd like a train leaving on Tuesday from Kings Lynn, please.",
+    "chunks": [
+      "Is there",
+      "by?",
+      "to leave",
+      "or arrive",
+      "time you'd like",
+      "a particular"
+    ],
+    "answer": "Is there a particular time you'd like to leave or arrive by?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2127",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2127#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul2185-t9",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I would like to go from Stansted to Cambridge, please.",
+    "chunks": [
+      "you have",
+      "the arrival time?",
+      "a preference",
+      "Do",
+      "or",
+      "for the day"
+    ],
+    "answer": "Do you have a preference for the day or the arrival time?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2185",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2185#9",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul2194-t14",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "That train leaves at 11:11. Travel time is 47 minutes.",
+    "chunks": [
+      "much for",
+      "your help.",
+      "you",
+      "Thank",
+      "very"
+    ],
+    "answer": "Thank you very much for your help.",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2194",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2194#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul2332-t11",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I also need a taxi.",
+    "chunks": [
+      "to travel?",
+      "to go",
+      "Where would",
+      "and what time",
+      "you like",
+      "would",
+      "you like"
+    ],
+    "answer": "Where would you like to go and what time would you like to travel?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2332",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2332#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-mul2600-t13",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Yes, I also need a taxi.",
+    "chunks": [
+      "would",
+      "you like",
+      "you like",
+      "Where would",
+      "to travel",
+      "to go?",
+      "and what time"
+    ],
+    "answer": "Where would you like to travel and what time would you like to go?",
+    "accepted": [],
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2600",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2600#13",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0001-t21",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I would be leaving the hotel by 10:15.",
+    "chunks": [
+      "I need",
+      "the taxi",
+      "Before I",
+      "where you",
+      "can request",
+      "to know",
+      "are going."
+    ],
+    "answer": "Before I can request the taxi I need to know where you are going.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0001",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0001#21",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0228-t17",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "Thank you for your help.",
+    "chunks": [
+      "a good time",
+      "Thank",
+      "you",
+      "and have",
+      "city!",
+      "in our lovely"
+    ],
+    "answer": "Thank you and have a good time in our lovely city!",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0228",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0228#17",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0257-t4",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Is cost important to you?",
+    "chunks": [
+      "the amenities",
+      "as long",
+      "that I asked",
+      "for.",
+      "as it has",
+      "No,",
+      "and stars"
+    ],
+    "answer": "No, as long as it has the amenities and stars that I asked for.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0257",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0257#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0297-t19",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Yes, I need a taxi also.",
+    "chunks": [
+      "Where do",
+      "picked up",
+      "and by",
+      "what time?",
+      "to be",
+      "you want"
+    ],
+    "answer": "Where do you want to be picked up and by what time?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0297",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0297#19",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0322-t21",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I need to be picked up at the hotel, please.",
+    "chunks": [
+      "do you need",
+      "to be",
+      "what restaurant",
+      "picked up",
+      "I'm sorry,",
+      "from?"
+    ],
+    "answer": "I'm sorry, what restaurant do you need to be picked up from?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0322",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0322#21",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0336-t15",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "How much time?",
+    "chunks": [
+      "What time",
+      "to arrive",
+      "at the restaurant?",
+      "would",
+      "you like"
+    ],
+    "answer": "What time would you like to arrive at the restaurant?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0336",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0336#15",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0403-t17",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "I need picked up at the hotel.",
+    "chunks": [
+      "to be",
+      "you like",
+      "would",
+      "What time",
+      "picked up?"
+    ],
+    "answer": "What time would you like to be picked up?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0403",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0403#17",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0443-t5",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Could you try one similar only Indian this time?",
+    "chunks": [
+      "in?",
+      "What area",
+      "to dine",
+      "of town",
+      "are you looking"
+    ],
+    "answer": "What area of town are you looking to dine in?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0443",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0443#5",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0454-t17",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "You covered everything, thank you.",
+    "chunks": [
+      "you",
+      "in our great",
+      "city!",
+      "Thank",
+      "a great time",
+      "and have"
+    ],
+    "answer": "Thank you and have a great time in our great city!",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0454",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0454#17",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0526-t16",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "The travel time is 105 minutes.",
+    "chunks": [
+      "I need right now.",
+      "Ok,",
+      "the info",
+      "you,",
+      "that is all",
+      "thank"
+    ],
+    "answer": "Ok, thank you, that is all the info I need right now.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0526",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0526#16",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0536-t1",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I need a train on Monday.",
+    "chunks": [
+      "Sure thing,",
+      "you'd like",
+      "got",
+      "to travel?",
+      "or time",
+      "a destination"
+    ],
+    "answer": "Sure thing, got a destination or time you'd like to travel?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0536",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0536#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0538-t11",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I need to leave on Saturday.",
+    "chunks": [
+      "to arrive",
+      "What time",
+      "do",
+      "at your destination",
+      "or depart?",
+      "you need"
+    ],
+    "answer": "What time do you need to arrive at your destination or depart?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0538",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0538#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0544-t6",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "The first train leaves at 5:50.",
+    "chunks": [
+      "you",
+      "that leaves later",
+      "Do",
+      "makes",
+      "but still",
+      "have something",
+      "the arrival time?"
+    ],
+    "answer": "Do you have something that leaves later but still makes the arrival time?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0544",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0544#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0589-t3",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Can you make the reservation?",
+    "chunks": [
+      "and on",
+      "How many people",
+      "and time?",
+      "be dining",
+      "will",
+      "what day"
+    ],
+    "answer": "How many people will be dining and on what day and time?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0589",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0589#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0640-t1",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I'm going to Cambridge and I need a train that arrives by 16:00.",
+    "chunks": [
+      "from and",
+      "will",
+      "you be leaving?",
+      "what time",
+      "be departing",
+      "you",
+      "Where will"
+    ],
+    "answer": "Where will you be departing from and what time will you be leaving?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0640",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0640#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0690-t13",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Can you book it for me and get a reference number?",
+    "chunks": [
+      "to make",
+      "for?",
+      "would",
+      "your reservations",
+      "you like me",
+      "What particular time"
+    ],
+    "answer": "What particular time would you like me to make your reservations for?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0690",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0690#13",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0697-t14",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "Total travel time is 51 minutes. Can I help you with anything else?",
+    "chunks": [
+      "Can",
+      "you",
+      "what time",
+      "tell me",
+      "will be departing?",
+      "the train"
+    ],
+    "answer": "Can you tell me what time the train will be departing?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0697",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0697#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0754-t16",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "It will arrive in Cambridge at 19:23.",
+    "chunks": [
+      "at maths",
+      "good",
+      "I'm not",
+      "travel time too.",
+      "the total",
+      "give me",
+      "so please"
+    ],
+    "answer": "I'm not good at maths so please give me the total travel time too.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0754",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0754#16",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0854-t9",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "For Friday for 2 people thank you!",
+    "chunks": [
+      "you like",
+      "What time",
+      "would",
+      "on Friday?",
+      "to dine"
+    ],
+    "answer": "What time would you like to dine on Friday?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0854",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0854#9",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0861-t3",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "It will be on Saturday.",
+    "chunks": [
+      "you would like",
+      "to leave?",
+      "you have",
+      "a particular",
+      "Do",
+      "time"
+    ],
+    "answer": "Do you have a particular time you would like to leave?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0861",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0861#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0951-t16",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "Travel time is 49 minutes.",
+    "chunks": [
+      "it",
+      "you like me",
+      "to book",
+      "for you?",
+      "Would"
+    ],
+    "answer": "Would you like me to book it for you?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0951",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0951#16",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0979-t11",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I would like to go to Ely please.",
+    "chunks": [
+      "Do you have",
+      "a time",
+      "or arrive",
+      "by?",
+      "to leave",
+      "you need"
+    ],
+    "answer": "Do you have a time you need to leave or arrive by?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0979",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0979#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul0985-t9",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I would like to travel to Cambridge on Thursday.",
+    "chunks": [
+      "what's",
+      "your departure location",
+      "can get",
+      "accurate information,",
+      "you",
+      "and time?",
+      "Just so I"
+    ],
+    "answer": "Just so I can get you accurate information, what's your departure location and time?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0985",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0985#9",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1038-t1",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I'm looking for trains that will be leaving on Sunday.",
+    "chunks": [
+      "me",
+      "can give",
+      "so I",
+      "your destination",
+      "you options",
+      "Please tell",
+      "and cost."
+    ],
+    "answer": "Please tell me your destination so I can give you options and cost.",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1038",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1038#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1156-t9",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I am leaving from Cambridge and will be traveling Wednesday.",
+    "chunks": [
+      "what time",
+      "you tell me",
+      "you want",
+      "to leave",
+      "Can",
+      "by?",
+      "or arrive"
+    ],
+    "answer": "Can you tell me what time you want to leave or arrive by?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1156",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1156#9",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1171-t20",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "The travel time is 60 minutes.",
+    "chunks": [
+      "your help.",
+      "so",
+      "you",
+      "much for",
+      "Thank"
+    ],
+    "answer": "Thank you so much for your help.",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1171",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1171#20",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1174-t1",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I'm looking for a train that leaves Cambridge on Wednesday please.",
+    "chunks": [
+      "Where are",
+      "you traveling",
+      "you be traveling?",
+      "to,",
+      "and at",
+      "what time",
+      "will"
+    ],
+    "answer": "Where are you traveling to, and at what time will you be traveling?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1174",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1174#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1221-t4",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "Do you have an arrival time in mind?",
+    "chunks": [
+      "I do not",
+      "to arrive",
+      "have",
+      "a time",
+      "by."
+    ],
+    "answer": "I do not have a time to arrive by.",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1221",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1221#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1225-t3",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I would like to depart from Stevenage on Wednesday.",
+    "chunks": [
+      "a particular time",
+      "by?",
+      "you would like",
+      "there",
+      "or arrive",
+      "Is",
+      "to leave"
+    ],
+    "answer": "Is there a particular time you would like to leave or arrive by?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1225",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1225#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1230-t8",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "The travel time is 28 minutes. Can I help you with anything else?",
+    "chunks": [
+      "to go",
+      "need",
+      "some place",
+      "I",
+      "in the centre."
+    ],
+    "answer": "I need some place to go in the centre.",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1230",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1230#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1244-t9",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "I will travel Tuesday.",
+    "chunks": [
+      "you need",
+      "or arrive",
+      "Is there",
+      "to leave",
+      "a time",
+      "by?"
+    ],
+    "answer": "Is there a time you need to leave or arrive by?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1244",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1244#9",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1246-t3",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "My destination is Cambridge, and I'll be traveling on Saturday.",
+    "chunks": [
+      "by?",
+      "a time",
+      "to leave",
+      "Is there",
+      "or arrive",
+      "you would like"
+    ],
+    "answer": "Is there a time you would like to leave or arrive by?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1246",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1246#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1252-t6",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "The total travel time is 49 minutes.",
+    "chunks": [
+      "the information!",
+      "for",
+      "you",
+      "Okay,",
+      "thank"
+    ],
+    "answer": "Okay, thank you for the information!",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1252",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1252#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1367-t17",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Thanks for the information, that is all.",
+    "chunks": [
+      "taxi or",
+      "any attractions,",
+      "I look up",
+      "Can",
+      "for you?",
+      "anything else"
+    ],
+    "answer": "Can I look up any attractions, taxi or anything else for you?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1367",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1367#17",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1529-t7",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Thank you. I also need a train from Birmingham new street on Sunday.",
+    "chunks": [
+      "you would like",
+      "to arrive",
+      "or leave?",
+      "Did",
+      "a time",
+      "you have"
+    ],
+    "answer": "Did you have a time you would like to arrive or leave?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1529",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1529#7",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1568-t17",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I think that is it, got bookings for hotel and train.",
+    "chunks": [
+      "you",
+      "to look",
+      "for you today?",
+      "like me",
+      "up anything else",
+      "Would"
+    ],
+    "answer": "Would you like me to look up anything else for you today?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1568",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1568#17",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1694-t11",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I will be travelling on Wednesday.",
+    "chunks": [
+      "on Wednesday?",
+      "and/or arrive",
+      "to leave",
+      "What time",
+      "you like",
+      "would"
+    ],
+    "answer": "What time would you like to leave and/or arrive on Wednesday?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1694",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1694#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1699-t3",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "Stansted Airport, please.",
+    "chunks": [
+      "and what day",
+      "and time",
+      "you traveling?",
+      "are",
+      "OK,"
+    ],
+    "answer": "OK, and what day and time are you traveling?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1699",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1699#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1704-t8",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "The travel time is 49 minutes.",
+    "chunks": [
+      "like",
+      "an expensive guesthouse.",
+      "to find",
+      "I",
+      "would also"
+    ],
+    "answer": "I would also like to find an expensive guesthouse.",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1704",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1704#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1733-t8",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "The duration is 28 minutes. May I help with something else?",
+    "chunks": [
+      "in the moderate",
+      "I also",
+      "a place",
+      "price range.",
+      "need",
+      "to stay"
+    ],
+    "answer": "I also need a place to stay in the moderate price range.",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1733",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1733#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1794-t6",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "The travel time is about 28 minutes.",
+    "chunks": [
+      "need",
+      "I also",
+      "a guesthouse",
+      "in.",
+      "to stay"
+    ],
+    "answer": "I also need a guesthouse to stay in.",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1794",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1794#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1892-t3",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I would be leaving Cambridge and heading to Peterborough on Tuesday.",
+    "chunks": [
+      "or arrive",
+      "you would like",
+      "a specific time",
+      "there",
+      "to depart",
+      "Is",
+      "by?"
+    ],
+    "answer": "Is there a specific time you would like to depart or arrive by?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1892",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1892#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1914-t18",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "There are 8 trains that would get you there by 21:15. What time would you like to depart Cambridge?",
+    "chunks": [
+      "have",
+      "to leave,",
+      "for asking.",
+      "you",
+      "a specific time",
+      "I do not",
+      "thank"
+    ],
+    "answer": "I do not have a specific time to leave, thank you for asking.",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1914",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1914#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1960-t8",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "It is 37.80 pounds and travel time is 105 minutes. Do you need anything else?",
+    "chunks": [
+      "to find",
+      "need",
+      "a place",
+      "to stay.",
+      "I also"
+    ],
+    "answer": "I also need to find a place to stay.",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1960",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1960#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul1989-t4",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "Thanks for that information. Is there a time you would like to arrive by?",
+    "chunks": [
+      "don't",
+      "have",
+      "to arrive.",
+      "No I",
+      "a specific time"
+    ],
+    "answer": "No I don't have a specific time to arrive.",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1989",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1989#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul2037-t17",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Perfect, thank you for all your help.",
+    "chunks": [
+      "or lodging",
+      "Do",
+      "need help",
+      "arranging transportation",
+      "you",
+      "at this time?"
+    ],
+    "answer": "Do you need help arranging transportation or lodging at this time?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2037",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2037#17",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul2175-t31",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I just need it to arrive at the restaurant at the correct time.",
+    "chunks": [
+      "do need",
+      "to book",
+      "the taxi.",
+      "the departure place",
+      "in order",
+      "I",
+      "and destination"
+    ],
+    "answer": "I do need the departure place and destination in order to book the taxi.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2175",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2175#31",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul2189-t19",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "For the taxi I need to be picked up in enough time to arrive to the restaurant in time.",
+    "chunks": [
+      "To book",
+      "of travel,",
+      "and arrival location.",
+      "a taxi",
+      "need time",
+      "I",
+      "departure location"
+    ],
+    "answer": "To book a taxi I need time of travel, departure location and arrival location.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2189",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2189#19",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul2218-t7",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Yes, could you please book that.",
+    "chunks": [
+      "and day",
+      "many and",
+      "you like",
+      "what time",
+      "to eat?",
+      "would",
+      "For how"
+    ],
+    "answer": "For how many and what time and day would you like to eat?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2218",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2218#7",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul2430-t18",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "What time would you like to leave?",
+    "chunks": [
+      "need",
+      "at the restaurant",
+      "by the booked",
+      "I just",
+      "to arrive",
+      "time."
+    ],
+    "answer": "I just need to arrive at the restaurant by the booked time.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2430",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2430#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul2583-t17",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Yes, I also need a taxi going between the two places.",
+    "chunks": [
+      "and which is",
+      "you need",
+      "the taxi,",
+      "the destination",
+      "What time",
+      "site?",
+      "do"
+    ],
+    "answer": "What time do you need the taxi, and which is the destination site?",
+    "accepted": [],
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2583",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2583#17",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul2698-t4",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "There are no hotels meeting these requirements.",
+    "chunks": [
+      "price range instead?",
+      "you check",
+      "that falls",
+      "can",
+      "Okay,",
+      "for one",
+      "in the cheap"
+    ],
+    "answer": "Okay, can you check for one that falls in the cheap price range instead?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2698",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2698#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul2786-t17",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Pick up at saint catharine's college and drop off at Acorn guest house.",
+    "chunks": [
+      "for the driver",
+      "an acceptable",
+      "to pick",
+      "time",
+      "you up?",
+      "be",
+      "What would"
+    ],
+    "answer": "What would be an acceptable time for the driver to pick you up?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2786",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2786#17",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul2811-t10",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "It is. Would you like a room?",
+    "chunks": [
+      "but what is",
+      "at",
+      "Not",
+      "and postcode?",
+      "their address",
+      "this time"
+    ],
+    "answer": "Not at this time but what is their address and postcode?",
+    "accepted": [],
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2811",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2811#10",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul2816-t4",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Yes it does. Would you like a room booked?",
+    "chunks": [
+      "the postcode?",
+      "at this time,",
+      "you give me",
+      "Not",
+      "can"
+    ],
+    "answer": "Not at this time, can you give me the postcode?",
+    "accepted": [],
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2816",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2816#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul2839-t1",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I need a taxi to meet me at my restaurant.",
+    "chunks": [
+      "for?",
+      "the taxi",
+      "to get",
+      "and time",
+      "What location",
+      "would you like"
+    ],
+    "answer": "What location and time would you like to get the taxi for?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2839",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2839#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul2927-t1",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I am looking for a park to go to.",
+    "chunks": [
+      "you'd like",
+      "Is",
+      "to spend time",
+      "a particular area",
+      "in?",
+      "of town",
+      "there"
+    ],
+    "answer": "Is there a particular area of town you'd like to spend time in?",
+    "accepted": [],
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2927",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2927#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul2951-t5",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I would like to book it for 6 people staying 4 nights.",
+    "chunks": [
+      "be happy",
+      "will",
+      "to help",
+      "you be arriving?",
+      "with your request,",
+      "what day",
+      "I'd"
+    ],
+    "answer": "I'd be happy to help with your request, what day will you be arriving?",
+    "accepted": [],
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2951",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2951#5",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3089-t8",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "A single ticket costs 16.50 pounds and total travel time is about 50 minutes. Will that be all today?",
+    "chunks": [
+      "that for",
+      "me please?",
+      "you book",
+      "can",
+      "I changed",
+      "my mind"
+    ],
+    "answer": "I changed my mind can you book that for me please?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3089",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3089#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3119-t9",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "No, I just needed the number and time. Thank you!",
+    "chunks": [
+      "with something else?",
+      "would",
+      "Would",
+      "or",
+      "you need assistance",
+      "that be all",
+      "for today"
+    ],
+    "answer": "Would that be all for today or would you need assistance with something else?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3119",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3119#9",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3124-t11",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "I want to book a taxi to commute between the two places.",
+    "chunks": [
+      "you would like",
+      "to be",
+      "picked up?",
+      "a time",
+      "Is",
+      "there"
+    ],
+    "answer": "Is there a time you would like to be picked up?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3124",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3124#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3204-t6",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "The ride is 47 minutes.",
+    "chunks": [
+      "a ticket?",
+      "is",
+      "of",
+      "What",
+      "the cost"
+    ],
+    "answer": "What is the cost of a ticket?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3204",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3204#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3400-t13",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I also need a taxi to get to the restaurant from the hotel.",
+    "chunks": [
+      "What time",
+      "you need",
+      "and from where?",
+      "do",
+      "to be",
+      "picked up"
+    ],
+    "answer": "What time do you need to be picked up and from where?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3400",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3400#13",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3427-t1",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I am planning a trip in Cambridge.",
+    "chunks": [
+      "you with travel,",
+      "I can help",
+      "and places",
+      "attractions",
+      "restaurants,",
+      "to stay."
+    ],
+    "answer": "I can help you with travel, restaurants, attractions and places to stay.",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3427",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3427#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3481-t8",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "The travel time is 38 minutes and the ticket cost is 8.08 pounds. Is there anything else I can help you with?",
+    "chunks": [
+      "am looking",
+      "in town.",
+      "I",
+      "while I'm",
+      "Yes",
+      "to do",
+      "for some things"
+    ],
+    "answer": "Yes I am looking for some things to do while I'm in town.",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3481",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3481#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3486-t3",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I would like to leave on Sunday.",
+    "chunks": [
+      "Is",
+      "by?",
+      "after or arrive",
+      "a certain time",
+      "to leave",
+      "there",
+      "you want"
+    ],
+    "answer": "Is there a certain time you want to leave after or arrive by?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3486",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3486#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3501-t11",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "I am leaving on Thursday.",
+    "chunks": [
+      "Did",
+      "a specific",
+      "in mind?",
+      "arrival time",
+      "you have",
+      "departure or"
+    ],
+    "answer": "Did you have a specific departure or arrival time in mind?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3501",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3501#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3552-t3",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I would like a train into Cambridge from Stevenage.",
+    "chunks": [
+      "to travel",
+      "and time",
+      "Is",
+      "there",
+      "at?",
+      "you would like",
+      "a specific day"
+    ],
+    "answer": "Is there a specific day and time you would like to travel at?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3552",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3552#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3616-t14",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "The total travel time is 79 minutes. Can I do anything else for you today?",
+    "chunks": [
+      "on the train",
+      "that is",
+      "that I",
+      "needed.",
+      "all",
+      "the info",
+      "I think"
+    ],
+    "answer": "I think that is all the info on the train that I needed.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3616",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3616#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3704-t13",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I would like a table.",
+    "chunks": [
+      "What time",
+      "you like",
+      "how many people?",
+      "the reservation,",
+      "would",
+      "and for"
+    ],
+    "answer": "What time would you like the reservation, and for how many people?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3704",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3704#13",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3790-t12",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "There is a 09:59 that would arrive by 11:27. Does that work?",
+    "chunks": [
+      "can",
+      "give me",
+      "of a ticket?",
+      "Yes,",
+      "you",
+      "the travel time",
+      "and the price"
+    ],
+    "answer": "Yes, can you give me the travel time and the price of a ticket?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3790",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3790#12",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3813-t5",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Arrival time doesn't matter as long as I leave after 11:00.",
+    "chunks": [
+      "you need?",
+      "how many tickets",
+      "you",
+      "I can help",
+      "with that,",
+      "do"
+    ],
+    "answer": "I can help you with that, how many tickets do you need?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3813",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3813#5",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3828-t15",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "I will need to be picked up by 5.",
+    "chunks": [
+      "to be",
+      "Which place",
+      "picked up",
+      "do you want",
+      "from?"
+    ],
+    "answer": "Which place do you want to be picked up from?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3828",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3828#15",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3929-t15",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I will be departing for the hotel.",
+    "chunks": [
+      "for the guesthouse?",
+      "you",
+      "be departing",
+      "What time",
+      "will"
+    ],
+    "answer": "What time will you be departing for the guesthouse?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3929",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3929#15",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul3986-t1",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "Well, I am planning a trip and need some help with a train.",
+    "chunks": [
+      "you know",
+      "Of course,",
+      "and time?",
+      "do",
+      "your departure location"
+    ],
+    "answer": "Of course, do you know your departure location and time?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3986",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3986#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4039-t5",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Great! I need a table for 8 on Friday evening.",
+    "chunks": [
+      "Is",
+      "a specific time",
+      "in the evening",
+      "would like?",
+      "that you",
+      "there"
+    ],
+    "answer": "Is there a specific time in the evening that you would like?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4039",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4039#5",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4047-t7",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Yes, I need a train on Friday also, going into Cambridge.",
+    "chunks": [
+      "Ok,",
+      "and what time",
+      "by?",
+      "to arrive",
+      "where from",
+      "do you want"
+    ],
+    "answer": "Ok, where from and what time do you want to arrive by?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4047",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4047#7",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4136-t18",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "The total travel time is 49 minutes and the price is 10.24 pounds. Would you like it booked?",
+    "chunks": [
+      "all set",
+      "gathering info,",
+      "I am",
+      "No thanks,",
+      "just",
+      "for now."
+    ],
+    "answer": "No thanks, just gathering info, I am all set for now.",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4136",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4136#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4354-t17",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I will leave from the attraction to the hotel.",
+    "chunks": [
+      "to leave",
+      "Ok great",
+      "and what time",
+      "or arrive?",
+      "you prefer",
+      "do"
+    ],
+    "answer": "Ok great and what time do you prefer to leave or arrive?",
+    "accepted": [],
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4354",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4354#17",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4387-t21",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "There are 2 people total.",
+    "chunks": [
+      "would",
+      "for?",
+      "to make",
+      "you like me",
+      "What time",
+      "your reservation"
+    ],
+    "answer": "What time would you like me to make your reservation for?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4387",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4387#21",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4525-t18",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "It is 163 minutes.",
+    "chunks": [
+      "you also",
+      "Can",
+      "about some parks",
+      "could visit?",
+      "that I",
+      "tell me"
+    ],
+    "answer": "Can you also tell me about some parks that I could visit?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4525",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4525#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4561-t3",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I will be departing from Cambridge on Saturday.",
+    "chunks": [
+      "or arrive",
+      "you have",
+      "a time",
+      "Do",
+      "that you need",
+      "by?",
+      "to leave"
+    ],
+    "answer": "Do you have a time that you need to leave or arrive by?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4561",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4561#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4678-t6",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "Of course. The travel time is 50 minutes. The price is 16.50 pounds. Would you like any other information?",
+    "chunks": [
+      "to go",
+      "for places",
+      "I'm also looking",
+      "in town.",
+      "Yes,"
+    ],
+    "answer": "Yes, I'm also looking for places to go in town.",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4678",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4678#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4736-t1",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I need a train to Peterborough that will be there no later than 17:15.",
+    "chunks": [
+      "you have",
+      "several choices,",
+      "a time",
+      "I have",
+      "for your departure?",
+      "do"
+    ],
+    "answer": "I have several choices, do you have a time for your departure?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4736",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4736#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4766-t10",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "There are no hotels but there are 7 guesthouses in the north meeting your requirements. Do you want me to choose a guesthouse for you?",
+    "chunks": [
+      "on recent reviews.",
+      "recommend",
+      "a guesthouse based",
+      "Yes,",
+      "please"
+    ],
+    "answer": "Yes, please recommend a guesthouse based on recent reviews.",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4766",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4766#10",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4775-t14",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "It is a total time of 38 minutes for the trip. Anything else that I can assist with?",
+    "chunks": [
+      "can",
+      "Yeah,",
+      "at the station?",
+      "to be",
+      "I need",
+      "you confirm",
+      "the time"
+    ],
+    "answer": "Yeah, can you confirm the time I need to be at the station?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4775",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4775#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4787-t20",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "The travel time is 50 minutes.",
+    "chunks": [
+      "That is all",
+      "thank",
+      "you,",
+      "I need,",
+      "goodbye!"
+    ],
+    "answer": "That is all I need, thank you, goodbye!",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4787",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4787#20",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4828-t5",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I would like to travel on Sunday.",
+    "chunks": [
+      "after or arrive",
+      "to leave",
+      "there",
+      "a certain time",
+      "by?",
+      "Is",
+      "you would like"
+    ],
+    "answer": "Is there a certain time you would like to leave after or arrive by?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4828",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4828#5",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4937-t9",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Thank you that was all I needed.",
+    "chunks": [
+      "or look",
+      "up info",
+      "Do",
+      "need me",
+      "about anything else?",
+      "you",
+      "to book"
+    ],
+    "answer": "Do you need me to book or look up info about anything else?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4937",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4937#9",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-pmul4984-t10",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "Yes the travel time is 79 minutes and the price is 17.60 pounds.",
+    "chunks": [
+      "book",
+      "you",
+      "for me?",
+      "it",
+      "Can"
+    ],
+    "answer": "Can you book it for me?",
+    "accepted": [],
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4984",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4984#10",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng01176-t3",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "I'm head to Leicester from Cambridge on Saturday.",
+    "chunks": [
+      "planning",
+      "you",
+      "are",
+      "What time",
+      "to leave?"
+    ],
+    "answer": "What time are you planning to leave?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng01176",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG01176#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng01284-t3",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I plan to leave this Saturday.",
+    "chunks": [
+      "by?",
+      "you would like",
+      "or arrive",
+      "to leave",
+      "is there",
+      "Okay,",
+      "a specific time"
+    ],
+    "answer": "Okay, is there a specific time you would like to leave or arrive by?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng01284",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG01284#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng01458-t7",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "That sounds great! I'd like to buy one ticket please.",
+    "chunks": [
+      "if you need",
+      "time?",
+      "confirm",
+      "you please",
+      "by any particular",
+      "to arrive",
+      "Could"
+    ],
+    "answer": "Could you please confirm if you need to arrive by any particular time?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng01458",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG01458#7",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng02085-t8",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "It is 17.60 pounds per person and the travel time is 79 minutes.",
+    "chunks": [
+      "it",
+      "can",
+      "you book",
+      "for me please?",
+      "Ok great,"
+    ],
+    "answer": "Ok great, can you book it for me please?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng02085",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG02085#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng0251-t8",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "It leaves at 17:29 and the cost of the ticket is 10.10 pounds.",
+    "chunks": [
+      "to be?",
+      "How long",
+      "the travel",
+      "is",
+      "time going"
+    ],
+    "answer": "How long is the travel time going to be?",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0251",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0251#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng0273-t6",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "Yes travel time will be 38 minutes and the cost of ths journey is 10.10 pounds.",
+    "chunks": [
+      "That's",
+      "your help.",
+      "great,",
+      "thanks",
+      "for"
+    ],
+    "answer": "That's great, thanks for your help.",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0273",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0273#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng0292-t8",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "The travel time is 79 minutes and the cost of the ticket is 14.08 pounds.",
+    "chunks": [
+      "Could",
+      "the arrival",
+      "confirm",
+      "you also",
+      "time?"
+    ],
+    "answer": "Could you also confirm the arrival time?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0292",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0292#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng0303-t10",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "The travel time is 28 minutes.",
+    "chunks": [
+      "be all.",
+      "that should",
+      "thank",
+      "you,",
+      "Fantastic,"
+    ],
+    "answer": "Fantastic, thank you, that should be all.",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0303",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0303#10",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng0306-t11",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Not at this time. Thank you for your help!",
+    "chunks": [
+      "I can get",
+      "at this time?",
+      "for you",
+      "there",
+      "any other",
+      "Is",
+      "information"
+    ],
+    "answer": "Is there any other information I can get for you at this time?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0306",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0306#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng0328-t10",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Yes, it's 88 minutes. May I help with anything else?",
+    "chunks": [
+      "you",
+      "thank",
+      "the info",
+      "That's all",
+      "I needed today,",
+      "for your help!"
+    ],
+    "answer": "That's all the info I needed today, thank you for your help!",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0328",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0328#10",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng0346-t1",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I am looking for a train schedule that departs from Cambridge and should go to Ely.",
+    "chunks": [
+      "any particular",
+      "time you'd like",
+      "or arrive",
+      "Ok,",
+      "by?",
+      "is there",
+      "to leave"
+    ],
+    "answer": "Ok, is there any particular time you'd like to leave or arrive by?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0346",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0346#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng0349-t1",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Yes, I need a train for Tuesday.",
+    "chunks": [
+      "you like",
+      "would",
+      "What time",
+      "and to where?",
+      "to travel,",
+      "of day"
+    ],
+    "answer": "What time of day would you like to travel, and to where?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0349",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0349#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng0357-t1",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I want to book a train for Friday.",
+    "chunks": [
+      "and arrival stations,",
+      "are",
+      "you traveling?",
+      "and what time",
+      "your departure",
+      "what are",
+      "OK,"
+    ],
+    "answer": "OK, what are your departure and arrival stations, and what time are you traveling?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0357",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0357#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng0398-t8",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "The travel time is 17 minutes and it will cost you 3.52 pounds.",
+    "chunks": [
+      "thank",
+      "the info",
+      "Great that's all",
+      "you.",
+      "I needed today"
+    ],
+    "answer": "Great that's all the info I needed today thank you.",
+    "accepted": [],
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0398",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0398#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng0427-t8",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "The cost is 23.60 pounds and the trip will take 51 minutes.",
+    "chunks": [
+      "you",
+      "help today.",
+      "Great that's all",
+      "I need,",
+      "thank",
+      "the info",
+      "for your"
+    ],
+    "answer": "Great that's all the info I need, thank you for your help today.",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0427",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0427#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng0437-t3",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "The train should go to Cambridge on Thursday.",
+    "chunks": [
+      "Okay,",
+      "to leave",
+      "or arrive?",
+      "you have",
+      "and do",
+      "a preferred time"
+    ],
+    "answer": "Okay, and do you have a preferred time to leave or arrive?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0437",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0437#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng0442-t5",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I would like to travel on a Thursday.",
+    "chunks": [
+      "you prefer?",
+      "and is",
+      "there",
+      "Okay,",
+      "or arrival time",
+      "a particular departure"
+    ],
+    "answer": "Okay, and is there a particular departure or arrival time you prefer?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0442",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0442#5",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng1197-t1",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I need a taxi to pick me up at curry prince at 08:15.",
+    "chunks": [
+      "to arrive",
+      "Where is",
+      "you like",
+      "by?",
+      "and what time",
+      "would",
+      "your destination"
+    ],
+    "answer": "Where is your destination and what time would you like to arrive by?",
+    "accepted": [],
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng1197",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG1197#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng1287-t1",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "I need a taxi to pick me up at curry king.",
+    "chunks": [
+      "and at",
+      "OK,",
+      "and where are",
+      "what time?",
+      "you headed"
+    ],
+    "answer": "OK, and where are you headed and at what time?",
+    "accepted": [],
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng1287",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG1287#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng1289-t3",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I will be departing from Ely and traveling to Cambridge.",
+    "chunks": [
+      "by?",
+      "and what time",
+      "after or arrive",
+      "to leave",
+      "Okay,",
+      "you want",
+      "do"
+    ],
+    "answer": "Okay, and what time do you want to leave after or arrive by?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng1289",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG1289#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  },
+  {
+    "id": "bs-multiwoz-mw-sng1379-t4",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "The departure time is 13:11.",
+    "chunks": [
+      "scheduled",
+      "it",
+      "is",
+      "to arrive?",
+      "What time"
+    ],
+    "answer": "What time is it scheduled to arrive?",
+    "accepted": [],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng1379",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG1379#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "verbatim"
+  }
+]

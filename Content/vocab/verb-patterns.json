@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "verb-patterns-want",
+    "headword": "want sb to do",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "querer que alguien haga algo",
+    "definition": "to wish that another person does something",
+    "example": "I want you to connect the bot to the server.",
+    "exampleEs": "Quiero que conectes el bot al servidor.",
+    "cloze": "I want you ____ the bot to the server.",
+    "answer": "to connect",
+    "distractors": [
+      "connecting",
+      "connect",
+      "connected"
+    ],
+    "collocations": [
+      "want you to know",
+      "want them to join",
+      "want someone to help"
+    ],
+    "note": "Spanish uses a subjunctive (quiero que conectes). English uses want + person + to + verb, never 'want that you connect'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-make",
+    "headword": "make sb do",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "hacer que alguien haga algo",
+    "definition": "to force or cause someone to do something (no 'to')",
+    "example": "The bug made me rewrite the whole script.",
+    "exampleEs": "El error me hizo reescribir todo el script.",
+    "cloze": "The bug made me ____ the whole script.",
+    "answer": "rewrite",
+    "distractors": [
+      "to rewrite",
+      "rewriting",
+      "rewrites"
+    ],
+    "collocations": [
+      "make me laugh",
+      "make them wait",
+      "make it work"
+    ],
+    "note": "After make + person, use the bare verb: 'made me rewrite', not 'made me to rewrite'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-let",
+    "headword": "let sb do",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "dejar que alguien haga algo",
+    "definition": "to allow someone to do something (no 'to')",
+    "example": "My manager lets us work from home on Fridays.",
+    "exampleEs": "Mi jefe nos deja trabajar desde casa los viernes.",
+    "cloze": "My manager lets us ____ from home on Fridays.",
+    "answer": "work",
+    "distractors": [
+      "to work",
+      "working",
+      "works"
+    ],
+    "collocations": [
+      "let me know",
+      "let them go",
+      "let it run"
+    ],
+    "note": "Let + person + bare verb. In the passive, use 'be allowed to' instead.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-suggest",
+    "headword": "suggest doing",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "sugerir hacer algo",
+    "definition": "to propose an idea; followed by the -ing form",
+    "example": "She suggested moving the meeting to Thursday.",
+    "exampleEs": "Ella sugirió mover la reunión al jueves.",
+    "cloze": "She suggested ____ the meeting to Thursday.",
+    "answer": "moving",
+    "distractors": [
+      "to move",
+      "moves",
+      "moved"
+    ],
+    "collocations": [
+      "suggest trying",
+      "suggest using",
+      "suggest meeting"
+    ],
+    "note": "Never 'suggest to do'. You can also say 'suggest that we move'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-avoid",
+    "headword": "avoid doing",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "evitar hacer algo",
+    "definition": "to try not to do something; followed by -ing",
+    "example": "Try to avoid using too many filler words.",
+    "exampleEs": "Intenta evitar usar demasiadas muletillas.",
+    "cloze": "Try to avoid ____ too many filler words.",
+    "answer": "using",
+    "distractors": [
+      "to use",
+      "use",
+      "used"
+    ],
+    "collocations": [
+      "avoid making",
+      "avoid being",
+      "avoid saying"
+    ],
+    "note": "Avoid is always followed by -ing, never by 'to'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-manage",
+    "headword": "manage to do",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "lograr hacer algo",
+    "definition": "to succeed in doing something difficult",
+    "example": "We managed to fix the outage before the demo.",
+    "exampleEs": "Logramos arreglar la caída antes de la demo.",
+    "cloze": "We managed ____ the outage before the demo.",
+    "answer": "to fix",
+    "distractors": [
+      "fixing",
+      "fix",
+      "fixed"
+    ],
+    "collocations": [
+      "manage to finish",
+      "manage to get",
+      "manage to convince"
+    ],
+    "note": "Manage is followed by 'to' + verb, and it suggests the task was hard.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-lookfwd",
+    "headword": "look forward to doing",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "tener ganas de hacer algo",
+    "definition": "to be excited about something that will happen; 'to' is a preposition",
+    "example": "I look forward to seeing you at the conference.",
+    "exampleEs": "Tengo ganas de verte en la conferencia.",
+    "cloze": "I look forward to ____ you at the conference.",
+    "answer": "seeing",
+    "distractors": [
+      "see",
+      "to see",
+      "saw"
+    ],
+    "collocations": [
+      "look forward to meeting",
+      "look forward to hearing",
+      "look forward to working"
+    ],
+    "note": "The 'to' here is a preposition, so the verb after it takes -ing.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-usedto",
+    "headword": "used to do",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "solía hacer algo",
+    "definition": "to describe a past habit that no longer continues",
+    "example": "I used to play every Minecraft update on release day.",
+    "exampleEs": "Yo solía jugar cada actualización de Minecraft el día de su lanzamiento.",
+    "cloze": "I used to ____ every Minecraft update on release day.",
+    "answer": "play",
+    "distractors": [
+      "playing",
+      "plays",
+      "played"
+    ],
+    "collocations": [
+      "used to live",
+      "used to work",
+      "used to think"
+    ],
+    "note": "Used to + base verb is for past habits only. It has no present form.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-beused",
+    "headword": "be used to doing",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "estar acostumbrado a hacer algo",
+    "definition": "to be familiar with something so it no longer feels strange",
+    "example": "I'm getting used to having meetings in English.",
+    "exampleEs": "Me estoy acostumbrando a tener reuniones en inglés.",
+    "cloze": "I'm getting used to ____ meetings in English.",
+    "answer": "having",
+    "distractors": [
+      "have",
+      "had",
+      "to have"
+    ],
+    "collocations": [
+      "get used to working",
+      "be used to waking up",
+      "used to the noise"
+    ],
+    "note": "Compare: 'I used to live' (past habit) vs 'I'm used to living' (I'm accustomed). Here 'to' is a preposition.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-stopdo",
+    "headword": "stop doing",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "dejar de hacer algo",
+    "definition": "to end an action that was in progress",
+    "example": "Please stop interrupting me every five minutes.",
+    "exampleEs": "Por favor deja de interrumpirme cada cinco minutos.",
+    "cloze": "Please stop ____ me every five minutes.",
+    "answer": "interrupting",
+    "distractors": [
+      "interrupt",
+      "interrupted",
+      "interrupts"
+    ],
+    "collocations": [
+      "stop talking",
+      "stop worrying",
+      "stop checking"
+    ],
+    "note": "Stop + -ing means the action ends. Stop + to + verb means you pause in order to do something else.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-stopto",
+    "headword": "stop to do",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "detenerse para hacer algo",
+    "definition": "to pause one activity in order to do another",
+    "example": "I stopped to review my notes before the call.",
+    "exampleEs": "Me detuve a revisar mis notas antes de la llamada.",
+    "cloze": "I stopped ____ my notes before the call.",
+    "answer": "to review",
+    "distractors": [
+      "review",
+      "reviewed",
+      "reviews"
+    ],
+    "collocations": [
+      "stop to think",
+      "stop to ask",
+      "stop to check"
+    ],
+    "note": "'I stopped to review' = I paused something else to review. 'I stopped reviewing' = I quit reviewing.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-rememberdo",
+    "headword": "remember doing",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "recordar haber hecho algo",
+    "definition": "to have a memory of something you did in the past",
+    "example": "I remember reading about this bug last week.",
+    "exampleEs": "Recuerdo haber leído sobre este error la semana pasada.",
+    "cloze": "I remember ____ about this bug last week.",
+    "answer": "reading",
+    "distractors": [
+      "read",
+      "to read",
+      "reads"
+    ],
+    "collocations": [
+      "remember seeing",
+      "remember meeting",
+      "remember saying"
+    ],
+    "note": "Remember + -ing looks backward at a memory. Remember + to looks forward at a duty.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-rememberto",
+    "headword": "remember to do",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "acordarse de hacer algo",
+    "definition": "to not forget to do something you need to do",
+    "example": "Remember to run the build before you merge.",
+    "exampleEs": "Acuérdate de correr el build antes de hacer el merge.",
+    "cloze": "Remember ____ the build before you merge.",
+    "answer": "to run",
+    "distractors": [
+      "run",
+      "ran",
+      "runs"
+    ],
+    "collocations": [
+      "remember to call",
+      "remember to lock",
+      "remember to reply"
+    ],
+    "note": "Spanish 'acordarse de' becomes remember + to + verb.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-forgetto",
+    "headword": "forget to do",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "olvidar hacer algo",
+    "definition": "to fail to do something you should have done",
+    "example": "I forgot to save the file, so nothing was kept.",
+    "exampleEs": "Olvidé guardar el archivo, así que no se conservó nada.",
+    "cloze": "I forgot ____ the file, so nothing was kept.",
+    "answer": "to save",
+    "distractors": [
+      "save",
+      "saved",
+      "saves"
+    ],
+    "collocations": [
+      "forget to attach",
+      "forget to log out",
+      "forget to mention"
+    ],
+    "note": "Forget + to = you didn't do it. Forget + -ing = you did it but have no memory of it.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-help",
+    "headword": "help sb do",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "ayudar a alguien a hacer algo",
+    "definition": "to make it easier for someone to do something",
+    "example": "This tool helps developers find bugs faster.",
+    "exampleEs": "Esta herramienta ayuda a los desarrolladores a encontrar errores más rápido.",
+    "cloze": "This tool helps developers ____ bugs faster.",
+    "answer": "find",
+    "distractors": [
+      "finding",
+      "found",
+      "finds"
+    ],
+    "collocations": [
+      "help me understand",
+      "help users learn",
+      "help them decide"
+    ],
+    "note": "Help can be followed by the bare verb or 'to': 'help me find' = 'help me to find'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-enjoy",
+    "headword": "enjoy doing",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "disfrutar haciendo algo",
+    "definition": "to get pleasure from an activity; followed by -ing",
+    "example": "I enjoy testing new AI tools on weekends.",
+    "exampleEs": "Disfruto probar nuevas herramientas de IA los fines de semana.",
+    "cloze": "I enjoy ____ new AI tools on weekends.",
+    "answer": "testing",
+    "distractors": [
+      "test",
+      "to test",
+      "tested"
+    ],
+    "collocations": [
+      "enjoy playing",
+      "enjoy reading",
+      "enjoy learning"
+    ],
+    "note": "Enjoy is never followed by 'to + verb'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-decide",
+    "headword": "decide to do",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "decidir hacer algo",
+    "definition": "to make a choice to do something",
+    "example": "We decided to migrate the project to Postgres.",
+    "exampleEs": "Decidimos migrar el proyecto a Postgres.",
+    "cloze": "We decided ____ the project to Postgres.",
+    "answer": "to migrate",
+    "distractors": [
+      "migrating",
+      "migrate",
+      "migrated"
+    ],
+    "collocations": [
+      "decide to leave",
+      "decide to apply",
+      "decide to wait"
+    ],
+    "note": "Decide takes 'to' + verb. Use 'decide on' with a noun: 'decide on a name'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-hope",
+    "headword": "hope to do",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "esperar hacer algo",
+    "definition": "to want and expect something to happen",
+    "example": "I hope to reach B2 by March.",
+    "exampleEs": "Espero llegar a B2 para marzo.",
+    "cloze": "I hope ____ B2 by March.",
+    "answer": "to reach",
+    "distractors": [
+      "reaching",
+      "reach",
+      "reached"
+    ],
+    "collocations": [
+      "hope to see",
+      "hope to hear",
+      "hope to finish"
+    ],
+    "note": "'Hope' is not 'esperar' when you mean wait. To wait for something, use 'wait for'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-plan",
+    "headword": "plan to do",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "planear hacer algo",
+    "definition": "to have an intention to do something",
+    "example": "We plan to ship the feature next sprint.",
+    "exampleEs": "Planeamos lanzar la función en el próximo sprint.",
+    "cloze": "We plan ____ the feature next sprint.",
+    "answer": "to ship",
+    "distractors": [
+      "shipping",
+      "ship",
+      "shipped"
+    ],
+    "collocations": [
+      "plan to launch",
+      "plan to start",
+      "plan to release"
+    ],
+    "note": "Plan + to + verb. With a noun use 'plan for': 'plan for the launch'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-promise",
+    "headword": "promise to do",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "prometer hacer algo",
+    "definition": "to say you will definitely do something",
+    "example": "He promised to send the report by noon.",
+    "exampleEs": "Prometió enviar el informe antes del mediodía.",
+    "cloze": "He promised ____ the report by noon.",
+    "answer": "to send",
+    "distractors": [
+      "sending",
+      "send",
+      "sent"
+    ],
+    "collocations": [
+      "promise to call",
+      "promise to be careful",
+      "promise to try"
+    ],
+    "note": "Promise + to + verb, not 'promise that + infinitive'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-refuse",
+    "headword": "refuse to do",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "negarse a hacer algo",
+    "definition": "to say you will not do something",
+    "example": "The server refuses to accept the request.",
+    "exampleEs": "El servidor se niega a aceptar la solicitud.",
+    "cloze": "The server refuses ____ the request.",
+    "answer": "to accept",
+    "distractors": [
+      "accepting",
+      "accept",
+      "accepted"
+    ],
+    "collocations": [
+      "refuse to answer",
+      "refuse to pay",
+      "refuse to budge"
+    ],
+    "note": "Do not confuse refuse (negarse) with 'reject' (rechazar a algo).",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-agree",
+    "headword": "agree to do",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "aceptar hacer algo",
+    "definition": "to say yes to doing something",
+    "example": "They agreed to extend the deadline.",
+    "exampleEs": "Aceptaron extender la fecha límite.",
+    "cloze": "They agreed ____ the deadline.",
+    "answer": "to extend",
+    "distractors": [
+      "extending",
+      "extend",
+      "extended"
+    ],
+    "collocations": [
+      "agree to meet",
+      "agree to share",
+      "agree to pay"
+    ],
+    "note": "Agree + to + verb. Agree with a person; agree on a topic.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-offer",
+    "headword": "offer to do",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "ofrecerse a hacer algo",
+    "definition": "to say you are willing to do something for someone",
+    "example": "She offered to help me prepare for the demo.",
+    "exampleEs": "Se ofreció a ayudarme a preparar la demo.",
+    "cloze": "She offered ____ me prepare for the demo.",
+    "answer": "to help",
+    "distractors": [
+      "helping",
+      "help",
+      "helped"
+    ],
+    "collocations": [
+      "offer to pay",
+      "offer to drive",
+      "offer to review"
+    ],
+    "note": "Offer + to + verb means 'volunteer to'. Do not say 'offered me to help'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-wouldlike",
+    "headword": "would like sb to do",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "querer que alguien haga algo (cortés)",
+    "definition": "a polite way to say what you want someone to do",
+    "example": "I'd like you to review the slides before the call.",
+    "exampleEs": "Me gustaría que revisaras las diapositivas antes de la llamada.",
+    "cloze": "I'd like you ____ the slides before the call.",
+    "answer": "to review",
+    "distractors": [
+      "reviewing",
+      "review",
+      "reviewed"
+    ],
+    "collocations": [
+      "would like you to join",
+      "would like them to wait",
+      "would like her to explain"
+    ],
+    "note": "Like want, it needs object + to. 'I'd like that you review' is a common Spanish-speaker error.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-ask",
+    "headword": "ask sb to do",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "pedirle a alguien que haga algo",
+    "definition": "to request that someone do something",
+    "example": "Could you ask the team to check the logs?",
+    "exampleEs": "¿Podrías pedirle al equipo que revise los registros?",
+    "cloze": "Could you ask the team ____ the logs?",
+    "answer": "to check",
+    "distractors": [
+      "checking",
+      "check",
+      "checked"
+    ],
+    "collocations": [
+      "ask him to wait",
+      "ask them to confirm",
+      "ask you to join"
+    ],
+    "note": "Ask + person + to + verb. Do not use 'ask that' with a subjunctive.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-tell",
+    "headword": "tell sb to do",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "decirle a alguien que haga algo",
+    "definition": "to give someone an instruction",
+    "example": "The lead told us to rehearse the demo twice.",
+    "exampleEs": "El líder nos dijo que ensayáramos la demo dos veces.",
+    "cloze": "The lead told us ____ the demo twice.",
+    "answer": "to rehearse",
+    "distractors": [
+      "rehearsing",
+      "rehearse",
+      "rehearsed"
+    ],
+    "collocations": [
+      "tell me to wait",
+      "tell them to stop",
+      "tell her to call"
+    ],
+    "note": "Tell needs a person right after it: 'told us to', never 'told to'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-allow",
+    "headword": "allow sb to do",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "permitir que alguien haga algo",
+    "definition": "to give permission for someone to do something",
+    "example": "The settings allow users to create their own server rules.",
+    "exampleEs": "La configuración permite que los usuarios creen sus propias reglas de servidor.",
+    "cloze": "The settings allow users ____ their own server rules.",
+    "answer": "to create",
+    "distractors": [
+      "creating",
+      "create",
+      "created"
+    ],
+    "collocations": [
+      "allow us to run",
+      "allow access to",
+      "allow them to edit"
+    ],
+    "note": "Allow + person + to. You can say 'allow editing' with no person, but 'allow to edit' is wrong.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-advise",
+    "headword": "advise sb to do",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "aconsejar a alguien que haga algo",
+    "definition": "to recommend a course of action to someone",
+    "example": "The doctor advised him to sleep more.",
+    "exampleEs": "El doctor le aconsejó dormir más.",
+    "cloze": "The doctor advised him ____ more.",
+    "answer": "to sleep",
+    "distractors": [
+      "sleeping",
+      "sleep",
+      "slept"
+    ],
+    "collocations": [
+      "advise you to wait",
+      "advise them to avoid",
+      "advise users to update"
+    ],
+    "note": "The noun is 'advice' (uncountable); the verb is 'advise'. Advise + person + to + verb.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-encourage",
+    "headword": "encourage sb to do",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "animar a alguien a hacer algo",
+    "definition": "to give someone confidence or support to do something",
+    "example": "Our mentor encourages us to ask questions.",
+    "exampleEs": "Nuestro mentor nos anima a hacer preguntas.",
+    "cloze": "Our mentor encourages us ____ questions.",
+    "answer": "to ask",
+    "distractors": [
+      "asking",
+      "ask",
+      "asked"
+    ],
+    "collocations": [
+      "encourage them to try",
+      "encourage people to join",
+      "encourage you to speak"
+    ],
+    "note": "Encourage + person + to + verb.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-expect",
+    "headword": "expect sb to do",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "esperar que alguien haga algo",
+    "definition": "to believe or require that someone will do something",
+    "example": "They expect me to present the update in English.",
+    "exampleEs": "Esperan que yo presente la actualización en inglés.",
+    "cloze": "They expect me ____ the update in English.",
+    "answer": "to present",
+    "distractors": [
+      "presenting",
+      "present",
+      "presented"
+    ],
+    "collocations": [
+      "expect you to know",
+      "expect them to reply",
+      "expect it to work"
+    ],
+    "note": "Spanish 'esperar que + subjunctive' becomes expect + person + to.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-require",
+    "headword": "require sb to do",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "exigir que alguien haga algo",
+    "definition": "to make something necessary for someone",
+    "example": "The rules require members to verify their account.",
+    "exampleEs": "Las reglas exigen que los miembros verifiquen su cuenta.",
+    "cloze": "The rules require members ____ their account.",
+    "answer": "to verify",
+    "distractors": [
+      "verifying",
+      "verify",
+      "verified"
+    ],
+    "collocations": [
+      "require users to log in",
+      "require you to sign",
+      "require staff to attend"
+    ],
+    "note": "Require sounds more formal than 'need'. Require + person + to + verb.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-recommend",
+    "headword": "recommend doing",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "recomendar hacer algo",
+    "definition": "to say that something is a good idea; followed by -ing",
+    "example": "I recommend clearing the cache before testing.",
+    "exampleEs": "Recomiendo borrar la caché antes de probar.",
+    "cloze": "I recommend ____ the cache before testing.",
+    "answer": "clearing",
+    "distractors": [
+      "clear",
+      "clears",
+      "cleared"
+    ],
+    "collocations": [
+      "recommend trying",
+      "recommend using",
+      "recommend waiting"
+    ],
+    "note": "Do not say 'recommend to do'. Use 'recommend doing' or 'recommend that you do'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-mind",
+    "headword": "mind doing",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "molestarle a alguien hacer algo",
+    "definition": "to be bothered by something; used in polite requests",
+    "example": "Do you mind closing the window?",
+    "exampleEs": "¿Te molesta cerrar la ventana?",
+    "cloze": "Do you mind ____ the window?",
+    "answer": "closing",
+    "distractors": [
+      "close",
+      "to close",
+      "closed"
+    ],
+    "collocations": [
+      "Do you mind waiting",
+      "I don't mind helping",
+      "Would you mind sharing"
+    ],
+    "note": "'Do you mind...?' means 'is it a problem?'. Answer 'No, not at all' to agree politely.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-finish",
+    "headword": "finish doing",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "terminar de hacer algo",
+    "definition": "to complete an activity; followed by -ing",
+    "example": "Let's finish writing the docs first.",
+    "exampleEs": "Terminemos de escribir la documentación primero.",
+    "cloze": "Let's finish ____ the docs first.",
+    "answer": "writing",
+    "distractors": [
+      "write",
+      "to write",
+      "writes"
+    ],
+    "collocations": [
+      "finish reading",
+      "finish working",
+      "finish setting up"
+    ],
+    "note": "Finish is followed by -ing, never by 'to'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-keep",
+    "headword": "keep doing",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "seguir haciendo algo",
+    "definition": "to continue doing something, often repeatedly",
+    "example": "Keep trying until the tests pass.",
+    "exampleEs": "Sigue intentando hasta que las pruebas pasen.",
+    "cloze": "Keep ____ until the tests pass.",
+    "answer": "trying",
+    "distractors": [
+      "try",
+      "to try",
+      "tried"
+    ],
+    "collocations": [
+      "keep going",
+      "keep asking",
+      "keep calm"
+    ],
+    "note": "Keep + -ing = continue. 'Keep on trying' is also correct.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-practice",
+    "headword": "practice doing",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "practicar haciendo algo",
+    "definition": "to repeat an activity to improve at it",
+    "example": "I practice giving my pitch every morning.",
+    "exampleEs": "Practico dar mi pitch cada mañana.",
+    "cloze": "I practice ____ my pitch every morning.",
+    "answer": "giving",
+    "distractors": [
+      "give",
+      "to give",
+      "gave"
+    ],
+    "collocations": [
+      "practice speaking",
+      "practice writing",
+      "practice listening"
+    ],
+    "note": "Practice is followed by -ing. In US English the verb is spelled 'practice' too.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-consider",
+    "headword": "consider doing",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "considerar hacer algo",
+    "definition": "to think carefully about doing something",
+    "example": "We're considering switching to a new vendor.",
+    "exampleEs": "Estamos considerando cambiar a un nuevo proveedor.",
+    "cloze": "We're considering ____ to a new vendor.",
+    "answer": "switching",
+    "distractors": [
+      "switch",
+      "to switch",
+      "switched"
+    ],
+    "collocations": [
+      "consider applying",
+      "consider moving",
+      "consider using"
+    ],
+    "note": "Consider + -ing. It does not take 'to + verb'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-admit",
+    "headword": "admit doing",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "admitir haber hecho algo",
+    "definition": "to say that you did something wrong",
+    "example": "He admitted deleting the wrong file.",
+    "exampleEs": "Admitió haber borrado el archivo equivocado.",
+    "cloze": "He admitted ____ the wrong file.",
+    "answer": "deleting",
+    "distractors": [
+      "delete",
+      "to delete",
+      "deleted"
+    ],
+    "collocations": [
+      "admit making",
+      "admit lying",
+      "admit forgetting"
+    ],
+    "note": "Admit + -ing refers to a past action.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-deny",
+    "headword": "deny doing",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "negar haber hecho algo",
+    "definition": "to say that you did not do something",
+    "example": "She denied sending the message.",
+    "exampleEs": "Negó haber enviado el mensaje.",
+    "cloze": "She denied ____ the message.",
+    "answer": "sending",
+    "distractors": [
+      "send",
+      "to send",
+      "sent"
+    ],
+    "collocations": [
+      "deny knowing",
+      "deny taking",
+      "deny being"
+    ],
+    "note": "Deny + -ing. Do not confuse with 'refuse to' (negarse a).",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-risk",
+    "headword": "risk doing",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "arriesgarse a hacer algo",
+    "definition": "to do something that could have a bad result",
+    "example": "Don't risk losing your account by using shady bots.",
+    "exampleEs": "No arriesgues perder tu cuenta usando bots sospechosos.",
+    "cloze": "Don't risk ____ your account by using shady bots.",
+    "answer": "losing",
+    "distractors": [
+      "lose",
+      "to lose",
+      "lost"
+    ],
+    "collocations": [
+      "risk missing",
+      "risk getting",
+      "risk breaking"
+    ],
+    "note": "Risk is followed by -ing.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-imagine",
+    "headword": "imagine doing",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "imaginar haciendo algo",
+    "definition": "to form a picture of something in your mind",
+    "example": "Imagine building a whole Minecraft server from one prompt.",
+    "exampleEs": "Imagina construir un servidor entero de Minecraft con un solo prompt.",
+    "cloze": "Imagine ____ a whole Minecraft server from one prompt.",
+    "answer": "building",
+    "distractors": [
+      "build",
+      "to build",
+      "built"
+    ],
+    "collocations": [
+      "imagine living",
+      "imagine having",
+      "imagine working"
+    ],
+    "note": "Imagine + -ing.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-canthelp",
+    "headword": "can't help doing",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "no poder evitar hacer algo",
+    "definition": "to be unable to stop yourself from doing something",
+    "example": "I can't help smiling when I see a clean codebase.",
+    "exampleEs": "No puedo evitar sonreír cuando veo un código limpio.",
+    "cloze": "I can't help ____ when I see a clean codebase.",
+    "answer": "smiling",
+    "distractors": [
+      "smile",
+      "to smile",
+      "smiled"
+    ],
+    "collocations": [
+      "can't help laughing",
+      "can't help wondering",
+      "couldn't help noticing"
+    ],
+    "note": "Can't help + -ing is an involuntary reaction. 'Can't help you' is different: it means 'unable to assist'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-worth",
+    "headword": "be worth doing",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "valer la pena hacer algo",
+    "definition": "to be good enough to deserve the effort",
+    "example": "It's worth reading the docs before asking.",
+    "exampleEs": "Vale la pena leer la documentación antes de preguntar.",
+    "cloze": "It's worth ____ the docs before asking.",
+    "answer": "reading",
+    "distractors": [
+      "read",
+      "to read",
+      "reads"
+    ],
+    "collocations": [
+      "worth trying",
+      "worth checking",
+      "worth a look"
+    ],
+    "note": "Worth is followed by -ing, not by an infinitive.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-aboutto",
+    "headword": "be about to do",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "estar a punto de hacer algo",
+    "definition": "to be going to do something very soon",
+    "example": "Sorry, the call is about to start, so I have to go.",
+    "exampleEs": "Perdón, la llamada está a punto de empezar, así que me tengo que ir.",
+    "cloze": "Sorry, the call is about ____, so I have to go.",
+    "answer": "to start",
+    "distractors": [
+      "starting",
+      "start",
+      "started"
+    ],
+    "collocations": [
+      "about to leave",
+      "about to say",
+      "about to crash"
+    ],
+    "note": "Be about + to + verb. Do not use 'about to' with -ing.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-fail",
+    "headword": "fail to do",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "no lograr hacer algo",
+    "definition": "to not succeed in doing something",
+    "example": "The script failed to load the config file.",
+    "exampleEs": "El script no logró cargar el archivo de configuración.",
+    "cloze": "The script failed ____ the config file.",
+    "answer": "to load",
+    "distractors": [
+      "loading",
+      "load",
+      "loaded"
+    ],
+    "collocations": [
+      "fail to respond",
+      "fail to meet",
+      "fail to notice"
+    ],
+    "note": "Fail + to + verb often appears in error messages and reports.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-seem",
+    "headword": "seem to do",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "parecer hacer algo",
+    "definition": "to give the impression of doing or being something",
+    "example": "The model seems to lose context after long chats.",
+    "exampleEs": "El modelo parece perder contexto después de chats largos.",
+    "cloze": "The model seems ____ context after long chats.",
+    "answer": "to lose",
+    "distractors": [
+      "losing",
+      "lose",
+      "lost"
+    ],
+    "collocations": [
+      "seem to work",
+      "seem to know",
+      "seem to be"
+    ],
+    "note": "Seem + to + verb. 'It seems that...' is another option.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-tend",
+    "headword": "tend to do",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "tender a hacer algo",
+    "definition": "to usually or often do something",
+    "example": "I tend to rush when I'm nervous.",
+    "exampleEs": "Tiendo a apresurarme cuando estoy nervioso.",
+    "cloze": "I tend ____ when I'm nervous.",
+    "answer": "to rush",
+    "distractors": [
+      "rushing",
+      "rush",
+      "rushed"
+    ],
+    "collocations": [
+      "tend to forget",
+      "tend to overthink",
+      "tend to talk"
+    ],
+    "note": "Tend + to + verb, not 'tend to be like very...' (use an adverb instead).",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-afford",
+    "headword": "afford to do",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "permitirse hacer algo",
+    "definition": "to have enough money or time to do something",
+    "example": "We can't afford to lose another week.",
+    "exampleEs": "No podemos permitirnos perder otra semana.",
+    "cloze": "We can't afford ____ another week.",
+    "answer": "to lose",
+    "distractors": [
+      "losing",
+      "lose",
+      "lost"
+    ],
+    "collocations": [
+      "afford to wait",
+      "afford to buy",
+      "can't afford to fail"
+    ],
+    "note": "Afford is normally used with can/could and followed by 'to'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-prefer",
+    "headword": "prefer doing",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "preferir hacer algo",
+    "definition": "to like one activity more than another",
+    "example": "I prefer speaking in English, even if I make mistakes.",
+    "exampleEs": "Prefiero hablar en inglés, aunque cometa errores.",
+    "cloze": "I prefer ____ in English, even if I make mistakes.",
+    "answer": "speaking",
+    "distractors": [
+      "speak",
+      "spoke",
+      "speaks"
+    ],
+    "collocations": [
+      "prefer working",
+      "prefer reading",
+      "prefer staying"
+    ],
+    "note": "Prefer doing X to doing Y. 'Prefer to do' is also correct for a specific occasion.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-rather",
+    "headword": "would rather do",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "preferir hacer algo",
+    "definition": "to express a preference; followed by the bare verb",
+    "example": "I'd rather call than read a long email.",
+    "exampleEs": "Prefiero llamar que leer un correo largo.",
+    "cloze": "I'd rather ____ than read a long email.",
+    "answer": "call",
+    "distractors": [
+      "to call",
+      "calling",
+      "called"
+    ],
+    "collocations": [
+      "rather stay",
+      "rather not say",
+      "rather be"
+    ],
+    "note": "Would rather + base verb, with no 'to'. Negative: 'I'd rather not go'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-supposed",
+    "headword": "be supposed to do",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "se supone que uno debe hacer algo",
+    "definition": "to be expected or required to do something",
+    "example": "We're supposed to submit the report today.",
+    "exampleEs": "Se supone que debemos entregar el informe hoy.",
+    "cloze": "We're supposed ____ the report today.",
+    "answer": "to submit",
+    "distractors": [
+      "submitting",
+      "submit",
+      "submitted"
+    ],
+    "collocations": [
+      "supposed to be",
+      "supposed to arrive",
+      "not supposed to share"
+    ],
+    "note": "Always 'supposed' with a final -d, followed by 'to'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-allowed",
+    "headword": "be allowed to do",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "tener permiso para hacer algo",
+    "definition": "to have permission to do something",
+    "example": "Interns aren't allowed to access production.",
+    "exampleEs": "A los practicantes no se les permite acceder a producción.",
+    "cloze": "Interns aren't allowed ____ production.",
+    "answer": "to access",
+    "distractors": [
+      "accessing",
+      "access",
+      "accessed"
+    ],
+    "collocations": [
+      "allowed to use",
+      "allowed to enter",
+      "not allowed to leave"
+    ],
+    "note": "The passive form of allow. Active: 'They don't allow interns to access it'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-insist",
+    "headword": "insist on doing",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "insistir en hacer algo",
+    "definition": "to demand strongly to do something",
+    "example": "She insisted on testing the code herself.",
+    "exampleEs": "Insistió en probar el código ella misma.",
+    "cloze": "She insisted on ____ the code herself.",
+    "answer": "testing",
+    "distractors": [
+      "test",
+      "to test",
+      "tested"
+    ],
+    "collocations": [
+      "insist on paying",
+      "insist on going",
+      "insist on checking"
+    ],
+    "note": "Insist is followed by 'on' + -ing. Do not say 'insist to do'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-succeed",
+    "headword": "succeed in doing",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "lograr hacer algo",
+    "definition": "to achieve something you were trying to do",
+    "example": "We succeeded in reducing latency by 40%.",
+    "exampleEs": "Logramos reducir la latencia en un 40%.",
+    "cloze": "We succeeded in ____ latency by 40%.",
+    "answer": "reducing",
+    "distractors": [
+      "reduce",
+      "to reduce",
+      "reduced"
+    ],
+    "collocations": [
+      "succeed in finding",
+      "succeed in getting",
+      "succeed in convincing"
+    ],
+    "note": "Succeed in + -ing. 'Success' is a noun; 'succeed' is not 'suceder' (to happen).",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-apologize",
+    "headword": "apologize for doing",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "disculparse por hacer algo",
+    "definition": "to say sorry for something you did",
+    "example": "I apologize for being late.",
+    "exampleEs": "Me disculpo por llegar tarde.",
+    "cloze": "I apologize for ____ late.",
+    "answer": "being",
+    "distractors": [
+      "be",
+      "to be",
+      "been"
+    ],
+    "collocations": [
+      "apologize for missing",
+      "apologize for asking",
+      "apologize for the delay"
+    ],
+    "note": "Apologize for + -ing or noun. Never 'apologize to be late'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-interested",
+    "headword": "be interested in doing",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "estar interesado en hacer algo",
+    "definition": "to want to do or learn about something",
+    "example": "I'm interested in starting a startup.",
+    "exampleEs": "Estoy interesado en iniciar una startup.",
+    "cloze": "I'm interested in ____ a startup.",
+    "answer": "starting",
+    "distractors": [
+      "start",
+      "to start",
+      "started"
+    ],
+    "collocations": [
+      "interested in learning",
+      "interested in joining",
+      "interested in building"
+    ],
+    "note": "Interested in + -ing. The preposition is 'in', not 'on' or 'by'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-prevent",
+    "headword": "prevent sb from doing",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "impedir que alguien haga algo",
+    "definition": "to stop someone from doing something",
+    "example": "A firewall prevents attackers from getting in.",
+    "exampleEs": "Un firewall impide que los atacantes entren.",
+    "cloze": "A firewall prevents attackers from ____ in.",
+    "answer": "getting",
+    "distractors": [
+      "get",
+      "to get",
+      "got"
+    ],
+    "collocations": [
+      "prevent users from leaving",
+      "prevent them from seeing",
+      "keep me from going"
+    ],
+    "note": "Prevent + person + from + -ing. 'From' is required.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-thank",
+    "headword": "thank sb for doing",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "agradecer a alguien por hacer algo",
+    "definition": "to express gratitude for something someone did",
+    "example": "Thanks for helping me with the slides.",
+    "exampleEs": "Gracias por ayudarme con las diapositivas.",
+    "cloze": "Thanks for ____ me with the slides.",
+    "answer": "helping",
+    "distractors": [
+      "help",
+      "to help",
+      "helped"
+    ],
+    "collocations": [
+      "thank you for waiting",
+      "thanks for joining",
+      "thanks for sharing"
+    ],
+    "note": "Thank for + -ing, not 'thanks to help me'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-spend",
+    "headword": "spend time doing",
+    "pos": "verb pattern",
+    "cefr": "B1+",
+    "es": "pasar tiempo haciendo algo",
+    "definition": "to use time on an activity",
+    "example": "I spend hours experimenting with prompts.",
+    "exampleEs": "Paso horas experimentando con prompts.",
+    "cloze": "I spend hours ____ with prompts.",
+    "answer": "experimenting",
+    "distractors": [
+      "experiment",
+      "to experiment",
+      "experimented"
+    ],
+    "collocations": [
+      "spend time learning",
+      "spend money on",
+      "waste time scrolling"
+    ],
+    "note": "Spend time + -ing, with no 'in' or 'to'.",
+    "tags": [
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "verb-patterns-trouble",
+    "headword": "have trouble doing",
+    "pos": "verb pattern",
+    "cefr": "B2",
+    "es": "tener dificultad para hacer algo",
+    "definition": "to find something difficult to do",
+    "example": "I have trouble finding the right word when I speak.",
+    "exampleEs": "Me cuesta encontrar la palabra correcta cuando hablo.",
+    "cloze": "I have trouble ____ the right word when I speak.",
+    "answer": "finding",
+    "distractors": [
+      "find",
+      "to find",
+      "found"
+    ],
+    "collocations": [
+      "have difficulty explaining",
+      "have a hard time",
+      "have problems connecting"
+    ],
+    "note": "Have trouble + -ing, with no preposition.",
+    "tags": [
+      "verb-pattern"
+    ]
+  }
+]

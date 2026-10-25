@@ -1,0 +1,478 @@
+[
+ {
+  "id": "speaking-lr-01",
+  "type": "listenRepeat",
+  "cefr": "B1",
+  "skill": "speaking",
+  "sentence": "I have a meeting with the team at nine tomorrow morning.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-02",
+  "type": "listenRepeat",
+  "cefr": "B1",
+  "skill": "speaking",
+  "sentence": "Could you send me the very latest version of the report?",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-03",
+  "type": "listenRepeat",
+  "cefr": "B1",
+  "skill": "speaking",
+  "sentence": "We visited five villages near the valley last November.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-04",
+  "type": "listenRepeat",
+  "cefr": "B1",
+  "skill": "speaking",
+  "sentence": "The bus was very busy, so I walked to work instead.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-05",
+  "type": "listenRepeat",
+  "cefr": "B1",
+  "skill": "speaking",
+  "sentence": "I walked to the café and ordered a vanilla coffee.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-06",
+  "type": "listenRepeat",
+  "cefr": "B1",
+  "skill": "speaking",
+  "sentence": "She asked me to review the document before the deadline.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-07",
+  "type": "listenRepeat",
+  "cefr": "B1",
+  "skill": "speaking",
+  "sentence": "We finished the project and launched it last Wednesday.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-08",
+  "type": "listenRepeat",
+  "cefr": "B1",
+  "skill": "speaking",
+  "sentence": "Thanks for waiting. I'm sorry the call started late.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-09",
+  "type": "listenRepeat",
+  "cefr": "B1",
+  "skill": "speaking",
+  "sentence": "My brother thinks that this month is the best time to travel.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-10",
+  "type": "listenRepeat",
+  "cefr": "B1+",
+  "skill": "speaking",
+  "sentence": "The third thing on the agenda is the budget for the next quarter.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-11",
+  "type": "listenRepeat",
+  "cefr": "B1+",
+  "skill": "speaking",
+  "sentence": "Can you walk me through the results of the experiment?",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-12",
+  "type": "listenRepeat",
+  "cefr": "B1+",
+  "skill": "speaking",
+  "sentence": "I'd like to introduce a different approach to the problem.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-13",
+  "type": "listenRepeat",
+  "cefr": "B1+",
+  "skill": "speaking",
+  "sentence": "The developer fixed a bug that crashed the server yesterday.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-14",
+  "type": "listenRepeat",
+  "cefr": "B1+",
+  "skill": "speaking",
+  "sentence": "Our team has improved the accuracy of the model by five percent.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-15",
+  "type": "listenRepeat",
+  "cefr": "B1+",
+  "skill": "speaking",
+  "sentence": "I usually wake up around seven and answer messages before breakfast.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-16",
+  "type": "listenRepeat",
+  "cefr": "B1+",
+  "skill": "speaking",
+  "sentence": "Let's schedule a follow-up call to discuss the remaining issues.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-17",
+  "type": "listenRepeat",
+  "cefr": "B2",
+  "skill": "speaking",
+  "sentence": "Would you mind repeating that? The connection was breaking up a little.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-18",
+  "type": "listenRepeat",
+  "cefr": "B1+",
+  "skill": "speaking",
+  "sentence": "We played Minecraft on a server with about thirty other players.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-19",
+  "type": "listenRepeat",
+  "cefr": "B2",
+  "skill": "speaking",
+  "sentence": "The moderators removed the spam and banned several accounts.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-20",
+  "type": "listenRepeat",
+  "cefr": "B2",
+  "skill": "speaking",
+  "sentence": "Although the results look promising, we should validate them with real users.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-21",
+  "type": "listenRepeat",
+  "cefr": "B2",
+  "skill": "speaking",
+  "sentence": "I believe we can deliver the feature by Friday if nobody changes the requirements.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-22",
+  "type": "listenRepeat",
+  "cefr": "B2",
+  "skill": "speaking",
+  "sentence": "Honestly, the biggest challenge was convincing everyone that the change was worth the effort.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-23",
+  "type": "listenRepeat",
+  "cefr": "B2",
+  "skill": "speaking",
+  "sentence": "Could we revisit the timeline? I'm concerned that we're underestimating the testing phase.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-24",
+  "type": "listenRepeat",
+  "cefr": "B2",
+  "skill": "speaking",
+  "sentence": "Remote work offers flexibility, but it also requires a great deal of discipline.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-25",
+  "type": "listenRepeat",
+  "cefr": "B2",
+  "skill": "speaking",
+  "sentence": "She was so tired that she almost forgot to submit the final version.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-26",
+  "type": "listenRepeat",
+  "cefr": "B2",
+  "skill": "speaking",
+  "sentence": "Researchers have discovered that sleeping well improves memory and concentration.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-27",
+  "type": "listenRepeat",
+  "cefr": "B2+",
+  "skill": "speaking",
+  "sentence": "The company developed a tool that automatically summarizes long conversations.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-28",
+  "type": "listenRepeat",
+  "cefr": "B2+",
+  "skill": "speaking",
+  "sentence": "From my perspective, artificial intelligence should assist people rather than replace them.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-29",
+  "type": "listenRepeat",
+  "cefr": "B2+",
+  "skill": "speaking",
+  "sentence": "I'd appreciate it if you could confirm the details by the end of the day.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-30",
+  "type": "listenRepeat",
+  "cefr": "B2+",
+  "skill": "speaking",
+  "sentence": "Learning a language takes patience, and the progress you make is rarely visible day to day.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-31",
+  "type": "listenRepeat",
+  "cefr": "C1",
+  "skill": "speaking",
+  "sentence": "The pharmaceutical industry depends on rigorous data to demonstrate that a treatment is safe.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-32",
+  "type": "listenRepeat",
+  "cefr": "C1",
+  "skill": "speaking",
+  "sentence": "We've been working on this for months, and we're finally starting to see the benefits.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-33",
+  "type": "listenRepeat",
+  "cefr": "B1+",
+  "skill": "speaking",
+  "sentence": "Please make sure everyone has access to the shared folder before the call begins.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-34",
+  "type": "listenRepeat",
+  "cefr": "B2+",
+  "skill": "speaking",
+  "sentence": "If I had more time, I would explore the alternative solutions more thoroughly.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-35",
+  "type": "listenRepeat",
+  "cefr": "B2",
+  "skill": "speaking",
+  "sentence": "That's a great question. Let me check the numbers and get back to you.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-36",
+  "type": "listenRepeat",
+  "cefr": "B2",
+  "skill": "speaking",
+  "sentence": "The vote was close, but the board eventually approved the proposal.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-37",
+  "type": "listenRepeat",
+  "cefr": "B2+",
+  "skill": "speaking",
+  "sentence": "Overall, our users value simplicity, so we avoided adding unnecessary features.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-38",
+  "type": "listenRepeat",
+  "cefr": "B2",
+  "skill": "speaking",
+  "sentence": "I've visited the village where my grandmother lived before she moved.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-lr-39",
+  "type": "listenRepeat",
+  "cefr": "B1",
+  "skill": "speaking",
+  "sentence": "The weather is lovely, so we're having lunch together on the terrace.",
+  "voice": "female"
+ },
+ {
+  "id": "speaking-lr-40",
+  "type": "listenRepeat",
+  "cefr": "C1",
+  "skill": "speaking",
+  "sentence": "Despite the challenges, the community thrived because members felt genuinely valued and heard.",
+  "voice": "male"
+ },
+ {
+  "id": "speaking-iv-01",
+  "type": "interview",
+  "cefr": "B1",
+  "skill": "speaking",
+  "topic": "Your work",
+  "questions": [
+   "What do you do for work, and what do you enjoy most about it?",
+   "Tell me about a typical day at your job.",
+   "What was the hardest problem you solved recently, and how did you solve it?",
+   "How do you think your field will change over the next ten years?"
+  ]
+ },
+ {
+  "id": "speaking-iv-02",
+  "type": "interview",
+  "cefr": "B1",
+  "skill": "speaking",
+  "topic": "Daily habits",
+  "questions": [
+   "What does your morning routine look like?",
+   "Which habit has helped you the most in your life?",
+   "Tell me about a habit you tried to build but couldn't keep.",
+   "Why is it so hard to change habits, in your opinion?"
+  ]
+ },
+ {
+  "id": "speaking-iv-03",
+  "type": "interview",
+  "cefr": "B1+",
+  "skill": "speaking",
+  "topic": "Learning English",
+  "questions": [
+   "Why are you learning English right now?",
+   "Describe a situation where you struggled to express yourself in English.",
+   "What methods have worked best for you when learning something new?",
+   "How has technology changed the way people learn languages?"
+  ]
+ },
+ {
+  "id": "speaking-iv-04",
+  "type": "interview",
+  "cefr": "B1+",
+  "skill": "speaking",
+  "topic": "Technology you use",
+  "questions": [
+   "Which app or tool do you use every day, and why?",
+   "Tell me about a piece of technology you couldn't live without.",
+   "Have you ever stopped using a tool because it distracted you? What happened?",
+   "Do you think we depend too much on our phones?"
+  ]
+ },
+ {
+  "id": "speaking-iv-05",
+  "type": "interview",
+  "cefr": "B1+",
+  "skill": "speaking",
+  "topic": "Cities and places",
+  "questions": [
+   "Where did you grow up, and what was it like?",
+   "What do you like and dislike about the city where you live now?",
+   "Describe a place you visited that left a strong impression on you.",
+   "What makes a city a good place to live in the long term?"
+  ]
+ },
+ {
+  "id": "speaking-iv-06",
+  "type": "interview",
+  "cefr": "B2",
+  "skill": "speaking",
+  "topic": "Meetings at work",
+  "questions": [
+   "How do you usually prepare for an important meeting?",
+   "Tell me about a meeting that did not go well. What went wrong?",
+   "How do you handle a situation where you disagree with a colleague in public?",
+   "Do you think most meetings are a waste of time? Why or why not?"
+  ]
+ },
+ {
+  "id": "speaking-iv-07",
+  "type": "interview",
+  "cefr": "B2",
+  "skill": "speaking",
+  "topic": "Artificial intelligence",
+  "questions": [
+   "How often do you use AI tools, and what do you use them for?",
+   "Describe a time when an AI tool gave you a wrong or misleading answer.",
+   "Which parts of your job could AI do better than you, and which couldn't it do?",
+   "Who should be responsible when an AI system makes a harmful mistake?"
+  ]
+ },
+ {
+  "id": "speaking-iv-08",
+  "type": "interview",
+  "cefr": "B2",
+  "skill": "speaking",
+  "topic": "Online communities",
+  "questions": [
+   "Which online communities are you part of, and how did you join them?",
+   "What makes a Discord server feel welcoming or unwelcoming?",
+   "Tell me about a conflict you saw in an online community and how it was resolved.",
+   "Can online relationships ever be as meaningful as face-to-face ones?"
+  ]
+ },
+ {
+  "id": "speaking-iv-09",
+  "type": "interview",
+  "cefr": "B2",
+  "skill": "speaking",
+  "topic": "Startups and ambition",
+  "questions": [
+   "Have you ever wanted to start your own company? What was the idea?",
+   "What is the biggest risk you have taken in your career so far?",
+   "Why do so many startups fail, in your opinion?",
+   "Is it better to specialize in one skill or to be a generalist? Explain your view."
+  ]
+ },
+ {
+  "id": "speaking-iv-10",
+  "type": "interview",
+  "cefr": "B2+",
+  "skill": "speaking",
+  "topic": "Focus and productivity",
+  "questions": [
+   "What distracts you the most when you are trying to work?",
+   "Describe a strategy that helps you stay focused for long periods.",
+   "How do you recover after a stressful week?",
+   "Do you think constant notifications are changing the way our brains work?"
+  ]
+ },
+ {
+  "id": "speaking-iv-11",
+  "type": "interview",
+  "cefr": "B2+",
+  "skill": "speaking",
+  "topic": "Health and science",
+  "questions": [
+   "How do you take care of your physical and mental health?",
+   "Tell me about a scientific discovery that you find fascinating.",
+   "Why do you think people often distrust scientific evidence?",
+   "How should companies balance profit and patient safety in the pharmaceutical industry?"
+  ]
+ },
+ {
+  "id": "speaking-iv-12",
+  "type": "interview",
+  "cefr": "C1",
+  "skill": "speaking",
+  "topic": "The future of work",
+  "questions": [
+   "How has your idea of a perfect job changed since you started working?",
+   "Describe a skill you expect to become more valuable in the next five years.",
+   "To what extent will remote work reshape cities and communities?",
+   "If automation eliminates many jobs, what should societies do to support the people affected?"
+  ]
+ }
+]

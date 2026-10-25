@@ -1,0 +1,133 @@
+{
+  "blueprints": [
+    {
+      "id": "placement-v1",
+      "kind": "placement",
+      "title": "Placement",
+      "sections": [
+        { "id": "vocab", "title": "Vocabulary", "skill": "grammar", "minutes": 5,
+          "picks": [ { "vocab": true, "count": 24 } ],
+          "adaptive": { "min": 15, "max": 24, "stopSD": 0.35 } },
+        { "id": "reading", "title": "Reading", "skill": "reading", "minutes": 12,
+          "picks": [
+            { "types": ["completeWords"], "count": 1, "levels": ["B1", "B2"] },
+            { "types": ["readDaily"], "count": 2, "levels": ["B1", "B2"] },
+            { "types": ["readAcademic"], "count": 1, "levels": ["B1+", "B2"] } ] },
+        { "id": "listening", "title": "Listening", "skill": "listening", "minutes": 8, "fallback": "transcript",
+          "picks": [
+            { "types": ["listenResponse"], "count": 12, "levels": ["B1", "B2", "C1"] },
+            { "types": ["listenConversation"], "count": 1, "levels": ["B1+", "B2"] },
+            { "types": ["listenAnnouncement"], "count": 1, "levels": ["B1+", "B2"] } ] },
+        { "id": "grammar", "title": "Grammar", "skill": "grammar", "minutes": 5,
+          "picks": [
+            { "types": ["buildSentence"], "count": 4, "levels": ["B1+", "B2"] },
+            { "types": ["grammarMC"], "count": 6, "levels": ["B1", "B2", "C1"] } ] },
+        { "id": "email", "title": "Write an Email", "skill": "writing", "minutes": 7,
+          "picks": [ { "types": ["writeEmail"], "count": 1, "levels": ["B1+", "B2"] } ] },
+        { "id": "about-you", "title": "About You", "skill": "writing", "minutes": 7,
+          "picks": [ { "ids": ["placement-about-you"], "count": 1 } ] },
+        { "id": "interview", "title": "Take an Interview", "skill": "speaking", "minutes": 8, "fallback": "typed",
+          "picks": [ { "types": ["interview"], "count": 1, "levels": ["B1+", "B2"] } ] }
+      ]
+    },
+    {
+      "id": "daily-v1",
+      "kind": "daily",
+      "title": "Daily Check",
+      "sections": [
+        { "id": "words", "title": "Complete the Words", "skill": "reading", "minutes": 3,
+          "picks": [ { "types": ["completeWords"], "count": 1 } ] },
+        { "id": "mixed", "title": "Quick Check", "minutes": 5, "fallback": "transcript",
+          "picks": [
+            { "types": ["grammarMC", "buildSentence", "listenResponse"], "count": 19 },
+            { "vocab": true, "count": 19 } ],
+          "adaptive": { "min": 11, "max": 19, "stopSD": 0.35 } }
+      ]
+    },
+    {
+      "id": "weekly-v1",
+      "kind": "weekly",
+      "title": "Weekly Mock",
+      "sections": [
+        { "id": "reading-router", "title": "Reading", "skill": "reading", "minutes": 6, "stage": "router", "group": "reading",
+          "picks": [
+            { "types": ["completeWords"], "count": 1, "levels": ["B1", "B2"] },
+            { "types": ["readDaily"], "count": 1, "levels": ["B1", "B2"] } ] },
+        { "id": "reading-lower", "title": "Reading", "skill": "reading", "minutes": 5, "stage": "lower", "group": "reading",
+          "picks": [
+            { "types": ["readDaily"], "count": 1, "levels": ["B1"] },
+            { "types": ["readAcademic"], "count": 1, "levels": ["B1+", "B2"] } ] },
+        { "id": "reading-upper", "title": "Reading", "skill": "reading", "minutes": 5, "stage": "upper", "group": "reading",
+          "picks": [
+            { "types": ["readDaily"], "count": 1, "levels": ["C1"] },
+            { "types": ["readAcademic"], "count": 1, "levels": ["B2", "C1"] } ] },
+        { "id": "listening-router", "title": "Listening", "skill": "listening", "minutes": 4, "stage": "router", "group": "listening", "fallback": "transcript",
+          "picks": [ { "types": ["listenResponse"], "count": 6, "levels": ["B1", "B2"] } ] },
+        { "id": "listening-lower", "title": "Listening", "skill": "listening", "minutes": 4, "stage": "lower", "group": "listening", "fallback": "transcript",
+          "picks": [
+            { "types": ["listenConversation"], "count": 1, "levels": ["B1+", "B2"] },
+            { "types": ["listenAnnouncement"], "count": 1, "levels": ["B1+", "B2"] } ] },
+        { "id": "listening-upper", "title": "Listening", "skill": "listening", "minutes": 4, "stage": "upper", "group": "listening", "fallback": "transcript",
+          "picks": [
+            { "types": ["listenConversation"], "count": 1, "levels": ["B2+", "C1"] },
+            { "types": ["listenTalk"], "count": 1, "levels": ["B2+", "C1"] } ] },
+        { "id": "build", "title": "Build a Sentence", "skill": "writing", "minutes": 4,
+          "picks": [ { "types": ["buildSentence"], "count": 10, "levels": ["B1+", "B2", "C1"] } ] },
+        { "id": "email", "title": "Write an Email", "skill": "writing", "minutes": 10,
+          "picks": [ { "types": ["writeEmail"], "count": 1, "levels": ["B2", "C1"] } ] },
+        { "id": "interview", "title": "Take an Interview", "skill": "speaking", "minutes": 5, "fallback": "typed",
+          "picks": [ { "types": ["interview"], "count": 1, "levels": ["B2", "B2+"] } ] }
+      ]
+    },
+    {
+      "id": "monthly-v1",
+      "kind": "monthly",
+      "title": "Monthly Full Mock",
+      "sections": [
+        { "id": "reading-router", "title": "Reading", "skill": "reading", "minutes": 9, "stage": "router", "group": "reading",
+          "picks": [
+            { "types": ["completeWords"], "count": 1, "levels": ["B2"] },
+            { "types": ["readDaily"], "count": 2, "levels": ["B1", "B2"] },
+            { "types": ["readAcademic"], "count": 1, "levels": ["B1+", "B2"] } ] },
+        { "id": "reading-lower", "title": "Reading", "skill": "reading", "minutes": 9, "stage": "lower", "group": "reading",
+          "picks": [
+            { "types": ["completeWords"], "count": 1, "levels": ["B1"] },
+            { "types": ["readDaily"], "count": 1, "levels": ["B1", "B2"] },
+            { "types": ["readAcademic"], "count": 1, "levels": ["B1+", "B2"] } ] },
+        { "id": "reading-upper", "title": "Reading", "skill": "reading", "minutes": 9, "stage": "upper", "group": "reading",
+          "picks": [
+            { "types": ["completeWords"], "count": 1, "levels": ["C1"] },
+            { "types": ["readDaily"], "count": 1, "levels": ["C1"] },
+            { "types": ["readAcademic"], "count": 1, "levels": ["C1", "B2"] } ] },
+        { "id": "listening-router", "title": "Listening", "skill": "listening", "minutes": 13, "stage": "router", "group": "listening", "fallback": "transcript",
+          "picks": [
+            { "types": ["listenResponse"], "count": 8, "levels": ["B1", "B2"] },
+            { "types": ["listenConversation"], "count": 1, "levels": ["B1+", "B2"] },
+            { "types": ["listenAnnouncement"], "count": 1, "levels": ["B1+", "B2"] } ] },
+        { "id": "listening-lower", "title": "Listening", "skill": "listening", "minutes": 13, "stage": "lower", "group": "listening", "fallback": "transcript",
+          "picks": [
+            { "types": ["listenResponse"], "count": 4, "levels": ["B1", "B2"] },
+            { "types": ["listenConversation"], "count": 1, "levels": ["B1+", "B2"] },
+            { "types": ["listenAnnouncement"], "count": 1, "levels": ["B1+", "B2"] } ] },
+        { "id": "listening-upper", "title": "Listening", "skill": "listening", "minutes": 13, "stage": "upper", "group": "listening", "fallback": "transcript",
+          "picks": [
+            { "types": ["listenResponse"], "count": 4, "levels": ["C1"] },
+            { "types": ["listenConversation"], "count": 1, "levels": ["B2+", "C1"] },
+            { "types": ["listenTalk"], "count": 1, "levels": ["B2+", "C1"] } ] },
+        { "id": "writing", "title": "Writing", "skill": "writing", "minutes": 23,
+          "picks": [
+            { "types": ["buildSentence"], "count": 10, "levels": ["B2", "C1"] },
+            { "types": ["writeEmail"], "count": 1, "levels": ["B2", "C1"] },
+            { "types": ["writeDiscussion"], "count": 1, "levels": ["B2", "C1"] } ] },
+        { "id": "speaking", "title": "Speaking", "skill": "speaking", "minutes": 8, "fallback": "typed",
+          "picks": [
+            { "types": ["listenRepeat"], "count": 7, "levels": ["B1+", "B2", "B2+"] },
+            { "types": ["interview"], "count": 1, "levels": ["B2", "B2+", "C1"] } ] },
+        { "id": "grammar-vocab", "title": "Grammar & Vocabulary", "skill": "grammar", "minutes": 10, "optional": true,
+          "picks": [
+            { "types": ["grammarMC"], "count": 15, "levels": ["B2", "C1"] },
+            { "vocab": true, "count": 10, "levels": ["B2", "B2+", "C1"] } ] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "false-friends-actually",
+    "headword": "actually",
+    "pos": "adverb",
+    "cefr": "B1+",
+    "es": "en realidad, de hecho",
+    "definition": "used to say what is really true, often when it is different from what people expect",
+    "example": "I thought the call was at noon, but it is actually at ten.",
+    "exampleEs": "Pensé que la llamada era al mediodía, pero en realidad es a las diez.",
+    "cloze": "I thought the call was at noon, but it is ____ at ten.",
+    "answer": "actually",
+    "distractors": [
+      "quietly",
+      "politely",
+      "gradually"
+    ],
+    "collocations": [
+      "actually works",
+      "what actually happened",
+      "but actually"
+    ],
+    "note": "Trap: 'actualmente' means currently; actually means 'en realidad'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-eventually",
+    "headword": "eventually",
+    "pos": "adverb",
+    "cefr": "B1+",
+    "es": "al final, con el tiempo",
+    "definition": "after a long time or a lot of steps",
+    "example": "The build failed twice, but it eventually passed.",
+    "exampleEs": "La compilación falló dos veces, pero al final pasó.",
+    "cloze": "The build failed twice, but it ____ passed.",
+    "answer": "eventually",
+    "distractors": [
+      "nowhere",
+      "upstairs",
+      "softly"
+    ],
+    "collocations": [
+      "eventually succeed",
+      "eventually realize",
+      "eventually decide"
+    ],
+    "note": "Trap: 'eventualmente' means occasionally or possibly; eventually means 'al final'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-assist",
+    "headword": "assist",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "ayudar",
+    "definition": "to help someone do something",
+    "example": "Two engineers will assist the new hire during her first week.",
+    "exampleEs": "Dos ingenieros ayudarán a la nueva empleada durante su primera semana.",
+    "cloze": "Two engineers will ____ the new hire during her first week.",
+    "answer": "assist",
+    "distractors": [
+      "attend",
+      "resume",
+      "borrow"
+    ],
+    "collocations": [
+      "assist a customer",
+      "assist with a task",
+      "assist in an investigation"
+    ],
+    "note": "Trap: 'asistir a' is attend; assist means 'ayudar'.",
+    "tags": [
+      "false-friend",
+      "workplace"
+    ]
+  },
+  {
+    "id": "false-friends-attend",
+    "headword": "attend",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "asistir a, acudir a",
+    "definition": "to be present at an event, class or meeting",
+    "example": "Everyone on the team must attend the demo on Friday.",
+    "exampleEs": "Todos en el equipo deben asistir a la demostración del viernes.",
+    "cloze": "Everyone on the team must ____ the demo on Friday.",
+    "answer": "attend",
+    "distractors": [
+      "bake",
+      "whisper",
+      "knit"
+    ],
+    "collocations": [
+      "attend a meeting",
+      "attend a lecture",
+      "attend school"
+    ],
+    "note": "Trap: 'asistir' is attend, not assist. No 'to' after attend: attend the meeting.",
+    "tags": [
+      "false-friend",
+      "meetings"
+    ]
+  },
+  {
+    "id": "false-friends-realize",
+    "headword": "realize",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "darse cuenta de",
+    "definition": "to suddenly understand or notice something",
+    "example": "I only realized my mistake after the release went live.",
+    "exampleEs": "Solo me di cuenta de mi error después de que salió la versión.",
+    "cloze": "I only ____ my mistake after the release went live.",
+    "answer": "realized",
+    "distractors": [
+      "borrowed",
+      "painted",
+      "stirred"
+    ],
+    "collocations": [
+      "realize a mistake",
+      "suddenly realize",
+      "I didn't realize"
+    ],
+    "note": "Trap: 'realizar' means do or carry out; realize means 'darse cuenta'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-sensible",
+    "headword": "sensible",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "sensato, razonable",
+    "definition": "showing good judgment and practical thinking",
+    "example": "Using a password manager is a sensible choice.",
+    "exampleEs": "Usar un gestor de contraseñas es una decisión sensata.",
+    "cloze": "Using a password manager is a ____ choice.",
+    "answer": "sensible",
+    "distractors": [
+      "purple",
+      "hungry",
+      "northern"
+    ],
+    "collocations": [
+      "a sensible decision",
+      "sensible advice",
+      "sensible shoes"
+    ],
+    "note": "Trap: Spanish 'sensible' is sensitive in English; English sensible means 'sensato'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-embarrassed",
+    "headword": "embarrassed",
+    "pos": "adjective",
+    "cefr": "B1+",
+    "es": "avergonzado, apenado",
+    "definition": "feeling shy, awkward or ashamed in front of other people",
+    "example": "I felt embarrassed when my microphone was still on.",
+    "exampleEs": "Me dio vergüenza cuando mi micrófono seguía encendido.",
+    "cloze": "I felt ____ when my microphone was still on.",
+    "answer": "embarrassed",
+    "distractors": [
+      "thirsty",
+      "pregnant",
+      "tidy"
+    ],
+    "collocations": [
+      "feel embarrassed",
+      "embarrassed about",
+      "slightly embarrassed"
+    ],
+    "note": "Trap: 'embarazada' means pregnant. Say 'I'm embarrassed' for 'me da pena'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-library",
+    "headword": "library",
+    "pos": "noun",
+    "cefr": "A2",
+    "es": "biblioteca",
+    "definition": "a place where you can read or borrow books",
+    "example": "I study at the university library because it is quiet.",
+    "exampleEs": "Estudio en la biblioteca de la universidad porque es tranquila.",
+    "cloze": "I study at the university ____ because it is quiet.",
+    "answer": "library",
+    "distractors": [
+      "elevator",
+      "stadium",
+      "pharmacy"
+    ],
+    "collocations": [
+      "public library",
+      "library card",
+      "library book"
+    ],
+    "note": "Trap: 'librería' is a bookstore; library means 'biblioteca'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-career",
+    "headword": "career",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "carrera profesional, trayectoria",
+    "definition": "the work you do over many years of your life",
+    "example": "She built a successful career in data science.",
+    "exampleEs": "Construyó una carrera exitosa en ciencia de datos.",
+    "cloze": "She built a successful ____ in data science.",
+    "answer": "career",
+    "distractors": [
+      "ladder",
+      "carpet",
+      "pencil"
+    ],
+    "collocations": [
+      "build a career",
+      "career path",
+      "career change"
+    ],
+    "note": "Trap: a university 'carrera' is a degree or major; career is your working life.",
+    "tags": [
+      "false-friend",
+      "workplace"
+    ]
+  },
+  {
+    "id": "false-friends-carpet",
+    "headword": "carpet",
+    "pos": "noun",
+    "cefr": "B1+",
+    "es": "alfombra",
+    "definition": "thick soft material that covers a floor",
+    "example": "The new carpet in the office is dark blue.",
+    "exampleEs": "La alfombra nueva de la oficina es azul oscuro.",
+    "cloze": "The new ____ in the office is dark blue.",
+    "answer": "carpet",
+    "distractors": [
+      "breakfast",
+      "rumor",
+      "salary"
+    ],
+    "collocations": [
+      "wool carpet",
+      "red carpet",
+      "carpet cleaner"
+    ],
+    "note": "Trap: 'carpeta' is a folder; carpet means 'alfombra'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-exit",
+    "headword": "exit",
+    "pos": "noun",
+    "cefr": "B1+",
+    "es": "salida",
+    "definition": "the way out of a building or place",
+    "example": "Use the emergency exit if the alarm goes off.",
+    "exampleEs": "Usa la salida de emergencia si suena la alarma.",
+    "cloze": "Use the emergency ____ if the alarm goes off.",
+    "answer": "exit",
+    "distractors": [
+      "success",
+      "salary",
+      "journey"
+    ],
+    "collocations": [
+      "emergency exit",
+      "exit sign",
+      "fire exit"
+    ],
+    "note": "Trap: 'éxito' means success; exit means 'salida'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-deception",
+    "headword": "deception",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "engaño",
+    "definition": "the act of making someone believe something that is not true",
+    "example": "The company's deception only came to light after the audit.",
+    "exampleEs": "El engaño de la empresa solo salió a la luz después de la auditoría.",
+    "cloze": "The company's ____ only came to light after the audit.",
+    "answer": "deception",
+    "distractors": [
+      "balcony",
+      "tuition",
+      "basement"
+    ],
+    "collocations": [
+      "practice deception",
+      "a clever deception",
+      "uncover a deception"
+    ],
+    "note": "Trap: 'decepción' means disappointment; deception means 'engaño'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-constipated",
+    "headword": "constipated",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "estreñido",
+    "definition": "unable to empty your bowels easily",
+    "example": "He felt constipated after a week of eating almost no fiber.",
+    "exampleEs": "Se sintió estreñido después de una semana comiendo casi nada de fibra.",
+    "cloze": "He felt ____ after a week of eating almost no fiber.",
+    "answer": "constipated",
+    "distractors": [
+      "famous",
+      "narrow",
+      "jealous"
+    ],
+    "collocations": [
+      "feel constipated",
+      "get constipated",
+      "constipated and bloated"
+    ],
+    "note": "Trap: 'constipado' means having a cold. In English, constipated is only about the bowels.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-lecture",
+    "headword": "lecture",
+    "pos": "noun",
+    "cefr": "B1+",
+    "es": "clase magistral, conferencia",
+    "definition": "a long talk given to students or an audience about a subject",
+    "example": "The professor's lecture on neural networks lasted an hour.",
+    "exampleEs": "La clase del profesor sobre redes neuronales duró una hora.",
+    "cloze": "The professor's ____ on neural networks lasted an hour.",
+    "answer": "lecture",
+    "distractors": [
+      "sandwich",
+      "harbor",
+      "blanket"
+    ],
+    "collocations": [
+      "give a lecture",
+      "attend a lecture",
+      "lecture hall"
+    ],
+    "note": "Trap: 'lectura' means reading; lecture means a talk by a speaker.",
+    "tags": [
+      "false-friend",
+      "academic"
+    ]
+  },
+  {
+    "id": "false-friends-argument",
+    "headword": "argument",
+    "pos": "noun",
+    "cefr": "B1+",
+    "es": "discusión, pelea",
+    "definition": "an angry conversation where people disagree",
+    "example": "We had a long argument about which framework to use.",
+    "exampleEs": "Tuvimos una larga discusión sobre qué framework usar.",
+    "cloze": "We had a long ____ about which framework to use.",
+    "answer": "argument",
+    "distractors": [
+      "parking",
+      "lawn",
+      "button"
+    ],
+    "collocations": [
+      "have an argument",
+      "heated argument",
+      "win an argument"
+    ],
+    "note": "Trap: argument usually means a fight, not just 'argumento'. For a point in a debate, say 'point' or 'reasoning'.",
+    "tags": [
+      "false-friend",
+      "meetings"
+    ]
+  },
+  {
+    "id": "false-friends-remove",
+    "headword": "remove",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "quitar, eliminar",
+    "definition": "to take something away from a place",
+    "example": "Please remove the old files from the shared folder.",
+    "exampleEs": "Por favor, elimina los archivos viejos de la carpeta compartida.",
+    "cloze": "Please ____ the old files from the shared folder.",
+    "answer": "remove",
+    "distractors": [
+      "worry",
+      "arrive",
+      "laugh"
+    ],
+    "collocations": [
+      "remove a file",
+      "remove an item",
+      "remove a stain"
+    ],
+    "note": "Trap: 'remover' means to stir; remove means 'quitar'.",
+    "tags": [
+      "false-friend",
+      "tech"
+    ]
+  },
+  {
+    "id": "false-friends-support",
+    "headword": "support",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "apoyar, respaldar",
+    "definition": "to agree with a plan or help it succeed",
+    "example": "Our manager will support the proposal at the board meeting.",
+    "exampleEs": "Nuestro gerente respaldará la propuesta en la reunión de la junta.",
+    "cloze": "Our manager will ____ the proposal at the board meeting.",
+    "answer": "support",
+    "distractors": [
+      "bake",
+      "melt",
+      "sew"
+    ],
+    "collocations": [
+      "support a plan",
+      "fully support",
+      "support a team"
+    ],
+    "note": "Trap: 'soportar' means to tolerate; for that, use stand or put up with.",
+    "tags": [
+      "false-friend",
+      "workplace"
+    ]
+  },
+  {
+    "id": "false-friends-monitor",
+    "headword": "monitor",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "monitorear, supervisar",
+    "definition": "to watch something carefully over time",
+    "example": "We use dashboards to monitor server errors in real time.",
+    "exampleEs": "Usamos paneles para monitorear los errores del servidor en tiempo real.",
+    "cloze": "We use dashboards to ____ server errors in real time.",
+    "answer": "monitor",
+    "distractors": [
+      "bake",
+      "knit",
+      "stir"
+    ],
+    "collocations": [
+      "monitor progress",
+      "monitor performance",
+      "closely monitor"
+    ],
+    "note": "Trap: Spanish 'monitorizar' is just 'monitor' in English. 'Monitorize' does not exist.",
+    "tags": [
+      "false-friend",
+      "tech",
+      "error-pattern"
+    ]
+  },
+  {
+    "id": "false-friends-make",
+    "headword": "make",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "hacer (crear, producir)",
+    "definition": "to create or produce something",
+    "example": "Let's make a plan before we start the sprint.",
+    "exampleEs": "Hagamos un plan antes de empezar el sprint.",
+    "cloze": "Let's ____ a plan before we start the sprint.",
+    "answer": "make",
+    "distractors": [
+      "wash",
+      "paint",
+      "bake"
+    ],
+    "collocations": [
+      "make a decision",
+      "make a mistake",
+      "make progress"
+    ],
+    "note": "Trap: Spanish 'hacer' covers both. Make is for creating results (a plan, a mistake, a decision).",
+    "tags": [
+      "false-friend",
+      "collocation",
+      "error-pattern"
+    ]
+  },
+  {
+    "id": "false-friends-do",
+    "headword": "do",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "hacer (una actividad o tarea)",
+    "definition": "to carry out an activity or task",
+    "example": "I still need to do the dishes before the call starts.",
+    "exampleEs": "Todavía tengo que lavar los platos antes de que empiece la llamada.",
+    "cloze": "I still need to ____ the dishes before the call starts.",
+    "answer": "do",
+    "distractors": [
+      "sleep",
+      "vanish",
+      "giggle"
+    ],
+    "collocations": [
+      "do homework",
+      "do research",
+      "do your best"
+    ],
+    "note": "Trap: Spanish 'hacer' covers both. Do is for tasks and activities; don't say 'do a mistake' or 'do a decision'.",
+    "tags": [
+      "false-friend",
+      "collocation",
+      "error-pattern"
+    ]
+  },
+  {
+    "id": "false-friends-actual",
+    "headword": "actual",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "real, verdadero",
+    "definition": "real, as opposed to what people think or say",
+    "example": "What was the actual cause of the outage?",
+    "exampleEs": "¿Cuál fue la causa real de la caída?",
+    "cloze": "What was the ____ cause of the outage?",
+    "answer": "actual",
+    "distractors": [
+      "sleepy",
+      "coastal",
+      "tiny"
+    ],
+    "collocations": [
+      "the actual cost",
+      "the actual number",
+      "in actual fact"
+    ],
+    "note": "Trap: 'actual' in Spanish means current; English actual means 'real'. For current, use current or present.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-sensitive",
+    "headword": "sensitive",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "sensible; delicado, confidencial",
+    "definition": "easily hurt or affected, or needing careful handling",
+    "example": "Be careful with sensitive customer data.",
+    "exampleEs": "Ten cuidado con los datos delicados de los clientes.",
+    "cloze": "Be careful with ____ customer data.",
+    "answer": "sensitive",
+    "distractors": [
+      "wooden",
+      "dizzy",
+      "tasty"
+    ],
+    "collocations": [
+      "sensitive data",
+      "sensitive topic",
+      "sensitive skin"
+    ],
+    "note": "Trap: Spanish 'sensible' is sensitive in English; English sensible means 'sensato'.",
+    "tags": [
+      "false-friend",
+      "workplace"
+    ]
+  },
+  {
+    "id": "false-friends-fabric",
+    "headword": "fabric",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "tela",
+    "definition": "cloth made by weaving threads",
+    "example": "The jacket is made of a soft, waterproof fabric.",
+    "exampleEs": "La chamarra está hecha de una tela suave e impermeable.",
+    "cloze": "The jacket is made of a soft, waterproof ____.",
+    "answer": "fabric",
+    "distractors": [
+      "factory",
+      "mountain",
+      "ceiling"
+    ],
+    "collocations": [
+      "soft fabric",
+      "cotton fabric",
+      "fabric softener"
+    ],
+    "note": "Trap: 'fábrica' means factory; fabric means 'tela'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-large",
+    "headword": "large",
+    "pos": "adjective",
+    "cefr": "A2",
+    "es": "grande",
+    "definition": "big in size or amount",
+    "example": "They ordered a large pizza for the whole team.",
+    "exampleEs": "Pidieron una pizza grande para todo el equipo.",
+    "cloze": "They ordered a ____ pizza for the whole team.",
+    "answer": "large",
+    "distractors": [
+      "rainy",
+      "retired",
+      "deaf"
+    ],
+    "collocations": [
+      "a large number",
+      "large amount",
+      "large company"
+    ],
+    "note": "Trap: 'largo' means long; large means 'grande'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-success",
+    "headword": "success",
+    "pos": "noun",
+    "cefr": "B1+",
+    "es": "éxito",
+    "definition": "the result of achieving what you wanted",
+    "example": "The launch was a huge success, with 10,000 sign-ups.",
+    "exampleEs": "El lanzamiento fue un gran éxito, con 10,000 registros.",
+    "cloze": "The launch was a huge ____, with 10,000 sign-ups.",
+    "answer": "success",
+    "distractors": [
+      "ceiling",
+      "neighbor",
+      "kitchen"
+    ],
+    "collocations": [
+      "a huge success",
+      "key to success",
+      "success story"
+    ],
+    "note": "Trap: 'suceso' means event; success means 'éxito'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-resume",
+    "headword": "resume",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "reanudar, retomar",
+    "definition": "to start again after a pause",
+    "example": "We will resume the meeting after a short break.",
+    "exampleEs": "Retomaremos la reunión después de un breve descanso.",
+    "cloze": "We will ____ the meeting after a short break.",
+    "answer": "resume",
+    "distractors": [
+      "bake",
+      "pour",
+      "hug"
+    ],
+    "collocations": [
+      "resume work",
+      "resume talks",
+      "resume service"
+    ],
+    "note": "Trap: 'resumir' means summarize; resume means 'reanudar'. In US English, the noun résumé is a CV.",
+    "tags": [
+      "false-friend",
+      "meetings"
+    ]
+  },
+  {
+    "id": "false-friends-educated",
+    "headword": "educated",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "con estudios, culto",
+    "definition": "having had a good education",
+    "example": "He is highly educated and has a master's degree.",
+    "exampleEs": "Tiene un alto nivel de estudios y una maestría.",
+    "cloze": "He is highly ____ and has a master's degree.",
+    "answer": "educated",
+    "distractors": [
+      "frozen",
+      "crispy",
+      "rusty"
+    ],
+    "collocations": [
+      "highly educated",
+      "well-educated",
+      "an educated guess"
+    ],
+    "note": "Trap: 'educado' means polite; for that, use polite or well-mannered.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-parents",
+    "headword": "parents",
+    "pos": "noun",
+    "cefr": "B1+",
+    "es": "padres (mamá y papá)",
+    "definition": "your mother and father",
+    "example": "My parents live in Guadalajara; my aunts and cousins live nearby.",
+    "exampleEs": "Mis padres viven en Guadalajara; mis tías y primos viven cerca.",
+    "cloze": "My ____ live in Guadalajara; my aunts and cousins live nearby.",
+    "answer": "parents",
+    "distractors": [
+      "bridges",
+      "clouds",
+      "pencils"
+    ],
+    "collocations": [
+      "my parents",
+      "single parents",
+      "meet the parents"
+    ],
+    "note": "Trap: 'parientes' means relatives; parents are only your mother and father.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-record",
+    "headword": "record",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "grabar",
+    "definition": "to save sound or video so it can be played later",
+    "example": "Please record the meeting so Ana can watch it later.",
+    "exampleEs": "Por favor, graba la reunión para que Ana la vea después.",
+    "cloze": "Please ____ the meeting so Ana can watch it later.",
+    "answer": "record",
+    "distractors": [
+      "paint",
+      "borrow",
+      "whisper"
+    ],
+    "collocations": [
+      "record a video",
+      "record a meeting",
+      "record a podcast"
+    ],
+    "note": "Trap: 'recordar' means remember; record means 'grabar'.",
+    "tags": [
+      "false-friend",
+      "meetings"
+    ]
+  },
+  {
+    "id": "false-friends-ignore",
+    "headword": "ignore",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "ignorar, no hacer caso",
+    "definition": "to deliberately pay no attention to something",
+    "example": "Don't ignore the warning messages in the log.",
+    "exampleEs": "No ignores los mensajes de advertencia en el registro.",
+    "cloze": "Don't ____ the warning messages in the log.",
+    "answer": "ignore",
+    "distractors": [
+      "arrive",
+      "laugh",
+      "faint"
+    ],
+    "collocations": [
+      "ignore a warning",
+      "ignore advice",
+      "completely ignore"
+    ],
+    "note": "Trap: Spanish 'ignorar' can mean 'not know'. English ignore is on purpose; say 'I don't know the answer', not 'I ignore the answer'.",
+    "tags": [
+      "false-friend",
+      "error-pattern"
+    ]
+  },
+  {
+    "id": "false-friends-preservatives",
+    "headword": "preservatives",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "conservantes",
+    "definition": "chemicals added to food to keep it fresh longer",
+    "example": "The jam has no artificial preservatives.",
+    "exampleEs": "La mermelada no tiene conservantes artificiales.",
+    "cloze": "The jam has no artificial ____.",
+    "answer": "preservatives",
+    "distractors": [
+      "mountains",
+      "bridges",
+      "windows"
+    ],
+    "collocations": [
+      "artificial preservatives",
+      "free of preservatives",
+      "food preservatives"
+    ],
+    "note": "Trap: 'preservativo' means condom; preservative means 'conservante'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-demand",
+    "headword": "demand",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "exigir",
+    "definition": "to ask for something in a strong way",
+    "example": "Customers demand fast, reliable support.",
+    "exampleEs": "Los clientes exigen soporte rápido y confiable.",
+    "cloze": "Customers ____ fast, reliable support.",
+    "answer": "demand",
+    "distractors": [
+      "sing",
+      "hide",
+      "melt"
+    ],
+    "collocations": [
+      "demand an answer",
+      "demand better",
+      "demand attention"
+    ],
+    "note": "Trap: 'demandar' means to sue; for that, use sue or file a lawsuit.",
+    "tags": [
+      "false-friend",
+      "workplace"
+    ]
+  },
+  {
+    "id": "false-friends-pretend",
+    "headword": "pretend",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "fingir, aparentar",
+    "definition": "to behave as if something is true when it is not",
+    "example": "Don't pretend you understood the question if you didn't.",
+    "exampleEs": "No finjas que entendiste la pregunta si no la entendiste.",
+    "cloze": "Don't ____ you understood the question if you didn't.",
+    "answer": "pretend",
+    "distractors": [
+      "wander",
+      "melt",
+      "sneeze"
+    ],
+    "collocations": [
+      "pretend to be",
+      "pretend not to",
+      "let's pretend"
+    ],
+    "note": "Trap: 'pretender' means to intend or want; for that, use intend or plan.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-sympathetic",
+    "headword": "sympathetic",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "comprensivo, compasivo",
+    "definition": "showing that you understand and care about someone's problems",
+    "example": "My manager was sympathetic when I explained the delay.",
+    "exampleEs": "Mi jefe fue comprensivo cuando le expliqué el retraso.",
+    "cloze": "My manager was ____ when I explained the delay.",
+    "answer": "sympathetic",
+    "distractors": [
+      "metallic",
+      "seasonal",
+      "triangular"
+    ],
+    "collocations": [
+      "a sympathetic ear",
+      "sympathetic to",
+      "sympathetic response"
+    ],
+    "note": "Trap: 'simpático' means nice or friendly; for that, use nice or likable.",
+    "tags": [
+      "false-friend",
+      "workplace"
+    ]
+  },
+  {
+    "id": "false-friends-introduce",
+    "headword": "introduce",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "presentar (a alguien)",
+    "definition": "to tell people each other's names when they meet for the first time",
+    "example": "Let me introduce you to our new designer, Sofia.",
+    "exampleEs": "Déjame presentarte a nuestra nueva diseñadora, Sofía.",
+    "cloze": "Let me ____ you to our new designer, Sofia.",
+    "answer": "introduce",
+    "distractors": [
+      "sew",
+      "weigh",
+      "rinse"
+    ],
+    "collocations": [
+      "introduce yourself",
+      "introduce a feature",
+      "introduce someone to"
+    ],
+    "note": "Trap: 'introducir' means insert; introduce is for people and new ideas.",
+    "tags": [
+      "false-friend",
+      "meetings"
+    ]
+  },
+  {
+    "id": "false-friends-compromise",
+    "headword": "compromise",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "acuerdo mutuo, punto medio",
+    "definition": "an agreement where each side gives up something",
+    "example": "After a long talk, we reached a compromise.",
+    "exampleEs": "Después de una larga charla, llegamos a un acuerdo de punto medio.",
+    "cloze": "After a long talk, we reached a ____.",
+    "answer": "compromise",
+    "distractors": [
+      "ladder",
+      "anthem",
+      "saddle"
+    ],
+    "collocations": [
+      "reach a compromise",
+      "make a compromise",
+      "find a compromise"
+    ],
+    "note": "Trap: 'compromiso' often means commitment or obligation; for those, use commitment.",
+    "tags": [
+      "false-friend",
+      "meetings"
+    ]
+  },
+  {
+    "id": "false-friends-excited",
+    "headword": "excited",
+    "pos": "adjective",
+    "cefr": "B1+",
+    "es": "emocionado, entusiasmado",
+    "definition": "happy and full of energy about something that will happen",
+    "example": "I'm really excited about the new release next week.",
+    "exampleEs": "Estoy muy emocionado por la nueva versión de la próxima semana.",
+    "cloze": "I'm really ____ about the new release next week.",
+    "answer": "excited",
+    "distractors": [
+      "wooden",
+      "coastal",
+      "rusty"
+    ],
+    "collocations": [
+      "excited about",
+      "get excited",
+      "really excited"
+    ],
+    "note": "Trap: 'excitado' sounds sexual in Spanish; excited is fully normal at work.",
+    "tags": [
+      "false-friend",
+      "error-pattern"
+    ]
+  },
+  {
+    "id": "false-friends-rope",
+    "headword": "rope",
+    "pos": "noun",
+    "cefr": "B1+",
+    "es": "cuerda, soga",
+    "definition": "a thick, strong cord made of twisted threads",
+    "example": "We tied the tent down with a strong rope.",
+    "exampleEs": "Aseguramos la tienda con una cuerda resistente.",
+    "cloze": "We tied the tent down with a strong ____.",
+    "answer": "rope",
+    "distractors": [
+      "laptop",
+      "sunrise",
+      "calendar"
+    ],
+    "collocations": [
+      "climb a rope",
+      "tie a rope",
+      "a length of rope"
+    ],
+    "note": "Trap: 'ropa' means clothes; rope means 'cuerda'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-contest",
+    "headword": "contest",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "impugnar, disputar",
+    "definition": "to officially say that something is wrong and challenge it",
+    "example": "Our lawyers plan to contest the fine.",
+    "exampleEs": "Nuestros abogados planean impugnar la multa.",
+    "cloze": "Our lawyers plan to ____ the fine.",
+    "answer": "contest",
+    "distractors": [
+      "sneeze",
+      "glide",
+      "pour"
+    ],
+    "collocations": [
+      "contest a decision",
+      "contest a claim",
+      "contest an election"
+    ],
+    "note": "Trap: 'contestar' means answer; contest means to challenge. For answering, use answer or reply.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-arena",
+    "headword": "arena",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "estadio, recinto",
+    "definition": "a large place with seats where concerts or sports happen",
+    "example": "The band played in a huge arena with 20,000 seats.",
+    "exampleEs": "La banda tocó en un enorme recinto con 20,000 asientos.",
+    "cloze": "The band played in a huge ____ with 20,000 seats.",
+    "answer": "arena",
+    "distractors": [
+      "spoon",
+      "shirt",
+      "wallet"
+    ],
+    "collocations": [
+      "sports arena",
+      "concert arena",
+      "political arena"
+    ],
+    "note": "Trap: Spanish 'arena' means sand; English arena is a large venue. Sand is 'sand'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-exquisite",
+    "headword": "exquisite",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "refinado, de gran belleza",
+    "definition": "extremely beautiful and made with great care",
+    "example": "The jewelry in the shop was truly exquisite, every detail made by hand.",
+    "exampleEs": "Las joyas de la tienda eran realmente exquisitas, con cada detalle hecho a mano.",
+    "cloze": "The jewelry in the shop was truly ____, every detail made by hand.",
+    "answer": "exquisite",
+    "distractors": [
+      "rainy",
+      "tropical",
+      "bitter"
+    ],
+    "collocations": [
+      "exquisite taste",
+      "exquisite detail",
+      "exquisite craftsmanship"
+    ],
+    "note": "Trap: Spanish 'exquisito' mostly means delicious; English exquisite stresses beauty and fine quality.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-casual",
+    "headword": "casual",
+    "pos": "adjective",
+    "cefr": "B1+",
+    "es": "informal, relajado",
+    "definition": "relaxed and not formal",
+    "example": "We have a casual dress code on Fridays.",
+    "exampleEs": "Los viernes tenemos un código de vestimenta informal.",
+    "cloze": "We have a ____ dress code on Fridays.",
+    "answer": "casual",
+    "distractors": [
+      "frozen",
+      "feline",
+      "lunar"
+    ],
+    "collocations": [
+      "casual dress",
+      "casual conversation",
+      "casual Friday"
+    ],
+    "note": "Trap: Spanish 'casual' means by chance; for that, use accidental or by coincidence.",
+    "tags": [
+      "false-friend",
+      "workplace"
+    ]
+  },
+  {
+    "id": "false-friends-intoxicated",
+    "headword": "intoxicated",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "ebrio, bajo los efectos del alcohol",
+    "definition": "affected by alcohol or drugs",
+    "example": "The driver was intoxicated and could not walk straight.",
+    "exampleEs": "El conductor estaba ebrio y no podía caminar derecho.",
+    "cloze": "The driver was ____ and could not walk straight.",
+    "answer": "intoxicated",
+    "distractors": [
+      "tropical",
+      "bilingual",
+      "retired"
+    ],
+    "collocations": [
+      "visibly intoxicated",
+      "intoxicated driver",
+      "intoxicated by"
+    ],
+    "note": "Trap: Spanish 'intoxicado' means poisoned (food poisoning); English intoxicated means drunk.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-idiom",
+    "headword": "idiom",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "modismo, expresión idiomática",
+    "definition": "a phrase whose meaning is different from its separate words",
+    "example": "'Break the ice' is a common idiom, not a literal instruction.",
+    "exampleEs": "'Romper el hielo' es un modismo común, no una instrucción literal.",
+    "cloze": "'Break the ice' is a common ____, not a literal instruction.",
+    "answer": "idiom",
+    "distractors": [
+      "hammer",
+      "ticket",
+      "balcony"
+    ],
+    "collocations": [
+      "common idiom",
+      "English idiom",
+      "an idiom meaning"
+    ],
+    "note": "Trap: 'idioma' means language; idiom means a fixed expression like 'break the ice'.",
+    "tags": [
+      "false-friend",
+      "idiom"
+    ]
+  },
+  {
+    "id": "false-friends-advertisement",
+    "headword": "advertisement",
+    "pos": "noun",
+    "cefr": "B1+",
+    "es": "anuncio publicitario",
+    "definition": "a message that tries to sell a product or service",
+    "example": "I saw a funny advertisement for that app on YouTube.",
+    "exampleEs": "Vi un anuncio gracioso de esa app en YouTube.",
+    "cloze": "I saw a funny ____ for that app on YouTube.",
+    "answer": "advertisement",
+    "distractors": [
+      "bakery",
+      "cousin",
+      "ceiling"
+    ],
+    "collocations": [
+      "online advertisement",
+      "run an advertisement",
+      "TV advertisement"
+    ],
+    "note": "Trap: 'advertencia' means warning; advertisement means an ad. Short form: ad.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-bizarre",
+    "headword": "bizarre",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "raro, extraño",
+    "definition": "very strange and hard to explain",
+    "example": "The ending of the show was completely bizarre.",
+    "exampleEs": "El final de la serie fue completamente extraño.",
+    "cloze": "The ending of the show was completely ____.",
+    "answer": "bizarre",
+    "distractors": [
+      "eastern",
+      "woolen",
+      "dental"
+    ],
+    "collocations": [
+      "bizarre behavior",
+      "bizarre story",
+      "utterly bizarre"
+    ],
+    "note": "Trap: Spanish 'bizarro' means brave or gallant; English bizarre means 'raro'.",
+    "tags": [
+      "false-friend"
+    ]
+  },
+  {
+    "id": "false-friends-billion",
+    "headword": "billion",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "mil millones",
+    "definition": "a thousand million (1,000,000,000)",
+    "example": "The company is now worth over two billion dollars.",
+    "exampleEs": "La empresa ahora vale más de dos mil millones de dólares.",
+    "cloze": "The company is now worth over two ____ dollars.",
+    "answer": "billion",
+    "distractors": [
+      "pillow",
+      "engine",
+      "garden"
+    ],
+    "collocations": [
+      "a billion dollars",
+      "billions of users",
+      "two billion"
+    ],
+    "note": "Trap: Spanish 'billón' is a million million, which is a trillion in English.",
+    "tags": [
+      "false-friend",
+      "tech"
+    ]
+  },
+  {
+    "id": "false-friends-assume",
+    "headword": "assume",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "suponer, dar por hecho",
+    "definition": "to think something is true without checking it",
+    "example": "Don't assume everyone has read the document.",
+    "exampleEs": "No des por hecho que todos leyeron el documento.",
+    "cloze": "Don't ____ everyone has read the document.",
+    "answer": "assume",
+    "distractors": [
+      "weigh",
+      "sneeze",
+      "stir"
+    ],
+    "collocations": [
+      "assume that",
+      "safe to assume",
+      "assume responsibility"
+    ],
+    "note": "Trap: 'asumir' often means to accept or take on; for 'suponer', English uses assume.",
+    "tags": [
+      "false-friend",
+      "meetings"
+    ]
+  },
+  {
+    "id": "false-friends-agenda",
+    "headword": "agenda",
+    "pos": "noun",
+    "cefr": "B1+",
+    "es": "orden del día, temario",
+    "definition": "a list of topics to discuss in a meeting",
+    "example": "Please send the agenda before the meeting starts.",
+    "exampleEs": "Por favor envía el orden del día antes de que empiece la reunión.",
+    "cloze": "Please send the ____ before the meeting starts.",
+    "answer": "agenda",
+    "distractors": [
+      "helmet",
+      "orchard",
+      "tunnel"
+    ],
+    "collocations": [
+      "meeting agenda",
+      "on the agenda",
+      "set the agenda"
+    ],
+    "note": "Trap: Spanish 'agenda' is a planner or diary; English agenda is the list of topics for a meeting.",
+    "tags": [
+      "false-friend",
+      "meetings",
+      "workplace"
+    ]
+  },
+  {
+    "id": "false-friends-formidable",
+    "headword": "formidable",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "temible, impresionante",
+    "definition": "impressive in a way that makes people respect or fear it",
+    "example": "She is a formidable negotiator, so prepare carefully.",
+    "exampleEs": "Es una negociadora temible, así que prepárate con cuidado.",
+    "cloze": "She is a ____ negotiator, so prepare carefully.",
+    "answer": "formidable",
+    "distractors": [
+      "lunar",
+      "rusty",
+      "feline"
+    ],
+    "collocations": [
+      "a formidable opponent",
+      "formidable challenge",
+      "formidable reputation"
+    ],
+    "note": "Trap: Spanish 'formidable' means great or awesome; English formidable suggests something hard or intimidating.",
+    "tags": [
+      "false-friend"
+    ]
+  }
+]

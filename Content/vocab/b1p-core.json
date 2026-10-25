@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "b1p-core-afford",
+    "headword": "afford",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "permitirse (económicamente)",
+    "definition": "to have enough money to pay for something",
+    "example": "I can't afford a new laptop right now.",
+    "exampleEs": "Ahora mismo no puedo permitirme una laptop nueva.",
+    "cloze": "I can't ____ a new laptop right now.",
+    "answer": "afford",
+    "distractors": [
+      "forget",
+      "wonder",
+      "arrive"
+    ],
+    "collocations": [
+      "can't afford it",
+      "afford a car",
+      "afford to buy"
+    ],
+    "note": "Usually with can/can't/could. No 'to' needed before the noun.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-avoid",
+    "headword": "avoid",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "evitar",
+    "definition": "to stay away from something or stop it from happening",
+    "example": "Try to avoid meetings without an agenda.",
+    "exampleEs": "Intenta evitar las reuniones sin agenda.",
+    "cloze": "Try to ____ meetings without an agenda.",
+    "answer": "avoid",
+    "distractors": [
+      "borrow",
+      "pour",
+      "hire"
+    ],
+    "collocations": [
+      "avoid mistakes",
+      "avoid doing",
+      "avoid traffic"
+    ],
+    "note": "Avoid is followed by -ing, never by 'to': avoid making, not avoid to make.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-achieve",
+    "headword": "achieve",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "lograr, alcanzar",
+    "definition": "to succeed in doing or getting something after effort",
+    "example": "She worked hard to achieve her goal.",
+    "exampleEs": "Trabajó duro para lograr su meta.",
+    "cloze": "She worked hard to ____ her goal.",
+    "answer": "achieve",
+    "distractors": [
+      "pretend",
+      "spill",
+      "wear"
+    ],
+    "collocations": [
+      "achieve a goal",
+      "achieve results",
+      "achieve success"
+    ],
+    "note": "",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-struggle",
+    "headword": "struggle",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "batallar, costarle a alguien",
+    "definition": "to try very hard to do something that is difficult",
+    "example": "I still struggle with the past perfect.",
+    "exampleEs": "Todavía batallo con el pasado perfecto.",
+    "cloze": "I still ____ with the past perfect.",
+    "answer": "struggle",
+    "distractors": [
+      "wait",
+      "repair",
+      "smile"
+    ],
+    "collocations": [
+      "struggle with",
+      "struggle to understand",
+      "struggle to keep up"
+    ],
+    "note": "Say struggle WITH a problem or struggle TO do something.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-rely",
+    "headword": "rely",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "confiar en, depender de",
+    "definition": "to trust someone or something to do what you need",
+    "example": "You can rely on me to finish the report.",
+    "exampleEs": "Puedes confiar en que terminaré el reporte.",
+    "cloze": "You can ____ on me to finish the report.",
+    "answer": "rely",
+    "distractors": [
+      "sleep",
+      "dig",
+      "laugh"
+    ],
+    "collocations": [
+      "rely on",
+      "rely on someone to",
+      "rely heavily on"
+    ],
+    "note": "Always rely ON, not 'rely in'.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-deal-with",
+    "headword": "deal with",
+    "pos": "phrasal verb",
+    "cefr": "B1",
+    "es": "lidiar con, ocuparse de",
+    "definition": "to take action to solve a problem or handle a situation",
+    "example": "We need to deal with this bug before the release.",
+    "exampleEs": "Tenemos que ocuparnos de este bug antes del lanzamiento.",
+    "cloze": "We need to ____ with this bug before the release.",
+    "answer": "deal",
+    "distractors": [
+      "arrive",
+      "hope",
+      "fill"
+    ],
+    "collocations": [
+      "deal with a problem",
+      "deal with a client",
+      "deal with stress"
+    ],
+    "note": "Not 'deal to' or 'deal about'. The past tense is dealt.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-figure-out",
+    "headword": "figure out",
+    "pos": "phrasal verb",
+    "cefr": "B1",
+    "es": "averiguar, descifrar",
+    "definition": "to understand something or find the answer by thinking",
+    "example": "I can't figure out why the test keeps failing.",
+    "exampleEs": "No logro averiguar por qué la prueba sigue fallando.",
+    "cloze": "I can't ____ out why the test keeps failing.",
+    "answer": "figure",
+    "distractors": [
+      "grow",
+      "cook",
+      "pour"
+    ],
+    "collocations": [
+      "figure out a solution",
+      "figure it out",
+      "figure out how"
+    ],
+    "note": "Informal and very common at work. With a pronoun, split it: figure it out.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-worth",
+    "headword": "worth",
+    "pos": "adjective",
+    "cefr": "B1",
+    "es": "que vale la pena",
+    "definition": "good enough to deserve the money, time or effort spent",
+    "example": "This course is worth the money.",
+    "exampleEs": "Este curso vale lo que cuesta.",
+    "cloze": "This course is ____ the money.",
+    "answer": "worth",
+    "distractors": [
+      "good",
+      "cheap",
+      "free"
+    ],
+    "collocations": [
+      "worth it",
+      "worth the effort",
+      "worth doing"
+    ],
+    "note": "Worth is followed by a noun or an -ing verb: worth reading, not worth to read.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-improve",
+    "headword": "improve",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "mejorar",
+    "definition": "to get better or to make something better",
+    "example": "I want to improve my listening skills.",
+    "exampleEs": "Quiero mejorar mis habilidades de comprensión auditiva.",
+    "cloze": "I want to ____ my listening skills.",
+    "answer": "improve",
+    "distractors": [
+      "invite",
+      "borrow",
+      "spill"
+    ],
+    "collocations": [
+      "improve skills",
+      "improve quickly",
+      "improve performance"
+    ],
+    "note": "Not 'to better'. Improve is the normal verb.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-manage-to",
+    "headword": "manage to",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "lograr (hacer algo difícil)",
+    "definition": "to succeed in doing something difficult",
+    "example": "She managed to fix the bug in ten minutes.",
+    "exampleEs": "Logró arreglar el bug en diez minutos.",
+    "cloze": "She ____ to fix the bug in ten minutes.",
+    "answer": "managed",
+    "distractors": [
+      "enjoyed",
+      "finished",
+      "avoided"
+    ],
+    "collocations": [
+      "manage to finish",
+      "managed to solve",
+      "barely managed to"
+    ],
+    "note": "Manage to + verb means you succeeded. It is not the same as 'administrar'.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-suggest",
+    "headword": "suggest",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "sugerir",
+    "definition": "to offer an idea or plan for someone to consider",
+    "example": "I suggest moving the meeting to Friday.",
+    "exampleEs": "Sugiero mover la reunión al viernes.",
+    "cloze": "I ____ moving the meeting to Friday.",
+    "answer": "suggest",
+    "distractors": [
+      "want",
+      "hope",
+      "decide"
+    ],
+    "collocations": [
+      "suggest doing",
+      "suggest that we",
+      "suggest an idea"
+    ],
+    "note": "Say suggest doing, never 'suggest to do'. You also can't say 'suggest me'.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-depend",
+    "headword": "depend",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "depender",
+    "definition": "to be decided by or to change according to something else",
+    "example": "It depends on the budget.",
+    "exampleEs": "Depende del presupuesto.",
+    "cloze": "It ____ on the budget.",
+    "answer": "depends",
+    "distractors": [
+      "arrives",
+      "jumps",
+      "laughs"
+    ],
+    "collocations": [
+      "it depends",
+      "depend on",
+      "depends on the context"
+    ],
+    "note": "Always depend ON. 'It depends' is a complete answer.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-expect",
+    "headword": "expect",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "esperar (que algo pase)",
+    "definition": "to think that something will happen",
+    "example": "I expect the results to be ready tomorrow.",
+    "exampleEs": "Espero que los resultados estén listos mañana.",
+    "cloze": "I ____ the results to be ready tomorrow.",
+    "answer": "expect",
+    "distractors": [
+      "enjoy",
+      "mind",
+      "avoid"
+    ],
+    "collocations": [
+      "expect to",
+      "expect someone to",
+      "as expected"
+    ],
+    "note": "Expect is not 'esperar' as in waiting. For waiting use wait for.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-realize",
+    "headword": "realize",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "darse cuenta",
+    "definition": "to suddenly understand or notice something",
+    "example": "I just realized I forgot to send the invoice.",
+    "exampleEs": "Acabo de darme cuenta de que olvidé enviar la factura.",
+    "cloze": "I just ____ I forgot to send the invoice.",
+    "answer": "realized",
+    "distractors": [
+      "arrived",
+      "painted",
+      "jumped"
+    ],
+    "collocations": [
+      "realize that",
+      "suddenly realize",
+      "realize a mistake"
+    ],
+    "note": "False friend: realize usually means darse cuenta, not 'realizar' (do or carry out).",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-notice",
+    "headword": "notice",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "notar, fijarse en",
+    "definition": "to see or become aware of something",
+    "example": "Did you notice the typo in the title?",
+    "exampleEs": "¿Te fijaste en el error de dedo en el título?",
+    "cloze": "Did you ____ the typo in the title?",
+    "answer": "notice",
+    "distractors": [
+      "sleep",
+      "cook",
+      "wear"
+    ],
+    "collocations": [
+      "notice a change",
+      "notice that",
+      "hardly notice"
+    ],
+    "note": "",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-reduce",
+    "headword": "reduce",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "reducir",
+    "definition": "to make something smaller in amount or size",
+    "example": "We want to reduce the loading time.",
+    "exampleEs": "Queremos reducir el tiempo de carga.",
+    "cloze": "We want to ____ the loading time.",
+    "answer": "reduce",
+    "distractors": [
+      "invite",
+      "shout",
+      "paint"
+    ],
+    "collocations": [
+      "reduce costs",
+      "reduce stress",
+      "reduce the risk"
+    ],
+    "note": "",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-increase",
+    "headword": "increase",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "aumentar",
+    "definition": "to become bigger in amount or to make something bigger",
+    "example": "Sales increased by 20 percent last quarter.",
+    "exampleEs": "Las ventas aumentaron un 20 por ciento el trimestre pasado.",
+    "cloze": "Sales ____ by 20 percent last quarter.",
+    "answer": "increased",
+    "distractors": [
+      "arrived",
+      "slept",
+      "waited"
+    ],
+    "collocations": [
+      "increase by",
+      "increase sharply",
+      "increase the price"
+    ],
+    "note": "Use by for the amount of change: increased by 20 percent.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-require",
+    "headword": "require",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "requerir, exigir",
+    "definition": "to need something or to make something necessary",
+    "example": "This job requires good communication skills.",
+    "exampleEs": "Este trabajo requiere buenas habilidades de comunicación.",
+    "cloze": "This job ____ good communication skills.",
+    "answer": "requires",
+    "distractors": [
+      "arrives",
+      "laughs",
+      "wanders"
+    ],
+    "collocations": [
+      "require experience",
+      "be required to",
+      "if required"
+    ],
+    "note": "Formal. In speech, 'you need' is more common.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-provide",
+    "headword": "provide",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "proporcionar, ofrecer",
+    "definition": "to give or supply something that people need",
+    "example": "The company provides free lunch for employees.",
+    "exampleEs": "La empresa ofrece almuerzo gratis a sus empleados.",
+    "cloze": "The company ____ free lunch for employees.",
+    "answer": "provides",
+    "distractors": [
+      "melts",
+      "wanders",
+      "sleeps"
+    ],
+    "collocations": [
+      "provide support",
+      "provide information",
+      "provide with"
+    ],
+    "note": "Structure: provide something TO someone, or provide someone WITH something.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-involve",
+    "headword": "involve",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "implicar, involucrar",
+    "definition": "to include something as a necessary part",
+    "example": "The project involves three different teams.",
+    "exampleEs": "El proyecto involucra a tres equipos distintos.",
+    "cloze": "The project ____ three different teams.",
+    "answer": "involves",
+    "distractors": [
+      "melts",
+      "hopes",
+      "bends"
+    ],
+    "collocations": [
+      "involve risk",
+      "be involved in",
+      "get involved"
+    ],
+    "note": "Be involved IN an activity.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-agree",
+    "headword": "agree",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "estar de acuerdo",
+    "definition": "to have the same opinion as someone",
+    "example": "I agree with your point about the schedule.",
+    "exampleEs": "Estoy de acuerdo con tu punto sobre el calendario.",
+    "cloze": "I ____ with your point about the schedule.",
+    "answer": "agree",
+    "distractors": [
+      "talk",
+      "sleep",
+      "fill"
+    ],
+    "collocations": [
+      "agree with",
+      "agree on",
+      "agree to"
+    ],
+    "note": "No 'am agree'. Say I agree. Agree WITH a person, ON a topic, TO a plan.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-apply",
+    "headword": "apply",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "solicitar (un puesto), aplicar",
+    "definition": "to ask formally for a job, a place or permission",
+    "example": "I'm going to apply for a new position.",
+    "exampleEs": "Voy a postularme a un nuevo puesto.",
+    "cloze": "I'm going to ____ for a new position.",
+    "answer": "apply",
+    "distractors": [
+      "sleep",
+      "shout",
+      "bend"
+    ],
+    "collocations": [
+      "apply for a job",
+      "apply to a company",
+      "apply a rule"
+    ],
+    "note": "Apply FOR a job, apply TO a company.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-choose",
+    "headword": "choose",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "elegir",
+    "definition": "to pick one thing from several options",
+    "example": "It's hard to choose between two good offers.",
+    "exampleEs": "Es difícil elegir entre dos buenas ofertas.",
+    "cloze": "It's hard to ____ between two good offers.",
+    "answer": "choose",
+    "distractors": [
+      "wander",
+      "laugh",
+      "bend"
+    ],
+    "collocations": [
+      "choose between",
+      "choose carefully",
+      "choose to do"
+    ],
+    "note": "Irregular: choose, chose, chosen.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-decide",
+    "headword": "decide",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "decidir",
+    "definition": "to make a choice after thinking",
+    "example": "We decided to launch the app in March.",
+    "exampleEs": "Decidimos lanzar la app en marzo.",
+    "cloze": "We ____ to launch the app in March.",
+    "answer": "decided",
+    "distractors": [
+      "enjoyed",
+      "avoided",
+      "finished"
+    ],
+    "collocations": [
+      "decide to",
+      "decide on",
+      "decide whether"
+    ],
+    "note": "Decide + to + verb. Decide ON a choice.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-recommend",
+    "headword": "recommend",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "recomendar",
+    "definition": "to say that something is good or suggest that someone do it",
+    "example": "Can you recommend a good book about psychology?",
+    "exampleEs": "¿Puedes recomendarme un buen libro sobre psicología?",
+    "cloze": "Can you ____ a good book about psychology?",
+    "answer": "recommend",
+    "distractors": [
+      "melt",
+      "laugh",
+      "sleep"
+    ],
+    "collocations": [
+      "highly recommend",
+      "recommend doing",
+      "recommend that"
+    ],
+    "note": "Say recommend doing, not 'recommend to do'.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-mention",
+    "headword": "mention",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "mencionar",
+    "definition": "to say something briefly",
+    "example": "She mentioned a problem with the server.",
+    "exampleEs": "Mencionó un problema con el servidor.",
+    "cloze": "She ____ a problem with the server.",
+    "answer": "mentioned",
+    "distractors": [
+      "slept",
+      "laughed",
+      "wandered"
+    ],
+    "collocations": [
+      "mention that",
+      "as mentioned",
+      "don't mention it"
+    ],
+    "note": "No preposition: mention something, not 'mention about'.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-explain",
+    "headword": "explain",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "explicar",
+    "definition": "to give details so someone can understand",
+    "example": "Can you explain how this function works?",
+    "exampleEs": "¿Puedes explicar cómo funciona esta función?",
+    "cloze": "Can you ____ how this function works?",
+    "answer": "explain",
+    "distractors": [
+      "pour",
+      "bend",
+      "melt"
+    ],
+    "collocations": [
+      "explain why",
+      "explain to someone",
+      "explain how"
+    ],
+    "note": "Say explain it TO me, not 'explain me'.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-prefer",
+    "headword": "prefer",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "preferir",
+    "definition": "to like one thing more than another",
+    "example": "I prefer working in the evening.",
+    "exampleEs": "Prefiero trabajar por la noche.",
+    "cloze": "I ____ working in the evening.",
+    "answer": "prefer",
+    "distractors": [
+      "wander",
+      "melt",
+      "bend"
+    ],
+    "collocations": [
+      "prefer to",
+      "prefer A to B",
+      "would prefer"
+    ],
+    "note": "Prefer A TO B, not 'prefer A than B'.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-allow",
+    "headword": "allow",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "permitir",
+    "definition": "to let someone do something",
+    "example": "The app doesn't allow you to edit comments.",
+    "exampleEs": "La app no te permite editar comentarios.",
+    "cloze": "The app doesn't ____ you to edit comments.",
+    "answer": "allow",
+    "distractors": [
+      "hope",
+      "wander",
+      "laugh"
+    ],
+    "collocations": [
+      "allow someone to",
+      "be allowed to",
+      "allow for"
+    ],
+    "note": "Allow someone TO do something.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-prevent",
+    "headword": "prevent",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "prevenir, evitar que ocurra",
+    "definition": "to stop something from happening",
+    "example": "Good sleep can prevent burnout.",
+    "exampleEs": "Dormir bien puede prevenir el agotamiento.",
+    "cloze": "Good sleep can ____ burnout.",
+    "answer": "prevent",
+    "distractors": [
+      "melt",
+      "paint",
+      "bend"
+    ],
+    "collocations": [
+      "prevent problems",
+      "prevent someone from",
+      "prevent damage"
+    ],
+    "note": "Prevent someone FROM doing something.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-attend",
+    "headword": "attend",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "asistir a",
+    "definition": "to be present at an event or class",
+    "example": "Did you attend the meeting yesterday?",
+    "exampleEs": "¿Asististe a la reunión de ayer?",
+    "cloze": "Did you ____ the meeting yesterday?",
+    "answer": "attend",
+    "distractors": [
+      "wander",
+      "melt",
+      "spill"
+    ],
+    "collocations": [
+      "attend a meeting",
+      "attend class",
+      "attend an event"
+    ],
+    "note": "False friend: attend means asistir, not 'atender'. No 'to' after it.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-support",
+    "headword": "support",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "apoyar",
+    "definition": "to help someone or something to succeed",
+    "example": "Our team will support you during the migration.",
+    "exampleEs": "Nuestro equipo te apoyará durante la migración.",
+    "cloze": "Our team will ____ you during the migration.",
+    "answer": "support",
+    "distractors": [
+      "melt",
+      "paint",
+      "bend"
+    ],
+    "collocations": [
+      "support a project",
+      "support someone",
+      "technical support"
+    ],
+    "note": "",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-consider",
+    "headword": "consider",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "considerar",
+    "definition": "to think carefully about something before deciding",
+    "example": "Have you considered changing jobs?",
+    "exampleEs": "¿Has considerado cambiar de trabajo?",
+    "cloze": "Have you ____ changing jobs?",
+    "answer": "considered",
+    "distractors": [
+      "hoped",
+      "wanted",
+      "decided"
+    ],
+    "collocations": [
+      "consider doing",
+      "consider the options",
+      "seriously consider"
+    ],
+    "note": "Consider is followed by -ing: consider moving, not 'consider to move'.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-postpone",
+    "headword": "postpone",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "posponer",
+    "definition": "to move an event to a later time",
+    "example": "We had to postpone the launch.",
+    "exampleEs": "Tuvimos que posponer el lanzamiento.",
+    "cloze": "We had to ____ the launch.",
+    "answer": "postpone",
+    "distractors": [
+      "invite",
+      "pour",
+      "wander"
+    ],
+    "collocations": [
+      "postpone a meeting",
+      "postpone until",
+      "postpone doing"
+    ],
+    "note": "Postpone is the usual word for moving an event later. Reschedule can go either way.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-remind",
+    "headword": "remind",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "recordarle a alguien",
+    "definition": "to help someone remember to do something",
+    "example": "Please remind me to send the email.",
+    "exampleEs": "Por favor recuérdame enviar el correo.",
+    "cloze": "Please ____ me to send the email.",
+    "answer": "remind",
+    "distractors": [
+      "remember",
+      "forget",
+      "wander"
+    ],
+    "collocations": [
+      "remind someone to",
+      "remind me of",
+      "reminder"
+    ],
+    "note": "Remind someone to do something. Remember is what YOU do yourself.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-borrow",
+    "headword": "borrow",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "pedir prestado",
+    "definition": "to take something from someone and give it back later",
+    "example": "Can I borrow your charger?",
+    "exampleEs": "¿Me prestas tu cargador?",
+    "cloze": "Can I ____ your charger?",
+    "answer": "borrow",
+    "distractors": [
+      "lend",
+      "give",
+      "wander"
+    ],
+    "collocations": [
+      "borrow money",
+      "borrow from",
+      "borrow a book"
+    ],
+    "note": "You borrow FROM someone. If you give it, you lend.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-lend",
+    "headword": "lend",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "prestar (dar prestado)",
+    "definition": "to give something to someone for a short time",
+    "example": "Could you lend me twenty pesos?",
+    "exampleEs": "¿Me podrías prestar veinte pesos?",
+    "cloze": "Could you ____ me twenty pesos?",
+    "answer": "lend",
+    "distractors": [
+      "borrow",
+      "rent",
+      "spend"
+    ],
+    "collocations": [
+      "lend money",
+      "lend a hand",
+      "lend to someone"
+    ],
+    "note": "Irregular: lend, lent, lent. Lend is what the owner does; borrow is what you do.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-spend",
+    "headword": "spend",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "pasar (tiempo), gastar",
+    "definition": "to use time or money on something",
+    "example": "I spend about two hours a day on Discord.",
+    "exampleEs": "Paso unas dos horas al día en Discord.",
+    "cloze": "I ____ about two hours a day on Discord.",
+    "answer": "spend",
+    "distractors": [
+      "borrow",
+      "lend",
+      "hire"
+    ],
+    "collocations": [
+      "spend time on",
+      "spend money on",
+      "spend time doing"
+    ],
+    "note": "Spend time DOING something, not 'spend time to do'.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-take-care-of",
+    "headword": "take care of",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "encargarse de, cuidar",
+    "definition": "to be responsible for something or someone",
+    "example": "I'll take care of the invoice this afternoon.",
+    "exampleEs": "Me encargo de la factura esta tarde.",
+    "cloze": "I'll take ____ of the invoice this afternoon.",
+    "answer": "care",
+    "distractors": [
+      "worry",
+      "fear",
+      "risk"
+    ],
+    "collocations": [
+      "take care of a task",
+      "take care of yourself",
+      "I'll take care of it"
+    ],
+    "note": "In meetings, 'I'll take care of it' is a very natural way to accept a task.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-pay-attention",
+    "headword": "pay attention",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "prestar atención",
+    "definition": "to listen to or watch something carefully",
+    "example": "Please pay attention to the instructions.",
+    "exampleEs": "Por favor presta atención a las instrucciones.",
+    "cloze": "Please pay ____ to the instructions.",
+    "answer": "attention",
+    "distractors": [
+      "mention",
+      "intention",
+      "tension"
+    ],
+    "collocations": [
+      "pay attention to",
+      "pay close attention",
+      "get attention"
+    ],
+    "note": "You PAY attention, you don't 'put' or 'give' it. Then TO.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-make-sure",
+    "headword": "make sure",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "asegurarse de",
+    "definition": "to check that something is true or done",
+    "example": "Make sure you save your work.",
+    "exampleEs": "Asegúrate de guardar tu trabajo.",
+    "cloze": "Make ____ you save your work.",
+    "answer": "sure",
+    "distractors": [
+      "safe",
+      "right",
+      "easy"
+    ],
+    "collocations": [
+      "make sure that",
+      "make sure to",
+      "just to make sure"
+    ],
+    "note": "Common at work: 'Just to make sure we're aligned...'",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-look-forward-to",
+    "headword": "look forward to",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "tener ganas de, esperar con ilusión",
+    "definition": "to feel happy about something that will happen",
+    "example": "I'm looking forward to meeting you.",
+    "exampleEs": "Tengo muchas ganas de conocerte.",
+    "cloze": "I'm looking ____ to meeting you.",
+    "answer": "forward",
+    "distractors": [
+      "behind",
+      "upward",
+      "backward"
+    ],
+    "collocations": [
+      "look forward to meeting",
+      "look forward to it",
+      "looking forward to"
+    ],
+    "note": "The 'to' here is a preposition, so use -ing: looking forward to seeing you, NOT to see.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-fix",
+    "headword": "fix",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "arreglar",
+    "definition": "to repair something or solve a problem",
+    "example": "We need to fix this bug today.",
+    "exampleEs": "Necesitamos arreglar este bug hoy.",
+    "cloze": "We need to ____ this bug today.",
+    "answer": "fix",
+    "distractors": [
+      "invite",
+      "melt",
+      "wander"
+    ],
+    "collocations": [
+      "fix a bug",
+      "fix a problem",
+      "quick fix"
+    ],
+    "note": "",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-reliable",
+    "headword": "reliable",
+    "pos": "adjective",
+    "cefr": "B1+",
+    "es": "confiable",
+    "definition": "able to be trusted to work well",
+    "example": "This tool is fast and reliable.",
+    "exampleEs": "Esta herramienta es rápida y confiable.",
+    "cloze": "This tool is fast and ____.",
+    "answer": "reliable",
+    "distractors": [
+      "pregnant",
+      "hungry",
+      "jealous"
+    ],
+    "collocations": [
+      "reliable source",
+      "reliable tool",
+      "highly reliable"
+    ],
+    "note": "Reliable is for things and people you can trust. Opposite: unreliable.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-available",
+    "headword": "available",
+    "pos": "adjective",
+    "cefr": "B1",
+    "es": "disponible",
+    "definition": "free to talk or ready to be used",
+    "example": "Are you available for a quick call?",
+    "exampleEs": "¿Estás disponible para una llamada rápida?",
+    "cloze": "Are you ____ for a quick call?",
+    "answer": "available",
+    "distractors": [
+      "hungry",
+      "jealous",
+      "angry"
+    ],
+    "collocations": [
+      "available for",
+      "be available",
+      "not available"
+    ],
+    "note": "Very common in scheduling: 'Are you available at 3?'",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-responsible",
+    "headword": "responsible",
+    "pos": "adjective",
+    "cefr": "B1+",
+    "es": "responsable, encargado",
+    "definition": "in charge of something and accountable for it",
+    "example": "Who is responsible for the database?",
+    "exampleEs": "¿Quién es responsable de la base de datos?",
+    "cloze": "Who is ____ for the database?",
+    "answer": "responsible",
+    "distractors": [
+      "tired",
+      "jealous",
+      "hungry"
+    ],
+    "collocations": [
+      "responsible for",
+      "take responsibility",
+      "responsible person"
+    ],
+    "note": "Responsible FOR something.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-comfortable",
+    "headword": "comfortable",
+    "pos": "adjective",
+    "cefr": "B1",
+    "es": "cómodo",
+    "definition": "feeling relaxed and not worried",
+    "example": "I feel comfortable speaking English with my team.",
+    "exampleEs": "Me siento cómodo hablando inglés con mi equipo.",
+    "cloze": "I feel ____ speaking English with my team.",
+    "answer": "comfortable",
+    "distractors": [
+      "rare",
+      "tidy",
+      "empty"
+    ],
+    "collocations": [
+      "feel comfortable",
+      "comfortable with",
+      "comfortable doing"
+    ],
+    "note": "Pronounced KUMF-ter-bul, with three syllables.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-embarrassed",
+    "headword": "embarrassed",
+    "pos": "adjective",
+    "cefr": "B1+",
+    "es": "avergonzado",
+    "definition": "feeling shy or ashamed in front of others",
+    "example": "I was embarrassed when I forgot his name.",
+    "exampleEs": "Me dio vergüenza cuando olvidé su nombre.",
+    "cloze": "I was ____ when I forgot his name.",
+    "answer": "embarrassed",
+    "distractors": [
+      "wooden",
+      "rare",
+      "empty"
+    ],
+    "collocations": [
+      "feel embarrassed",
+      "embarrassed about",
+      "too embarrassed to"
+    ],
+    "note": "False friend: embarrassed is NOT embarazada. It means avergonzado.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-actually",
+    "headword": "actually",
+    "pos": "adverb",
+    "cefr": "B1",
+    "es": "en realidad",
+    "definition": "used to say what is really true, often surprising",
+    "example": "It looks easy, but it's actually very hard.",
+    "exampleEs": "Parece fácil, pero en realidad es muy difícil.",
+    "cloze": "It looks easy, but it's ____ very hard.",
+    "answer": "actually",
+    "distractors": [
+      "yesterday",
+      "nowhere",
+      "barely"
+    ],
+    "collocations": [
+      "actually",
+      "what actually happened",
+      "not actually"
+    ],
+    "note": "False friend: actually means en realidad, NOT actualmente. For 'actualmente' say currently or right now.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-eventually",
+    "headword": "eventually",
+    "pos": "adverb",
+    "cefr": "B1+",
+    "es": "finalmente, al final",
+    "definition": "after a long time or a lot of effort",
+    "example": "We tried many options and eventually found a fix.",
+    "exampleEs": "Probamos muchas opciones y al final encontramos una solución.",
+    "cloze": "We tried many options and ____ found a fix.",
+    "answer": "eventually",
+    "distractors": [
+      "tomorrow",
+      "nowhere",
+      "upstairs"
+    ],
+    "collocations": [
+      "eventually find",
+      "and eventually",
+      "will eventually"
+    ],
+    "note": "False friend: eventually means al final, NOT eventualmente (possibly). For that say possibly or occasionally.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-especially",
+    "headword": "especially",
+    "pos": "adverb",
+    "cefr": "B1",
+    "es": "especialmente",
+    "definition": "more than usual; particularly",
+    "example": "I love sci-fi, especially stories about AI.",
+    "exampleEs": "Me encanta la ciencia ficción, sobre todo las historias de IA.",
+    "cloze": "I love sci-fi, ____ stories about AI.",
+    "answer": "especially",
+    "distractors": [
+      "already",
+      "anymore",
+      "together"
+    ],
+    "collocations": [
+      "especially when",
+      "especially for",
+      "not especially"
+    ],
+    "note": "Spelled with an s at the start: especially, not 'specially' in formal writing.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-although",
+    "headword": "although",
+    "pos": "conjunction",
+    "cefr": "B1",
+    "es": "aunque",
+    "definition": "used to introduce a fact that contrasts with the main idea",
+    "example": "Although I was tired, I finished the task.",
+    "exampleEs": "Aunque estaba cansado, terminé la tarea.",
+    "cloze": "____ I was tired, I finished the task.",
+    "answer": "Although",
+    "distractors": [
+      "Despite",
+      "During",
+      "Otherwise"
+    ],
+    "collocations": [
+      "although it's",
+      "even though",
+      "although I"
+    ],
+    "note": "Never use although together with 'but' in the same sentence.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-instead-of",
+    "headword": "instead of",
+    "pos": "preposition",
+    "cefr": "B1",
+    "es": "en lugar de",
+    "definition": "used to say one thing replaces another",
+    "example": "Use a loop instead of copying the code.",
+    "exampleEs": "Usa un ciclo en lugar de copiar el código.",
+    "cloze": "Use a loop ____ of copying the code.",
+    "answer": "instead",
+    "distractors": [
+      "indeed",
+      "instant",
+      "infant"
+    ],
+    "collocations": [
+      "instead of doing",
+      "instead of that",
+      "do this instead"
+    ],
+    "note": "Instead of is followed by a noun or -ing: instead of copying.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-goal",
+    "headword": "goal",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "meta, objetivo",
+    "definition": "something you want to achieve in the future",
+    "example": "My goal is to reach B2 by March.",
+    "exampleEs": "Mi meta es llegar a B2 en marzo.",
+    "cloze": "My ____ is to reach B2 by March.",
+    "answer": "goal",
+    "distractors": [
+      "price",
+      "floor",
+      "pocket"
+    ],
+    "collocations": [
+      "set a goal",
+      "achieve a goal",
+      "long-term goal"
+    ],
+    "note": "",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-experience",
+    "headword": "experience",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "experiencia, trayectoria",
+    "definition": "knowledge or skill that you get from doing something",
+    "example": "She has a lot of experience with Python.",
+    "exampleEs": "Tiene mucha experiencia con Python.",
+    "cloze": "She has a lot of ____ with Python.",
+    "answer": "experience",
+    "distractors": [
+      "weather",
+      "luggage",
+      "furniture"
+    ],
+    "collocations": [
+      "work experience",
+      "experience with",
+      "a lot of experience"
+    ],
+    "note": "Uncountable when it means skill from work: 'a lot of experience', not 'experiences'.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-advice",
+    "headword": "advice",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "consejo(s)",
+    "definition": "an opinion about what someone should do",
+    "example": "Can you give me some advice about my resume?",
+    "exampleEs": "¿Puedes darme algún consejo sobre mi currículum?",
+    "cloze": "Can you give me some ____ about my resume?",
+    "answer": "advice",
+    "distractors": [
+      "weather",
+      "luggage",
+      "furniture"
+    ],
+    "collocations": [
+      "give advice",
+      "ask for advice",
+      "a piece of advice"
+    ],
+    "note": "Uncountable: some advice, a piece of advice, never 'advices'. The verb is advise.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-information",
+    "headword": "information",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "información",
+    "definition": "facts or details about something",
+    "example": "I need more information about the contract.",
+    "exampleEs": "Necesito más información sobre el contrato.",
+    "cloze": "I need more ____ about the contract.",
+    "answer": "information",
+    "distractors": [
+      "traffic",
+      "furniture",
+      "rice"
+    ],
+    "collocations": [
+      "more information",
+      "useful information",
+      "a piece of information"
+    ],
+    "note": "Uncountable: no 'informations'. Say 'a piece of information'.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-deadline",
+    "headword": "deadline",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "fecha límite",
+    "definition": "the time by which something must be finished",
+    "example": "The deadline is next Friday, so we need to hurry.",
+    "exampleEs": "La fecha límite es el próximo viernes, así que hay que apurarse.",
+    "cloze": "The ____ is next Friday, so we need to hurry.",
+    "answer": "deadline",
+    "distractors": [
+      "ceiling",
+      "pillow",
+      "garden"
+    ],
+    "collocations": [
+      "meet a deadline",
+      "tight deadline",
+      "miss the deadline"
+    ],
+    "note": "You MEET or MISS a deadline.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-salary",
+    "headword": "salary",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "sueldo",
+    "definition": "money you receive every month for your job",
+    "example": "My salary goes up after the first year.",
+    "exampleEs": "Mi sueldo sube después del primer año.",
+    "cloze": "My ____ goes up after the first year.",
+    "answer": "salary",
+    "distractors": [
+      "ceiling",
+      "pillow",
+      "garden"
+    ],
+    "collocations": [
+      "a good salary",
+      "annual salary",
+      "salary range"
+    ],
+    "note": "Salary is a fixed amount per month or year. Wage is usually paid per hour.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-schedule",
+    "headword": "schedule",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "horario, calendario",
+    "definition": "a plan of when things will happen",
+    "example": "Let's check the schedule before we choose a date.",
+    "exampleEs": "Revisemos el calendario antes de elegir una fecha.",
+    "cloze": "Let's check the ____ before we choose a date.",
+    "answer": "schedule",
+    "distractors": [
+      "tooth",
+      "pillow",
+      "garden"
+    ],
+    "collocations": [
+      "a tight schedule",
+      "on schedule",
+      "behind schedule"
+    ],
+    "note": "US pronunciation: SKEJ-ool.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-environment",
+    "headword": "environment",
+    "pos": "noun",
+    "cefr": "B1+",
+    "es": "entorno, ambiente",
+    "definition": "the conditions and surroundings where you live or work",
+    "example": "A calm environment helps me focus.",
+    "exampleEs": "Un entorno tranquilo me ayuda a concentrarme.",
+    "cloze": "A calm ____ helps me focus.",
+    "answer": "environment",
+    "distractors": [
+      "invoice",
+      "ceiling",
+      "salary"
+    ],
+    "collocations": [
+      "work environment",
+      "the environment",
+      "friendly environment"
+    ],
+    "note": "Remember the n before the m: environment.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-benefit",
+    "headword": "benefit",
+    "pos": "noun",
+    "cefr": "B1+",
+    "es": "beneficio, ventaja",
+    "definition": "a good result or advantage that you get from something",
+    "example": "The main benefit of this tool is saving time.",
+    "exampleEs": "El principal beneficio de esta herramienta es ahorrar tiempo.",
+    "cloze": "The main ____ of this tool is saving time.",
+    "answer": "benefit",
+    "distractors": [
+      "ceiling",
+      "garden",
+      "tooth"
+    ],
+    "collocations": [
+      "main benefit",
+      "health benefits",
+      "benefit from"
+    ],
+    "note": "Benefit FROM something.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-effort",
+    "headword": "effort",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "esfuerzo",
+    "definition": "physical or mental energy used to do something",
+    "example": "Learning a language takes a lot of effort.",
+    "exampleEs": "Aprender un idioma requiere mucho esfuerzo.",
+    "cloze": "Learning a language takes a lot of ____.",
+    "answer": "effort",
+    "distractors": [
+      "weather",
+      "traffic",
+      "rice"
+    ],
+    "collocations": [
+      "make an effort",
+      "put in effort",
+      "a lot of effort"
+    ],
+    "note": "You MAKE an effort or PUT IN effort. 'Do an effort' is wrong.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-improvement",
+    "headword": "improvement",
+    "pos": "noun",
+    "cefr": "B1+",
+    "es": "mejora",
+    "definition": "a change that makes something better",
+    "example": "There's been a big improvement in my speaking.",
+    "exampleEs": "Ha habido una gran mejora en mi forma de hablar.",
+    "cloze": "There's been a big ____ in my speaking.",
+    "answer": "improvement",
+    "distractors": [
+      "ceiling",
+      "pillow",
+      "garden"
+    ],
+    "collocations": [
+      "a big improvement",
+      "room for improvement",
+      "improvement in"
+    ],
+    "note": "Say improvement IN something.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-habit",
+    "headword": "habit",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "hábito",
+    "definition": "something you do regularly without thinking",
+    "example": "Reading before bed is a good habit.",
+    "exampleEs": "Leer antes de dormir es un buen hábito.",
+    "cloze": "Reading before bed is a good ____.",
+    "answer": "habit",
+    "distractors": [
+      "invoice",
+      "ceiling",
+      "tooth"
+    ],
+    "collocations": [
+      "a bad habit",
+      "get into the habit",
+      "break a habit"
+    ],
+    "note": "You BREAK a bad habit and BUILD or FORM a good one.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-opportunity",
+    "headword": "opportunity",
+    "pos": "noun",
+    "cefr": "B1+",
+    "es": "oportunidad",
+    "definition": "a chance to do something good",
+    "example": "This job is a great opportunity to learn.",
+    "exampleEs": "Este trabajo es una gran oportunidad para aprender.",
+    "cloze": "This job is a great ____ to learn.",
+    "answer": "opportunity",
+    "distractors": [
+      "pillow",
+      "garden",
+      "ceiling"
+    ],
+    "collocations": [
+      "a great opportunity",
+      "opportunity to",
+      "miss an opportunity"
+    ],
+    "note": "Opportunity TO do something, not 'opportunity of'.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-relationship",
+    "headword": "relationship",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "relación",
+    "definition": "the way two people or groups feel and behave toward each other",
+    "example": "I have a good relationship with my manager.",
+    "exampleEs": "Tengo una buena relación con mi jefe.",
+    "cloze": "I have a good ____ with my manager.",
+    "answer": "relationship",
+    "distractors": [
+      "ceiling",
+      "pillow",
+      "garden"
+    ],
+    "collocations": [
+      "build a relationship",
+      "relationship with",
+      "close relationship"
+    ],
+    "note": "Relationship WITH someone, or BETWEEN two people.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-mistake",
+    "headword": "mistake",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "error",
+    "definition": "something you do wrong by accident",
+    "example": "I made a mistake in the code.",
+    "exampleEs": "Cometí un error en el código.",
+    "cloze": "I made a ____ in the code.",
+    "answer": "mistake",
+    "distractors": [
+      "tooth",
+      "invoice",
+      "salary"
+    ],
+    "collocations": [
+      "make a mistake",
+      "a silly mistake",
+      "by mistake"
+    ],
+    "note": "You MAKE a mistake, not 'do' one.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-decision",
+    "headword": "decision",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "decisión",
+    "definition": "a choice you make after thinking",
+    "example": "It was a hard decision, but I think it's right.",
+    "exampleEs": "Fue una decisión difícil, pero creo que es correcta.",
+    "cloze": "It was a hard ____, but I think it's right.",
+    "answer": "decision",
+    "distractors": [
+      "ceiling",
+      "tooth",
+      "garden"
+    ],
+    "collocations": [
+      "make a decision",
+      "tough decision",
+      "decision to"
+    ],
+    "note": "You MAKE a decision, not 'take' it, in US English.",
+    "tags": [
+      "core"
+    ]
+  },
+  {
+    "id": "b1p-core-enough",
+    "headword": "enough",
+    "pos": "determiner",
+    "cefr": "B1",
+    "es": "suficiente",
+    "definition": "as much as is needed",
+    "example": "I don't have enough time to finish.",
+    "exampleEs": "No tengo suficiente tiempo para terminar.",
+    "cloze": "I don't have ____ time to finish.",
+    "answer": "enough",
+    "distractors": [
+      "many",
+      "several",
+      "few"
+    ],
+    "collocations": [
+      "enough time",
+      "good enough",
+      "not enough"
+    ],
+    "note": "Enough comes BEFORE a noun (enough time) but AFTER an adjective (good enough).",
+    "tags": [
+      "core"
+    ]
+  }
+]

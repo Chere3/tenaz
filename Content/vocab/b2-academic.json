@@ -1,0 +1,1879 @@
+[
+ {
+  "id": "b2-academic-analyze",
+  "headword": "analyze",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "analizar",
+  "definition": "to study something carefully in order to understand it",
+  "example": "We need to analyze the logs before we decide what went wrong.",
+  "exampleEs": "Tenemos que analizar los registros antes de decidir qué salió mal.",
+  "cloze": "We need to ____ the logs before we decide what went wrong.",
+  "answer": "analyze",
+  "distractors": [
+   "bake",
+   "whisper",
+   "borrow"
+  ],
+  "collocations": [
+   "analyze data",
+   "analyze the results",
+   "analyze a problem"
+  ],
+  "note": "Spelled analyse in British English; the noun is analysis.",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-assume",
+  "headword": "assume",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "suponer, dar por hecho",
+  "definition": "to think that something is true without having proof",
+  "example": "Don't assume that the client has read the report.",
+  "exampleEs": "No des por hecho que el cliente ha leído el informe.",
+  "cloze": "Don't ____ that the client has read the report.",
+  "answer": "assume",
+  "distractors": [
+   "paint",
+   "sweep",
+   "invite"
+  ],
+  "collocations": [
+   "assume responsibility",
+   "assume that",
+   "safe to assume"
+  ],
+  "note": "Not the same as 'asumir' in the sense of accepting; it usually means 'suppose'.",
+  "tags": [
+   "academic",
+   "false-friend"
+  ]
+ },
+ {
+  "id": "b2-academic-significant",
+  "headword": "significant",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "importante, considerable, significativo",
+  "definition": "large or important enough to have a clear effect or to be noticed",
+  "example": "There was a significant drop in server errors after the update.",
+  "exampleEs": "Hubo una caída considerable de errores del servidor después de la actualización.",
+  "cloze": "There was a ____ drop in server errors after the update.",
+  "answer": "significant",
+  "distractors": [
+   "silent",
+   "sleepy",
+   "scarce"
+  ],
+  "collocations": [
+   "significant difference",
+   "significant increase",
+   "statistically significant"
+  ],
+  "note": "",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-approach",
+  "headword": "approach",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "enfoque, manera de abordar algo",
+  "definition": "a way of dealing with a problem or a task",
+  "example": "Our team took a different approach to the migration.",
+  "exampleEs": "Nuestro equipo adoptó un enfoque distinto para la migración.",
+  "cloze": "Our team took a different ____ to the migration.",
+  "answer": "approach",
+  "distractors": [
+   "ceiling",
+   "pillow",
+   "harvest"
+  ],
+  "collocations": [
+   "a new approach",
+   "take an approach to",
+   "a practical approach"
+  ],
+  "note": "Use the preposition 'to': an approach to the problem.",
+  "tags": [
+   "academic",
+   "preposition"
+  ]
+ },
+ {
+  "id": "b2-academic-evidence",
+  "headword": "evidence",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "evidencia, pruebas",
+  "definition": "facts or signs that show that something is true",
+  "example": "There is strong evidence that sleep improves memory.",
+  "exampleEs": "Hay pruebas sólidas de que dormir mejora la memoria.",
+  "cloze": "There is strong ____ that sleep improves memory.",
+  "answer": "evidence",
+  "distractors": [
+   "furniture",
+   "luggage",
+   "scenery"
+  ],
+  "collocations": [
+   "strong evidence",
+   "evidence of",
+   "gather evidence"
+  ],
+  "note": "Uncountable: say 'some evidence', not 'an evidence' or 'evidences'.",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-factor",
+  "headword": "factor",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "factor",
+  "definition": "one of the things that influence a result or a decision",
+  "example": "Price was the deciding factor for most of our customers.",
+  "exampleEs": "El precio fue el factor decisivo para la mayoría de nuestros clientes.",
+  "cloze": "Price was the deciding ____ for most of our customers.",
+  "answer": "factor",
+  "distractors": [
+   "garden",
+   "ticket",
+   "shadow"
+  ],
+  "collocations": [
+   "a key factor",
+   "risk factor",
+   "contributing factor"
+  ],
+  "note": "",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-require",
+  "headword": "require",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "requerir, exigir",
+  "definition": "to need something, or to make something necessary",
+  "example": "This role requires strong communication skills in English.",
+  "exampleEs": "Este puesto requiere buenas habilidades de comunicación en inglés.",
+  "cloze": "This role ____ strong communication skills in English.",
+  "answer": "requires",
+  "distractors": [
+   "wanders",
+   "freezes",
+   "shrinks"
+  ],
+  "collocations": [
+   "require approval",
+   "be required to",
+   "require attention"
+  ],
+  "note": "Needs no preposition: require something, not require of something.",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-consistent",
+  "headword": "consistent",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "constante, coherente",
+  "definition": "always behaving or happening in the same way, or not contradicting something else",
+  "example": "Her results have been consistent across all three experiments.",
+  "exampleEs": "Sus resultados han sido consistentes en los tres experimentos.",
+  "cloze": "Her results have been ____ across all three experiments.",
+  "answer": "consistent",
+  "distractors": [
+   "dangerous",
+   "generous",
+   "frozen"
+  ],
+  "collocations": [
+   "consistent results",
+   "consistent with",
+   "remain consistent"
+  ],
+  "note": "'Consistent' means steady or coherent, not 'consistente' as in thick or firm.",
+  "tags": [
+   "academic",
+   "false-friend"
+  ]
+ },
+ {
+  "id": "b2-academic-derive",
+  "headword": "derive",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "derivar, obtener de",
+  "definition": "to get something from a source, or to come from a source",
+  "example": "Many English words derive from Latin.",
+  "exampleEs": "Muchas palabras en inglés derivan del latín.",
+  "cloze": "Many English words ____ from Latin.",
+  "answer": "derive",
+  "distractors": [
+   "rescue",
+   "polish",
+   "stumble"
+  ],
+  "collocations": [
+   "derive from",
+   "derive benefit",
+   "derive a formula"
+  ],
+  "note": "Use 'from': derive from.",
+  "tags": [
+   "academic",
+   "preposition"
+  ]
+ },
+ {
+  "id": "b2-academic-estimate",
+  "headword": "estimate",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "estimar, calcular aproximadamente",
+  "definition": "to guess the amount or value of something using the information you have",
+  "example": "We estimate that the project will take about six weeks.",
+  "exampleEs": "Calculamos que el proyecto tomará unas seis semanas.",
+  "cloze": "We ____ that the project will take about six weeks.",
+  "answer": "estimate",
+  "distractors": [
+   "knit",
+   "squeeze",
+   "applaud"
+  ],
+  "collocations": [
+   "estimate the cost",
+   "roughly estimate",
+   "estimate that"
+  ],
+  "note": "As a noun it is pronounced with a weaker ending: a rough estimate.",
+  "tags": [
+   "academic",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-indicate",
+  "headword": "indicate",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "indicar, señalar",
+  "definition": "to show that something exists or is true",
+  "example": "The data indicate that most users abandon the app on the first day.",
+  "exampleEs": "Los datos indican que la mayoría de los usuarios abandona la app el primer día.",
+  "cloze": "The data ____ that most users abandon the app on the first day.",
+  "answer": "indicate",
+  "distractors": [
+   "spill",
+   "chew",
+   "borrow"
+  ],
+  "collocations": [
+   "indicate that",
+   "clearly indicate",
+   "results indicate"
+  ],
+  "note": "",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-interpret",
+  "headword": "interpret",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "interpretar",
+  "definition": "to decide what something means",
+  "example": "It is easy to interpret these numbers in the wrong way.",
+  "exampleEs": "Es fácil interpretar estas cifras de manera equivocada.",
+  "cloze": "It is easy to ____ these numbers in the wrong way.",
+  "answer": "interpret",
+  "distractors": [
+   "install",
+   "swallow",
+   "decorate"
+  ],
+  "collocations": [
+   "interpret the results",
+   "interpret data",
+   "interpret as"
+  ],
+  "note": "Also used for spoken translation: an interpreter.",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-obtain",
+  "headword": "obtain",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "obtener, conseguir",
+  "definition": "to get something, usually through effort or a formal process",
+  "example": "You must obtain permission before you share the dataset.",
+  "exampleEs": "Debes obtener permiso antes de compartir el conjunto de datos.",
+  "cloze": "You must ____ permission before you share the dataset.",
+  "answer": "obtain",
+  "distractors": [
+   "admire",
+   "scratch",
+   "float"
+  ],
+  "collocations": [
+   "obtain permission",
+   "obtain information",
+   "obtain a result"
+  ],
+  "note": "More formal than 'get'.",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-occur",
+  "headword": "occur",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "ocurrir, suceder",
+  "definition": "to happen, especially without being planned",
+  "example": "The error only occurs when two users save at the same time.",
+  "exampleEs": "El error solo ocurre cuando dos usuarios guardan al mismo tiempo.",
+  "cloze": "The error only ____ when two users save at the same time.",
+  "answer": "occurs",
+  "distractors": [
+   "hatches",
+   "wraps",
+   "teases"
+  ],
+  "collocations": [
+   "occur naturally",
+   "occur frequently",
+   "it occurs to me"
+  ],
+  "note": "Spelling: occur has double c, and occurred has double r.",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-establish",
+  "headword": "establish",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "establecer, fundar",
+  "definition": "to start something that is meant to last, or to prove that something is true",
+  "example": "The company established its first office in Mexico City in 2019.",
+  "exampleEs": "La empresa estableció su primera oficina en la Ciudad de México en 2019.",
+  "cloze": "The company ____ its first office in Mexico City in 2019.",
+  "answer": "established",
+  "distractors": [
+   "wandered",
+   "whistled",
+   "pretended"
+  ],
+  "collocations": [
+   "establish a relationship",
+   "establish rules",
+   "well established"
+  ],
+  "note": "",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-achieve",
+  "headword": "achieve",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "lograr, alcanzar",
+  "definition": "to succeed in getting a result by working hard",
+  "example": "If you practice daily, you can achieve fluency within a year.",
+  "exampleEs": "Si practicas a diario, puedes lograr fluidez en un año.",
+  "cloze": "If you practice daily, you can ____ fluency within a year.",
+  "answer": "achieve",
+  "distractors": [
+   "injure",
+   "complain",
+   "hesitate"
+  ],
+  "collocations": [
+   "achieve a goal",
+   "achieve success",
+   "achieve results"
+  ],
+  "note": "Pronounced /əˈtʃiːv/; the noun is achievement.",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-contribute",
+  "headword": "contribute",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "contribuir, aportar",
+  "definition": "to give something, such as money, time or ideas, to help achieve something",
+  "example": "Everyone on the team contributed ideas to the new design.",
+  "exampleEs": "Todos en el equipo aportaron ideas al nuevo diseño.",
+  "cloze": "Everyone on the team ____ ideas to the new design.",
+  "answer": "contributed",
+  "distractors": [
+   "trembled",
+   "vanished",
+   "remained"
+  ],
+  "collocations": [
+   "contribute to",
+   "contribute ideas",
+   "contribute significantly"
+  ],
+  "note": "Use 'to': contribute to a project.",
+  "tags": [
+   "academic",
+   "preposition"
+  ]
+ },
+ {
+  "id": "b2-academic-identify",
+  "headword": "identify",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "identificar",
+  "definition": "to recognize something and say what it is",
+  "example": "The tool helps developers identify security problems early.",
+  "exampleEs": "La herramienta ayuda a los desarrolladores a identificar problemas de seguridad desde temprano.",
+  "cloze": "The tool helps developers ____ security problems early.",
+  "answer": "identify",
+  "distractors": [
+   "cook",
+   "bounce",
+   "sneeze"
+  ],
+  "collocations": [
+   "identify a problem",
+   "identify with",
+   "clearly identify"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-involve",
+  "headword": "involve",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "implicar, involucrar",
+  "definition": "to include something as a necessary part",
+  "example": "The job involves attending meetings with teams in several countries.",
+  "exampleEs": "El trabajo implica asistir a reuniones con equipos de varios países.",
+  "cloze": "The job ____ attending meetings with teams in several countries.",
+  "answer": "involves",
+  "distractors": [
+   "melts",
+   "hurries",
+   "gazes"
+  ],
+  "collocations": [
+   "involve risk",
+   "be involved in",
+   "involve a lot of work"
+  ],
+  "note": "After 'involve' use the -ing form: involves attending, not involves to attend.",
+  "tags": [
+   "academic",
+   "verb-pattern"
+  ]
+ },
+ {
+  "id": "b2-academic-maintain",
+  "headword": "maintain",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "mantener",
+  "definition": "to keep something in good condition or at the same level",
+  "example": "It is hard to maintain focus during a long online meeting.",
+  "exampleEs": "Es difícil mantener la concentración durante una reunión virtual larga.",
+  "cloze": "It is hard to ____ focus during a long online meeting.",
+  "answer": "maintain",
+  "distractors": [
+   "glance",
+   "punish",
+   "launch"
+  ],
+  "collocations": [
+   "maintain focus",
+   "maintain a system",
+   "maintain contact"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-transfer",
+  "headword": "transfer",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "transferir, trasladar",
+  "definition": "to move something or someone from one place or person to another",
+  "example": "We plan to transfer all the files to the new server tonight.",
+  "exampleEs": "Planeamos transferir todos los archivos al nuevo servidor esta noche.",
+  "cloze": "We plan to ____ all the files to the new server tonight.",
+  "answer": "transfer",
+  "distractors": [
+   "whisper",
+   "crack",
+   "invent"
+  ],
+  "collocations": [
+   "transfer data",
+   "transfer money",
+   "transfer to"
+  ],
+  "note": "Stress changes: to transFER (verb), a TRANSfer (noun).",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-variable",
+  "headword": "variable",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "variable",
+  "definition": "a factor that can change, especially in an experiment or a calculation",
+  "example": "In this test we change only one variable at a time.",
+  "exampleEs": "En esta prueba cambiamos solo una variable a la vez.",
+  "cloze": "In this test we change only one ____ at a time.",
+  "answer": "variable",
+  "distractors": [
+   "blanket",
+   "neighbor",
+   "orchard"
+  ],
+  "collocations": [
+   "a key variable",
+   "control for a variable",
+   "environment variable"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-sufficient",
+  "headword": "sufficient",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "suficiente",
+  "definition": "as much as is needed",
+  "example": "Three examples are sufficient to explain the idea.",
+  "exampleEs": "Tres ejemplos son suficientes para explicar la idea.",
+  "cloze": "Three examples are ____ to explain the idea.",
+  "answer": "sufficient",
+  "distractors": [
+   "selfish",
+   "crooked",
+   "bitter"
+  ],
+  "collocations": [
+   "sufficient evidence",
+   "more than sufficient",
+   "sufficient time"
+  ],
+  "note": "More formal than 'enough'.",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-contrast",
+  "headword": "contrast",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "contraste",
+  "definition": "a clear difference between two things that are compared",
+  "example": "There is a sharp contrast between the two companies' cultures.",
+  "exampleEs": "Hay un fuerte contraste entre las culturas de las dos empresas.",
+  "cloze": "There is a sharp ____ between the two companies' cultures.",
+  "answer": "contrast",
+  "distractors": [
+   "lantern",
+   "temper",
+   "barrel"
+  ],
+  "collocations": [
+   "in contrast to",
+   "a sharp contrast",
+   "by contrast"
+  ],
+  "note": "Pronounced CON-trast as a noun.",
+  "tags": [
+   "academic",
+   "linker"
+  ]
+ },
+ {
+  "id": "b2-academic-emphasize",
+  "headword": "emphasize",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "enfatizar, subrayar",
+  "definition": "to show that something is especially important",
+  "example": "The manager emphasized that the deadline cannot move.",
+  "exampleEs": "El gerente subrayó que la fecha límite no se puede mover.",
+  "cloze": "The manager ____ that the deadline cannot move.",
+  "answer": "emphasized",
+  "distractors": [
+   "inhaled",
+   "vanished",
+   "stirred"
+  ],
+  "collocations": [
+   "emphasize the importance of",
+   "strongly emphasize",
+   "emphasize that"
+  ],
+  "note": "The noun is emphasis (not emphasize). Say 'emphasize that' without a preposition.",
+  "tags": [
+   "academic",
+   "meetings"
+  ]
+ },
+ {
+  "id": "b2-academic-implement",
+  "headword": "implement",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "implementar, poner en práctica",
+  "definition": "to put a plan, system or decision into action",
+  "example": "We will implement the new login flow next sprint.",
+  "exampleEs": "Implementaremos el nuevo flujo de inicio de sesión en el próximo sprint.",
+  "cloze": "We will ____ the new login flow next sprint.",
+  "answer": "implement",
+  "distractors": [
+   "tickle",
+   "knit",
+   "pour"
+  ],
+  "collocations": [
+   "implement a plan",
+   "implement a feature",
+   "fully implement"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "tech",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-outcome",
+  "headword": "outcome",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "resultado",
+  "definition": "the final result of an action, process or meeting",
+  "example": "The outcome of the meeting was a clear list of next steps.",
+  "exampleEs": "El resultado de la reunión fue una lista clara de próximos pasos.",
+  "cloze": "The ____ of the meeting was a clear list of next steps.",
+  "answer": "outcome",
+  "distractors": [
+   "bottle",
+   "corner",
+   "feather"
+  ],
+  "collocations": [
+   "a positive outcome",
+   "the likely outcome",
+   "outcome of"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "meetings"
+  ]
+ },
+ {
+  "id": "b2-academic-potential",
+  "headword": "potential",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "potencial, posible",
+  "definition": "possible in the future, but not yet real",
+  "example": "We should discuss the potential risks before we sign the contract.",
+  "exampleEs": "Deberíamos hablar de los posibles riesgos antes de firmar el contrato.",
+  "cloze": "We should discuss the ____ risks before we sign the contract.",
+  "answer": "potential",
+  "distractors": [
+   "cheerful",
+   "wooden",
+   "absent"
+  ],
+  "collocations": [
+   "potential risk",
+   "potential customer",
+   "potential problem"
+  ],
+  "note": "As a noun it means 'capacity to develop': she has great potential.",
+  "tags": [
+   "academic",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-source",
+  "headword": "source",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "fuente",
+  "definition": "a place, person or thing that provides information or something you need",
+  "example": "Always check that your source is reliable.",
+  "exampleEs": "Siempre verifica que tu fuente sea confiable.",
+  "cloze": "Always check that your ____ is reliable.",
+  "answer": "source",
+  "distractors": [
+   "pocket",
+   "island",
+   "blanket"
+  ],
+  "collocations": [
+   "reliable source",
+   "source of income",
+   "open source"
+  ],
+  "note": "Pronounced /sɔːrs/, like 'sauce' with an r.",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-trend",
+  "headword": "trend",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "tendencia",
+  "definition": "a general direction in which something is changing or developing",
+  "example": "The report shows a growing trend toward remote work.",
+  "exampleEs": "El informe muestra una tendencia creciente hacia el trabajo remoto.",
+  "cloze": "The report shows a growing ____ toward remote work.",
+  "answer": "trend",
+  "distractors": [
+   "spoon",
+   "fence",
+   "stomach"
+  ],
+  "collocations": [
+   "a growing trend",
+   "follow a trend",
+   "market trend"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-constraint",
+  "headword": "constraint",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "restricción, limitación",
+  "definition": "something that limits what you can do",
+  "example": "Our biggest constraint is the budget, not the technology.",
+  "exampleEs": "Nuestra mayor restricción es el presupuesto, no la tecnología.",
+  "cloze": "Our biggest ____ is the budget, not the technology.",
+  "answer": "constraint",
+  "distractors": [
+   "sandwich",
+   "courtyard",
+   "whistle"
+  ],
+  "collocations": [
+   "time constraint",
+   "budget constraints",
+   "work within constraints"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "workplace",
+   "meetings"
+  ]
+ },
+ {
+  "id": "b2-academic-criteria",
+  "headword": "criteria",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "criterios",
+  "definition": "the standards used to judge or decide something (singular: criterion)",
+  "example": "The criteria for choosing a vendor are cost, security and support.",
+  "exampleEs": "Los criterios para elegir un proveedor son costo, seguridad y soporte.",
+  "cloze": "The ____ for choosing a vendor are cost, security and support.",
+  "answer": "criteria",
+  "distractors": [
+   "curtains",
+   "valleys",
+   "shelves"
+  ],
+  "collocations": [
+   "selection criteria",
+   "meet the criteria",
+   "clear criteria"
+  ],
+  "note": "Plural form: criteria are, not criteria is. One item is a criterion.",
+  "tags": [
+   "academic",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-ensure",
+  "headword": "ensure",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "asegurar, garantizar",
+  "definition": "to make certain that something happens or is true",
+  "example": "Please ensure that everyone has access to the document.",
+  "exampleEs": "Por favor, asegúrate de que todos tengan acceso al documento.",
+  "cloze": "Please ____ that everyone has access to the document.",
+  "answer": "ensure",
+  "distractors": [
+   "stretch",
+   "sprinkle",
+   "dive"
+  ],
+  "collocations": [
+   "ensure that",
+   "ensure quality",
+   "help ensure"
+  ],
+  "note": "Use 'ensure that', not 'ensure to'. Don't confuse with 'insure' (to buy insurance).",
+  "tags": [
+   "academic",
+   "workplace",
+   "verb-pattern"
+  ]
+ },
+ {
+  "id": "b2-academic-enhance",
+  "headword": "enhance",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "mejorar, potenciar",
+  "definition": "to make something better or stronger",
+  "example": "Good lighting can enhance the quality of your video calls.",
+  "exampleEs": "Una buena iluminación puede mejorar la calidad de tus videollamadas.",
+  "cloze": "Good lighting can ____ the quality of your video calls.",
+  "answer": "enhance",
+  "distractors": [
+   "spill",
+   "faint",
+   "scold"
+  ],
+  "collocations": [
+   "enhance performance",
+   "enhance security",
+   "greatly enhance"
+  ],
+  "note": "",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-generate",
+  "headword": "generate",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "generar",
+  "definition": "to produce or create something",
+  "example": "The model can generate a summary of each document in seconds.",
+  "exampleEs": "El modelo puede generar un resumen de cada documento en segundos.",
+  "cloze": "The model can ____ a summary of each document in seconds.",
+  "answer": "generate",
+  "distractors": [
+   "kneel",
+   "borrow",
+   "unlock"
+  ],
+  "collocations": [
+   "generate revenue",
+   "generate ideas",
+   "generate a report"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-method",
+  "headword": "method",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "método",
+  "definition": "a particular way of doing something",
+  "example": "This method is faster, but it is also less accurate.",
+  "exampleEs": "Este método es más rápido, pero también menos preciso.",
+  "cloze": "This ____ is faster, but it is also less accurate.",
+  "answer": "method",
+  "distractors": [
+   "village",
+   "jacket",
+   "candle"
+  ],
+  "collocations": [
+   "a reliable method",
+   "research method",
+   "method of payment"
+  ],
+  "note": "",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-previous",
+  "headword": "previous",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "anterior, previo",
+  "definition": "happening or existing before the present one",
+  "example": "In my previous job, I worked mostly with Python.",
+  "exampleEs": "En mi trabajo anterior, trabajaba sobre todo con Python.",
+  "cloze": "In my ____ job, I worked mostly with Python.",
+  "answer": "previous",
+  "distractors": [
+   "lonely",
+   "narrow",
+   "gentle"
+  ],
+  "collocations": [
+   "previous experience",
+   "previous version",
+   "the previous week"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-range",
+  "headword": "range",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "gama, rango",
+  "definition": "a set of different things of the same general type, or the limits between which something varies",
+  "example": "The app offers a wide range of exercises for different levels.",
+  "exampleEs": "La app ofrece una amplia gama de ejercicios para distintos niveles.",
+  "cloze": "The app offers a wide ____ of exercises for different levels.",
+  "answer": "range",
+  "distractors": [
+   "knee",
+   "puddle",
+   "corridor"
+  ],
+  "collocations": [
+   "a wide range of",
+   "price range",
+   "range from ... to"
+  ],
+  "note": "Say 'a wide range of', not 'a lot of ranges'.",
+  "tags": [
+   "academic",
+   "collocation"
+  ]
+ },
+ {
+  "id": "b2-academic-relevant",
+  "headword": "relevant",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "pertinente, relevante",
+  "definition": "directly connected to the subject you are talking about",
+  "example": "Only share information that is relevant to the project.",
+  "exampleEs": "Comparte solo la información que sea pertinente para el proyecto.",
+  "cloze": "Only share information that is ____ to the project.",
+  "answer": "relevant",
+  "distractors": [
+   "jealous",
+   "fragile",
+   "frozen"
+  ],
+  "collocations": [
+   "relevant to",
+   "highly relevant",
+   "relevant information"
+  ],
+  "note": "Use 'relevant to', not 'relevant for' in most cases.",
+  "tags": [
+   "academic",
+   "preposition",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-restrict",
+  "headword": "restrict",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "restringir, limitar",
+  "definition": "to limit the size, amount or range of something",
+  "example": "The company restricts access to customer data.",
+  "exampleEs": "La empresa restringe el acceso a los datos de los clientes.",
+  "cloze": "The company ____ access to customer data.",
+  "answer": "restricts",
+  "distractors": [
+   "wanders",
+   "blooms",
+   "grins"
+  ],
+  "collocations": [
+   "restrict access",
+   "restricted area",
+   "be restricted to"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-sequence",
+  "headword": "sequence",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "secuencia",
+  "definition": "a set of things that come one after another in a particular order",
+  "example": "Follow this sequence of steps to reset your password.",
+  "exampleEs": "Sigue esta secuencia de pasos para restablecer tu contraseña.",
+  "cloze": "Follow this ____ of steps to reset your password.",
+  "answer": "sequence",
+  "distractors": [
+   "cushion",
+   "harbor",
+   "crowd"
+  ],
+  "collocations": [
+   "a sequence of events",
+   "in sequence",
+   "logical sequence"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-submit",
+  "headword": "submit",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "entregar, presentar",
+  "definition": "to give a document or request to someone so that they can consider it",
+  "example": "You have to submit the form by Friday at noon.",
+  "exampleEs": "Tienes que entregar el formulario el viernes al mediodía.",
+  "cloze": "You have to ____ the form by Friday at noon.",
+  "answer": "submit",
+  "distractors": [
+   "scatter",
+   "chuckle",
+   "hover"
+  ],
+  "collocations": [
+   "submit a report",
+   "submit an application",
+   "submit by"
+  ],
+  "note": "Not 'someter' in the sense of controlling; it means to hand in.",
+  "tags": [
+   "academic",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-undertake",
+  "headword": "undertake",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "emprender, asumir",
+  "definition": "to start a task or a project and take responsibility for it",
+  "example": "The team will undertake a full review of the system.",
+  "exampleEs": "El equipo emprenderá una revisión completa del sistema.",
+  "cloze": "The team will ____ a full review of the system.",
+  "answer": "undertake",
+  "distractors": [
+   "overflow",
+   "giggle",
+   "pour"
+  ],
+  "collocations": [
+   "undertake a project",
+   "undertake research",
+   "undertake a task"
+  ],
+  "note": "Irregular: undertake, undertook, undertaken.",
+  "tags": [
+   "academic",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-valid",
+  "headword": "valid",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "válido",
+  "definition": "based on good reasons, or legally and officially acceptable",
+  "example": "That is a valid point, but we still need more data.",
+  "exampleEs": "Ese es un punto válido, pero todavía necesitamos más datos.",
+  "cloze": "That is a ____ point, but we still need more data.",
+  "answer": "valid",
+  "distractors": [
+   "dizzy",
+   "muddy",
+   "thirsty"
+  ],
+  "collocations": [
+   "valid point",
+   "valid reason",
+   "valid password"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "meetings"
+  ]
+ },
+ {
+  "id": "b2-academic-bias",
+  "headword": "bias",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "sesgo, prejuicio",
+  "definition": "an unfair preference for or against something, based on personal opinion",
+  "example": "The researchers tried to reduce bias in how they chose participants.",
+  "exampleEs": "Los investigadores intentaron reducir el sesgo al elegir a los participantes.",
+  "cloze": "The researchers tried to reduce ____ in how they chose participants.",
+  "answer": "bias",
+  "distractors": [
+   "pepper",
+   "stairs",
+   "basket"
+  ],
+  "collocations": [
+   "confirmation bias",
+   "reduce bias",
+   "bias against"
+  ],
+  "note": "Use 'bias against' or 'bias toward'. Common in AI and psychology.",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-coincide",
+  "headword": "coincide",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "coincidir",
+  "definition": "to happen at the same time, or to be the same",
+  "example": "My exam dates coincide with a big release at work.",
+  "exampleEs": "Las fechas de mis exámenes coinciden con un lanzamiento importante en el trabajo.",
+  "cloze": "My exam dates ____ with a big release at work.",
+  "answer": "coincide",
+  "distractors": [
+   "inhale",
+   "shrug",
+   "peel"
+  ],
+  "collocations": [
+   "coincide with",
+   "happen to coincide",
+   "views coincide"
+  ],
+  "note": "Always 'coincide with', never 'coincide in' for time.",
+  "tags": [
+   "academic",
+   "preposition"
+  ]
+ },
+ {
+  "id": "b2-academic-complex",
+  "headword": "complex",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "complejo",
+  "definition": "made of many parts and difficult to understand",
+  "example": "The legal rules for clinical trials are very complex.",
+  "exampleEs": "Las reglas legales de los ensayos clínicos son muy complejas.",
+  "cloze": "The legal rules for clinical trials are very ____.",
+  "answer": "complex",
+  "distractors": [
+   "tiny",
+   "brave",
+   "sticky"
+  ],
+  "collocations": [
+   "complex problem",
+   "complex system",
+   "highly complex"
+  ],
+  "note": "Not the same as 'complicado' in all uses, but close. Not 'complexed'.",
+  "tags": [
+   "academic",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-concept",
+  "headword": "concept",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "concepto",
+  "definition": "an idea about how something is or should be",
+  "example": "The concept is simple, but building it takes months.",
+  "exampleEs": "El concepto es simple, pero construirlo toma meses.",
+  "cloze": "The ____ is simple, but building it takes months.",
+  "answer": "concept",
+  "distractors": [
+   "sandal",
+   "mirror",
+   "coast"
+  ],
+  "collocations": [
+   "a basic concept",
+   "grasp a concept",
+   "concept of"
+  ],
+  "note": "",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-conduct",
+  "headword": "conduct",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "llevar a cabo, realizar",
+  "definition": "to organize and do an activity, such as a survey or an experiment",
+  "example": "We conducted a survey with two hundred users last month.",
+  "exampleEs": "Realizamos una encuesta con doscientos usuarios el mes pasado.",
+  "cloze": "We ____ a survey with two hundred users last month.",
+  "answer": "conducted",
+  "distractors": [
+   "floated",
+   "smiled",
+   "hugged"
+  ],
+  "collocations": [
+   "conduct research",
+   "conduct an interview",
+   "conduct a test"
+  ],
+  "note": "As a verb the stress is on the second syllable: conDUCT.",
+  "tags": [
+   "academic",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-context",
+  "headword": "context",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "contexto",
+  "definition": "the situation or background that helps you understand something",
+  "example": "Without context, that sentence can be misunderstood.",
+  "exampleEs": "Sin contexto, esa frase se puede malinterpretar.",
+  "cloze": "Without ____, that sentence can be misunderstood.",
+  "answer": "context",
+  "distractors": [
+   "pillow",
+   "ladder",
+   "orange"
+  ],
+  "collocations": [
+   "in this context",
+   "out of context",
+   "context window"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-crucial",
+  "headword": "crucial",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "crucial, decisivo",
+  "definition": "extremely important because everything else depends on it",
+  "example": "It is crucial to confirm the requirements before we start coding.",
+  "exampleEs": "Es crucial confirmar los requisitos antes de empezar a programar.",
+  "cloze": "It is ____ to confirm the requirements before we start coding.",
+  "answer": "crucial",
+  "distractors": [
+   "sleepy",
+   "rusty",
+   "humble"
+  ],
+  "collocations": [
+   "crucial role",
+   "crucial decision",
+   "absolutely crucial"
+  ],
+  "note": "Stronger than 'important'; it replaces 'very, very important'.",
+  "tags": [
+   "academic",
+   "intensifier"
+  ]
+ },
+ {
+  "id": "b2-academic-demonstrate",
+  "headword": "demonstrate",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "demostrar, mostrar",
+  "definition": "to show clearly that something is true, or to show how something works",
+  "example": "The experiment demonstrates that small changes can have large effects.",
+  "exampleEs": "El experimento demuestra que los cambios pequeños pueden tener grandes efectos.",
+  "cloze": "The experiment ____ that small changes can have large effects.",
+  "answer": "demonstrates",
+  "distractors": [
+   "sneezes",
+   "tangles",
+   "wobbles"
+  ],
+  "collocations": [
+   "demonstrate that",
+   "demonstrate a skill",
+   "clearly demonstrate"
+  ],
+  "note": "",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-distinct",
+  "headword": "distinct",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "distinto, claramente diferente",
+  "definition": "clearly different from something else, or easy to notice",
+  "example": "The two teams have distinct roles, so they rarely overlap.",
+  "exampleEs": "Los dos equipos tienen funciones distintas, así que rara vez se traslapan.",
+  "cloze": "The two teams have ____ roles, so they rarely overlap.",
+  "answer": "distinct",
+  "distractors": [
+   "tasty",
+   "muddy",
+   "shy"
+  ],
+  "collocations": [
+   "distinct from",
+   "a distinct advantage",
+   "clearly distinct"
+  ],
+  "note": "Not the same as 'different' in tone: it stresses a clear separation.",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-framework",
+  "headword": "framework",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "marco de trabajo, estructura",
+  "definition": "a basic structure of ideas or rules that you use to plan or build something",
+  "example": "We built the app on a framework that handles authentication for us.",
+  "exampleEs": "Construimos la app sobre un framework que maneja la autenticación por nosotros.",
+  "cloze": "We built the app on a ____ that handles authentication for us.",
+  "answer": "framework",
+  "distractors": [
+   "doorbell",
+   "blanket",
+   "sandwich"
+  ],
+  "collocations": [
+   "a legal framework",
+   "a testing framework",
+   "within a framework"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-highlight",
+  "headword": "highlight",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "destacar, resaltar",
+  "definition": "to make people notice something and think it is important",
+  "example": "The report highlights several weaknesses in the current process.",
+  "exampleEs": "El informe destaca varias debilidades en el proceso actual.",
+  "cloze": "The report ____ several weaknesses in the current process.",
+  "answer": "highlights",
+  "distractors": [
+   "whistles",
+   "rinses",
+   "sneaks"
+  ],
+  "collocations": [
+   "highlight the importance of",
+   "highlight a problem",
+   "key highlights"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "meetings"
+  ]
+ },
+ {
+  "id": "b2-academic-impact",
+  "headword": "impact",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "impacto, efecto",
+  "definition": "a strong effect that something has on a situation or a person",
+  "example": "The new policy had a big impact on how we plan our week.",
+  "exampleEs": "La nueva política tuvo un gran impacto en cómo planeamos la semana.",
+  "cloze": "The new policy had a big ____ on how we plan our week.",
+  "answer": "impact",
+  "distractors": [
+   "carpet",
+   "bucket",
+   "lemon"
+  ],
+  "collocations": [
+   "have an impact on",
+   "a positive impact",
+   "environmental impact"
+  ],
+  "note": "Use 'impact on': a big impact on, not 'impact in'.",
+  "tags": [
+   "academic",
+   "preposition",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-inevitable",
+  "headword": "inevitable",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "inevitable",
+  "definition": "certain to happen and impossible to avoid",
+  "example": "With so many people editing the file, some conflicts are inevitable.",
+  "exampleEs": "Con tanta gente editando el archivo, algunos conflictos son inevitables.",
+  "cloze": "With so many people editing the file, some conflicts are ____.",
+  "answer": "inevitable",
+  "distractors": [
+   "portable",
+   "edible",
+   "elastic"
+  ],
+  "collocations": [
+   "almost inevitable",
+   "inevitable consequence",
+   "seem inevitable"
+  ],
+  "note": "",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-isolate",
+  "headword": "isolate",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "aislar",
+  "definition": "to separate something so that you can study it or stop it from affecting other things",
+  "example": "First, we need to isolate the bug in a small test case.",
+  "exampleEs": "Primero, tenemos que aislar el error en un caso de prueba pequeño.",
+  "cloze": "First, we need to ____ the bug in a small test case.",
+  "answer": "isolate",
+  "distractors": [
+   "paint",
+   "bend",
+   "scold"
+  ],
+  "collocations": [
+   "isolate the cause",
+   "isolate a problem",
+   "feel isolated"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-modify",
+  "headword": "modify",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "modificar",
+  "definition": "to change something slightly, usually to improve it",
+  "example": "You can modify the settings without restarting the app.",
+  "exampleEs": "Puedes modificar la configuración sin reiniciar la app.",
+  "cloze": "You can ____ the settings without restarting the app.",
+  "answer": "modify",
+  "distractors": [
+   "swallow",
+   "exhale",
+   "dig"
+  ],
+  "collocations": [
+   "modify a plan",
+   "modify the code",
+   "genetically modified"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-monitor",
+  "headword": "monitor",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "monitorear, supervisar",
+  "definition": "to watch or check something regularly over a period of time",
+  "example": "We use a dashboard to monitor server performance in real time.",
+  "exampleEs": "Usamos un panel para monitorear el rendimiento del servidor en tiempo real.",
+  "cloze": "We use a dashboard to ____ server performance in real time.",
+  "answer": "monitor",
+  "distractors": [
+   "bake",
+   "tickle",
+   "sew"
+  ],
+  "collocations": [
+   "monitor progress",
+   "closely monitor",
+   "monitor performance"
+  ],
+  "note": "False friend trap: the verb is 'monitor', not 'monitorize'.",
+  "tags": [
+   "academic",
+   "false-friend",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-overall",
+  "headword": "overall",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "general, global",
+  "definition": "including everything, or considering the whole situation",
+  "example": "The overall result was positive, even though one test failed.",
+  "exampleEs": "El resultado general fue positivo, aunque una prueba falló.",
+  "cloze": "The ____ result was positive, even though one test failed.",
+  "answer": "overall",
+  "distractors": [
+   "empty",
+   "frozen",
+   "slender"
+  ],
+  "collocations": [
+   "overall performance",
+   "overall goal",
+   "the overall picture"
+  ],
+  "note": "It is also an adverb: Overall, I think it went well.",
+  "tags": [
+   "academic",
+   "meetings"
+  ]
+ },
+ {
+  "id": "b2-academic-participate",
+  "headword": "participate",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "participar",
+  "definition": "to take part in an activity or event",
+  "example": "Everyone is encouraged to participate in the discussion.",
+  "exampleEs": "Se anima a todos a participar en la discusión.",
+  "cloze": "Everyone is encouraged to ____ in the discussion.",
+  "answer": "participate",
+  "distractors": [
+   "tiptoe",
+   "reckon",
+   "trim"
+  ],
+  "collocations": [
+   "participate in",
+   "actively participate",
+   "participate fully"
+  ],
+  "note": "Always 'participate in', not 'participate at' or 'participate of'.",
+  "tags": [
+   "academic",
+   "preposition",
+   "meetings"
+  ]
+ },
+ {
+  "id": "b2-academic-perspective",
+  "headword": "perspective",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "perspectiva, punto de vista",
+  "definition": "a particular way of thinking about something",
+  "example": "Talking to customers gave us a fresh perspective on the product.",
+  "exampleEs": "Hablar con los clientes nos dio una perspectiva nueva sobre el producto.",
+  "cloze": "Talking to customers gave us a fresh ____ on the product.",
+  "answer": "perspective",
+  "distractors": [
+   "suitcase",
+   "harvest",
+   "puddle"
+  ],
+  "collocations": [
+   "from my perspective",
+   "a fresh perspective",
+   "put things in perspective"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "meetings"
+  ]
+ },
+ {
+  "id": "b2-academic-predict",
+  "headword": "predict",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "predecir, pronosticar",
+  "definition": "to say what you think will happen in the future",
+  "example": "The model is trained to predict which users will cancel next month.",
+  "exampleEs": "El modelo está entrenado para predecir qué usuarios cancelarán el próximo mes.",
+  "cloze": "The model is trained to ____ which users will cancel next month.",
+  "answer": "predict",
+  "distractors": [
+   "boil",
+   "stir",
+   "glue"
+  ],
+  "collocations": [
+   "predict the outcome",
+   "hard to predict",
+   "predict accurately"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ },
+ {
+  "id": "b2-academic-primary",
+  "headword": "primary",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "principal, primario",
+  "definition": "most important, or first in order",
+  "example": "Our primary goal this quarter is to reduce loading time.",
+  "exampleEs": "Nuestro objetivo principal este trimestre es reducir el tiempo de carga.",
+  "cloze": "Our ____ goal this quarter is to reduce loading time.",
+  "answer": "primary",
+  "distractors": [
+   "crunchy",
+   "shallow",
+   "wooden"
+  ],
+  "collocations": [
+   "primary goal",
+   "primary source",
+   "primary concern"
+  ],
+  "note": "",
+  "tags": [
+   "academic",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-reluctant",
+  "headword": "reluctant",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "reacio, renuente",
+  "definition": "not willing to do something and slow to do it",
+  "example": "Some users are reluctant to share their location with an app.",
+  "exampleEs": "Algunos usuarios son reacios a compartir su ubicación con una app.",
+  "cloze": "Some users are ____ to share their location with an app.",
+  "answer": "reluctant",
+  "distractors": [
+   "tall",
+   "sticky",
+   "dizzy"
+  ],
+  "collocations": [
+   "reluctant to",
+   "a reluctant participant",
+   "reluctantly agree"
+  ],
+  "note": "Followed by 'to' + verb: reluctant to share.",
+  "tags": [
+   "academic",
+   "verb-pattern"
+  ]
+ },
+ {
+  "id": "b2-academic-reveal",
+  "headword": "reveal",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "revelar",
+  "definition": "to show or tell something that was hidden or secret",
+  "example": "The survey revealed that most employees prefer flexible hours.",
+  "exampleEs": "La encuesta reveló que la mayoría de los empleados prefiere horarios flexibles.",
+  "cloze": "The survey ____ that most employees prefer flexible hours.",
+  "answer": "revealed",
+  "distractors": [
+   "floated",
+   "sipped",
+   "stitched"
+  ],
+  "collocations": [
+   "reveal the truth",
+   "reveal a pattern",
+   "study reveals"
+  ],
+  "note": "",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-shift",
+  "headword": "shift",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "cambio, giro",
+  "definition": "a change in the way people think about or do something",
+  "example": "There has been a major shift from office work to hybrid work.",
+  "exampleEs": "Ha habido un cambio importante del trabajo en oficina al trabajo híbrido.",
+  "cloze": "There has been a major ____ from office work to hybrid work.",
+  "answer": "shift",
+  "distractors": [
+   "pencil",
+   "kitchen",
+   "ribbon"
+  ],
+  "collocations": [
+   "a major shift",
+   "a shift in",
+   "a shift toward"
+  ],
+  "note": "Also means a work period: the night shift.",
+  "tags": [
+   "academic",
+   "workplace"
+  ]
+ },
+ {
+  "id": "b2-academic-subsequent",
+  "headword": "subsequent",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "posterior, subsiguiente",
+  "definition": "coming after something else in time or order",
+  "example": "Subsequent versions of the app fixed the problem.",
+  "exampleEs": "Las versiones posteriores de la app corrigieron el problema.",
+  "cloze": "____ versions of the app fixed the problem.",
+  "answer": "Subsequent",
+  "distractors": [
+   "Hungry",
+   "Twisted",
+   "Fragile"
+  ],
+  "collocations": [
+   "subsequent events",
+   "subsequent versions",
+   "subsequent to"
+  ],
+  "note": "The adverb is 'subsequently'.",
+  "tags": [
+   "academic"
+  ]
+ },
+ {
+  "id": "b2-academic-trigger",
+  "headword": "trigger",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "desencadenar, provocar",
+  "definition": "to cause something to start or happen",
+  "example": "A single failed payment can trigger a series of alerts.",
+  "exampleEs": "Un solo pago fallido puede desencadenar una serie de alertas.",
+  "cloze": "A single failed payment can ____ a series of alerts.",
+  "answer": "trigger",
+  "distractors": [
+   "tiptoe",
+   "fold",
+   "scrub"
+  ],
+  "collocations": [
+   "trigger a reaction",
+   "trigger an alert",
+   "trigger anxiety"
+  ],
+  "note": "Also a noun: a trigger for stress.",
+  "tags": [
+   "academic",
+   "tech"
+  ]
+ }
+]

@@ -1,0 +1,2546 @@
+[
+  {
+    "id": "lr-multiwoz-mw-mul0009-t10",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Yes, can you book a table for 3 people on Saturday?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0009",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0009#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I'd be happy to assist you, what time would you like your reservation for?",
+      "Unfortunately, we were fully booked last Saturday, so I apologize.",
+      "Certainly, and how many nights would you like to stay at the hotel?",
+      "Of course, the restaurant is located in the centre, near the river."
+    ],
+    "answer": 0,
+    "explanation": "The agent agrees to book and asks the missing detail, the time; the trap is a reply about another day or service."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul0062-t5",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "I wasn't able to complete your booking for that time frame. Would you be able to stay a different amount of nights?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0062",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0062#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I enjoyed the last stay at that hotel.",
+      "The restaurant on the corner is open all day.",
+      "How about four nights instead of five?",
+      "Yes, I have booked it for next Monday morning."
+    ],
+    "answer": 2,
+    "explanation": "The agent asks for a different length of stay, so proposing four nights instead of five fits; the others ignore the problem."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul0139-t17",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Before I can book your taxi, what time are you wanting to leave or arrive by?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0139",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0139#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I would like a table for two at the Italian place.",
+      "Last night I took a taxi and it arrived ten minutes late.",
+      "I just want to be sure it arrives by the booked time at the restaurant.",
+      "The taxi should be a white sedan with a large trunk."
+    ],
+    "answer": 2,
+    "explanation": "Asked for a time, the caller says the key need is arriving by the booked time. Trap: past events or unrelated bookings."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul0175-t3",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "There is nothing matching your requests. Would you like to change your request?",
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0175",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0175#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "No, thank you, the taxi is already waiting outside.",
+      "Ok, how about something in the moderate price range?",
+      "The hotel has a pool, free breakfast, and a great location.",
+      "Yes, I booked the room for three nights last week."
+    ],
+    "answer": 1,
+    "explanation": "Offering 'something in the moderate price range' changes the request as asked; the others ignore the question."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul0183-t21",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "I'm sorry 12:00 is not available either, would you like to try another time or different restaurant possibly?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0183",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0183#22",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The restaurant I went to yesterday was crowded and quite noisy.",
+      "Yes, twelve o'clock sounds perfect, please book it for me.",
+      "Yes let's try another restaurant.",
+      "No, I already paid for the taxi and the hotel room."
+    ],
+    "answer": 2,
+    "explanation": "The agent offers another time or restaurant and 'let's try another restaurant' picks the second; the trap is accepting the unavailable time."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul0209-t5",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "What day would you like to make this travel? Also is there a specific time you wish to arrive?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0209",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0209#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I don't have a specific restaurant in mind, but I do need a table for four.",
+      "I took the train last Sunday, and I arrived at a specific time.",
+      "I need two tickets, but I don't have a preferred seat on the train.",
+      "I don't have a specific time I need to arrive, but I do need to leave on Sunday."
+    ],
+    "answer": 3,
+    "explanation": "The reply answers both parts of the question: no arrival time and a Sunday departure; the others answer other questions."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul0231-t13",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Sorry, a table isn't available at that time. Would you like to try another day or time, or perhaps another place?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0231",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0231#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I would like to cancel the booking I made yesterday.",
+      "Yes, the table by the window is perfect, thank you.",
+      "Could you try an hour earlier, then?",
+      "Thanks, I have already eaten dinner at that place."
+    ],
+    "answer": 2,
+    "explanation": "'An hour earlier' accepts the offer to try another time; the other replies ignore the problem that no table is free."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul0273-t5",
+    "type": "listenResponse",
+    "cefr": "B1+",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "This time slot was also not available. Was there another day or time I could try to book for your restaurant visit?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0273",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0273#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Are there any times which are available on Saturday?",
+      "The restaurant serves Italian food, and the prices are fairly cheap.",
+      "Thank you, I will take the train to the restaurant at noon.",
+      "Yes, I booked a table there last Saturday and it was great."
+    ],
+    "answer": 0,
+    "explanation": "The agent offers another day or time, so asking about Saturday availability fits; the others ignore the offer."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul0320-t1",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "What time do you want to depart?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0320",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0320#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Any time is fine as long as it's on Saturday.",
+      "I would like a table near the window, please.",
+      "Two tickets, please, and I will pay by card.",
+      "I departed at seven and arrived around noon today."
+    ],
+    "answer": 0,
+    "explanation": "The question asks about departure time and the reply says any time, only Saturday matters. Trap: past tense or other topics."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul0335-t13",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Do you need any further assistance?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0335",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0335#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "No, the restaurant was too crowded last night.",
+      "Yes, I am planning to leave around noon today.",
+      "The hotel is on the north side of town.",
+      "Could you confirm the departure time, travel time and price of that train please?"
+    ],
+    "answer": 3,
+    "explanation": "After 'Do you need further assistance?', asking to confirm train details is a valid follow-up; the others do not make sense there."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul0598-t5",
+    "type": "listenResponse",
+    "cefr": "B1+",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Departure time is 5:16 and the travel time is 79 minutes. Can I be of any further assistance today?",
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0598",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0598#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The train was very crowded, and the seats were not very clean.",
+      "Yes, I booked a table for four at an Italian restaurant yesterday.",
+      "It takes about an hour and a half to drive there by car.",
+      "Yes, I am looking for places to go in the west part of town."
+    ],
+    "answer": 3,
+    "explanation": "After the train details, the agent offers more help, and the user adds a new request about places in the west; the others ignore the offer."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul0679-t15",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "What day are you taking this trip?",
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0679",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0679#16",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I'm planning on leaving on Monday.",
+      "I left on Monday and returned on Wednesday, thanks.",
+      "The ticket costs about nine pounds for one adult.",
+      "I need to arrive in Cambridge by eleven o'clock."
+    ],
+    "answer": 0,
+    "explanation": "The question asks for the travel day and the reply names Monday; the trap is replies about price or arrival time."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul0826-t11",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "The booking was unsuccessful for that time, can we try another time that works for you?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul0826",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL0826#12",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The restaurant is about fifteen minutes from here.",
+      "Fifteen people are coming to the dinner.",
+      "Maybe fifteen minutes earlier?",
+      "Yes, we ate there a week ago."
+    ],
+    "answer": 2,
+    "explanation": "The booking failed and a new time is requested, so 'fifteen minutes earlier' proposes one; the others repeat the number but miss the point."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul1056-t5",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "There are none showing up under that criteria, shall I look at other options for you?",
+    "topics": [
+      "entertainment",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1056",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1056#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "No, the options you showed me were wonderful yesterday.",
+      "Yes please see if there are any other options.",
+      "Thank you, I will take the first one you mentioned.",
+      "I would like to book a table for two at eight."
+    ],
+    "answer": 1,
+    "explanation": "The agent offers to search again, so 'Yes please' accepts; the trap is a reply about options that were never shown."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul1201-t1",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "I have 4 results that match your request, what area are you looking to stay in?",
+    "topics": [
+      "dining",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1201",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1201#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I stayed there last year, and it was a very nice trip.",
+      "I need rooms for three nights, starting this Friday.",
+      "I would prefer something in the north part of town.",
+      "The hotel should have free parking and a nice restaurant."
+    ],
+    "answer": 2,
+    "explanation": "The question asks for an area of town, and north answers it; the trap is replies about amenities or dates."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul1315-t13",
+    "type": "listenResponse",
+    "cefr": "B1+",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Sure thing, what time would you like to arrive at your destination?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1315",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1315#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The taxi arrived at the wrong destination yesterday.",
+      "I need to arrive in time for my reservation.",
+      "I left the restaurant at around nine last night.",
+      "I would like a taxi that has room for four people."
+    ],
+    "answer": 1,
+    "explanation": "Asked about arrival time, the reply links it to the reservation; the others talk about the past or the car size."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul1468-t2",
+    "type": "listenResponse",
+    "cefr": "B1+",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "That sounds wonderful. Can you book me a table for 5?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1468",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1468#3",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Of course, the dinner last night was wonderful.",
+      "Certainly. How long did you wait for the table?",
+      "Certainly. What day and time would you like to dine?",
+      "Certainly. The restaurant is about five miles from here."
+    ],
+    "answer": 2,
+    "explanation": "To book a table, the agent needs the day and time; the trap is replies about the past or distance."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul1547-t6",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Can I also book a train please?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1547",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1547#7",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Sure, the restaurant is open until eleven every night.",
+      "I left the train station about two hours ago.",
+      "Yes, I booked the table for four people last night.",
+      "What time would you like the train to leave?"
+    ],
+    "answer": 3,
+    "explanation": "The agent asks for the departure time, the next detail a train booking needs; the trap is a reply about restaurants or the past."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul1570-t3",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "I have several, is there an arrival time you prefer?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1570",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1570#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Yes, I need to arrive by quarter past five.",
+      "No, the restaurant is far from the station.",
+      "The train leaves from the main station at noon.",
+      "No, I do not have a specific arrival time."
+    ],
+    "answer": 3,
+    "explanation": "'Is there an arrival time you prefer?' gets a clear 'No'; the trap is replies that state a preferred time while the opener says No."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul1656-t13",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "The travel time is 60 minutes. Would you like to book a ticket?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1656",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1656#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "No, I think the museum closes at five.",
+      "Yes, the journey took about an hour last week.",
+      "Yes that would be great.",
+      "Sorry, I do not eat meat or fish."
+    ],
+    "answer": 2,
+    "explanation": "'Yes that would be great' accepts the offer of a ticket; the trap is a past-tense reply about the journey."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul1669-t7",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "I have a train arriving at 10:43. How does that sound?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1669",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1669#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "That sounds fine. Which room has a view of the garden?",
+      "That sounds great. What time does it leave and how much will it cost me?",
+      "No, thanks. I would like a table for two at noon.",
+      "Great, I took the train at 10:43 last Monday."
+    ],
+    "answer": 1,
+    "explanation": "The customer approves the train and asks for the departure time and cost. Trap: unrelated bookings or past travel."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul1748-t11",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "The train will depart at 5:54 and have a travel time of 49 minutes. Would you like me to book this for you?",
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1748",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1748#12",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Yes please, thank you.",
+      "I went there by train last week.",
+      "Thank you, the journey was very comfortable.",
+      "The station is about ten minutes away."
+    ],
+    "answer": 0,
+    "explanation": "The speaker offers to book, so accepting with 'Yes please' answers it; the trap is replying about past trips or distance."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul1908-t1",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "I would be happy to help you with that! What day are you planning to travel?",
+    "topics": [
+      "entertainment",
+      "workplace"
+    ],
+    "group": "multiwoz:mul1908",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL1908#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I am planning on traveling on Wednesday.",
+      "I would like to arrive before ten in the morning.",
+      "We are planning to stay at a hotel near the station.",
+      "I traveled on Wednesday and the trip took two hours."
+    ],
+    "answer": 0,
+    "explanation": "The question asks which day, and 'on Wednesday' answers it in the future tense."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul2030-t3",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Okay, there are a few trains available. What time would you like to depart?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2030",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2030#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I would like to arrive in Cambridge on Friday evening.",
+      "Yes, two tickets for tomorrow would be perfect, thank you.",
+      "The train I took yesterday left at about nine in the morning.",
+      "My departure time is flexible."
+    ],
+    "answer": 3,
+    "explanation": "The agent asks for a departure time, and 'flexible' means any time works; the trap is giving an arrival time or a past time."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul2061-t5",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Great, would you like for me to set up a booking?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2061",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2061#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I enjoyed the hotel very much, and the staff were kind.",
+      "The postcode was written on the ticket I bought yesterday.",
+      "Great, would you like a window seat on the train?",
+      "Yes and can I get a postcode?"
+    ],
+    "answer": 3,
+    "explanation": "Offered a booking, the customer says yes and asks for a postcode. Trap: replies about the past or the wrong offer."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul2140-t17",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Is there a time you need to arrive by?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2140",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2140#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The hotel has free parking and a gym on the second floor.",
+      "Thanks, I would like to pay with a credit card today.",
+      "I arrived at the station yesterday, and the train was late.",
+      "No, but I would like to know the arrival time for the train fitting my criteria."
+    ],
+    "answer": 3,
+    "explanation": "The speaker says there is no arrival deadline (\"No\") and asks for arrival information; the others ignore the question about arriving."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul2181-t3",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "I don't have any hotels that match that criteria. Would you like to switch up your rating or price range?",
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2181",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2181#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Sure, I could stay at a cheap guesthouse.",
+      "Sure, I could take the train at noon.",
+      "Sure, the guesthouse called me about the booking yesterday.",
+      "No, I stayed at a cheap hotel last summer."
+    ],
+    "answer": 0,
+    "explanation": "The agent suggests changing rating or price, and the reply accepts by choosing a cheaper option; the trap is past tense or another topic."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul2244-t1",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "There are 7 guesthouses and 1 hotel meeting your needs. Do you have an area preference?",
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2244",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2244#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "No but I need it to include free parking.",
+      "I would like to book it for five nights from Monday.",
+      "No thanks, I already have a reservation at the Italian restaurant.",
+      "Yes, I stayed in the east last year and liked it."
+    ],
+    "answer": 0,
+    "explanation": "'No' answers the area question and adds a new need, free parking."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul2383-t10",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Can you get me a taxi that could take me from the museum to the bistro?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2383",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2383#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "How much did the bistro charge you for dinner?",
+      "What time would you like to travel between the two places?",
+      "Which museum do you want to visit tonight?",
+      "What time did you leave the museum yesterday?"
+    ],
+    "answer": 1,
+    "explanation": "A taxi booking needs a travel time, so the agent asks for it; the trap is asking about the past or repeating known details."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul2447-t17",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Sure. What time would you like to leave the restaurant?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2447",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2447#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The restaurant is on the north side near the river.",
+      "We left the restaurant at nine and walked back to the hotel.",
+      "A table for four people at seven o'clock, please.",
+      "It doesn't matter, I just need to get there."
+    ],
+    "answer": 3,
+    "explanation": "Asked when to leave, the customer says the time is flexible and only the arrival matters. Trap: past tense and unrelated requests."
+  },
+  {
+    "id": "lr-multiwoz-mw-mul2565-t16",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Can you get me a car to pick me up from the museum and take me to the guest house?",
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:mul2565",
+    "source": "multiwoz",
+    "sourceId": "mw/MUL2565#17",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The car you booked arrived at the museum yesterday.",
+      "Sure! What time would you like to leave the museum?",
+      "I would like a double room for two nights.",
+      "Yes, the guest house serves breakfast from seven."
+    ],
+    "answer": 1,
+    "explanation": "The agent accepts the request and asks for the pickup time, which a taxi booking needs; the other replies are unrelated or in the past."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul0003-t11",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "What time would you like to travel?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0003",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0003#12",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I need a taxi for two people with luggage.",
+      "I want to arrive in time for my lunch reservation.",
+      "I traveled to the city centre last Friday for lunch.",
+      "I would like a table by the window for lunch."
+    ],
+    "answer": 1,
+    "explanation": "The traveler gives a time constraint: arriving in time for a lunch reservation."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul0165-t14",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Can you find a taxi for me?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0165",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0165#15",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "You can pay by card at the front desk.",
+      "What time will you need a taxi?",
+      "Yes, the hotel has free parking for guests.",
+      "The restaurant is on the east side of town."
+    ],
+    "answer": 1,
+    "explanation": "A request for a taxi leads to the follow-up question 'What time...?'; the other replies do not respond to the request."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul0300-t15",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "I sure can, what time would you like to be picked up and where are you leaving from?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0300",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0300#16",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I picked up the tickets from the hotel this morning and then walked.",
+      "The restaurant serves Italian food and it is quite expensive.",
+      "Please book a table for four people at seven tonight.",
+      "I need to be picked up from the hotel and get to the restaurant by the booked time."
+    ],
+    "answer": 3,
+    "explanation": "The caller states the pickup place and the arrival goal, which answers the taxi question. Trap: replies about tickets or food ignore the taxi."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul0333-t1",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "I have some excellent guesthouse choices, may I check availability for a certain date?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0333",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0333#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I stayed there last summer, and the room was lovely.",
+      "Yes, the guesthouse has free parking and wifi.",
+      "I do not have a date at this time.",
+      "The train leaves from the station at ten tomorrow."
+    ],
+    "answer": 2,
+    "explanation": "The agent asks for a date and the caller says they have none yet; the trap is describing the place or the train."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul0411-t1",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "What part of town are you planning to stay in?",
+    "topics": [
+      "dining",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0411",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0411#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I am planning to stay for three nights, starting Friday.",
+      "We stayed in the north of town last summer.",
+      "The hotel should have at least four stars, please.",
+      "Doesn't matter. I also need free parking."
+    ],
+    "answer": 3,
+    "explanation": "Saying the area does not matter answers 'what part of town'; the trap is replies about nights or stars."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul0491-t11",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Where would you like your taxi to pick you up and drop you off?",
+    "topics": [
+      "dining",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0491",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0491#12",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I need the taxi at five thirty because my train leaves early.",
+      "I picked up my luggage at the hotel and left yesterday.",
+      "I want to be picked up at the hotel and dropped off at the restaurant.",
+      "I would like a table for two at the hotel restaurant tonight."
+    ],
+    "answer": 2,
+    "explanation": "The reply gives both pickup and drop-off places; the trap is a reply about time or a different booking."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul0593-t5",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Will an arrival time of 22:01 work for you?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0593",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0593#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "No, I arrived at the station at ten last night.",
+      "Sorry, I didn't catch that. Which restaurant did you book yesterday?",
+      "Yes, that would be fine. I'll need the price and travel time for that, please.",
+      "Twenty-two oh one is a strange time for a meal."
+    ],
+    "answer": 2,
+    "explanation": "The listener is asked about an arrival time, so agreeing and asking for price and duration fits; the others ignore it."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul0609-t17",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "16.6 gbp a person arrives at 15:07, trip time is 88 minutes, any further questions?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0609",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0609#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I bought my ticket at the station yesterday afternoon, actually.",
+      "The restaurant is on the same street as the museum.",
+      "Yes, that train arrived at noon and the trip took an hour.",
+      "No. That actually takes care of everything. Thanks. Goodbye."
+    ],
+    "answer": 3,
+    "explanation": "Asked about further questions, the caller says no and ends politely; the trap is a reply that adds unrelated information."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul0625-t13",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "How many tickets would you like to book?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul0625",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL0625#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Tickets cost four pounds, and the train leaves at noon.",
+      "I booked three tickets yesterday and paid by card.",
+      "The train station is next to the old market.",
+      "I don't need to book, but could you tell me the total travel time, please?"
+    ],
+    "answer": 3,
+    "explanation": "Asked about tickets, the customer declines booking and asks for travel time. Trap: ticket counts or details that were not asked."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul1175-t9",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Certainly. Travel time is 60 minutes and a ticket costs 17.90 pounds. What else can I do for you today?",
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1175",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1175#10",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "That's all I need for now. Thank you for the help!",
+      "I already told you that I am not hungry now.",
+      "You are welcome, it was my pleasure to help.",
+      "The trains were delayed because of heavy rain yesterday."
+    ],
+    "answer": 0,
+    "explanation": "The agent asks if anything else is needed, so 'That's all' closes the call politely; the trap is a reply that sounds like the agent's."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul1199-t11",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "The travel time is 28 minutes. May I be of further assistance?",
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1199",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1199#12",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Nope! Thanks for everything. That's all I needed.",
+      "Yes, the train leaves at nine, so I will wait outside.",
+      "Nope! I travelled with my sister last year. That was fun.",
+      "Yes, it was twenty-eight dollars. That was all I paid."
+    ],
+    "answer": 0,
+    "explanation": "Declining more help and thanking the agent answers 'May I be of further assistance?'; the traps do not decline."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul1303-t17",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "The travel time for all trains is approximately 49 minutes and each ticket costs 12.80 pounds. Would you like me to book you on one?",
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1303",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1303#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I forgot my wallet in the taxi yesterday.",
+      "Yes, I traveled on one last week.",
+      "The ticket office is near the main entrance.",
+      "No, that is all thanks."
+    ],
+    "answer": 3,
+    "explanation": "The offer is to book a train, and 'No, that is all thanks' declines politely; the others do not answer."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul1372-t5",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "How many tickets would you like?",
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1372",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1372#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Which platform does the train leave from, and is it running on time?",
+      "The train leaves at half past nine and arrives in Cambridge before lunch, I think.",
+      "I actually don't need any tickets right now, but can you give me the total travel time?",
+      "I will pay by card, and please send the confirmation to my email address."
+    ],
+    "answer": 2,
+    "explanation": "He says he needs no tickets and asks for travel time, so it answers 'how many' and adds a request; the trap is a reply that ignores the question."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul1579-t3",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "We have 14 guesthouses around town that fit your criteria. Are you planning on staying in a specific area of town?",
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1579",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1579#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Yes, please send the confirmation number to my email.",
+      "I need a room for two nights starting Saturday.",
+      "I stayed in the north of town last summer.",
+      "I don't have an area preference."
+    ],
+    "answer": 3,
+    "explanation": "'No area preference' answers the question about a specific area."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul1665-t15",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Travel time on this particular train is 60 minutes. Would you like me to book any seats?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1665",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1665#16",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "No. I don't need to book. I am all set.",
+      "Yes, the train leaves at ten past nine tomorrow.",
+      "Sixty minutes is a long time to wait here.",
+      "I booked two seats on the earlier train yesterday."
+    ],
+    "answer": 0,
+    "explanation": "Asked about booking seats, 'I don't need to book. I am all set' declines clearly; the others ignore the question."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul1682-t9",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "The travel time is 105 minutes. Will that be all?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1682",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1682#10",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Yes, the journey was very comfortable last week.",
+      "The parking at the station was very expensive.",
+      "I also needed an expensive hotel last week.",
+      "I also need an expensive hotel with free parking."
+    ],
+    "answer": 3,
+    "explanation": "'Will that be all?' invites an extra request, and the reply adds a hotel need; the others use the past or talk about parking."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul1728-t3",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Which day are you planning to travel?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1728",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1728#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Yes, I booked two tickets for the evening train.",
+      "I traveled to the coast last Thursday by train.",
+      "I'm planning to leave on Thursday.",
+      "I would like a hotel near the city centre."
+    ],
+    "answer": 2,
+    "explanation": "The question asks which day and 'on Thursday' answers it; the trap is a past event or hotel request."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul1962-t9",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "This trip is for 79 minutes and costs 17.60 pounds. Would you like me to book this for you?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul1962",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL1962#10",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Yes if you could book it that would be great.",
+      "No thanks, I already booked it on the train station website yesterday.",
+      "I would like to leave on Friday afternoon after lunch, please.",
+      "Yes, it left at seven thirty and arrived a little late."
+    ],
+    "answer": 0,
+    "explanation": "She asks whether to book, so a yes with a polite request fits; the trap is replies that discuss other trip details."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul2068-t17",
+    "type": "listenResponse",
+    "cefr": "B1+",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "What time do you need to leave by?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2068",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2068#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Please book a table for two near the window, if possible.",
+      "I left the restaurant around nine o'clock last night.",
+      "I just need it to arrive by the time the restaurant was booked.",
+      "I would like to visit the museum on Sunday afternoon."
+    ],
+    "answer": 2,
+    "explanation": "Asked when to leave, the caller sets the deadline as the restaurant booking time; the trap is replies about a past event or a new booking."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul2700-t17",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Have a wonderful time.",
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2700",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2700#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Sorry, I did not catch the name of the hotel.",
+      "Thank you, take care!",
+      "Yes, I had a wonderful time there last summer, thank you.",
+      "Please book the taxi for half past eight tonight."
+    ],
+    "answer": 1,
+    "explanation": "A farewell wish is answered with thanks and 'take care'. Trap: replies that treat it as a question about the past or a booking."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul2702-t12",
+    "type": "listenResponse",
+    "cefr": "B1+",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Yes can you book me a taxi to go from the hotel to the pool?",
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2702",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2702#13",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The taxi was late, so I had to walk to the pool.",
+      "What time do you want to go?",
+      "Yes, it costs about twelve pounds for the trip.",
+      "I will book a table for two at the restaurant."
+    ],
+    "answer": 1,
+    "explanation": "The agent asks for the pickup time after a booking request; the trap is replies about cost or past events."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul2730-t1",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "What is your location preference?",
+    "topics": [
+      "entertainment",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2730",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2730#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I need a table for four at seven, near the window.",
+      "I visited the museum last week and thought the location was great.",
+      "I would like the cheapest option, and it must have free parking.",
+      "Location is not a priority, it could be a hotel or guesthouse, either way is fine."
+    ],
+    "answer": 3,
+    "explanation": "The reply says location is not a priority, directly answering the question; the trap is a reply about price or a different booking."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul2780-t10",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Thanks so much. Can you also help me with a taxi?",
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2780",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2780#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Thanks, the hotel has free breakfast every day.",
+      "Sure, the museum opens at nine and closes at five.",
+      "I sure can, where will you need picked up and what time?",
+      "I booked a taxi for you yesterday evening."
+    ],
+    "answer": 2,
+    "explanation": "The reply agrees to help and asks for pickup place and time, which a taxi booking needs; the trap is an off-topic reply."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul2791-t17",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Where would you like to be picked up?",
+    "topics": [
+      "transport",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2791",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2791#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I would like to go to the restaurant by seven o'clock tonight.",
+      "The taxi ride cost twelve pounds, and I paid with cash yesterday.",
+      "A black Toyota arrived about ten minutes ago, and the driver waited outside.",
+      "Pick me up from the hotel."
+    ],
+    "answer": 3,
+    "explanation": "The agent asks for the pickup place and 'from the hotel' answers it; the trap is giving the destination or a past event."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul2827-t10",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Thanks. Can you get me a taxi between the guesthouse and the swimming pool please?",
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2827",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2827#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The swimming pool is free for children and costs five pounds for adults.",
+      "What time would you like the taxi?",
+      "How many nights would you like to stay at the guesthouse, please?",
+      "I took a taxi from the guesthouse to the pool yesterday afternoon."
+    ],
+    "answer": 1,
+    "explanation": "After a taxi request, the agent asks for the time; the trap is answering about the pool or a past trip."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul2828-t1",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Certainly, do you have any special requests or preferences?",
+    "topics": [
+      "entertainment",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2828",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2828#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Please book me a taxi to the station for tomorrow.",
+      "I would like a table for four at seven tomorrow evening.",
+      "I would love a guesthouse but I do need wifi. Do you have any like that?",
+      "Yes, I stayed at a guesthouse near the river last summer."
+    ],
+    "answer": 2,
+    "explanation": "Asked for preferences, the speaker states them: a guesthouse and wifi; the others answer about dining, the past or taxis."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul2994-t12",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Do you know any other hotels that fit my criteria which you could contact at the moment?",
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul2994",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL2994#13",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I was unable to find my keys this morning, sorry.",
+      "I will contact the hotel again at nine tomorrow, thanks.",
+      "I am able to find a table for four on Saturday evening.",
+      "I am unable to find something else at this time, sorry."
+    ],
+    "answer": 3,
+    "explanation": "The agent says no other hotel is available, which answers the request; the traps change the topic or the tense."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul3001-t9",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "The travel time is 50 minutes. Would you like to book a train?",
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3001",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3001#10",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The museum is open on Sundays, I believe.",
+      "No thank you. That's all I need to know.",
+      "Yes, please book it for tomorrow at noon.",
+      "I arrived at the station fifty minutes ago."
+    ],
+    "answer": 1,
+    "explanation": "The question is whether to book, and 'No thank you' declines; the trap is saying yes or changing the subject."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul3070-t0",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Can you help me look up a particular hotel that I have in mind?",
+    "topics": [
+      "dining",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3070",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3070#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Sure, I will take the train at seven tomorrow morning.",
+      "I am happy to help, what was the name of the place?",
+      "The hotel was great and I stayed there last summer.",
+      "I would like a table for four people tonight."
+    ],
+    "answer": 1,
+    "explanation": "The agent agrees to help and asks for the hotel name, the missing information; the other replies answer different questions."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul3093-t14",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Have a good day. Bye.",
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3093",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3093#15",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Have a great time, bye now!",
+      "Thank you, the train departs from platform four at noon.",
+      "Sorry, I did not understand the last part of your question.",
+      "Yes, I would like to book a table for two tonight."
+    ],
+    "answer": 0,
+    "explanation": "A goodbye (\"Bye.\") is returned with a goodbye; the others continue the booking as if the call were not ending."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul3211-t4",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Sounds great! Can I get a table for 4 on Saturday?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3211",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3211#5",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Sure. What size pizza would you like to order?",
+      "Sure. What time would you like to dine?",
+      "Sure. Which station would you like to leave from?",
+      "Sure. What time did you dine here last Saturday?"
+    ],
+    "answer": 1,
+    "explanation": "A table request for Saturday needs a time next, so asking when they want to dine is natural."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul3360-t10",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Great. Thanks! I also needed to find a taxi, can you assist me with that?",
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3360",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3360#11",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I booked a table for two at the restaurant tonight.",
+      "Where would you like to be picked up and at what time?",
+      "Yes, the taxi was very clean and the driver was polite.",
+      "Sure, the museum opens at nine and closes at five."
+    ],
+    "answer": 1,
+    "explanation": "The agent accepts and asks for pickup place and time, which are needed to book; the other replies are unrelated."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul3389-t1",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "There are many high quality places to stay here, we have 19 4 stars places to choose from, any other preferences?",
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3389",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3389#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I took the train to the east coast last year.",
+      "Please book the taxi for half past nine tonight.",
+      "The four-star places were very clean and friendly.",
+      "I would like it to be in the east."
+    ],
+    "answer": 3,
+    "explanation": "Asked for more preferences, the customer names an area: the east. Trap: past trips and unrelated bookings."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul3394-t21",
+    "type": "listenResponse",
+    "cefr": "B1+",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Sure, where would you like to be picked up from? Also where will you need to be dropped off and what time?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3394",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3394#22",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I would like to go from the restaurant to the hotel.",
+      "Yes, the hotel has free parking and a wonderful breakfast.",
+      "I would like a table for four near the window, please.",
+      "The taxi arrived at the restaurant about twenty minutes ago."
+    ],
+    "answer": 0,
+    "explanation": "The agent asks for pickup and drop-off places, and the caller gives the route; the trap is replies about other bookings."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul3440-t3",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Thanks for that information. Is there a time you would like to arrive by?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3440",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3440#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The hotel is located near the centre of the city.",
+      "I do not have an arrival time.",
+      "Yes, I arrived there by train about two days ago.",
+      "I would like to leave from Cambridge on Friday evening."
+    ],
+    "answer": 1,
+    "explanation": "The agent asks about an arrival time and the caller says there is none; the trap is replies in the past tense or about another detail."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul3631-t3",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "There is a train that arrives at 19:09. Would that do?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3631",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3631#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Sure, I will order a coffee for you.",
+      "No, I already left the station at nine.",
+      "The restaurant is near the river, I think.",
+      "Sure would. What time does it depart and how much does it cost?"
+    ],
+    "answer": 3,
+    "explanation": "The offer of a train arriving at 19:09 is accepted and followed by two sensible questions; the others ignore it."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul3678-t17",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Sure the travel time is 49 minutes. Would you like to make a reservation for that train?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3678",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3678#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Yes, I booked that train for last Tuesday, thanks anyway.",
+      "The station is only a short walk from my hotel.",
+      "That was all I needed today, thanks!",
+      "It takes about an hour, so I will bring a good book."
+    ],
+    "answer": 2,
+    "explanation": "The caller declines more help and thanks the agent; the trap is a reply that ignores the offer."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul3753-t6",
+    "type": "listenResponse",
+    "cefr": "B1+",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Can you book a table for 7 people?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3753",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3753#7",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Yes I can, I need the day and time you'd like to go please.",
+      "The restaurant is across from the station.",
+      "It cost about thirty pounds per person.",
+      "No, I do not eat meat at all."
+    ],
+    "answer": 0,
+    "explanation": "A table request for seven gets agreement and a question about day and time; the others are not booking-related answers."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul3782-t5",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "The ticket costs 4.40 pounds. Will that be all?",
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3782",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3782#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "No, I will take the room with a sea view instead.",
+      "Thank you, I already finished the meal and left.",
+      "What is the travel time?",
+      "Yes, please book a table for six at eight tonight."
+    ],
+    "answer": 2,
+    "explanation": "After hearing the price, the customer asks a follow-up about travel time. Trap: the other replies shift to food, rooms or the past."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul3867-t4",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Can you make me a reservation for Saturday please for 3 people?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul3867",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL3867#5",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "How many nights would you like to stay at the hotel on Saturday?",
+      "What time would you like to dine on Saturday?",
+      "What time does the train to Cambridge leave on Saturday morning?",
+      "Yes, I enjoyed dining there on Saturday last month with three friends."
+    ],
+    "answer": 1,
+    "explanation": "After a booking request with day and party size, the missing detail is the time; the trap is asking about trains or hotel nights."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul4092-t11",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "My apologies the arrival time is 10 minutes earlier. I assume that's okay?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4092",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4092#12",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The hotel is on the north side and has free parking.",
+      "I paid with my credit card, and the receipt is in my email.",
+      "It was ten minutes earlier when I arrived yesterday morning.",
+      "Yes that is fine."
+    ],
+    "answer": 3,
+    "explanation": "She asks if the earlier arrival is okay, and 'Yes that is fine' agrees; the trap is unrelated details."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul4243-t12",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Could you please let me know when that departs and what the total travel time is?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4243",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4243#13",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Your booking was confirmed last week and the reference was emailed.",
+      "The train station has a small cafe and a shop inside.",
+      "Let me check into that for you.",
+      "Yes, that train left about ten minutes ago, I believe."
+    ],
+    "answer": 2,
+    "explanation": "The agent promises to look up the departure and travel time; the trap is a reply about an old booking or a different topic."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul4403-t14",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Can you also book a taxi for me between the guesthouse and the restaurant?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4403",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4403#15",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Yes what time would you like to travel by taxi?",
+      "The guesthouse has a double room available tonight.",
+      "It was a very nice place with friendly staff.",
+      "No, I already ate dinner at the restaurant."
+    ],
+    "answer": 0,
+    "explanation": "A request to book a taxi gets 'Yes' plus a question about travel time; the trap is replies about the guesthouse or the meal."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul4576-t12",
+    "type": "listenResponse",
+    "cefr": "B1+",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Could you also book a taxi for me from the guest house to the restaurant?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4576",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4576#13",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The guesthouse has a free breakfast every morning.",
+      "Sure, the restaurant is open until ten tonight.",
+      "I left the restaurant about an hour ago.",
+      "What time would you like to leave?"
+    ],
+    "answer": 3,
+    "explanation": "To book a taxi the agent needs a departure time, so asking 'What time?' fits; the trap is a reply about the restaurant."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul4593-t5",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "The travel time for that route is 17 minutes. Is there any other information you need?",
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4593",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4593#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Could you recommend a museum in the east?",
+      "I already took that route yesterday, and it was very quiet.",
+      "The train will leave from platform four in about ten minutes.",
+      "Please charge the ticket to the credit card I gave you earlier."
+    ],
+    "answer": 0,
+    "explanation": "After the travel time, the agent asks if more help is needed, and the caller makes a new request; the trap is replies about the train again."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul4632-t19",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "The travel time is 60 minutes. Would you like me to book a ticket?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4632",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4632#20",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "No that is all I need, thank you.",
+      "The station is only two blocks away from my hotel entrance.",
+      "Yes, I booked that ticket for last Tuesday, thanks anyway.",
+      "It takes about an hour, so I will bring a good book."
+    ],
+    "answer": 0,
+    "explanation": "The caller declines the booking and closes the conversation politely; the trap is a reply that ignores the yes or no question."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul4728-t5",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "The travel time is 51 minutes. Will that be all for today?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4728",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4728#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Not quite yet. I'm also looking for a moderately priced hotel.",
+      "The station is moderately busy at this time.",
+      "Yes, the travel was fifty-one minutes yesterday.",
+      "I looked for a moderately priced hotel last week."
+    ],
+    "answer": 0,
+    "explanation": "'Will that be all?' invites more requests, and 'Not quite yet' adds one; the trap is past tense or sound-alike words."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul4744-t7",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "I have 8 trains- is there a time you need to be there by?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4744",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4744#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The ticket costs about ten pounds for one adult.",
+      "Yes, I left yesterday and arrived at around eleven.",
+      "I need a hotel near the station with free parking.",
+      "Can you give me the arrival time of one of the trains?"
+    ],
+    "answer": 3,
+    "explanation": "He wants a time and asks for one train's arrival time; the trap is replies that give unrelated details."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul4830-t9",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "The travel time for that route is 79 minutes. Anything more I can help with?",
+    "topics": [
+      "entertainment",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4830",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4830#10",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The ticket will be waiting for me at the station tomorrow.",
+      "Yes, the hotel breakfast starts at seven in the morning.",
+      "No, that will be all. Thank you for your help!",
+      "I traveled that route last summer and it was lovely."
+    ],
+    "answer": 2,
+    "explanation": "The agent asks if more help is needed and the caller says that is all with thanks; the trap is adding unrelated facts."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul4860-t13",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "The travel time is 163 minutes. Would you like to make a booking?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4860",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4860#14",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Please send the confirmation to my hotel room.",
+      "Yes, please make a booking.",
+      "It took about three hours to get there last week.",
+      "The train leaves from platform four at noon."
+    ],
+    "answer": 1,
+    "explanation": "The agent asks if the customer wants to book and the reply says yes; the trap is a reply about past travel or platform."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul4938-t1",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Certainly! What day are you traveling?",
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4938",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4938#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I would like two tickets for the morning train.",
+      "My meeting is on Wednesday.",
+      "I traveled to Cambridge last Wednesday.",
+      "It leaves from the station at nine."
+    ],
+    "answer": 1,
+    "explanation": "The question asks which day and 'on Wednesday' gives it; the trap is a past-tense or unrelated detail."
+  },
+  {
+    "id": "lr-multiwoz-mw-pmul4997-t17",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "I would be happy to help you with that. Where will you need to be picked up at?",
+    "topics": [
+      "dining",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:pmul4997",
+    "source": "multiwoz",
+    "sourceId": "mw/PMUL4997#18",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I'd like to be picked up at the hotel and arrive at the restaurant by the booked time.",
+      "Could you tell me how much the ticket costs, please?",
+      "I would like a table for four people at seven.",
+      "I was picked up at the hotel and arrived very early."
+    ],
+    "answer": 0,
+    "explanation": "Asked where to pick up, the customer names the hotel and the arrival goal. Trap: past tense and unrelated requests."
+  },
+  {
+    "id": "lr-multiwoz-mw-sng0039-t1",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "Sure I can do that! Where is the departure site?",
+    "topics": [
+      "transport",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0039",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0039#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Yes, the burger place is very popular lately.",
+      "The taxi should be white and take four people.",
+      "I need it to pick me up from gourmet burger kitchen.",
+      "I need to arrive there by five in the afternoon."
+    ],
+    "answer": 2,
+    "explanation": "The agent asks for the departure site, and the reply gives one; the others answer time, quality, or taxi details."
+  },
+  {
+    "id": "lr-multiwoz-mw-sng01283-t7",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Would 6:45 be a convenient time for you to leave?",
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng01283",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG01283#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Please book a table for two at the restaurant.",
+      "My destination is the train station on Station Road.",
+      "Will that get me to my destination on time?",
+      "Yes, I left at quarter to seven yesterday and arrived early."
+    ],
+    "answer": 2,
+    "explanation": "Asked if 6:45 works, the customer checks it gets them there on time. Trap: past tense and unrelated requests."
+  },
+  {
+    "id": "lr-multiwoz-mw-sng01450-t5",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "The cost will be 17.60 pounds. Would you like more information about that?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng01450",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG01450#6",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "What time does the train leave?",
+      "I paid seventeen pounds last week for the same trip.",
+      "Yes, a table for two near the window, please.",
+      "The hotel is on the east side and has parking."
+    ],
+    "answer": 0,
+    "explanation": "After the price, the customer asks a follow-up about the departure time. Trap: past payments or wrong topics."
+  },
+  {
+    "id": "lr-multiwoz-mw-sng01633-t3",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "I have several trains that will get you there on time. What time would you like to leave?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng01633",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG01633#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I don't have a preference on leave time.",
+      "I did leave on time, so I didn't miss it.",
+      "I have a reservation for two nights at the hotel.",
+      "I don't have a preference on the toppings, thanks."
+    ],
+    "answer": 0,
+    "explanation": "The reply answers the question about leaving time by saying any time is fine; the others answer other topics."
+  },
+  {
+    "id": "lr-multiwoz-mw-sng02206-t7",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "The price is 17.60 pounds, and travel time is 79 minutes. Do you need to reserve a seat?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng02206",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG02206#8",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Not at this time. Thanks for the information.",
+      "Please book the hotel for the same weekend, thanks.",
+      "My reservation was for seven people last Friday night.",
+      "I would like a quiet table near the window."
+    ],
+    "answer": 0,
+    "explanation": "'Not at this time' declines the seat reservation and thanks the agent; the other replies are about hotels, the past or tables."
+  },
+  {
+    "id": "lr-multiwoz-mw-sng02320-t3",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "male",
+    "prompt": "I have trains that meet you criteria for most days of the week, do you have a day or departure time preference?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng02320",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG02320#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I already left on Wednesday and arrived in the morning.",
+      "I need a hotel near the city center with free parking.",
+      "The train costs about nine pounds for one adult ticket.",
+      "I want to leave on Wednesday."
+    ],
+    "answer": 3,
+    "explanation": "The question asks for a day preference, so naming Wednesday answers it; the trap is answers about price or hotels."
+  },
+  {
+    "id": "lr-multiwoz-mw-sng0361-t1",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "I have 14 trains that will arrive before that time, is there a particular day you'd like?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0361",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0361#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I would like to leave on Wednesday.",
+      "The train costs about fifteen pounds, I think.",
+      "I would like to arrive at noon on Friday.",
+      "Yes, I already have a ticket for that."
+    ],
+    "answer": 0,
+    "explanation": "The question is which day, and 'Wednesday' answers it; the trap is replying with a time or price."
+  },
+  {
+    "id": "lr-multiwoz-mw-sng0444-t9",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "The travel time is 50 minutes. May I book that for you?",
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0444",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0444#10",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Yes, it took fifty minutes to get there yesterday.",
+      "The train left a few minutes ago, I think.",
+      "I would appreciate a window seat in the restaurant.",
+      "Yes, I'd really appreciate that."
+    ],
+    "answer": 3,
+    "explanation": "'May I book that for you?' is an offer, so 'Yes, I'd really appreciate that' accepts it; the trap is talking about the past."
+  },
+  {
+    "id": "lr-multiwoz-mw-sng0872-t0",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "Could I ask for your help in finding a guesthouse to put my friends up in nearby?",
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0872",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0872#1",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "Of course! Cambridge boasts many wonderful guesthouses. What did you have in mind?",
+      "My friends arrived on Tuesday and enjoyed the museum.",
+      "No, my friends already left the guesthouse this morning.",
+      "I would like to cancel my train ticket, please."
+    ],
+    "answer": 0,
+    "explanation": "The agent agrees to help and asks what the caller wants; the other replies use the past or answer a different question."
+  },
+  {
+    "id": "lr-multiwoz-mw-sng0896-t1",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "There are 6 guesthouses and 1 hotel that match your request. Would you like to add additional preferences to narrow your search?",
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:sng0896",
+    "source": "multiwoz",
+    "sourceId": "mw/SNG0896#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "The hotel has a pool and it was clean when I left.",
+      "Yes, I will take the train to the city center.",
+      "I booked a cheap hotel last year and I liked it.",
+      "Preferably something on the cheaper side."
+    ],
+    "answer": 3,
+    "explanation": "Asked for more preferences, the customer adds a price wish: cheaper. Trap: past experiences or transport answers."
+  },
+  {
+    "id": "lr-multiwoz-mw-ssng0228-t3",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "I have 6 guesthouses meeting that criteria. Do you have any other preferences, say a price range?",
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:ssng0228",
+    "source": "multiwoz",
+    "sourceId": "mw/SSNG0228#4",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I paid a moderate price for the room last summer.",
+      "Please book it for Friday and send me the confirmation.",
+      "Try a moderate price range.",
+      "Yes, six people will be staying for three nights in total."
+    ],
+    "answer": 2,
+    "explanation": "She asks for a price preference and 'moderate price range' gives one; the trap is repeating the number six as people."
+  },
+  {
+    "id": "lr-multiwoz-mw-ssng0365-t1",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "voice": "female",
+    "prompt": "I have 14 places that match your request. Is there a certain area or type of lodging that you would like?",
+    "topics": [
+      "travel",
+      "workplace"
+    ],
+    "group": "multiwoz:ssng0365",
+    "source": "multiwoz",
+    "sourceId": "mw/SSNG0365#2",
+    "license": "Apache-2.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "options": [
+      "I am looking for the train that leaves at noon.",
+      "I stayed at a guesthouse in the north last year.",
+      "I am looking for a guesthouse type please.",
+      "Fourteen places is too many, so please book a taxi now."
+    ],
+    "answer": 2,
+    "explanation": "Asked for the lodging type, the customer says guesthouse. Trap: trains, past stays or unrelated demands."
+  }
+]

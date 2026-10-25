@@ -1,0 +1,720 @@
+[
+  {
+    "id": "hello-tena",
+    "name": "Hello, Tena",
+    "description": "Hatch the egg: finish onboarding.",
+    "type": "D",
+    "condition": "stage",
+    "threshold": 1,
+    "reward": {
+      "xp": 20,
+      "scales": 5
+    },
+    "hidden": false
+  },
+  {
+    "id": "say-it-out-loud",
+    "name": "Say It Out Loud",
+    "description": "Get your first spoken answer graded.",
+    "type": "D",
+    "condition": "spokenGraded",
+    "threshold": 1,
+    "reward": {
+      "xp": 20,
+      "scales": 5
+    },
+    "hidden": false
+  },
+  {
+    "id": "first-blood",
+    "name": "First Ten",
+    "description": "Recall your first 10 words correctly.",
+    "type": "P",
+    "condition": "correctRetrievals",
+    "threshold": 10,
+    "reward": {
+      "xp": 20,
+      "scales": 5
+    },
+    "hidden": false
+  },
+  {
+    "id": "dear-diary",
+    "name": "Dear Diary",
+    "description": "Write your first life paragraph to unlock the Mac.",
+    "type": "D",
+    "condition": "gateParagraphs",
+    "threshold": 1,
+    "reward": {
+      "xp": 30,
+      "scales": 5
+    },
+    "hidden": false
+  },
+  {
+    "id": "tool-time",
+    "name": "Tool Time",
+    "description": "Use all 4 modes once: review, write, listen, speak.",
+    "type": "D",
+    "condition": "modesUsed",
+    "threshold": 4,
+    "reward": {
+      "xp": 40,
+      "scales": 10
+    },
+    "hidden": false
+  },
+  {
+    "id": "exam-day",
+    "name": "Exam Day",
+    "description": "Finish your first exam of any kind.",
+    "type": "D",
+    "condition": "examsFinished",
+    "threshold": 1,
+    "reward": {
+      "xp": 40,
+      "scales": 10
+    },
+    "hidden": false
+  },
+  {
+    "id": "hundred-club",
+    "name": "Hundred Club",
+    "description": "Meet 100 words.",
+    "type": "P",
+    "condition": "notesIntroduced",
+    "threshold": 100,
+    "reward": {
+      "xp": 50,
+      "scales": 10
+    },
+    "hidden": false
+  },
+  {
+    "id": "sticky-notes",
+    "name": "Sticky Notes",
+    "description": "Master 100 words (stable for 21+ days).",
+    "type": "M",
+    "condition": "masteredNotes",
+    "threshold": 100,
+    "reward": {
+      "xp": 80,
+      "scales": 15
+    },
+    "hidden": false
+  },
+  {
+    "id": "five-hundred",
+    "name": "Five Hundred",
+    "description": "Master 500 words.",
+    "type": "M",
+    "condition": "masteredNotes",
+    "threshold": 500,
+    "reward": {
+      "xp": 120,
+      "scales": 25
+    },
+    "hidden": false
+  },
+  {
+    "id": "thousand-threads",
+    "name": "Thousand Threads",
+    "description": "Master 1,000 words.",
+    "type": "M",
+    "condition": "masteredNotes",
+    "threshold": 1000,
+    "reward": {
+      "xp": 150,
+      "scales": 40
+    },
+    "hidden": false
+  },
+  {
+    "id": "two-thousand-wings",
+    "name": "Two Thousand Wings",
+    "description": "Master 2,000 words.",
+    "type": "M",
+    "condition": "masteredNotes",
+    "threshold": 2000,
+    "reward": {
+      "xp": 180,
+      "scales": 60
+    },
+    "hidden": false
+  },
+  {
+    "id": "lexicon",
+    "name": "Lexicon",
+    "description": "Master 5,000 words.",
+    "type": "M",
+    "condition": "masteredNotes",
+    "threshold": 5000,
+    "reward": {
+      "xp": 200,
+      "scales": 100
+    },
+    "hidden": false
+  },
+  {
+    "id": "comeback-kid",
+    "name": "Comeback Kid",
+    "description": "Recall a word you failed 3 times, 30 days later.",
+    "type": "M",
+    "condition": "comebackRecalls",
+    "threshold": 1,
+    "reward": {
+      "xp": 60,
+      "scales": 15
+    },
+    "hidden": false
+  },
+  {
+    "id": "leech-hunter",
+    "name": "Leech Hunter",
+    "description": "Clear 10 leech words (6+ lapses).",
+    "type": "M",
+    "condition": "leechesCleared",
+    "threshold": 10,
+    "reward": {
+      "xp": 100,
+      "scales": 25
+    },
+    "hidden": false
+  },
+  {
+    "id": "long-memory",
+    "name": "Long Memory",
+    "description": "Recall 25 words after more than 60 days.",
+    "type": "M",
+    "condition": "longIntervalRecalls",
+    "threshold": 25,
+    "reward": {
+      "xp": 100,
+      "scales": 25
+    },
+    "hidden": false
+  },
+  {
+    "id": "sniper",
+    "name": "Sniper",
+    "description": "Get 50 answers right in a row.",
+    "type": "M",
+    "condition": "bestCombo",
+    "threshold": 50,
+    "reward": {
+      "xp": 100,
+      "scales": 20
+    },
+    "hidden": false
+  },
+  {
+    "id": "paragrapher",
+    "name": "Paragrapher",
+    "description": "Write 10 paragraphs.",
+    "type": "P",
+    "condition": "paragraphs",
+    "threshold": 10,
+    "reward": {
+      "xp": 60,
+      "scales": 15
+    },
+    "hidden": false
+  },
+  {
+    "id": "storyteller",
+    "name": "Storyteller",
+    "description": "Write a 150-word text scored B2 or higher on cohesion.",
+    "type": "M",
+    "condition": "cohesionB2Texts",
+    "threshold": 1,
+    "reward": {
+      "xp": 100,
+      "scales": 25
+    },
+    "hidden": false
+  },
+  {
+    "id": "no-slips",
+    "name": "No Slips",
+    "description": "Write a 100-word text with zero grammar errors flagged.",
+    "type": "M",
+    "condition": "errorFreeTexts",
+    "threshold": 1,
+    "reward": {
+      "xp": 100,
+      "scales": 25
+    },
+    "hidden": false
+  },
+  {
+    "id": "connector-king",
+    "name": "Connector King",
+    "description": "Use 5 different connectors correctly in one text.",
+    "type": "M",
+    "condition": "connectorTexts",
+    "threshold": 1,
+    "reward": {
+      "xp": 80,
+      "scales": 20
+    },
+    "hidden": false
+  },
+  {
+    "id": "voice-of-the-standup",
+    "name": "Voice Of The Standup",
+    "description": "Give a 60-second spoken update graded B2 or higher.",
+    "type": "M",
+    "condition": "standupB2",
+    "threshold": 1,
+    "reward": {
+      "xp": 120,
+      "scales": 30
+    },
+    "hidden": false
+  },
+  {
+    "id": "meeting-ready",
+    "name": "Meeting Ready",
+    "description": "Pass a simulated work-meeting speaking task at B2.",
+    "type": "M",
+    "condition": "meetingRolePlayB2",
+    "threshold": 1,
+    "reward": {
+      "xp": 150,
+      "scales": 40
+    },
+    "hidden": false
+  },
+  {
+    "id": "say-it-differently",
+    "name": "Say It Differently",
+    "description": "Rewrite your own sentence 3 ways, all accepted.",
+    "type": "M",
+    "condition": "paraphraseSets",
+    "threshold": 1,
+    "reward": {
+      "xp": 80,
+      "scales": 20
+    },
+    "hidden": false
+  },
+  {
+    "id": "register-switch",
+    "name": "Register Switch",
+    "description": "Write the same message formally and informally, both accepted.",
+    "type": "M",
+    "condition": "registerPairs",
+    "threshold": 1,
+    "reward": {
+      "xp": 80,
+      "scales": 20
+    },
+    "hidden": false
+  },
+  {
+    "id": "b1-certified",
+    "name": "B1 Certified",
+    "description": "Two verified exams in a row at band 3.0 (B1) or higher.",
+    "type": "M",
+    "condition": "consecutiveExamsAtBand",
+    "threshold": 2,
+    "reward": {
+      "xp": 100,
+      "scales": 25
+    },
+    "hidden": false,
+    "band": 3.0,
+    "kinds": [
+      "placement",
+      "weeklyMock",
+      "monthlyMock"
+    ]
+  },
+  {
+    "id": "b1-plus-solid",
+    "name": "B1+ Solid",
+    "description": "Two verified exams in a row at band 3.5 or higher.",
+    "type": "M",
+    "condition": "consecutiveExamsAtBand",
+    "threshold": 2,
+    "reward": {
+      "xp": 120,
+      "scales": 30
+    },
+    "hidden": false,
+    "band": 3.5,
+    "kinds": [
+      "placement",
+      "weeklyMock",
+      "monthlyMock"
+    ]
+  },
+  {
+    "id": "b2-gate",
+    "name": "B2 Gate",
+    "description": "A verified exam at band 4.0 (B2) or higher.",
+    "type": "M",
+    "condition": "bestExamBand",
+    "threshold": 4.0,
+    "reward": {
+      "xp": 150,
+      "scales": 40
+    },
+    "hidden": false,
+    "kinds": [
+      "placement",
+      "weeklyMock",
+      "monthlyMock"
+    ]
+  },
+  {
+    "id": "b2-held",
+    "name": "B2 Held",
+    "description": "Two verified exams in a row at band 4.0 or higher.",
+    "type": "M",
+    "condition": "consecutiveExamsAtBand",
+    "threshold": 2,
+    "reward": {
+      "xp": 180,
+      "scales": 50
+    },
+    "hidden": false,
+    "band": 4.0,
+    "kinds": [
+      "placement",
+      "weeklyMock",
+      "monthlyMock"
+    ]
+  },
+  {
+    "id": "c1-horizon",
+    "name": "C1 Horizon",
+    "description": "A verified exam section at band 5.0 (C1) or higher.",
+    "type": "M",
+    "condition": "bestSectionBand",
+    "threshold": 5.0,
+    "reward": {
+      "xp": 200,
+      "scales": 60
+    },
+    "hidden": false,
+    "kinds": [
+      "placement",
+      "weeklyMock",
+      "monthlyMock"
+    ]
+  },
+  {
+    "id": "clean-room",
+    "name": "Clean Room",
+    "description": "Finish an exam in Exam Mode with a CLEAN integrity verdict.",
+    "type": "M",
+    "condition": "cleanExams",
+    "threshold": 1,
+    "reward": {
+      "xp": 60,
+      "scales": 15
+    },
+    "hidden": false
+  },
+  {
+    "id": "honest-mark",
+    "name": "Honest Mark",
+    "description": "Finish 5 exams with a CLEAN integrity verdict.",
+    "type": "M",
+    "condition": "cleanExams",
+    "threshold": 5,
+    "reward": {
+      "xp": 120,
+      "scales": 30
+    },
+    "hidden": false
+  },
+  {
+    "id": "stage-fright-slayer",
+    "name": "Stage Fright Slayer",
+    "description": "Score a speaking section above your rolling average three times.",
+    "type": "M",
+    "condition": "speakingAboveAverage",
+    "threshold": 3,
+    "reward": {
+      "xp": 120,
+      "scales": 30
+    },
+    "hidden": false
+  },
+  {
+    "id": "three-in-a-row",
+    "name": "Three In A Row",
+    "description": "Reach a 3-day streak.",
+    "type": "S",
+    "condition": "bestStreak",
+    "threshold": 3,
+    "reward": {
+      "xp": 30,
+      "scales": 5
+    },
+    "hidden": false
+  },
+  {
+    "id": "week-one",
+    "name": "Week One",
+    "description": "Reach a 7-day streak.",
+    "type": "S",
+    "condition": "bestStreak",
+    "threshold": 7,
+    "reward": {
+      "xp": 60,
+      "scales": 15
+    },
+    "hidden": false
+  },
+  {
+    "id": "fortnight",
+    "name": "Fortnight",
+    "description": "Reach a 14-day streak.",
+    "type": "S",
+    "condition": "bestStreak",
+    "threshold": 14,
+    "reward": {
+      "xp": 90,
+      "scales": 25
+    },
+    "hidden": false
+  },
+  {
+    "id": "month-of-mornings",
+    "name": "Month Of Mornings",
+    "description": "Reach a 30-day streak.",
+    "type": "S",
+    "condition": "bestStreak",
+    "threshold": 30,
+    "reward": {
+      "xp": 150,
+      "scales": 50
+    },
+    "hidden": false
+  },
+  {
+    "id": "hundred",
+    "name": "Hundred",
+    "description": "Reach a 100-day streak.",
+    "type": "S",
+    "condition": "bestStreak",
+    "threshold": 100,
+    "reward": {
+      "xp": 200,
+      "scales": 100
+    },
+    "hidden": false
+  },
+  {
+    "id": "freeze-frame",
+    "name": "Freeze Frame",
+    "description": "Use a streak freeze and keep the streak.",
+    "type": "S",
+    "condition": "freezesUsed",
+    "threshold": 1,
+    "reward": {
+      "xp": 30,
+      "scales": 10
+    },
+    "hidden": false
+  },
+  {
+    "id": "weekend-warrior",
+    "name": "Weekend Warrior",
+    "description": "Meet the daily minimum on both weekend days, 4 weekends in a row.",
+    "type": "S",
+    "condition": "weekendRun",
+    "threshold": 4,
+    "reward": {
+      "xp": 80,
+      "scales": 20
+    },
+    "hidden": false
+  },
+  {
+    "id": "five-of-seven",
+    "name": "Five Of Seven",
+    "description": "Meet the weekly goal (5 of 7 days) 8 weeks in a row.",
+    "type": "S",
+    "condition": "weeklyGoalRun",
+    "threshold": 8,
+    "reward": {
+      "xp": 150,
+      "scales": 40
+    },
+    "hidden": false
+  },
+  {
+    "id": "little-gills",
+    "name": "Little Gills",
+    "description": "Tena reaches the Larva stage.",
+    "type": "P",
+    "condition": "stage",
+    "threshold": 2,
+    "reward": {
+      "xp": 50,
+      "scales": 10
+    },
+    "hidden": false
+  },
+  {
+    "id": "coming-of-age",
+    "name": "Coming Of Age",
+    "description": "Tena reaches the Juvenile stage.",
+    "type": "P",
+    "condition": "stage",
+    "threshold": 3,
+    "reward": {
+      "xp": 80,
+      "scales": 20
+    },
+    "hidden": false
+  },
+  {
+    "id": "full-crest",
+    "name": "Full Crest",
+    "description": "Tena reaches the Adult stage.",
+    "type": "P",
+    "condition": "stage",
+    "threshold": 5,
+    "reward": {
+      "xp": 150,
+      "scales": 50
+    },
+    "hidden": false
+  },
+  {
+    "id": "metamorphosis",
+    "name": "Metamorphosis",
+    "description": "Tena reaches stage 7, the Metamorph.",
+    "type": "M",
+    "condition": "stage",
+    "threshold": 7,
+    "reward": {
+      "xp": 200,
+      "scales": 100
+    },
+    "hidden": false
+  },
+  {
+    "id": "regrowth",
+    "name": "Regrowth",
+    "description": "Heal Tena from an injury with a repair task.",
+    "type": "P",
+    "condition": "repairsCompleted",
+    "threshold": 1,
+    "reward": {
+      "xp": 40,
+      "scales": 10
+    },
+    "hidden": false
+  },
+  {
+    "id": "dressed-to-impress",
+    "name": "Dressed To Impress",
+    "description": "Equip 3 cosmetics at once.",
+    "type": "D",
+    "condition": "cosmeticsEquipped",
+    "threshold": 3,
+    "reward": {
+      "xp": 30,
+      "scales": 0
+    },
+    "hidden": false
+  },
+  {
+    "id": "collector",
+    "name": "Collector",
+    "description": "Own 12 cosmetics.",
+    "type": "P",
+    "condition": "cosmeticsOwned",
+    "threshold": 12,
+    "reward": {
+      "xp": 80,
+      "scales": 0
+    },
+    "hidden": false
+  },
+  {
+    "id": "night-owl",
+    "name": "Night Owl",
+    "description": "Review a word between 00:00 and 04:00.",
+    "type": "H",
+    "condition": "nightReviews",
+    "threshold": 1,
+    "reward": {
+      "xp": 30,
+      "scales": 10
+    },
+    "hidden": true,
+    "hint": "Tena is awake too."
+  },
+  {
+    "id": "early-axolotl",
+    "name": "Early Axolotl",
+    "description": "Start a session before 07:00 five days in a row.",
+    "type": "H",
+    "condition": "earlyDayRun",
+    "threshold": 5,
+    "reward": {
+      "xp": 60,
+      "scales": 15
+    },
+    "hidden": true
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "description": "Come back after 5+ days away and practise 5 of the next 7 days.",
+    "type": "H",
+    "condition": "phoenix",
+    "threshold": 1,
+    "reward": {
+      "xp": 100,
+      "scales": 25
+    },
+    "hidden": true
+  },
+  {
+    "id": "rubber-duck",
+    "name": "Rubber Duck",
+    "description": "Explain a coding concept in English in a writing task.",
+    "type": "H",
+    "condition": "codingExplained",
+    "threshold": 1,
+    "reward": {
+      "xp": 60,
+      "scales": 15
+    },
+    "hidden": true
+  },
+  {
+    "id": "zero-mercy",
+    "name": "Zero Mercy",
+    "description": "30 qualified days without using a Mercy token.",
+    "type": "H",
+    "condition": "qualifiedDaysWithoutMercy",
+    "threshold": 30,
+    "reward": {
+      "xp": 100,
+      "scales": 25
+    },
+    "hidden": true
+  },
+  {
+    "id": "the-fly",
+    "name": "The Fly",
+    "description": "Write about \"my fly\" in a paragraph.",
+    "type": "H",
+    "condition": "flyMentioned",
+    "threshold": 1,
+    "reward": {
+      "xp": 50,
+      "scales": 15
+    },
+    "hidden": true
+  }
+]

@@ -1,0 +1,5 @@
+# Apply to the files you touch, not to the whole repo at once.
+--swiftversion 6.0
+--indent 4
+--exclude Tenaz.xcodeproj,.build
+--disable consecutiveSpaces,numberFormatting,trailingCommas,wrapIfStatementBodies,wrapPropertyBodies

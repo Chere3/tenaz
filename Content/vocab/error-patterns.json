@@ -1,0 +1,323 @@
+[
+  {
+    "id": "error-pattern-that-keeps",
+    "headword": "that keeps",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "que me mantiene",
+    "definition": "after 'that' as the subject, use a full verb with -s, not an -ing form",
+    "example": "I want an app that keeps me learning every day.",
+    "exampleEs": "Quiero una app que me mantenga aprendiendo todos los días.",
+    "cloze": "I want an app that ____ me learning every day.",
+    "answer": "keeps",
+    "distractors": [
+      "keeping",
+      "keep",
+      "is keep"
+    ],
+    "collocations": [
+      "a tool that keeps",
+      "keeps me learning",
+      "keeps me focused"
+    ],
+    "note": "You said 'an app that keeping me learning'. After 'that', use a full verb: an app that keeps me learning.",
+    "tags": [
+      "error-pattern",
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "error-pattern-based-on",
+    "headword": "based on",
+    "pos": "preposition",
+    "cefr": "B1",
+    "es": "basado en",
+    "definition": "made from or built using something as the starting point",
+    "example": "The plan is based on this paragraph.",
+    "exampleEs": "El plan está basado en este párrafo.",
+    "cloze": "The plan is based ____ this paragraph.",
+    "answer": "on",
+    "distractors": [
+      "in",
+      "at",
+      "of"
+    ],
+    "collocations": [
+      "based on data",
+      "based on feedback",
+      "based on this paragraph"
+    ],
+    "note": "You said 'based in this paragraph'. 'Based in' is only for places (a company based in Mexico); for ideas and sources it is 'based on'.",
+    "tags": [
+      "error-pattern",
+      "preposition"
+    ]
+  },
+  {
+    "id": "error-pattern-want-you-to",
+    "headword": "want someone to do something",
+    "pos": "verb pattern",
+    "cefr": "B1",
+    "es": "querer que alguien haga algo",
+    "definition": "want + person + to + verb; Spanish 'quiero que' never becomes 'want that' or 'make you to'",
+    "example": "I want you to connect the app with Tivra.",
+    "exampleEs": "Quiero que conectes la app con Tivra.",
+    "cloze": "I want ____ connect the app with Tivra.",
+    "answer": "you to",
+    "distractors": [
+      "to make you to",
+      "that you",
+      "you"
+    ],
+    "collocations": [
+      "I want you to",
+      "we want them to",
+      "she wants me to"
+    ],
+    "note": "You said 'I want to make you to connect'. Use want + person + to + verb: I want you to connect it.",
+    "tags": [
+      "error-pattern",
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "error-pattern-make-instruction",
+    "headword": "make (an instruction)",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "haz (una instrucción)",
+    "definition": "to give an instruction, use the base form of the verb, not the past",
+    "example": "Please make a script that checks the logs.",
+    "exampleEs": "Por favor haz un script que revise los logs.",
+    "cloze": "Please ____ a script that checks the logs.",
+    "answer": "make",
+    "distractors": [
+      "made",
+      "making",
+      "to make"
+    ],
+    "collocations": [
+      "make a script",
+      "make a plan",
+      "make a list"
+    ],
+    "note": "You said 'made a script' as an instruction. Instructions use the base form: make, write, send.",
+    "tags": [
+      "error-pattern",
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "error-pattern-cheat-verb",
+    "headword": "cheat (the verb)",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "hacer trampa",
+    "definition": "to act dishonestly to win or pass; 'cheater' is the person, 'cheat' is the action",
+    "example": "I tend to cheat a lot when a test is hard.",
+    "exampleEs": "Tiendo a hacer mucha trampa cuando un examen es difícil.",
+    "cloze": "I tend to ____ a lot when a test is hard.",
+    "answer": "cheat",
+    "distractors": [
+      "be very cheater",
+      "be cheater",
+      "cheater"
+    ],
+    "collocations": [
+      "cheat on a test",
+      "cheat a lot",
+      "tend to cheat"
+    ],
+    "note": "You said 'I tend to be like very cheater'. 'Cheater' is a noun (I'm a big cheater); for the action use the verb: I cheat a lot.",
+    "tags": [
+      "error-pattern"
+    ]
+  },
+  {
+    "id": "error-pattern-monitor",
+    "headword": "monitor",
+    "pos": "verb",
+    "cefr": "B1+",
+    "es": "monitorear, supervisar",
+    "definition": "to watch and check something over a period of time",
+    "example": "The app will monitor my progress every week.",
+    "exampleEs": "La app va a monitorear mi progreso cada semana.",
+    "cloze": "The app will ____ my progress every week.",
+    "answer": "monitor",
+    "distractors": [
+      "monitorize",
+      "monitorate",
+      "monitoring"
+    ],
+    "collocations": [
+      "monitor progress",
+      "monitor usage",
+      "closely monitor"
+    ],
+    "note": "'Monitorize' is not an English word (it comes from Spanish 'monitorizar'). The verb is simply monitor.",
+    "tags": [
+      "error-pattern",
+      "false-friend"
+    ]
+  },
+  {
+    "id": "error-pattern-right-now",
+    "headword": "right now",
+    "pos": "adverb phrase",
+    "cefr": "B1+",
+    "es": "ahora mismo, en este momento",
+    "definition": "at the present time",
+    "example": "AI is the most valuable skill in the industry right now.",
+    "exampleEs": "La IA es la habilidad más valiosa de la industria en este momento.",
+    "cloze": "AI is the most valuable skill in the industry ____.",
+    "answer": "right now",
+    "distractors": [
+      "in this time",
+      "in these times of now",
+      "on this time"
+    ],
+    "collocations": [
+      "busy right now",
+      "not right now",
+      "available right now"
+    ],
+    "note": "You said 'in this time'. For the present, say right now, at the moment or these days.",
+    "tags": [
+      "error-pattern",
+      "preposition"
+    ]
+  },
+  {
+    "id": "error-pattern-evaluation-of",
+    "headword": "an evaluation of",
+    "pos": "noun + preposition",
+    "cefr": "B1+",
+    "es": "una evaluación de",
+    "definition": "a judgment of how good or what level something is",
+    "example": "I need an evaluation of my English level.",
+    "exampleEs": "Necesito una evaluación de mi nivel de inglés.",
+    "cloze": "I need an evaluation ____ my English level.",
+    "answer": "of",
+    "distractors": [
+      "that of",
+      "about of",
+      "for of"
+    ],
+    "collocations": [
+      "an evaluation of",
+      "a review of",
+      "an analysis of"
+    ],
+    "note": "You said 'an evaluation that of my English level'. Plan the phrase before you start: an evaluation of + the thing.",
+    "tags": [
+      "error-pattern",
+      "preposition"
+    ]
+  },
+  {
+    "id": "error-pattern-what-means",
+    "headword": "what the word means",
+    "pos": "question phrase",
+    "cefr": "B1",
+    "es": "qué significa la palabra",
+    "definition": "to ask or talk about meaning, use 'what ... means'",
+    "example": "I don't know what the word means.",
+    "exampleEs": "No sé qué significa la palabra.",
+    "cloze": "I don't know ____ the word means.",
+    "answer": "what",
+    "distractors": [
+      "which kind of",
+      "which",
+      "how"
+    ],
+    "collocations": [
+      "what it means",
+      "what the word means",
+      "what this means"
+    ],
+    "note": "You said 'which kind of word I have'. To talk about meaning: what does it mean? / I don't know what it means.",
+    "tags": [
+      "error-pattern"
+    ]
+  },
+  {
+    "id": "error-pattern-extremely",
+    "headword": "extremely",
+    "pos": "adverb",
+    "cefr": "B1+",
+    "es": "extremadamente, sumamente",
+    "definition": "very much; one strong adverb sounds better than repeating 'very'",
+    "example": "The game has extremely high engagement.",
+    "exampleEs": "El juego tiene un engagement extremadamente alto.",
+    "cloze": "The game has ____ high engagement.",
+    "answer": "extremely",
+    "distractors": [
+      "very, very, very",
+      "very very",
+      "much very"
+    ],
+    "collocations": [
+      "extremely high",
+      "extremely useful",
+      "extremely important"
+    ],
+    "note": "You said 'very, very, very good levels of engagement'. One strong word is more natural: extremely high, really strong.",
+    "tags": [
+      "error-pattern",
+      "intensifier"
+    ]
+  },
+  {
+    "id": "error-pattern-have-started",
+    "headword": "have started (a recent change)",
+    "pos": "present perfect",
+    "cefr": "B2",
+    "es": "he empezado a",
+    "definition": "the present perfect describes a recent change that still matters now",
+    "example": "Since I joined the new team, I have started having meetings in English.",
+    "exampleEs": "Desde que entré al nuevo equipo, he empezado a tener reuniones en inglés.",
+    "cloze": "Since I joined the new team, I ____ having meetings in English.",
+    "answer": "have started",
+    "distractors": [
+      "start",
+      "am start",
+      "starting"
+    ],
+    "collocations": [
+      "have started having",
+      "have started working",
+      "have recently started"
+    ],
+    "note": "You said 'I start getting some meetings in English'. For a recent change, use the present perfect: I've started having meetings.",
+    "tags": [
+      "error-pattern",
+      "verb-pattern"
+    ]
+  },
+  {
+    "id": "error-pattern-apps-that-have",
+    "headword": "applications that have",
+    "pos": "subject-verb agreement",
+    "cefr": "B1",
+    "es": "aplicaciones que tienen",
+    "definition": "after 'that', the verb agrees with the noun before it; plural noun, plural verb",
+    "example": "I like applications that have a clear goal.",
+    "exampleEs": "Me gustan las aplicaciones que tienen un objetivo claro.",
+    "cloze": "I like applications that ____ a clear goal.",
+    "answer": "have",
+    "distractors": [
+      "has",
+      "having",
+      "is have"
+    ],
+    "collocations": [
+      "apps that have",
+      "tools that have",
+      "people who have"
+    ],
+    "note": "You said 'applications that has'. The verb agrees with the plural noun: applications that have.",
+    "tags": [
+      "error-pattern"
+    ]
+  }
+]

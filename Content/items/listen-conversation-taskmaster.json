@@ -1,0 +1,6144 @@
+[
+  {
+    "id": "lc-taskmaster-tm1s-1166e1fe",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Ordering a Hawaiian pizza",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hi, I'd like to order a pizza from Pizza Hut, please."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Ok, what kind of pizza would you like?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I'd like to get a Hawaiian pizza with jalapenos on it."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Ok. What size pizza would you like to order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I'll get a medium."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Great. Would you like to place an order for delivery, or for pickup?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I can come pick it up."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Ok, please give me a moment while I confirm the details of your order. I'm sorry, the restaurant is out of jalapenos."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Ok, do they have bell peppers?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Would you like to add red, green or yellow bell peppers?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Green."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "No problem. To confirm, you'd like to order a medium Hawaiian pizza with green bell peppers added."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:1166e1fe",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-1166e1fe-5a35-453f-98f0-59dbd9f45d24",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the customer doing?",
+        "options": [
+          "Booking a table for a group",
+          "Ordering a pizza for pickup",
+          "Complaining about a late delivery",
+          "Asking about pizza prices"
+        ],
+        "answer": 1,
+        "explanation": "The customer says 'I'd like to order a pizza' and 'I can come pick it up.'"
+      },
+      {
+        "q": "Why does the customer change the topping?",
+        "options": [
+          "The customer is allergic to jalapenos",
+          "The pizza is too expensive",
+          "The kitchen is closing early",
+          "The restaurant has no jalapenos left"
+        ],
+        "answer": 3,
+        "explanation": "B says 'the restaurant is out of jalapenos.'"
+      },
+      {
+        "q": "What topping does the customer choose instead?",
+        "options": [
+          "Red bell peppers",
+          "Green bell peppers",
+          "Yellow bell peppers",
+          "Black olives"
+        ],
+        "answer": 1,
+        "explanation": "Asked red, green or yellow, the customer answers 'Green.'"
+      },
+      {
+        "q": "How will the customer get the pizza?",
+        "options": [
+          "By picking it up personally",
+          "By asking for delivery",
+          "By sending a friend",
+          "By eating at the restaurant"
+        ],
+        "answer": 0,
+        "explanation": "The customer says 'I can come pick it up.'"
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-28a4d6c6",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Ordering pizza for tonight",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I don't feel like cooking tonight. I'm thinking pizza. Can you order me one?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Absolutely. Where do you want to order from?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Let's go with the usual, Sal's Pizzeria."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Ok, I thought you might say that. You order from there a lot, so I have their info on file already. What size pizza would you like to order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I think I'll get a large."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Ok, one large pizza. Any toppings?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "How about pepperoni and sausage?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "That sounds good. And do you want to order anything else?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Nope, just the pizza."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Gotcha. Do you want delivery or will you be picking up the order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I'll pick it up."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:28a4d6c6",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-28a4d6c6-9973-40f9-ae4e-ac17aefa0f5b",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "Why does the speaker want to order pizza?",
+        "options": [
+          "They are hosting a party tonight",
+          "They want to try a new restaurant",
+          "They are too busy to leave work",
+          "They do not feel like cooking dinner"
+        ],
+        "answer": 3,
+        "explanation": "A says \"I don't feel like cooking tonight.\""
+      },
+      {
+        "q": "Which toppings does the speaker choose?",
+        "options": [
+          "Mushrooms and olives",
+          "Pepperoni and sausage",
+          "Ham and pineapple",
+          "Cheese and peppers"
+        ],
+        "answer": 1,
+        "explanation": "A answers \"How about pepperoni and sausage?\""
+      },
+      {
+        "q": "Why does B already know the restaurant details?",
+        "options": [
+          "B worked there for a while",
+          "A called the restaurant earlier",
+          "B saw the menu on the website",
+          "A orders from that pizzeria quite often"
+        ],
+        "answer": 3,
+        "explanation": "B says \"You order from there a lot, so I have their info on file.\""
+      },
+      {
+        "q": "How will the speaker get the pizza?",
+        "options": [
+          "It will be delivered to the house",
+          "A friend will bring it over",
+          "They will use a drive-through window",
+          "They will pick it up themselves"
+        ],
+        "answer": 3,
+        "explanation": "A says \"I'll pick it up.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-2ee81c91",
+    "type": "listenConversation",
+    "cefr": "B1",
+    "skill": "listening",
+    "title": "Arranging a car repair",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I need to get my car in tomorrow for repair."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What time will you take it to the dealership?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I can drop it off in the morning."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What time do you need it back?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Do they offer delivery of the car?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "They don't."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Do they offer any kind of shuttle to pick me up?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "They do but only within 5 miles."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I would like to be picked up as late as possible before they close."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "The repair area closes at 5 pm."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Will they call me with a repair diagnosis before they do the work?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I can request that."
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:2ee81c91",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-2ee81c91-cad5-459e-b392-deae16bf6bef",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the main purpose of this conversation?",
+        "options": [
+          "To complain about poor service at a dealership",
+          "To buy a car from a dealership",
+          "To arrange a car repair and ask about transport",
+          "To cancel an earlier repair booking"
+        ],
+        "answer": 2,
+        "explanation": "A opens with 'I need to get my car in tomorrow for repair' and then asks about delivery and a shuttle."
+      },
+      {
+        "q": "Who can use the shuttle service?",
+        "options": [
+          "Any customer in the city",
+          "Only customers with a rental car",
+          "Customers who live within five miles",
+          "Customers who arrive before noon"
+        ],
+        "answer": 2,
+        "explanation": "B says the shuttle exists 'but only within 5 miles'."
+      },
+      {
+        "q": "When does the repair area close?",
+        "options": [
+          "At 4 pm",
+          "At 5 pm",
+          "At 6 pm",
+          "At 7 pm"
+        ],
+        "answer": 1,
+        "explanation": "B says 'The repair area closes at 5 pm.'"
+      },
+      {
+        "q": "What does A want to know about the diagnosis?",
+        "options": [
+          "Whether the shop will call with it before starting work",
+          "Whether insurance will pay for it",
+          "How long it will take to complete",
+          "Whether it is free of charge"
+        ],
+        "answer": 0,
+        "explanation": "A asks 'Will they call me with a repair diagnosis before they do the work?'"
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-36d59fcd",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Booking an alignment check",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, now you need to pick an appointment time."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Do they have anything for early afternoon?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "They don't have any early afternoon time slots left they have several morning appointments available."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Morning won't work for tomorrow, can you check to see if they have any early afternoon for today?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Wow, they do actually, they have a 1pm time slot left."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I think that will work."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay great. Do you want them to take a look at anything else besides how it's pulling to the right?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "No, it's been running great."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, then I'll just enter the one issue, pulling to the right."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Yes, that's all I need really. Does it say anything about estimates for alignments?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "No, there's no estimates for any of the repairs."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Okay, I thought they might not have that information on the site."
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:36d59fcd",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-36d59fcd-5a62-4932-a142-16790a464eba",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What are the speakers doing?",
+        "options": [
+          "Booking a repair slot for a car that pulls right",
+          "Comparing prices for new tires",
+          "Choosing a rental car for the weekend",
+          "Reporting a problem to the manufacturer"
+        ],
+        "answer": 0,
+        "explanation": "They pick an appointment time for a car 'pulling to the right'."
+      },
+      {
+        "q": "What time slot do they choose?",
+        "options": [
+          "10 am today",
+          "11:30 am tomorrow",
+          "1 pm today",
+          "3 pm tomorrow"
+        ],
+        "answer": 2,
+        "explanation": "A finds 'a 1pm time slot left' for today and B says 'I think that will work.'"
+      },
+      {
+        "q": "Does the customer want anything else checked?",
+        "options": [
+          "No, the car otherwise runs well",
+          "Yes, the brakes and the tires",
+          "Yes, a noise from the engine",
+          "Yes, the oil level"
+        ],
+        "answer": 0,
+        "explanation": "B says 'No, it's been running great.'"
+      },
+      {
+        "q": "What information is missing from the website?",
+        "options": [
+          "Estimates for repairs",
+          "Available time slots",
+          "The shop's address",
+          "A description of the problem"
+        ],
+        "answer": 0,
+        "explanation": "A says 'there's no estimates for any of the repairs' and B expected the site might not have it."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-3e28119e",
+    "type": "listenConversation",
+    "cefr": "B1",
+    "skill": "listening",
+    "title": "Finding an earlier tire appointment",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Is there anything sooner? Thursday is a couple of days away! Is there anything for tomorrow at 8am?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "8am is not open. Would you like another time?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "How about 8:30am?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "8:30am is not available either. There is a time open for tomorrow morning at 11am. Would that be better?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "That is better, but I have to be at work at 11am and I was hoping to get this done before that."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "There is an opening at 9am. Would that be better?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "How long would a leaking tire take to fix? 9am might be a perfect time."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "The test to see if it is leaking would take 10 minutes, a full repair would take around 30."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Ok, I'll take the 9am tomorrow morning time. I should be able to get in and get back out to work in time."
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:3e28119e",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-3e28119e-d3de-4343-b545-c96999191ff4",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "Why is A calling?",
+        "options": [
+          "To buy new tires",
+          "To complain about a repair",
+          "To check the price of a repair",
+          "To get an earlier appointment for a tire problem"
+        ],
+        "answer": 3,
+        "explanation": "A asks 'Is there anything sooner?' and later mentions 'a leaking tire'."
+      },
+      {
+        "q": "Why does A not take the 11 am slot?",
+        "options": [
+          "The shop is too far away",
+          "The repair would take too long",
+          "A has to be at work then",
+          "A prefers an afternoon slot"
+        ],
+        "answer": 2,
+        "explanation": "A says 'I have to be at work at 11am'."
+      },
+      {
+        "q": "How long would a full tire repair take?",
+        "options": [
+          "About 10 minutes",
+          "About 30 minutes",
+          "About an hour",
+          "About two hours"
+        ],
+        "answer": 1,
+        "explanation": "B says 'a full repair would take around 30'."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-40ab7ab4",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Fixing a turn signal",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, what sort of problem are you experiencing?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "It's really weird, the left turn signal is being inconsistent?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Can you be more specific?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Yeah, when I turn on the left signal it blinks once and then stops."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, they are suggesting that you bring it in tomorrow morning before 9am so they can look at it during the day."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Ugh, this is really annoying, can I get an appointment today?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I can check. What time would you like to bring it in?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Ideally around 3pm, will that work?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "No, but they have an available appointment at 2pm, would that be acceptable?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Okay, that will be fine."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, last question - what contact information should I provide them with?"
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling"
+    ],
+    "group": "taskmaster:40ab7ab4",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-40ab7ab4-9341-440b-b26e-444888574581",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is wrong with the car?",
+        "options": [
+          "The right headlight will not turn on",
+          "The brakes make a loud noise",
+          "The horn only works sometimes",
+          "The left signal blinks once and stops"
+        ],
+        "answer": 3,
+        "explanation": "B says the signal \"blinks once and then stops.\""
+      },
+      {
+        "q": "What does the shop first suggest?",
+        "options": [
+          "Coming in today at noon",
+          "Bringing the car in tomorrow before nine",
+          "Waiting until next week",
+          "Leaving it there overnight"
+        ],
+        "answer": 1,
+        "explanation": "A says to \"bring it in tomorrow morning before 9am.\""
+      },
+      {
+        "q": "When is the appointment finally set?",
+        "options": [
+          "Today at three o'clock",
+          "Today at two o'clock",
+          "Today at five o'clock",
+          "Tomorrow at nine o'clock"
+        ],
+        "answer": 1,
+        "explanation": "A offers 2pm and B answers \"Okay, that will be fine.\""
+      },
+      {
+        "q": "What does A need from B at the end?",
+        "options": [
+          "A deposit for the repair",
+          "The make and model of the car",
+          "Contact information to give the shop",
+          "A card number for the fee"
+        ],
+        "answer": 2,
+        "explanation": "A asks \"what contact information should I provide them with?\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-41e31645",
+    "type": "listenConversation",
+    "cefr": "B1",
+    "skill": "listening",
+    "title": "Ordering a ride on time",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay thank you, how long will I have to wait."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "The car will arrive in 10 minutes from the time that I order it. Does that work for you?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes, it does, thank you."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What time should I order the car?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Order it as soon as possible, I have to be there on time."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Okay I am ordering it now. Is there anything else you need to know?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Thank you. Please also schedule another ride for when I am finished."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Okay, what time would you like the ride scheduled for?"
+      }
+    ],
+    "topics": [
+      "transport",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:41e31645",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-41e31645-3233-46a9-819a-d8948e5b2753",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "How soon will the car arrive?",
+        "options": [
+          "Five minutes after it is ordered",
+          "Twenty minutes after it is ordered",
+          "Thirty minutes after it is ordered",
+          "Ten minutes after it is ordered"
+        ],
+        "answer": 3,
+        "explanation": "B says the car \"will arrive in 10 minutes from the time that I order it.\""
+      },
+      {
+        "q": "When does A want the first ride?",
+        "options": [
+          "As soon as possible",
+          "In about one hour",
+          "After lunch",
+          "Tomorrow morning"
+        ],
+        "answer": 0,
+        "explanation": "A says \"Order it as soon as possible.\""
+      },
+      {
+        "q": "What extra request does A make?",
+        "options": [
+          "A bigger car for several people",
+          "A second ride for when A is finished",
+          "A different driver",
+          "A cheaper ride option"
+        ],
+        "answer": 1,
+        "explanation": "A says \"Please also schedule another ride for when I am finished.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-46061fdb",
+    "type": "listenConversation",
+    "cefr": "B1+",
+    "skill": "listening",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "What's the reason for the appointment?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "My car is making a weird noise when I brake, and I want to get it checked out."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Ok, what day and time works best for the appointment?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "It's pretty urgent that I get this checked out, so just as soon as possible."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Ok, you have the option to bring it in tomorrow anytime before 12 pm or you can request a tow to the shop tonight before 5 pm."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Ok, let's schedule a tow for 4:30 pm today."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "4:30 pm isn't available, but 4:45 pm is. Would that work instead?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Sure, let's do 4:45 pm."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Ok, any other questions before I make the appointment?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Yes, how much will the tow cost?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "The tow will cost $50."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What about the appointment itself?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "The diagnostic appointment will cost a base rate of $80 per hour plus any additional parts or labor needed to diagnose. Sound good?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Sure, let's make the appointment. Can you confirm all the details?"
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:46061fdb",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-46061fdb-e29d-440a-9c82-6c22d5e2e7d8",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "title": "Booking a tow and diagnostic",
+    "questions": [
+      {
+        "q": "Why does the customer call?",
+        "options": [
+          "To get a braking noise checked",
+          "To buy new brakes online",
+          "To cancel a tow",
+          "To ask about insurance"
+        ],
+        "answer": 0,
+        "explanation": "The customer says 'My car is making a weird noise when I brake'."
+      },
+      {
+        "q": "What time is the tow scheduled?",
+        "options": [
+          "4:45 pm today",
+          "4:30 pm today",
+          "12 pm tomorrow",
+          "5 pm tomorrow"
+        ],
+        "answer": 0,
+        "explanation": "The assistant says 4:30 is unavailable but 4:45 pm is, and the customer agrees."
+      },
+      {
+        "q": "How much does the tow cost?",
+        "options": [
+          "$30",
+          "$80",
+          "$50",
+          "$100"
+        ],
+        "answer": 2,
+        "explanation": "The assistant says 'The tow will cost $50.'"
+      },
+      {
+        "q": "How is the diagnostic appointment charged?",
+        "options": [
+          "A free first visit",
+          "A flat $50 fee",
+          "A flat $80 fee with no extras",
+          "$80 per hour plus parts and labor"
+        ],
+        "answer": 3,
+        "explanation": "The assistant says 'a base rate of $80 per hour plus any additional parts or labor'."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-5c0e559b",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Changing a pizza topping",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes, that's right!"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I am sorry, Jet's is currently out of olives. Would you like to add another topping?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Do they have peppers?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What kind of peppers? They have green peppers, red peppers, pepper flakes, and banana peppers."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I'd like green peppers on the pizza."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Let me confirm the new order. You would like a large hand tossed pizza with pineapple, ham, and green peppers?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes, that's exactly what I want since there aren't olives!"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Now that the order is confirmed, I will place the order after I confirm payment. Will you be using the card on your account to purchase this order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yea, just use whatever is on the account for this."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:5c0e559b",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-5c0e559b-875f-45a2-884a-24cff5ef20de",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What problem does B report?",
+        "options": [
+          "The pizza shop is closing early",
+          "The restaurant has run out of olives",
+          "The card on file has expired",
+          "The large size is not available"
+        ],
+        "answer": 1,
+        "explanation": "B says \"Jet's is currently out of olives.\""
+      },
+      {
+        "q": "What topping does A choose instead?",
+        "options": [
+          "Banana peppers",
+          "Red peppers",
+          "Pepper flakes",
+          "Green peppers"
+        ],
+        "answer": 3,
+        "explanation": "A says \"I'd like green peppers on the pizza.\""
+      },
+      {
+        "q": "How will A pay for the order?",
+        "options": [
+          "With cash at pickup",
+          "With a gift card",
+          "With the card saved on the account",
+          "With a new credit card"
+        ],
+        "answer": 2,
+        "explanation": "A says \"just use whatever is on the account.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-653d1ba6",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Dropping off a car now",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Are you going to drop it off or do you need to get it towed in?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I can drive it in if they can take it right now."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "They can't take a look at it until tomorrow morning."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "That's not going to work for me, see if I can drop it off now and just leave it there."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "They say you can bring it in any time and just go to the desk with your keys."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Do they have a courtesy car that can drive me home after I drop it off?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "The courtesy car runs until 7:00pm so you should be all set for a ride home."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Do they say how much they are going to charge to look at it?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "The diagnostic fee is $85 and if you have them do the repair, they'll credit your bill by that amount."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Please double check on the courtesy car, I don't want to get stranded."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yes, it runs every weekday until 7:00pm."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Sounds good, please set that up and I'll head over in a few minutes."
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:653d1ba6",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-653d1ba6-aaf5-4a2e-a15e-c0e6f8ff59e3",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What does B decide to do with the car?",
+        "options": [
+          "Have it towed tomorrow morning",
+          "Leave it at the shop right away",
+          "Drive it to another garage",
+          "Wait for an appointment tomorrow"
+        ],
+        "answer": 1,
+        "explanation": "B says \"see if I can drop it off now and just leave it there.\""
+      },
+      {
+        "q": "What should B do when arriving at the shop?",
+        "options": [
+          "Wait for a mechanic in the parking lot",
+          "Call the shop from the car",
+          "Take the keys to the desk",
+          "Fill out a form online first"
+        ],
+        "answer": 2,
+        "explanation": "A says \"go to the desk with your keys.\""
+      },
+      {
+        "q": "What happens to the diagnostic fee if B has repairs done?",
+        "options": [
+          "It is doubled for the labor",
+          "It is credited to the final bill",
+          "It must be paid in advance",
+          "It is refunded a month later"
+        ],
+        "answer": 1,
+        "explanation": "A says \"they'll credit your bill by that amount.\""
+      },
+      {
+        "q": "Why does B ask A to double check the courtesy car?",
+        "options": [
+          "B wants to keep the car for a week",
+          "B hopes to avoid the diagnostic fee",
+          "B does not want to be left without a ride",
+          "B plans to arrive after seven"
+        ],
+        "answer": 2,
+        "explanation": "B says \"I don't want to get stranded.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-654b9b10",
+    "type": "listenConversation",
+    "cefr": "B1+",
+    "skill": "listening",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I need to make an appointment with a mechanic."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Do you have a specific shop in mind?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes, I want to make the appointment for Intelligent Auto Solutions."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I've located Intelligent Auto Solutions. What time would you like to schedule the appointment?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "As soon as possible."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "They have an opening for 1:30 PM. Does that work for you?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes, that would be fine."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What issue are you having?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "There's a strange squeaking coming from my car. It gets faster the faster I go."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I see. I will put this in the notes for the mechanic. What is the make, model, and year of your automobile?"
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:654b9b10",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-654b9b10-f203-4668-8b85-5699e49e8399",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "title": "Booking a mechanic appointment",
+    "questions": [
+      {
+        "q": "What is the main purpose of the call?",
+        "options": [
+          "To buy a used car",
+          "To complain about a repair bill",
+          "To book a car repair appointment",
+          "To ask for a tow truck"
+        ],
+        "answer": 2,
+        "explanation": "The first line is 'I need to make an appointment with a mechanic.'"
+      },
+      {
+        "q": "What problem does the car have?",
+        "options": [
+          "A grinding noise when braking",
+          "The engine stalling at lights",
+          "The battery dying overnight",
+          "A squeak that gets faster with speed"
+        ],
+        "answer": 3,
+        "explanation": "The customer says 'There's a strange squeaking... It gets faster the faster I go.'"
+      },
+      {
+        "q": "What appointment time does the assistant offer?",
+        "options": [
+          "9:30 AM",
+          "11:00 AM",
+          "12:30 PM",
+          "1:30 PM"
+        ],
+        "answer": 3,
+        "explanation": "The assistant says 'They have an opening for 1:30 PM' and the customer accepts."
+      },
+      {
+        "q": "What will the assistant do with the description of the squeaking?",
+        "options": [
+          "Email it to the customer",
+          "Search for a fix online",
+          "Write it in notes for the mechanic",
+          "Wait until the shop opens"
+        ],
+        "answer": 2,
+        "explanation": "The assistant says 'I will put this in the notes for the mechanic.'"
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-65958f69",
+    "type": "listenConversation",
+    "cefr": "B1+",
+    "skill": "listening",
+    "title": "Booking a car service online",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hey! Could you go online and make an appointment for me to take my car to Intelligent Auto Solutions?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Certainly. What date and time are you looking to take it?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Today if possible, any time before they close."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "It appears they're suggesting you bring it in tomorrow at 7:00am, right when they open."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "That's fine. Go ahead and get the appointment made."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Will do! So what seems to be the problem so I can tell them?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "It's overdue for an oil change. Also, when I accelerate to 60 miles per hour, I can feel a rhythmic thump in the front driver tire."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay. An oil change and a repair to whatever is making a thumping sound in the front passenger tire."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Actually, it's the front driver tire."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Sorry. Front driver tire. What year, make and model is the car?"
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling"
+    ],
+    "group": "taskmaster:65958f69",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-65958f69-c7c0-4dd9-931e-eb0497091f50",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What does A ask B to do?",
+        "options": [
+          "Call a tow truck for the car",
+          "Buy new tires for the car",
+          "Book a car repair appointment online",
+          "Find a cheaper repair shop"
+        ],
+        "answer": 2,
+        "explanation": "A asks B to \"go online and make an appointment\" at the shop."
+      },
+      {
+        "q": "When is the appointment?",
+        "options": [
+          "Today before the shop closes",
+          "Tomorrow at seven in the morning",
+          "Tomorrow at seven in the evening",
+          "Next Monday at nine"
+        ],
+        "answer": 1,
+        "explanation": "B says \"bring it in tomorrow at 7:00am.\""
+      },
+      {
+        "q": "What does A correct B about?",
+        "options": [
+          "The time of the appointment",
+          "The name of the shop",
+          "Which tire makes the thumping sound",
+          "The type of oil needed"
+        ],
+        "answer": 2,
+        "explanation": "A says \"Actually, it's the front driver tire.\""
+      },
+      {
+        "q": "What will A probably tell B next?",
+        "options": [
+          "The price of the oil change",
+          "The year, make and model of the car",
+          "The phone number of the shop",
+          "The speed of the car on the highway"
+        ],
+        "answer": 1,
+        "explanation": "B ends by asking \"What year, make and model is the car?\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-6e377175",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Scheduling a diagnostic and oil change",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Will you need any other services while it is there?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Yes, it's due for an oil change also, have them take care of that."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, I have you scheduled for a diagnostic for rough idling and an oil change at Intelligent Auto Solutions Friday morning at 9. They will call you if they need to reschedule or need any other information."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Do you have an estimate on the cost for that?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes, the diagnostic will be $50 and the oil change will be $40. Other fees will depend on what repairs are needed, and they will give you an estimate on that once the diagnostic test is completed."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "That's good. They'll call me with the estimate, right?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes. They will not proceed with any work until they get the okay from you."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "That's good. Can you remind me Thursday afternoon about that appointment please?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I have put it on your calendar."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Thanks."
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling"
+    ],
+    "group": "taskmaster:6e377175",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-6e377175-bcfc-4496-9db8-a30a39e6e944",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the main purpose of the call?",
+        "options": [
+          "To complain about a repair bill",
+          "To ask for a refund on an oil change",
+          "To schedule car services and learn the costs",
+          "To rent a car for the week"
+        ],
+        "answer": 2,
+        "explanation": "A confirms a diagnostic and oil change for Friday and gives prices."
+      },
+      {
+        "q": "How much is the oil change?",
+        "options": [
+          "$25",
+          "$50",
+          "$40",
+          "$90"
+        ],
+        "answer": 2,
+        "explanation": "A says 'the diagnostic will be $50 and the oil change will be $40'."
+      },
+      {
+        "q": "What will the shop do before starting repairs?",
+        "options": [
+          "Charge a deposit first",
+          "Send a written report by mail",
+          "Order the parts automatically",
+          "Wait for the customer's approval"
+        ],
+        "answer": 3,
+        "explanation": "A says 'They will not proceed with any work until they get the okay from you.'"
+      },
+      {
+        "q": "What does B ask A to do on Thursday afternoon?",
+        "options": [
+          "Call the shop back",
+          "Drive the car to the shop",
+          "Pay the diagnostic fee",
+          "Remind B about the appointment"
+        ],
+        "answer": 3,
+        "explanation": "B asks 'Can you remind me Thursday afternoon about that appointment'."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-742afde7",
+    "type": "listenConversation",
+    "cefr": "B1",
+    "skill": "listening",
+    "title": "Booking a tune-up appointment",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Great, what is wrong with your car?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I want to have a tune-up check up with my car."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "When do you want to make the appointment?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I want to make the appointment as soon as possible."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Tomorrow at 12:00pm is available. Does that work for you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "No, I cannot make it. Is there a later time?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "There is a 2:30PM time available. Will that work for you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "That works, please book that time for me."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I will book that time for you right away."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Thank you."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "You are welcome. What is your full name and contact number?"
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:742afde7",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-742afde7-770c-4f35-be7c-747b36323e35",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the main purpose of the call?",
+        "options": [
+          "To report a car accident",
+          "To buy a used car",
+          "To book a tune-up appointment",
+          "To cancel a repair"
+        ],
+        "answer": 2,
+        "explanation": "B says 'I want to have a tune-up check up with my car.'"
+      },
+      {
+        "q": "What time does B finally book?",
+        "options": [
+          "12:00 pm",
+          "1:30 pm",
+          "2:30 pm",
+          "3:30 pm"
+        ],
+        "answer": 2,
+        "explanation": "B accepts A's offer: 'There is a 2:30PM time available.'"
+      },
+      {
+        "q": "What does A ask at the end?",
+        "options": [
+          "For the car's license plate",
+          "For a deposit by card",
+          "For the car's mileage",
+          "For B's full name and phone number"
+        ],
+        "answer": 3,
+        "explanation": "A asks 'What is your full name and contact number?'"
+      },
+      {
+        "q": "What does B want at first?",
+        "options": [
+          "The earliest possible appointment",
+          "A time next week",
+          "A time on the weekend",
+          "A time after 5 pm"
+        ],
+        "answer": 0,
+        "explanation": "B says 'I want to make the appointment as soon as possible.'"
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-754f2e6e",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Perfect. What is wrong with the vehicle?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Well the tires keep losing air, for one. It's also got a crack in the windshield."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Do you have any other instructions for the mechanic other than the cracked windshield and low tire inflation?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Yes, could you have them check the timing belt?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Certainly. I will instruct the mechanic to check the timing belt, repair the cracked windshield, and advise about low tire inflation."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "That sounds perfect. How soon can they fit me in?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Would you like to drop off the vehicle tonight?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Actually I'm busy tonight. Could I take it in the morning?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Would you like me to schedule a drop-off at 8am tomorrow morning?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Yes, please, that would be perfect."
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling"
+    ],
+    "group": "taskmaster:754f2e6e",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-754f2e6e-a982-4457-97a6-1d49fa115ee1",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "title": "Preparing a car repair request",
+    "questions": [
+      {
+        "q": "What is the conversation mostly about?",
+        "options": [
+          "Listing car problems and setting a drop-off",
+          "Choosing a new car to buy",
+          "Arguing about a repair bill",
+          "Renting a car for a trip"
+        ],
+        "answer": 0,
+        "explanation": "The assistant collects the car problems and then asks about a drop-off time."
+      },
+      {
+        "q": "What extra check does the customer ask for?",
+        "options": [
+          "The brake pads",
+          "The timing belt",
+          "The air conditioner",
+          "The oil level"
+        ],
+        "answer": 1,
+        "explanation": "The customer says 'could you have them check the timing belt?'"
+      },
+      {
+        "q": "Why does the customer decline a drop-off tonight?",
+        "options": [
+          "The shop closes at five",
+          "The customer is busy tonight",
+          "The car is not ready",
+          "The mechanic is away"
+        ],
+        "answer": 1,
+        "explanation": "The customer says 'Actually I'm busy tonight.'"
+      },
+      {
+        "q": "When will the car be dropped off?",
+        "options": [
+          "At 8 AM tomorrow",
+          "At 8 PM tonight",
+          "At noon tomorrow",
+          "At 8 AM on Friday"
+        ],
+        "answer": 0,
+        "explanation": "The assistant offers 8am tomorrow morning and the customer says 'Yes, please'."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-87c5d407",
+    "type": "listenConversation",
+    "cefr": "B1+",
+    "skill": "listening",
+    "title": "Booking a car repair",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Could you get my car into the shop please? It needs some attention."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Of course, where would you like it taken?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I want it brought into Intelligent Auto Solutions."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Okay, are you going to drive it in yourself? It doesn't need to be towed, does it?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "No, I'll drop it off myself."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What's the problem with the car?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "It's eating oil. Every time I check the oil, which is every time I fill up the tank, it's gone down a little. I've put a quart of oil in it this month."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Oh yeah, you should get it looked at. Okay, Intelligent Auto Solutions has space for it on Thursday. Can you bring it in that morning?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yep, I can bring it in then. Any idea how long it will take?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I'm not sure, that depends on what work needs to be done. It seems they can take their first look at it on Thursday, though."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yeah, alright. Hopefully it won't take too long."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What kind of car do you have?"
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:87c5d407",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-87c5d407-716b-48a4-b8e2-f8b6293cf039",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "Why does A want the car taken to the shop?",
+        "options": [
+          "It will not start in the morning",
+          "It needs new tires before a trip",
+          "The brakes make a loud noise",
+          "It is using up a lot of oil"
+        ],
+        "answer": 3,
+        "explanation": "A says \"It's eating oil\" and has added a quart this month."
+      },
+      {
+        "q": "How will the car get to the shop?",
+        "options": [
+          "A will have it towed",
+          "A will drop it off personally",
+          "B will drive it there",
+          "A friend will take it"
+        ],
+        "answer": 1,
+        "explanation": "A says \"No, I'll drop it off myself.\""
+      },
+      {
+        "q": "When can the shop first look at the car?",
+        "options": [
+          "On Tuesday afternoon",
+          "On Wednesday morning",
+          "On Friday morning",
+          "On Thursday morning"
+        ],
+        "answer": 3,
+        "explanation": "B says the shop has space \"on Thursday\" and asks if A can bring it \"that morning\"."
+      },
+      {
+        "q": "What does B say about how long the repair will take?",
+        "options": [
+          "It will be finished the same day",
+          "It will take about a week",
+          "It depends on the work needed",
+          "It will be very quick"
+        ],
+        "answer": 2,
+        "explanation": "B says \"that depends on what work needs to be done\"."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-8def4070",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Ordering a Pizza Hut pizza",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I want to order a pizza for dinner with my family tonight."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I would be happy to order the pizza for you. What pizza restaurant would you like me to order from?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I would like you to order the pizza from Pizza Hut, please."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "You would like a pizza from Pizza Hut. What location would you like to order from Pizza Hut?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I want to order the pizza from the Speedway and Wilmot location in Phoenix, Arizona."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "All right, I will place the order at the Speedway and Wilmot location for you. What kind of pizza would you like to order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I want to order a large pizza with pepperoni and mushrooms."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I understand you want a large pizza, with pepperoni and mushrooms. Is that correct?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yes, that is what I would like, thank you."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Pizza Hut gives you the choice of what kind of pizza crust you would like to have."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "What are the choices?"
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:8def4070",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-8def4070-9756-473a-b2ef-11eae8cc56fc",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What does the customer ask B to do?",
+        "options": [
+          "Book a table at a pizzeria",
+          "Cancel an earlier pizza order",
+          "Order a pizza for a family dinner",
+          "Find a cheaper pizza restaurant"
+        ],
+        "answer": 2,
+        "explanation": "A says \"I want to order a pizza for dinner with my family tonight.\""
+      },
+      {
+        "q": "Which toppings does the customer choose?",
+        "options": [
+          "Sausage and onions",
+          "Ham and pineapple",
+          "Pepperoni and mushrooms",
+          "Pepperoni and olives"
+        ],
+        "answer": 2,
+        "explanation": "A says \"a large pizza with pepperoni and mushrooms.\""
+      },
+      {
+        "q": "What size of pizza does the customer want?",
+        "options": [
+          "Medium",
+          "Large",
+          "Small",
+          "Extra large"
+        ],
+        "answer": 1,
+        "explanation": "A says \"I want to order a large pizza.\""
+      },
+      {
+        "q": "What will the customer probably do next?",
+        "options": [
+          "Pay for the pizza with cash",
+          "Change the restaurant location",
+          "Add a drink to the order",
+          "Choose the type of crust for the pizza"
+        ],
+        "answer": 3,
+        "explanation": "B says there is a choice of crust and A asks \"What are the choices?\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-8ed325ce",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Inspecting a used car",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I was thinking about buying this used car, and was wondering if you would take a look at it for me to see if it has any problems."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Sure, pull up over there and we'll take a look."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I just wasn't sure what to look for."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "The first thing you do is look for any signs of wear both inside and out. We will also look at the body for signs of major repair."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Someone told me that I could go online and see if the car is listed as having been in a major accident."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yes, that's right. Next, we will turn on the engine and I will check under the hood to look at the hoses and belts."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Should we take the car for a drive?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yes, but before we pull away, let's check to make sure that the radio, turn signals, lights, and seats all work properly."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "As I am driving what should I be checking?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "You want to make sure that the brakes don't pull to one side and that the car has good alignment and acceleration."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Could you take a few minutes and see if there are any problems with this used car that I am thinking of buying?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I am happy to help. Just pull up and we'll give it a good look."
+      }
+    ],
+    "topics": [
+      "appointments"
+    ],
+    "group": "taskmaster:8ed325ce",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-8ed325ce-4daf-4f4c-a6b7-a2ce287c0ed1",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What does A ask the mechanic to do?",
+        "options": [
+          "Sell a used car to the shop",
+          "Repair a damaged car",
+          "Inspect a used car A may buy",
+          "Teach A how to change a tire"
+        ],
+        "answer": 2,
+        "explanation": "A says 'I was thinking about buying this used car' and asks B to look at it."
+      },
+      {
+        "q": "What can A do online?",
+        "options": [
+          "Check whether the car had a major accident",
+          "Compare prices of similar cars",
+          "Book a test drive",
+          "Order replacement parts"
+        ],
+        "answer": 0,
+        "explanation": "A says someone told them to 'go online and see if the car is listed as having been in a major accident'."
+      },
+      {
+        "q": "What should A check while driving?",
+        "options": [
+          "Whether the car pulls to one side",
+          "Whether the horn is loud",
+          "Whether the paint has scratches",
+          "Whether the tires are new"
+        ],
+        "answer": 0,
+        "explanation": "B says 'make sure that the brakes don't pull to one side'."
+      },
+      {
+        "q": "What will B inspect after starting the engine?",
+        "options": [
+          "The seat belts and mirrors",
+          "The paint and the windows",
+          "The hoses and belts under the hood",
+          "The trunk and the spare tire"
+        ],
+        "answer": 2,
+        "explanation": "B says 'I will check under the hood to look at the hoses and belts'."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-90ef9c75",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Scheduling a car appointment",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I need you to book an appointment to get some work done on my car."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Where will the car be serviced and when does it need to be done?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "The shop I go to is called Intelligent Auto Solutions, I need it ready sometime this week."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Would it be okay to make the appointment for Friday, your schedule will be less busy then."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Maybe it should be done a bit sooner than Friday actually, now that I think about it."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Would Wednesday be better for you then?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Wednesday sounds perfect."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What name and number should I make the appointment under?"
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling"
+    ],
+    "group": "taskmaster:90ef9c75",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-90ef9c75-c53a-4367-954c-600b637516e1",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What does A need?",
+        "options": [
+          "A car appointment this week",
+          "A rental car for a trip",
+          "A new car",
+          "A refund from a shop"
+        ],
+        "answer": 0,
+        "explanation": "A says 'I need you to book an appointment to get some work done on my car.'"
+      },
+      {
+        "q": "Which day do they choose?",
+        "options": [
+          "Monday",
+          "Friday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "answer": 2,
+        "explanation": "A says 'Wednesday sounds perfect.'"
+      },
+      {
+        "q": "Why does B first suggest Friday?",
+        "options": [
+          "A's schedule is less busy that day",
+          "The shop is closed earlier in the week",
+          "Friday has the cheapest price",
+          "The mechanic is only free then"
+        ],
+        "answer": 0,
+        "explanation": "B says 'your schedule will be less busy then.'"
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-930955d6",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Car diagnostic and oil change",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Thank you."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Ok, the online assistant said they can fit you in at 3 PM at the earliest. Will the vehicle make it there and at that time?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes, I think it is drivable at least enough to get it there by 3:00 PM."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Please be aware that there is a $120 diagnostic fee that will be charged but will be reduced depending on what they discover about the problem with the car."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Ok, I recently lost my wallet and I am waiting on new cards. Can I pay with cash?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Yes, but be sure to have identification of some kind on you."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Ok, will do. Thank you."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "No problem, is there anything else I can help you with?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes, can you see if they can change the oil while it's there. Then, everything will be good to go."
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling"
+    ],
+    "group": "taskmaster:930955d6",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-930955d6-69a1-4720-b6bf-abcd3ae6fd3a",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "Why does A ask to pay with cash?",
+        "options": [
+          "A prefers not to use credit cards",
+          "The shop only takes cash payments",
+          "A lost a wallet and is waiting for new cards",
+          "A forgot the card at home"
+        ],
+        "answer": 2,
+        "explanation": "A says \"I recently lost my wallet and I am waiting on new cards.\""
+      },
+      {
+        "q": "What does B say about the diagnostic fee?",
+        "options": [
+          "It covers the cost of the oil change",
+          "It is paid only if A returns",
+          "It must be paid online first",
+          "It may be reduced depending on the problem found"
+        ],
+        "answer": 3,
+        "explanation": "B says the fee \"will be reduced depending on what they discover.\""
+      },
+      {
+        "q": "What extra service does A ask for?",
+        "options": [
+          "An oil change during the visit",
+          "A new set of tires",
+          "A car wash at pickup",
+          "A battery replacement"
+        ],
+        "answer": 0,
+        "explanation": "A asks if they \"can change the oil while it's there.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-a1fdea22",
+    "type": "listenConversation",
+    "cefr": "B1",
+    "skill": "listening",
+    "title": "Booking a car inspection",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yea I guess I'll have to."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Alright then, one moment while I get you set up."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "You know what? It's a bit urgent because I want this car ready by Thursday for the business meeting. See if they can squeeze me in tomorrow afternoon."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Oh, they do have a few openings for Tuesday. Any specific time you prefer?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yep! Get me in around noon, that way I can drop the car off during my lunch."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Alright. I can get you set up then. I am just looking over a bit of information before I confirm."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Thank you."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Alright, I am getting you set up. Before I submit, I just want to let you know that the inspection fee is $35.00 too."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "That's no problem, but thank you for letting me know."
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:a1fdea22",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-a1fdea22-afc1-49cf-ba83-76907b408564",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "Why is the car repair urgent for A?",
+        "options": [
+          "A needs the car for a business meeting",
+          "A is leaving on vacation",
+          "The car is being sold",
+          "The warranty is ending"
+        ],
+        "answer": 0,
+        "explanation": "A says 'I want this car ready by Thursday for the business meeting.'"
+      },
+      {
+        "q": "What time does A prefer to drop the car off?",
+        "options": [
+          "Early in the morning",
+          "Late in the afternoon",
+          "Mid-morning",
+          "Around noon"
+        ],
+        "answer": 3,
+        "explanation": "A says 'Get me in around noon, that way I can drop the car off during my lunch.'"
+      },
+      {
+        "q": "What does B warn A about before submitting?",
+        "options": [
+          "A $35 cancellation fee",
+          "A $35 delivery charge",
+          "A $35 parts deposit",
+          "A $35 inspection fee"
+        ],
+        "answer": 3,
+        "explanation": "B says 'the inspection fee is $35.00 too.'"
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-a7c7b98e",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Booking a car inspection",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Thank you. What is the reason for your appointment?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Every time I start up my car, the driver's light on the dashboard blinks repeatedly and it doesn't go away. I'm concerned about what that indicates."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Ok I am looking for available appointments at Intelligent Auto Solutions. When would you like to bring in your vehicle?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I would like to have it done as soon as possible. Maybe tomorrow at 7 am?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I'm sorry, there are no available appointments at that time."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "What about anytime in the afternoon?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "There is an available appointment tomorrow at 12 pm noon."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Is there anything earlier than that? I need to have it done by tomorrow before a long drive."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "The earliest appointment tomorrow is at 10:30 am."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I'll take that."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "There will be an initial inspection fee of $69.99. Is this ok?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yes, that's fine."
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:a7c7b98e",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-a7c7b98e-607d-47aa-8ff3-af57689d9142",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "Why does the customer need an appointment?",
+        "options": [
+          "The air conditioning is not working",
+          "A dashboard light keeps blinking",
+          "The tires keep losing air",
+          "The engine will not start"
+        ],
+        "answer": 1,
+        "explanation": "B says \"the driver's light on the dashboard blinks repeatedly\"."
+      },
+      {
+        "q": "Why does the customer want an earlier appointment?",
+        "options": [
+          "For a long drive tomorrow",
+          "To avoid the inspection fee",
+          "Because the car is unsafe today",
+          "To meet a friend for lunch"
+        ],
+        "answer": 0,
+        "explanation": "B says \"I need to have it done by tomorrow before a long drive.\""
+      },
+      {
+        "q": "What time is the appointment?",
+        "options": [
+          "7:00 am",
+          "10:30 am",
+          "12:00 noon",
+          "3:00 pm"
+        ],
+        "answer": 1,
+        "explanation": "A says \"The earliest appointment tomorrow is at 10:30 am\" and B says \"I'll take that.\""
+      },
+      {
+        "q": "What does the customer say about the inspection fee?",
+        "options": [
+          "They accept it",
+          "They find it too high",
+          "They ask for a discount",
+          "They ask to pay later"
+        ],
+        "answer": 0,
+        "explanation": "B answers \"Yes, that's fine.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-b21d6d1b",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Dropping off a Jeep",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay so they don't have anything open for Thursday they would rather have you bring it in tomorrow morning will that work?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What time in the morning?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "They said they open at 8 and you can drop it off at any time."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Okay, I could maybe do that, do they offer a loaner?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "They do have loaner vehicles, but your Jeep isn't under warranty so there will be a charge."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Okay how much extra is that going to cost?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Fifty dollars a day."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Okay please let them know I will be there in the morning and I will need a loaner. How late can I pick it up?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "They are open until 8pm tomorrow."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Okay I should be able to make it back by 7pm to get my Jeep."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, so I will make you an appointment for 8am to drop off your Jeep and pick up a loaner. Anything else I should tell them?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Actually, yes I'd like them to do an oil change while it's there already."
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:b21d6d1b",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-b21d6d1b-a358-477c-92f9-fa72816d400f",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "Why does A suggest tomorrow morning?",
+        "options": [
+          "Nothing is open on Thursday",
+          "The parts will only arrive tomorrow",
+          "The mechanic is away until Friday",
+          "The Jeep needs a long inspection"
+        ],
+        "answer": 0,
+        "explanation": "A says \"they don't have anything open for Thursday.\""
+      },
+      {
+        "q": "Why must B pay for a loaner vehicle?",
+        "options": [
+          "The Jeep is not under warranty",
+          "The shop charges for all weekend use",
+          "B asked for a luxury model",
+          "B is returning it after closing"
+        ],
+        "answer": 0,
+        "explanation": "A says \"your Jeep isn't under warranty so there will be a charge.\""
+      },
+      {
+        "q": "When does B expect to pick up the Jeep?",
+        "options": [
+          "At eight the next morning",
+          "Around seven the next evening",
+          "At eight the next evening",
+          "Around noon the next day"
+        ],
+        "answer": 1,
+        "explanation": "B says \"I should be able to make it back by 7pm.\""
+      },
+      {
+        "q": "What extra service does B request?",
+        "options": [
+          "A tire rotation",
+          "An oil change",
+          "A car wash",
+          "A brake inspection"
+        ],
+        "answer": 1,
+        "explanation": "B says \"I'd like them to do an oil change while it's there.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-b3fdecb0",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay great. What would you like me to order for you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I'd like you to order me a venti iced coffee with skim milk and a little room at the top for sugar."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay so just to confirm, you'd like me to order you a venti iced coffee with skim milk and a little room on the top for sugar from the Starbucks on Fleur Drive?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "That is correct!"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay. Is there anything else you would like me to add to the order?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yes. Please ask them to put whipped cream on the top."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay, I can do that. I'll order it now and let you know when I pick it up."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Great!"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "It looks like they don't currently have any whip cream in the store. Is it okay if the iced coffee doesn't have any whipped cream on it?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "That's fine. I'll take the drink without any whipped cream."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay great. I'll go ahead and order this drink for you now."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Great! Please keep me updated on the status of the order."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:b3fdecb0",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-b3fdecb0-7440-40fb-a2c8-2bf774884601",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "title": "Ordering a Starbucks coffee",
+    "questions": [
+      {
+        "q": "What is the main purpose of the conversation?",
+        "options": [
+          "To order an iced coffee for pickup",
+          "To complain about a late drink",
+          "To ask about store opening hours",
+          "To cancel a coffee subscription"
+        ],
+        "answer": 0,
+        "explanation": "The customer says 'I'd like you to order me a venti iced coffee' and the assistant places the order."
+      },
+      {
+        "q": "What is the store missing today?",
+        "options": [
+          "Skim milk",
+          "Whipped cream",
+          "Venti cups",
+          "Sugar packets"
+        ],
+        "answer": 1,
+        "explanation": "The assistant says 'they don't currently have any whip cream in the store'."
+      },
+      {
+        "q": "How does the customer react when the whipped cream is unavailable?",
+        "options": [
+          "Accepts the drink without it",
+          "Cancels the whole order",
+          "Asks to try another store",
+          "Asks for extra sugar instead"
+        ],
+        "answer": 0,
+        "explanation": "The customer says 'That's fine. I'll take the drink without any whipped cream.'"
+      },
+      {
+        "q": "What will the assistant most likely do next?",
+        "options": [
+          "Cancel the order and apologize",
+          "Switch to a different drink",
+          "Ask the customer to come to the store",
+          "Place the order and report back"
+        ],
+        "answer": 3,
+        "explanation": "The assistant says 'I'll go ahead and order this drink' and the customer asks to be kept updated."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-bc8c0bd3",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Ordering a large pizza",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Hi, Could you do me a favor and order a large pizza for me?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "No problem. From which pizza place?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "From Dominos."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "How many large pizzas do you want?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Just one large pizza."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "OK. And what do you want on it?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Pepperoni and salami. And can I change the tomato sauce for their garlic sauce?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Yes, that is one of their sauce options. Do you want to pick it up or order for delivery?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I will pick it up on my way home."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "OK. There are two Dominos. Which one do you want to pick it up from?"
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:bc8c0bd3",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-bc8c0bd3-96a8-452f-8239-a5328bb67cc0",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the purpose of the conversation?",
+        "options": [
+          "To ask for a pizza delivery",
+          "To cancel an earlier order",
+          "To find a cheap pizza deal",
+          "To order a large pizza for pickup"
+        ],
+        "answer": 3,
+        "explanation": "A asks B to \"order a large pizza\" and later says \"I will pick it up.\""
+      },
+      {
+        "q": "What change does A make to the pizza?",
+        "options": [
+          "Extra cheese instead of salami",
+          "Thin crust instead of thick crust",
+          "Ranch dressing on the side",
+          "Garlic sauce instead of tomato sauce"
+        ],
+        "answer": 3,
+        "explanation": "A asks \"can I change the tomato sauce for their garlic sauce?\""
+      },
+      {
+        "q": "How will A get the pizza?",
+        "options": [
+          "By having it delivered to work",
+          "By asking a friend to collect it",
+          "By picking it up on the way home",
+          "By ordering at the restaurant"
+        ],
+        "answer": 2,
+        "explanation": "A says \"I will pick it up on my way home.\""
+      },
+      {
+        "q": "What does A still need to decide?",
+        "options": [
+          "Whether to pick up or deliver",
+          "How many pizzas to order",
+          "Which of two Dominos shops to use",
+          "Which toppings to put on it"
+        ],
+        "answer": 2,
+        "explanation": "B asks \"There are two Dominos. Which one do you want...?\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-c9da148a",
+    "type": "listenConversation",
+    "cefr": "B1+",
+    "skill": "listening",
+    "title": "Booking a tune-up",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "What is the nature of your appointment?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I need to bring my car in for a 50,000 mile tune up."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "When would you like to schedule your appointment?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I'd like to drop off my car on Saturday morning."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "They are currently booked on Saturday, would you like to try for an earlier booking?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Yes, Try Friday morning."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Friday morning is available, would you like me to make a Friday morning appointment?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Actually, I'm busy on Friday, see if you can get me in on Thursday morning."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Ok, I will schedule you to drop off your car on Thursday morning."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "How much will this cost me?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "A 50,000 mile tune up for your car would come out $375."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "How long will this take?"
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:c9da148a",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-c9da148a-367f-459f-809f-3eff40f63f36",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "Why does the customer call?",
+        "options": [
+          "To book a fifty-thousand-mile tune-up",
+          "To ask about an oil leak",
+          "To report a broken headlight",
+          "To cancel an earlier service"
+        ],
+        "answer": 0,
+        "explanation": "B says \"I need to bring my car in for a 50,000 mile tune up.\""
+      },
+      {
+        "q": "Why can't B drop off the car on Saturday?",
+        "options": [
+          "The customer is out of town",
+          "The shop is closed on weekends",
+          "The tune-up takes too long",
+          "The shop is already booked"
+        ],
+        "answer": 3,
+        "explanation": "A says \"They are currently booked on Saturday.\""
+      },
+      {
+        "q": "On which day will B drop off the car?",
+        "options": [
+          "Thursday morning",
+          "Friday morning",
+          "Saturday morning",
+          "Sunday morning"
+        ],
+        "answer": 0,
+        "explanation": "A says \"I will schedule you to drop off your car on Thursday morning.\""
+      },
+      {
+        "q": "How much will the tune-up cost?",
+        "options": [
+          "Two hundred seventy-five dollars",
+          "Three hundred fifty dollars",
+          "Three hundred seventy-five dollars",
+          "Four hundred twenty-five dollars"
+        ],
+        "answer": 2,
+        "explanation": "A says the tune up \"would come out $375.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-cbd949b7",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Booking a service before travel",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Hey, can you make an appointment for me at Intelligent Auto Solutions?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Sure, when did you want to go in?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I'm going to be travelling soon, so I would like to get it in as soon as possible."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "There is an appointment for Thursday morning available."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Is there anything open sooner than that? I want to make sure I get it back before my trip."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I can request an urgent service and have the shop call you if an earlier time slot opens up."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Ok, set the appointment for Thursday, but put the urgent request on it please, and maybe I can get in before then."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What type of car are you requesting service for?"
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:cbd949b7",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-cbd949b7-6de0-4435-a1ef-791266d0df2c",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "Why is A making this appointment?",
+        "options": [
+          "To rent a car for a trip",
+          "To get the car serviced before a trip",
+          "To ask for a repair estimate",
+          "To cancel a service appointment"
+        ],
+        "answer": 1,
+        "explanation": "A says 'I want to make sure I get it back before my trip.'"
+      },
+      {
+        "q": "What is the earliest appointment available?",
+        "options": [
+          "Thursday morning",
+          "Wednesday afternoon",
+          "Friday morning",
+          "Monday at noon"
+        ],
+        "answer": 0,
+        "explanation": "B says 'There is an appointment for Thursday morning available.'"
+      },
+      {
+        "q": "How might A get an earlier time?",
+        "options": [
+          "A can visit a different shop",
+          "B can move the trip to another date",
+          "The urgent request asks the shop to call if a slot opens",
+          "A can pay extra for a faster repair"
+        ],
+        "answer": 2,
+        "explanation": "B offers to 'request an urgent service and have the shop call you' if an earlier slot opens."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-ced38316",
+    "type": "listenConversation",
+    "cefr": "B1",
+    "skill": "listening",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Would tomorrow 8 am work for you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "No, I would prefer to have my car serviced today."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I know we are fully booked for today but let me check the schedule and see if anyone cancelled."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Thanks."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "There's a slot at 2 pm today that just opened 5 minutes ago. Would you like that?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yes. I would prefer that my car door be fixed as soon as possible."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "The initial inspection for the service costs $300. Additional costs may be incurred depending on what the technicians see."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "That's expensive but ok."
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:ced38316",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-ced38316-ce84-4986-8c61-45a041ee0758",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "title": "Same-day car door repair",
+    "questions": [
+      {
+        "q": "Why does the customer reject the 8 am slot tomorrow?",
+        "options": [
+          "It is too early for work",
+          "The shop is too far",
+          "They want the repair done today",
+          "The car door is already fixed"
+        ],
+        "answer": 2,
+        "explanation": "The customer says 'I would prefer to have my car serviced today.'"
+      },
+      {
+        "q": "What time is the slot that just opened?",
+        "options": [
+          "2 pm today",
+          "8 am tomorrow",
+          "2 pm tomorrow",
+          "5 pm today"
+        ],
+        "answer": 0,
+        "explanation": "The assistant says 'There's a slot at 2 pm today that just opened'."
+      },
+      {
+        "q": "How does the customer feel about the $300 inspection fee?",
+        "options": [
+          "Unhappy about the price but accepts it",
+          "Pleased with the low price",
+          "Confused about what it covers",
+          "Determined to negotiate it down"
+        ],
+        "answer": 0,
+        "explanation": "The customer says 'That's expensive but ok.'"
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-d77c94d4",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Ordering several pizzas tonight",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I would like to order a few pizzas from Sir Pizza tonight."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Sure, I can help you with that. What type of pizzas did you want to order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "First, I would like a large pepperoni."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Ok, I have an order for a large pepperoni pizza. Would you like anything else?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes, I would also like to get a medium taco pizza, without black olives."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I have also ordered a medium taco pizza without black olives. Would you like to add anything else to your order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I want a medium pizza with hamburger and sausage as well please."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I have the order for the medium hamburger and sausage placed. Any other items for your order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes, add two garden salads and a two liter soda, and that will be all."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "What kind of soda do you want to order?"
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:d77c94d4",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-d77c94d4-5fe7-482d-817e-ea6a446dbdfa",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the main purpose of the call?",
+        "options": [
+          "To return a damaged order",
+          "To order several pizzas for tonight",
+          "To ask for a delivery time",
+          "To change a reservation"
+        ],
+        "answer": 1,
+        "explanation": "A says 'I would like to order a few pizzas from Sir Pizza tonight.'"
+      },
+      {
+        "q": "Which pizza has no black olives?",
+        "options": [
+          "The large pepperoni",
+          "The medium taco pizza",
+          "The hamburger and sausage pizza",
+          "None of the pizzas"
+        ],
+        "answer": 1,
+        "explanation": "A asks for 'a medium taco pizza, without black olives'."
+      },
+      {
+        "q": "What else does A add to the pizzas?",
+        "options": [
+          "Garlic bread and a dessert",
+          "Chicken wings and two sodas",
+          "Two salads and a large bottle of soda",
+          "Fries and a milkshake"
+        ],
+        "answer": 2,
+        "explanation": "A says 'add two garden salads and a two liter soda'."
+      },
+      {
+        "q": "What does B ask at the end?",
+        "options": [
+          "What size the pizzas should be",
+          "Where to deliver the order",
+          "When A will pick up the order",
+          "Which kind of soda A wants"
+        ],
+        "answer": 3,
+        "explanation": "B asks 'What kind of soda do you want to order?'"
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-dd490ff1",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Getting help with car trouble",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hey, it's me. I'm in a bind and I really need your help."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Oh no, what's wrong?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I'm driving around doing errands and my car is acting up."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "How so?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Well, every time I turn a corner the car makes a grinding sound."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "That's not good."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Nope, and worse there's some side to side jolting whenever I turn too."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "That's not good at all."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "No, so can you call Intelligent Auto Solutions for me and book an appointment as soon as possible?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Absolutely, checking now. What's your car's make, model, and year?"
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:dd490ff1",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-dd490ff1-3b70-4d31-a182-a897e007a983",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "Why is A calling B?",
+        "options": [
+          "To ask B for a ride home from work",
+          "To report a car stolen at the mall",
+          "To get help with a car that is having problems",
+          "To ask B to buy parts for the engine"
+        ],
+        "answer": 2,
+        "explanation": "A says \"I'm in a bind\" and \"my car is acting up\"."
+      },
+      {
+        "q": "When does the grinding sound happen?",
+        "options": [
+          "When the car starts up",
+          "When A brakes at a light",
+          "When A turns a corner",
+          "When A drives on the freeway"
+        ],
+        "answer": 2,
+        "explanation": "A says \"every time I turn a corner the car makes a grinding sound\"."
+      },
+      {
+        "q": "How does B react to A's problem?",
+        "options": [
+          "B seems annoyed and refuses to help",
+          "B is sympathetic and agrees to help",
+          "B says the problem is not serious",
+          "B suggests selling the car"
+        ],
+        "answer": 1,
+        "explanation": "B says \"Oh no, what's wrong?\" and \"Absolutely, checking now.\""
+      },
+      {
+        "q": "What will A probably do next?",
+        "options": [
+          "Give B the car's make, model and year",
+          "Drive straight to the repair shop",
+          "Call a tow truck for the car",
+          "Ask B to cancel the appointment"
+        ],
+        "answer": 0,
+        "explanation": "B asks \"What's your car's make, model, and year?\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-de7083f7",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Hello, I would like to order a coffee from Starbucks please."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Will this be from the Starbucks you usually go to in Nashville?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yep, I would like to pick it up from that location."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Location has been selected, what would you like to order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I would like a caramel latte venti with soy milk and no cream."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "This location is currently out of soy milk, would you like another milk option?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Can I change my order then?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Yes, I will take off the last order and start fresh for the new order."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I would like to just have a venti blonde americano, no milk."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Is that all for this order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes that is all, unless I need to change it again."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:de7083f7",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-de7083f7-4de3-4385-9594-48b2b953b01d",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "title": "Changing a Starbucks order",
+    "questions": [
+      {
+        "q": "What is the main topic of the conversation?",
+        "options": [
+          "Asking for directions to a cafe",
+          "Complaining about a late delivery",
+          "Choosing a gift card",
+          "Placing and changing a coffee order"
+        ],
+        "answer": 3,
+        "explanation": "The customer orders a latte, then 'Can I change my order then?'"
+      },
+      {
+        "q": "Why does the customer change the order?",
+        "options": [
+          "The store is out of soy milk",
+          "The latte costs too much",
+          "The caramel syrup has run out",
+          "The customer wants a larger size"
+        ],
+        "answer": 0,
+        "explanation": "The assistant says 'This location is currently out of soy milk'."
+      },
+      {
+        "q": "What does the customer finally order?",
+        "options": [
+          "A venti caramel latte with oat milk",
+          "A tall americano with soy milk",
+          "A venti latte with no cream",
+          "A venti blonde americano, no milk"
+        ],
+        "answer": 3,
+        "explanation": "The customer says 'a venti blonde americano, no milk'."
+      },
+      {
+        "q": "What does the customer imply by 'unless I need to change it again'?",
+        "options": [
+          "They are angry at the store",
+          "They want to cancel the order",
+          "They may change their mind again",
+          "They have already paid"
+        ],
+        "answer": 2,
+        "explanation": "The phrase jokes that another unavailable item could force one more change."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-e32859b3",
+    "type": "listenConversation",
+    "cefr": "B1",
+    "skill": "listening",
+    "title": "Booking an oil change",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Excellent. Did you have any specific day or time you wanted to come in for that oil change and tune up?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "What days are you open?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "We're here Monday through Friday till 6 pm."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay. I can do any time on Mondays actually."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Excellent, that's usually our slowest day. Do you prefer morning or afternoon?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Morning would be best."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "We can get you in for those services next Monday the 18th at 10 am. Would that work for you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yeah that would be great."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Did you want to add any additional services to that tune up and oil change? Car wash, detailing, anything?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "No that's okay, I will just stick with the tune up and oil change."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Alright sounds good. And you also get 20% off these services since you're a first time customer."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Wow thank you so much!"
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:e32859b3",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-e32859b3-88ca-4617-b7ce-1bc9cd4d42cb",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "Why does the customer contact the shop?",
+        "options": [
+          "To book an oil change and tune up",
+          "To complain about a repair price",
+          "To ask about a lost car key",
+          "To pick up a finished car"
+        ],
+        "answer": 0,
+        "explanation": "A asks about \"that oil change and tune up\"."
+      },
+      {
+        "q": "What does A say about Mondays?",
+        "options": [
+          "It is their busiest day",
+          "The shop is closed on Mondays",
+          "They open later on Mondays",
+          "It is usually their slowest day"
+        ],
+        "answer": 3,
+        "explanation": "A says \"that's usually our slowest day\"."
+      },
+      {
+        "q": "What time is the appointment?",
+        "options": [
+          "At 9 am on Monday",
+          "At 10 am on Monday",
+          "At 6 pm on Monday",
+          "At 10 am on Friday"
+        ],
+        "answer": 1,
+        "explanation": "A offers \"next Monday the 18th at 10 am\" and B agrees."
+      },
+      {
+        "q": "Why does the customer get a discount?",
+        "options": [
+          "They are a loyal customer",
+          "They added a car wash",
+          "They booked for a Friday",
+          "They are a first-time customer"
+        ],
+        "answer": 3,
+        "explanation": "A says \"20% off ... since you're a first time customer\"."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-ed21ab3d",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Booking a headlight repair",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Hi, I'm having an issue with my car can you help?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Sure, what's the problem?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "The light just came on saying that I have a headlight out."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "OK, when do you want to get this fixed?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Right away. Today would be ideal."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Do you already know where you want to take it?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Yes, Intelligent Auto Solutions."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "OK, let me pull up the website."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "They have an online scheduler, so you can see what they have today."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "OK, I'm there and it looks like they only have two appointments open today. Could you be there in 15 minutes?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "No, I'm at least 45 minutes away."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "OK, then the only other time would be 4 pm tonight."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Can you tell if they will be able to fix it on the spot?"
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:ed21ab3d",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-ed21ab3d-55f7-449c-9c82-d35696b75e7c",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "Why does the customer need help?",
+        "options": [
+          "The car will not start this morning",
+          "A tire lost air on the way here",
+          "The engine light came on yesterday",
+          "A headlight stopped working and needs a fix"
+        ],
+        "answer": 3,
+        "explanation": "A says the light came on \"saying that I have a headlight out.\""
+      },
+      {
+        "q": "Why can't A take the first appointment?",
+        "options": [
+          "A is at least forty-five minutes away",
+          "A is still at work until noon",
+          "A needs a ride to the shop",
+          "A does not know the shop address"
+        ],
+        "answer": 0,
+        "explanation": "A says \"I'm at least 45 minutes away.\""
+      },
+      {
+        "q": "What time is the only other appointment today?",
+        "options": [
+          "One in the afternoon",
+          "Two in the afternoon",
+          "Four in the afternoon",
+          "Six in the evening"
+        ],
+        "answer": 2,
+        "explanation": "B says \"the only other time would be 4 pm tonight.\""
+      },
+      {
+        "q": "What does A want to know at the end?",
+        "options": [
+          "Whether the repair can be done right away",
+          "How much the repair will cost",
+          "Whether a loaner car is available",
+          "Which parts the shop will use"
+        ],
+        "answer": 0,
+        "explanation": "A asks \"will they be able to fix it on the spot?\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-f3ec3ca9",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Ordering a Starbucks latte",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hello, I would like to order a coffee drink from Starbucks."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Ok, what Starbucks do you want to order from?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I'd like to order from the Starbucks in downtown Oakland."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Ok, and what do you want to order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I want to order a latte."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Ok, what size do you want to order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I want to order a Grande."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Great, what type of milk do you want in your latte?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I would like regular 2% milk."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Ok, 2% milk. Would you like to add anything else?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yes, I would like to add a vanilla flavor shot."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Ok, and do you want your drink to be hot or iced?"
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:f3ec3ca9",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-f3ec3ca9-3542-45fc-bed3-8acb9d1d1be8",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is A asking B to do?",
+        "options": [
+          "Find the nearest coffee shop",
+          "Reserve a table at a cafe",
+          "Deliver coffee to the office",
+          "Place a coffee order at a Starbucks"
+        ],
+        "answer": 3,
+        "explanation": "A says \"I would like to order a coffee drink from Starbucks.\""
+      },
+      {
+        "q": "What kind of milk does A choose?",
+        "options": [
+          "Almond milk",
+          "Regular two percent milk",
+          "Oat milk",
+          "Nonfat milk"
+        ],
+        "answer": 1,
+        "explanation": "A says \"I would like regular 2% milk.\""
+      },
+      {
+        "q": "What flavor does A add to the latte?",
+        "options": [
+          "Vanilla",
+          "Caramel",
+          "Hazelnut",
+          "Mocha"
+        ],
+        "answer": 0,
+        "explanation": "A says \"I would like to add a vanilla flavor shot.\""
+      },
+      {
+        "q": "What does B still need to find out?",
+        "options": [
+          "Which Starbucks location to use",
+          "What size the latte should be",
+          "Which kind of milk to use",
+          "Whether the drink should be hot or iced"
+        ],
+        "answer": 3,
+        "explanation": "B ends with \"do you want your drink to be hot or iced?\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-f9dd9e74",
+    "type": "listenConversation",
+    "cefr": "B1",
+    "skill": "listening",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Interesting problem, has the car had any other problems?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "None at all, just this one. Runs fine otherwise."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "There is an opening for tomorrow morning, would that be a good time to bring your Ford Focus in?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Actually, that's a bad time. I really need my car and was wondering if there was anything sooner. Maybe today at 1pm?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I can check, but the shop is really busy on most Fridays."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I understand."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I am sorry, there is not an opening for today at 1:00pm, I can check any other time for today that is good for you."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "How about 8:30am?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "8:30am is also booked up. Would you like to check another time?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Let's see, how about 10:00am?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "There is not an opening at 10:00am, however there is one at 10:30am. Would you like to book that one?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Yes, that time would be perfect!"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Glad to hear, can I have a name and number to confirm the appointment?"
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:f9dd9e74",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-f9dd9e74-d53a-4263-bb85-90cd4bc09ea4",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "title": "Finding a Friday appointment",
+    "questions": [
+      {
+        "q": "What is the main purpose of the call?",
+        "options": [
+          "To buy a Ford Focus",
+          "To complain about a long wait",
+          "To book a car appointment",
+          "To report a stolen car"
+        ],
+        "answer": 2,
+        "explanation": "The assistant offers openings and asks for a name and number 'to confirm the appointment'."
+      },
+      {
+        "q": "What does the customer say about the car's condition?",
+        "options": [
+          "It has just one problem",
+          "It has several problems",
+          "It does not start at all",
+          "It needs a new engine"
+        ],
+        "answer": 0,
+        "explanation": "The customer says 'None at all, just this one. Runs fine otherwise.'"
+      },
+      {
+        "q": "Which time does the customer try first today?",
+        "options": [
+          "1:00 pm",
+          "8:30 am",
+          "10:00 am",
+          "10:30 am"
+        ],
+        "answer": 0,
+        "explanation": "The customer asks 'Maybe today at 1pm?'"
+      },
+      {
+        "q": "Which appointment time is finally booked?",
+        "options": [
+          "8:30 am",
+          "10:00 am",
+          "1:00 pm",
+          "10:30 am"
+        ],
+        "answer": 3,
+        "explanation": "The assistant offers 10:30am and the customer says 'that time would be perfect'."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm1s-f9f962df",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I really think I need the van in sooner than that."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Well, we have something tomorrow. What time could you bring the mini-van in?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I am free before 8AM tomorrow, but I do think that this needs attention before that."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "What else concerns you as urgent?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Well, the car also wouldn't start for me several times this week, and I don't want to break down on the way to the shop if I keep waiting."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yes, I do understand that concern. How about you drop the mini-van off tonight at 5PM and we'll try to take a look at it."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "That sounds great! I can do that."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "There will be an extra $50 fee for the expedited service, though. Would that be okay?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I suppose that sounds okay."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "There also will be a fee of $80 for inspecting the car to determine the issue. We can call you with a quote to fix afterward."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Ok, that is fine. Thank you."
+      }
+    ],
+    "topics": [
+      "appointments",
+      "scheduling"
+    ],
+    "group": "taskmaster:f9f962df",
+    "source": "taskmaster",
+    "sourceId": "tm1s/dlg-f9f962df-392e-4cfd-a9c0-484eaffe69bf",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "title": "Rushing a mini-van repair",
+    "questions": [
+      {
+        "q": "Why does the customer want an earlier appointment?",
+        "options": [
+          "The shop closes early tomorrow",
+          "The customer is leaving town",
+          "The warranty is about to expire",
+          "The van may break down on the way"
+        ],
+        "answer": 3,
+        "explanation": "The customer says the van would not start several times and 'I don't want to break down on the way'."
+      },
+      {
+        "q": "How much extra does the shop charge for fast service?",
+        "options": [
+          "$30",
+          "$50",
+          "$80",
+          "$100"
+        ],
+        "answer": 1,
+        "explanation": "The mechanic says 'There will be an extra $50 fee for the expedited service'."
+      },
+      {
+        "q": "When will the customer drop off the mini-van?",
+        "options": [
+          "Tonight at 5 PM",
+          "Tomorrow before 8 AM",
+          "Tomorrow at 5 PM",
+          "Tonight at 8 PM"
+        ],
+        "answer": 0,
+        "explanation": "The mechanic suggests 'tonight at 5PM' and the customer says 'I can do that'."
+      },
+      {
+        "q": "How does the customer feel about the extra fees?",
+        "options": [
+          "Angry enough to refuse",
+          "Confused and asking questions",
+          "Delighted by the low price",
+          "Unenthusiastic but willing to pay"
+        ],
+        "answer": 3,
+        "explanation": "The customer says 'I suppose that sounds okay', which shows reluctant agreement."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-07a5eb77",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Indian takeout with salads",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hello. How can I help you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yeah, I'd like to place an order for some Indian food."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I can help you with your Indian food take out order. What would you like to order?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay. I'd like to get two orders of tandoori chicken. And one order of Indian lamb curry."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I have two orders of tandoori chicken and one order of Indian lamb Curry, anything else?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yeah, I need some kind of salads with those. What are my options?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Let me check what kind of salads they have."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Thank you."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:07a5eb77",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-07a5eb77-8852-41f7-a885-bf6c2c9404d1",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What kind of food does the customer order?",
+        "options": [
+          "Italian takeout",
+          "Indian takeout",
+          "Thai takeout",
+          "Mexican takeout"
+        ],
+        "answer": 1,
+        "explanation": "B says \"an order for some Indian food\" and A mentions the \"Indian food take out order\"."
+      },
+      {
+        "q": "How many orders of tandoori chicken does the customer want?",
+        "options": [
+          "Two",
+          "One",
+          "Three",
+          "Four"
+        ],
+        "answer": 0,
+        "explanation": "B asks for \"two orders of tandoori chicken\"."
+      },
+      {
+        "q": "What does the customer ask about at the end?",
+        "options": [
+          "The delivery time",
+          "The price of the lamb curry",
+          "The restaurant's opening hours",
+          "The salads they can have"
+        ],
+        "answer": 3,
+        "explanation": "B says \"I need some kind of salads with those. What are my options?\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-3188fb39",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Ordering Greek takeout",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Hi. How can I help you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Hello. I need to order takeout food for two people. And, I need to order some Greek food."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "I can help you with your takeout order. What would you like from the Greek restaurant?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I need two gyros and two large Diet Cokes."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, you would like to order two gyros and two large Diet Cokes. Anything else?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "No, that's it."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay. I have your personal details on file. Your order will be ready for pick-up in about 20 minutes."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Okay, great. Thank you."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "You're welcome. Bye."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Bye."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:3188fb39",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-3188fb39-b495-458a-848e-ab3bbc43ed26",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the customer doing in this call?",
+        "options": [
+          "Asking for directions to a Greek restaurant",
+          "Booking a table at a Greek restaurant",
+          "Complaining about a late delivery",
+          "Placing a takeout order for Greek food"
+        ],
+        "answer": 3,
+        "explanation": "B says \"I need to order takeout food\" and \"some Greek food\"."
+      },
+      {
+        "q": "What drinks does the customer order?",
+        "options": [
+          "Two large Diet Cokes",
+          "Two small lemonades",
+          "One large iced tea",
+          "Three bottles of water"
+        ],
+        "answer": 0,
+        "explanation": "B asks for \"two gyros and two large Diet Cokes\"."
+      },
+      {
+        "q": "How long until the order will be ready?",
+        "options": [
+          "About ten minutes",
+          "About twenty minutes",
+          "About thirty minutes",
+          "About forty-five minutes"
+        ],
+        "answer": 1,
+        "explanation": "A says it \"will be ready for pick-up in about 20 minutes\"."
+      },
+      {
+        "q": "For how many people is the food?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "One"
+        ],
+        "answer": 0,
+        "explanation": "B says \"takeout food for two people\"."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-3a6d6a60",
+    "type": "listenConversation",
+    "cefr": "B2+",
+    "skill": "listening",
+    "title": "Ordering Indian takeout for two",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hi, I would like to order Indian food for two."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Hello. I can help you with your takeout order for Indian food. What would you like to order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Can I get one serving of chicken tikka masala and one serving of punjabi lamb curry?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I have one order of chicken tikka masala and one order of punjabi lamb curry. Anything else?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Can I also get two servings of masala chai?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I will add two servings of masala chai, would you like to add anything else?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "That will be everything."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Ok, I have your personal details on file. Your order will be ready for pick-up in about 20 minutes."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Perfect. Thank you."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Have a great day. Goodbye."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:3a6d6a60",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-3a6d6a60-9258-4d5f-8ff7-320c8b00bd49",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the customer doing in this call?",
+        "options": [
+          "Booking a table for two",
+          "Ordering Indian takeout for two",
+          "Asking about a delivery delay",
+          "Cancelling a previous order"
+        ],
+        "answer": 1,
+        "explanation": "A says \"order Indian food for two\" and B calls it a \"takeout order\"."
+      },
+      {
+        "q": "How many servings of masala chai does the customer order?",
+        "options": [
+          "One",
+          "Three",
+          "Two",
+          "Four"
+        ],
+        "answer": 2,
+        "explanation": "A asks \"Can I also get two servings of masala chai?\""
+      },
+      {
+        "q": "What will the customer probably do in about 20 minutes?",
+        "options": [
+          "Wait for a delivery driver",
+          "Call to add more dishes",
+          "Collect the food at the restaurant",
+          "Cancel the order"
+        ],
+        "answer": 2,
+        "explanation": "B says the order \"will be ready for pick-up in about 20 minutes\"."
+      },
+      {
+        "q": "Which main dishes does the customer choose?",
+        "options": [
+          "Chicken tikka masala and lamb curry",
+          "Butter chicken and tandoori chicken",
+          "Chicken curry and mutton biryani",
+          "Lamb curry and vegetable korma"
+        ],
+        "answer": 0,
+        "explanation": "A orders \"chicken tikka masala and one serving of punjabi lamb curry\"."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-3cf1f842",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Ordering takeout spaghetti",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hi, I'd like to place a takeout order."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Hello. Okay, what is your order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yeah, I'd like to order some pasta. How about a large order of spaghetti and meatballs?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Ok, anything else?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yeah, I'd like to get a salad with that with ranch dressing and I'd also like a large Coke."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Your order, a portion of spaghetti with meatballs, salad with ranch dressing and a large Coke."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Ok."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Ok, I have your details on file. Your order will be ready for pick-up in about 20 minutes."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay, thank you."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:3cf1f842",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-3cf1f842-b53e-490a-83e1-b6a46c1ee726",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the customer doing in this call?",
+        "options": [
+          "Booking a table for dinner tonight",
+          "Placing a takeout order for pasta",
+          "Asking for a delivery to an office",
+          "Complaining about a late food order"
+        ],
+        "answer": 1,
+        "explanation": "A says \"I'd like to place a takeout order\" and asks for spaghetti and meatballs."
+      },
+      {
+        "q": "What dressing does the customer want on the salad?",
+        "options": [
+          "Italian dressing",
+          "Ranch dressing",
+          "Caesar dressing",
+          "Vinaigrette dressing"
+        ],
+        "answer": 1,
+        "explanation": "A asks for \"a salad with that with ranch dressing.\""
+      },
+      {
+        "q": "When will the order be ready?",
+        "options": [
+          "In about ten minutes",
+          "In about forty minutes",
+          "In about an hour",
+          "In about twenty minutes"
+        ],
+        "answer": 3,
+        "explanation": "B says the order will be \"ready for pick-up in about 20 minutes.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-4581d074",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Ordering soup for three",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Hello, how can I help you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Hi, I'd like to order some takeout food for three people, and I'd like to order some soup."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "What kind of soup?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I'd like to order one clam chowder, one hot and sour soup, and for the third soup, I would like pea soup, please, with extra croutons."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay. Hold on. One clam chowder, one hot and sour soup, and pea soup with extra croutons."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "That sounds right."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay. I have your personal details on file. Your order will be ready for pick-up in about 20 minutes."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Great. I'll be there to pick it up."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:4581d074",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-4581d074-8134-48c6-89b5-53e1a50405d4",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the customer doing?",
+        "options": [
+          "Reserving a table for three",
+          "Ordering takeout soup for three people",
+          "Asking about soup ingredients",
+          "Complaining about a late order"
+        ],
+        "answer": 1,
+        "explanation": "B says \"order some takeout food for three people\" and \"some soup.\""
+      },
+      {
+        "q": "What extra does B want with the pea soup?",
+        "options": [
+          "Extra crackers",
+          "Extra croutons",
+          "Extra cheese",
+          "Extra pepper"
+        ],
+        "answer": 1,
+        "explanation": "B asks for \"pea soup, please, with extra croutons.\""
+      },
+      {
+        "q": "What will B do next?",
+        "options": [
+          "Wait at home for a delivery",
+          "Call back to change the order",
+          "Go to the restaurant and pick up the soup",
+          "Pay by credit card online"
+        ],
+        "answer": 2,
+        "explanation": "B says \"I'll be there to pick it up.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-578c1f4e",
+    "type": "listenConversation",
+    "cefr": "B2+",
+    "skill": "listening",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hello, I'd like to order Thai food for three people."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay, what is your order?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I'd like to take one chicken with cashew nuts, one Pad Thai with only sugar and ground peanuts and one Som Tam. That completes the order."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Just a moment. Your order is chicken with cashew nuts, Pad Thai with sugar and ground peanuts."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "You were repeating my order. I didn't hear the third item which I ordered."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "What is the third item?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Som Tam spicy green papaya salad."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Your order is chicken with cashew nuts, Pad Thai with sugar and ground peanuts and Som Tam spicy green papaya salad."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "That's right."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay, I have your details on file. Your order will be ready for pick-up in about 20 minutes."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Excellent, Thank you."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:578c1f4e",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-578c1f4e-5c2b-4739-9079-207d8102a6bb",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "title": "Ordering Thai takeout",
+    "questions": [
+      {
+        "q": "What is the main purpose of the call?",
+        "options": [
+          "To order Thai food for pickup",
+          "To book a table at a Thai restaurant",
+          "To ask for a refund on an order",
+          "To learn how to cook Thai dishes"
+        ],
+        "answer": 0,
+        "explanation": "The customer says 'I'd like to order Thai food for three people' and later gets a pick-up time."
+      },
+      {
+        "q": "What does the customer say the assistant missed?",
+        "options": [
+          "The cashew chicken",
+          "The Pad Thai",
+          "The Som Tam salad",
+          "The drinks order"
+        ],
+        "answer": 2,
+        "explanation": "The customer says 'I didn't hear the third item which I ordered', and it is Som Tam."
+      },
+      {
+        "q": "How does the customer want the Pad Thai?",
+        "options": [
+          "With only sugar and ground peanuts",
+          "With extra chili and lime",
+          "With shrimp and egg",
+          "With no sauce at all"
+        ],
+        "answer": 0,
+        "explanation": "The order is 'Pad Thai with only sugar and ground peanuts'."
+      },
+      {
+        "q": "How long until the order is ready?",
+        "options": [
+          "About 20 minutes",
+          "About 10 minutes",
+          "About 30 minutes",
+          "About one hour"
+        ],
+        "answer": 0,
+        "explanation": "The assistant says 'ready for pick-up in about 20 minutes'."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-66b25731",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Can you help me find a hotel?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Hi, how can I help you? What day are you going to stay?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I'd like to stay from the 8th of May to 15th."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Great, do you have any requests on the type of Hotel you would like to stay at?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Oh, I'd like something under $100 a night."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Any other requests?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I would prefer something with a balcony and a view of the city."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Great, I think I have a match. How does Candle Wood Suites St. Louis sound?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Well, I'd also like if it had tours, some kind of free tour of the city."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yes, they have a tour on Mondays and Thursdays from 3 to 4."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Oh, very good. And the last preference was if it has a tennis court."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Unfortunately, they do not have a tennis court, but they do have a pool."
+      }
+    ],
+    "topics": [
+      "travel"
+    ],
+    "group": "taskmaster:66b25731",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-66b25731-6381-4df1-add7-e94af5e348c7",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "title": "Finding a hotel in St. Louis",
+    "questions": [
+      {
+        "q": "What is the customer looking for?",
+        "options": [
+          "A flight to St. Louis",
+          "A hotel with certain features",
+          "A rental car for a week",
+          "A tour company"
+        ],
+        "answer": 1,
+        "explanation": "The customer starts with 'Can you help me find a hotel?' and lists preferences."
+      },
+      {
+        "q": "What is the customer's price limit per night?",
+        "options": [
+          "$50",
+          "$100",
+          "$150",
+          "$200"
+        ],
+        "answer": 1,
+        "explanation": "The customer says 'something under $100 a night'."
+      },
+      {
+        "q": "What does the hotel have instead of a tennis court?",
+        "options": [
+          "A gym",
+          "A spa",
+          "A golf course",
+          "A pool"
+        ],
+        "answer": 3,
+        "explanation": "The assistant says 'they do not have a tennis court, but they do have a pool'."
+      },
+      {
+        "q": "When are the free city tours?",
+        "options": [
+          "Every day at 3",
+          "Saturdays and Sundays",
+          "Mondays and Thursdays",
+          "Fridays only"
+        ],
+        "answer": 2,
+        "explanation": "The assistant says 'a tour on Mondays and Thursdays from 3 to 4'."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-72dfd23e",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Ordering a gyro",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "How can I help you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Hello, today I need your help getting some takeout for one person. I'm looking to get a gyro."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "A gyro, what type and toppings or any sides with that?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Well, I'd like to get a medium one with beef and Parmesan cheese, as well as bell peppers, and that's it."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "A medium beef gyro with bell peppers and Parmesan cheese. Does that sound right?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "That sounds right."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay, I have your personal details on file. Your order will be ready for pick-up in about 20 minutes."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Awesome, 20 minutes is pretty good timing for me and I'll be ready to pick it up, so thank you for your help."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Talk to you next time. Bye."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:72dfd23e",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-72dfd23e-f319-44f1-af6c-d9ee9c299d06",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the customer doing?",
+        "options": [
+          "Asking for a restaurant recommendation",
+          "Booking a table for one",
+          "Complaining about a late order",
+          "Ordering a gyro for takeout"
+        ],
+        "answer": 3,
+        "explanation": "B says \"I need ... some takeout for one person. I'm looking to get a gyro.\""
+      },
+      {
+        "q": "Which topping does the customer ask for besides bell peppers?",
+        "options": [
+          "Parmesan cheese",
+          "Feta cheese",
+          "Onions",
+          "Lettuce"
+        ],
+        "answer": 0,
+        "explanation": "B asks for \"beef and Parmesan cheese, as well as bell peppers\"."
+      },
+      {
+        "q": "How does the customer feel about the waiting time?",
+        "options": [
+          "Happy that it is only 20 minutes",
+          "Annoyed that it is too long",
+          "Worried it will be late",
+          "Unsure and wants to change it"
+        ],
+        "answer": 0,
+        "explanation": "B says \"20 minutes is pretty good timing for me\"."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-81ae3ea5",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Chinese takeout for two",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Hi. How can I help you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Hi. I want to order takeout for two people."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, What would you like to order?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I want to eat Chinese food, So could I have 1 quart of shrimp fried rice, 1 quart of Shrimp Lo Mein, Two Spring Rolls and a side order of Chicken Dumplings. And that's it."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "One quart of shrimp fried rice, one quart of Shrimp Lo Mein, 2 Spring Rolls and a side order of Chicken Dumplings. Does that sound correct?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Yes. It's correct."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay. I have your details on file. Your order will be ready for pick-up within 20 minutes."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Thank you so much for your help."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Glad I could help. Enjoy your dinner. Bye."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:81ae3ea5",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-81ae3ea5-e17d-4925-b06f-5ffbfe1661af",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the customer ordering?",
+        "options": [
+          "Pizza delivery for a family",
+          "Indian takeout for three people",
+          "Chinese takeout food for two people",
+          "A table at a Chinese restaurant"
+        ],
+        "answer": 2,
+        "explanation": "B says \"order takeout for two people\" and \"I want to eat Chinese food.\""
+      },
+      {
+        "q": "Which side order does the customer add?",
+        "options": [
+          "Egg rolls",
+          "Fried noodles",
+          "Chicken dumplings",
+          "Hot and sour soup"
+        ],
+        "answer": 2,
+        "explanation": "B asks for \"a side order of Chicken Dumplings.\""
+      },
+      {
+        "q": "What will the customer do next?",
+        "options": [
+          "Wait at home for a delivery driver",
+          "Choose a different restaurant",
+          "Pick up the food in about twenty minutes",
+          "Pay for the food over the phone"
+        ],
+        "answer": 2,
+        "explanation": "A says the order will be \"ready for pick-up within 20 minutes.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-8c50ed06",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Ordering pizza for pickup",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hi. How can I help you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Hi there. I was looking to order some pizza for take out."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay, pizza. Got it. What would you like to order?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Can I get two large pepperoni and bacon pizzas and one order of breadsticks and that should be it for me."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Two large pepperoni and bacon and one order of breadsticks. Anything else?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yeah, that's right. That would be it."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay. I have your personal details on file. Your order will be ready for pick-up in about 20 minutes."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay, thank you."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "You're welcome."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:8c50ed06",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-8c50ed06-68f7-45b0-a60f-8ddc66576a18",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is B doing?",
+        "options": [
+          "Booking a table for a group",
+          "Ordering pizza for pickup",
+          "Asking for a pizza delivery",
+          "Complaining about a pizza"
+        ],
+        "answer": 1,
+        "explanation": "B says 'I was looking to order some pizza for take out.'"
+      },
+      {
+        "q": "How many pizzas does B order?",
+        "options": [
+          "One",
+          "Two",
+          "Three",
+          "Four"
+        ],
+        "answer": 1,
+        "explanation": "B asks for 'two large pepperoni and bacon pizzas'."
+      },
+      {
+        "q": "When will the order be ready?",
+        "options": [
+          "In about 10 minutes",
+          "In about 15 minutes",
+          "In about 20 minutes",
+          "In about 45 minutes"
+        ],
+        "answer": 2,
+        "explanation": "A says it 'will be ready for pick-up in about 20 minutes'."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-92529017",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Repeating a regular order",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hi. Can you pull up my regular order from Casa Sanchez? I want to order the same thing I got last week."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Hello, how can I help you? Sure, let me bring that up. You had 1 market burrito with black beans and spicy salsa and 1 chicken taco platter with refried beans."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Perfect. And then can you also add one salad with house dressing?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay, a salad with house dressing is added."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay, that will be the entire order."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay. Let me confirm what you have: 1 market burrito with black beans and spicy salsa and 1 chicken taco platter with refried beans with a salad with house dressing."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yep. That's everything. Thank you."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay. Your order will be ready for pick-up in about 20 minutes."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:92529017",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-92529017-943e-46c4-a5c7-06c5123144b4",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What does the customer want to do?",
+        "options": [
+          "Complain about last week's meal",
+          "Ask for the restaurant's address",
+          "Book a table for this week",
+          "Repeat last week's order with an extra item"
+        ],
+        "answer": 3,
+        "explanation": "A says \"I want to order the same thing I got last week\" and adds a salad."
+      },
+      {
+        "q": "What does the customer add to the usual order?",
+        "options": [
+          "A bowl of soup",
+          "A side of beans",
+          "A salad with house dressing",
+          "A chicken taco platter"
+        ],
+        "answer": 2,
+        "explanation": "A asks \"can you also add one salad with house dressing?\""
+      },
+      {
+        "q": "How long until the order is ready?",
+        "options": [
+          "About five minutes",
+          "About ten minutes",
+          "About fifteen minutes",
+          "About twenty minutes"
+        ],
+        "answer": 3,
+        "explanation": "B says \"ready for pick-up in about 20 minutes\"."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-9fdb7b5b",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Ordering hot dogs",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "How can I help you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Hi, I need to order takeout for three people."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, go ahead."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I wanted to order hot dogs. For the first order, can I have a hot dog with chili and cheese?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, got it."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "For the second hot dog, can I have honey, I'm sorry, mustard, ketchup, and relish? And for the third hot dog, could I have ketchup, relish, and sauerkraut?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, I have your personal details on file. Your order will be ready for pick-up in about 20 minutes."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Perfect, thank you so much."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "You are welcome."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:9fdb7b5b",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-9fdb7b5b-2377-474b-ae35-ecd3e8536bb4",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What does the customer want to order?",
+        "options": [
+          "Three pizzas for delivery",
+          "Three hot dogs for pick-up",
+          "A hot dog with a drink",
+          "Three burgers with fries"
+        ],
+        "answer": 1,
+        "explanation": "B says \"takeout for three people\" and orders hot dogs; the order is \"ready for pick-up\"."
+      },
+      {
+        "q": "What does the third hot dog have on it?",
+        "options": [
+          "Chili and cheese",
+          "Mustard, ketchup and relish",
+          "Honey and mustard",
+          "Ketchup, relish and sauerkraut"
+        ],
+        "answer": 3,
+        "explanation": "B asks for \"ketchup, relish, and sauerkraut\" on the third hot dog."
+      },
+      {
+        "q": "Why does the customer say \"I'm sorry\" while ordering?",
+        "options": [
+          "To apologize for ordering too late",
+          "To complain about the waiting time",
+          "To refuse the restaurant's offer",
+          "To correct a mistake in the second hot dog"
+        ],
+        "answer": 3,
+        "explanation": "B says \"honey, I'm sorry, mustard\", correcting the word honey."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-b487a046",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Chinese takeout for pickup",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Hello. How can I help you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Hi, there. I'm looking to order some Chinese food takeout."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, what would you like to order?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I'd like three orders of sweet and sour pork. Six spring rolls. Three orders of chow mein. And how about three orders of that sweet and sour chicken?"
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "3 orders of sweet and sour pork, 6 spring rolls, three orders of chow mein and three orders of sweet and sour chicken."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Yeah, that sounds right and that would be it for me."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay. I have your personal details on file. Your order will be ready for pick-up in about 20 minutes."
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Okay, thank you very much."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:b487a046",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-b487a046-3048-47ba-9fde-191c007c2b6a",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the customer doing?",
+        "options": [
+          "Asking for a delivery to a hotel",
+          "Complaining about a wrong order",
+          "Ordering Chinese food for pickup",
+          "Booking a table for a group"
+        ],
+        "answer": 2,
+        "explanation": "B says \"I'm looking to order some Chinese food takeout.\""
+      },
+      {
+        "q": "How many spring rolls does the customer order?",
+        "options": [
+          "Three",
+          "Six",
+          "Nine",
+          "Twelve"
+        ],
+        "answer": 1,
+        "explanation": "B orders \"Six spring rolls.\""
+      },
+      {
+        "q": "How long until the order is ready?",
+        "options": [
+          "About twenty minutes",
+          "About ten minutes",
+          "About thirty minutes",
+          "About forty-five minutes"
+        ],
+        "answer": 0,
+        "explanation": "A says it will be ready \"in about 20 minutes.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-bb011b23",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Finding a beach hotel",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "How can I help you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I would like to find a hotel for my summer vacation."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, where would you like to stay?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I'd like to stay in Carlsbad, California."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay in Carlsbad. What preferences do you have for the hotel?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I want a hotel near the beachfront or near the beach side."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Near the beach, okay. What else?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Okay, my price range is $300 per night or less. But the hotel should be rated four stars and up."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, $300 per night or less and 4 stars and up. What else?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "Hotel must have a restaurant with a full bar on hotel's grounds."
+      },
+      {
+        "speaker": "A",
+        "voice": "male",
+        "line": "Okay, a full bar and restaurant. What else?"
+      },
+      {
+        "speaker": "B",
+        "voice": "female",
+        "line": "I want a room with a flat screen TV and a balcony and a mini refrigerator and a fitness center."
+      }
+    ],
+    "topics": [
+      "travel"
+    ],
+    "group": "taskmaster:bb011b23",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-bb011b23-e6b3-48cc-8193-8a55d363c51d",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the main purpose of this conversation?",
+        "options": [
+          "To find a beach hotel for a summer trip",
+          "To book a flight to California",
+          "To cancel a hotel reservation",
+          "To ask about a restaurant menu"
+        ],
+        "answer": 0,
+        "explanation": "B says 'I would like to find a hotel for my summer vacation' near the beach in Carlsbad."
+      },
+      {
+        "q": "What is the maximum price per night?",
+        "options": [
+          "$200",
+          "$300",
+          "$400",
+          "$500"
+        ],
+        "answer": 1,
+        "explanation": "B says 'my price range is $300 per night or less'."
+      },
+      {
+        "q": "What does B want on the hotel grounds?",
+        "options": [
+          "A swimming pool with a slide",
+          "A restaurant with a full bar",
+          "A free airport shuttle",
+          "A private beach club"
+        ],
+        "answer": 1,
+        "explanation": "B says 'Hotel must have a restaurant with a full bar on hotel's grounds.'"
+      },
+      {
+        "q": "What minimum star rating does B want?",
+        "options": [
+          "Four stars",
+          "Three stars",
+          "Five stars",
+          "Two stars"
+        ],
+        "answer": 0,
+        "explanation": "B says the hotel 'should be rated four stars and up'."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-be4b782a",
+    "type": "listenConversation",
+    "cefr": "B1+",
+    "skill": "listening",
+    "title": "Ordering takeout Chinese food",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hi there, I would like to order some take out Chinese food."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay, sure thing. Takeout Chinese food tonight?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yeah, can I get two orders of sweet and sour chicken, two orders of shrimp fried rice, four spring rolls and 2 L of Mountain Dew, and I think that should be it."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "You want 2 orders of sweet and sour chicken, two orders of shrimp fried rice, four spring rolls and a 2 liter of Mountain Dew. Is that correct?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Yeah, that should be it."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Perfect, and any dessert?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "No, that should be it."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I have your personal details on file. Your order will be ready for pick-up in about 20 minutes."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay, thank you."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "You got it. I hope you drive safe."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:be4b782a",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-be4b782a-b9f8-4382-ac9a-f593e23158b8",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the customer doing?",
+        "options": [
+          "Booking a table at a restaurant",
+          "Asking for food to be delivered home",
+          "Complaining about a late order",
+          "Ordering takeout Chinese food"
+        ],
+        "answer": 3,
+        "explanation": "The customer says 'I would like to order some take out Chinese food' and the order is ready for pick-up."
+      },
+      {
+        "q": "How many spring rolls does the customer order?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Six"
+        ],
+        "answer": 2,
+        "explanation": "The order includes 'four spring rolls'."
+      },
+      {
+        "q": "When will the order be ready?",
+        "options": [
+          "In about 10 minutes",
+          "In about 20 minutes",
+          "In about 35 minutes",
+          "In about an hour"
+        ],
+        "answer": 1,
+        "explanation": "B says it 'will be ready for pick-up in about 20 minutes'."
+      },
+      {
+        "q": "What does the customer say about dessert?",
+        "options": [
+          "Dessert should be added later",
+          "Dessert is not wanted",
+          "A menu is needed first",
+          "One sweet dish is requested"
+        ],
+        "answer": 1,
+        "explanation": "When asked 'any dessert?' the customer answers 'No, that should be it.'"
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-d3125fe8",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Takeout pasta for one",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hello."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Hey. I am looking to order some takeout food for one person."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay, what is your order?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "One pasta primavera with dinner rolls on the side and a tossed salad as well."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay. This will just be a second. Hold on for a second. One pasta primavera with dinner rolls on the side and a tossed salad. Is that correct?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yeah, that sounds great. That's exactly what I want."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay. I have your personal details on file. Your order will be ready for pick-up in about 20 minutes."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Great, I'll be right there. Thank you."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:d3125fe8",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-d3125fe8-9af7-4423-b6ee-f59ae06153b9",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the customer doing?",
+        "options": [
+          "Asking for a pasta recipe",
+          "Ordering a takeout meal for one person",
+          "Booking a table for dinner",
+          "Ordering a delivery for friends"
+        ],
+        "answer": 1,
+        "explanation": "B says \"order some takeout food for one person.\""
+      },
+      {
+        "q": "What does the customer want on the side?",
+        "options": [
+          "Dinner rolls",
+          "Garlic bread",
+          "Fried potatoes",
+          "Tomato soup"
+        ],
+        "answer": 0,
+        "explanation": "B orders \"pasta primavera with dinner rolls on the side.\""
+      },
+      {
+        "q": "When will the order be ready?",
+        "options": [
+          "In about ten minutes",
+          "In about twenty minutes",
+          "In about thirty minutes",
+          "In about an hour"
+        ],
+        "answer": 1,
+        "explanation": "A says it will be \"ready for pick-up in about 20 minutes.\""
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-e2e0c5f4",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Ordering Indian takeout",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Hello, how can I help you?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yes, I'd like Indian food for three people, please."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "I can help you with that. What would you like to order?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "I would like two orders of butter chicken and one order of tandoori chicken and three large sprites, please. And that should be it."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay, I have 2 orders of butter chicken, one order of tandoori chicken and three large sprites?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Correct, that's it. Thank you."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay. I have your personal details on file. Your order will be ready for pick-up in about 20 minutes."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Thank you."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "You're welcome. Talk to you next time, bye."
+      }
+    ],
+    "topics": [
+      "orders",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:e2e0c5f4",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-e2e0c5f4-f3b9-4f2e-9987-99c3cf30f11f",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is the customer doing?",
+        "options": [
+          "Reserving a table at an Indian restaurant",
+          "Ordering Indian takeout for three people",
+          "Asking for a delivery to a friend's house",
+          "Checking the price of an Indian menu"
+        ],
+        "answer": 1,
+        "explanation": "B says \"Indian food for three people\" and the order is \"ready for pick-up\"."
+      },
+      {
+        "q": "How many large Sprites does the customer order?",
+        "options": [
+          "Two",
+          "Three",
+          "One",
+          "Four"
+        ],
+        "answer": 1,
+        "explanation": "B asks for \"three large sprites\"."
+      },
+      {
+        "q": "Which dish does the customer order only once?",
+        "options": [
+          "Tandoori chicken",
+          "Butter chicken",
+          "Sprite",
+          "Naan bread"
+        ],
+        "answer": 0,
+        "explanation": "B orders \"two orders of butter chicken and one order of tandoori chicken\"."
+      }
+    ]
+  },
+  {
+    "id": "lc-taskmaster-tm2-f4660828",
+    "type": "listenConversation",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Choosing a Palm Springs hotel",
+    "script": [
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "And anything else?"
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Yes, someplace that has a restaurant inside the hotel. I also wanted some kind of a mini fridge inside the room."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay. Got it. As per your preferences, I have found a few options for you."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Great."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "First is Omni Rancho Las Palmas Resort & Spa. Second is Sundance Villas. Third is Hard Rock Hotel Palm Springs. And fourth one is Courtyard by Marriott Palm Springs."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay. Could you tell me how much The Omni and The Hard Rock Hotel is?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Omni Rancho Las Palmas Resort & Spa is $263 per night, while Hard Rock Hotel Palm Springs is $269 per night."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay. Which one has higher customer review scores?"
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Omni Rancho has 4.3 rating with 447 Google reviews, while Hard Rock has 4.1 rating with 515 Google reviews."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Okay. Let's book the Omni."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "Okay. The Omni hotel has been booked for the selected dates and the details have been emailed to you."
+      },
+      {
+        "speaker": "B",
+        "voice": "male",
+        "line": "Thank you so much for your help."
+      },
+      {
+        "speaker": "A",
+        "voice": "female",
+        "line": "You're welcome. Bye."
+      }
+    ],
+    "topics": [
+      "travel",
+      "scheduling",
+      "workplace"
+    ],
+    "group": "taskmaster:f4660828",
+    "source": "taskmaster",
+    "sourceId": "tm2/dlg-f4660828-d2b6-41b9-a905-2bfcfe23b20f",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "origin": "adapted",
+    "questions": [
+      {
+        "q": "What is A helping B to do?",
+        "options": [
+          "Plan a flight to Palm Springs",
+          "Choose and book a hotel",
+          "Find a restaurant for dinner",
+          "Rent a car for a week"
+        ],
+        "answer": 1,
+        "explanation": "A lists hotels and later says \"The Omni hotel has been booked\"."
+      },
+      {
+        "q": "How much is a night at the Omni?",
+        "options": [
+          "$269",
+          "$329",
+          "$263",
+          "$374"
+        ],
+        "answer": 2,
+        "explanation": "A says \"Omni Rancho Las Palmas Resort & Spa is $263 per night\"."
+      },
+      {
+        "q": "Which of the two hotels compared has the higher rating?",
+        "options": [
+          "Hard Rock Hotel",
+          "Both are the same",
+          "Omni Rancho",
+          "Neither has a rating"
+        ],
+        "answer": 2,
+        "explanation": "A says \"Omni Rancho has 4.3 rating\" while \"Hard Rock has 4.1\"."
+      },
+      {
+        "q": "What happens at the end of the call?",
+        "options": [
+          "B decides to think about it",
+          "B asks for a cheaper hotel",
+          "B cancels the search",
+          "B books the Omni"
+        ],
+        "answer": 3,
+        "explanation": "B says \"Let's book the Omni\" and A confirms it is booked."
+      }
+    ]
+  }
+]

@@ -1,0 +1,2562 @@
+[
+  {
+    "id": "lt-ose-adv-brazil-s158",
+    "type": "listenTalk",
+    "cefr": "C1",
+    "skill": "listening",
+    "title": "Many Voices in One Crowd",
+    "voice": "female",
+    "script": "A crowd isn't a single voice. When a large protest fills the streets of a city, the headlines tend to summarize it with one word, but the people marching rarely share a single demand. In Brazil, the causes pursued by the protesters varied widely. A young man from a hillside neighbourhood said he was there because he hated a government that did nothing for him. An unemployed architect, out of work for six months, said she felt something was seriously wrong with the country. Another demonstrator held a banner calling on the authorities to invest more in education. Picture a supermarket where dozens of customers are complaining at once. One is annoyed by prices, another by a queue, a third by an empty shelf. A manager who hears only \"unhappy customers\" won't know which problem to fix first. That's the challenge for anyone who has to respond to a broad wave of dissatisfaction. Sorting the grievances comes before solving them. The same applies to feedback in our organizations. A survey result that says \"low morale\" tells you almost nothing. Break it down by cause, group and urgency, and then decide where to act. Combined discontent is a signal; separated discontent is a plan.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Unemployment is the main cause of unrest in cities",
+          "Protests can reflect many different grievances",
+          "Governments should ignore large crowds on the streets",
+          "Architects are especially unhappy"
+        ],
+        "answer": 1,
+        "explanation": "The speaker says the protesters' causes varied widely and must be sorted before they are solved."
+      },
+      {
+        "q": "What did the architect say?",
+        "options": [
+          "She worked for the government",
+          "She had no job for six months",
+          "She had lost her home in the city",
+          "She was a university student"
+        ],
+        "answer": 1,
+        "explanation": "The talk says she was out of work for six months."
+      },
+      {
+        "q": "Why does the speaker describe a supermarket?",
+        "options": [
+          "To show that supermarkets cause unrest",
+          "To show how varied complaints are hard to handle",
+          "To explain why prices rose so quickly in Brazil",
+          "To suggest that the protesters were mostly shoppers"
+        ],
+        "answer": 1,
+        "explanation": "A manager hearing only \"unhappy customers\" can't tell which problem to fix first."
+      },
+      {
+        "q": "What can be inferred about the protesters?",
+        "options": [
+          "Their discontent had several different sources",
+          "They were mostly students from the same university",
+          "They were organized by the government",
+          "They shared a single clear political agenda"
+        ],
+        "answer": 0,
+        "explanation": "The speaker says the causes varied widely and gives three different examples."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "adv-brazil-s158",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:brazil",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-adv-climate-change-s667",
+    "type": "listenTalk",
+    "cefr": "B2+",
+    "skill": "listening",
+    "title": "A Warmer World for Planners",
+    "voice": "female",
+    "script": "Let me challenge a comfortable assumption: that a warmer world just means slightly hotter summers. The reports suggest something more disruptive. Think of a pot on the stove. Turn up the heat a little and the water doesn't only get warmer, it starts to bubble and spill. A warming climate adds energy to the weather in a similar way. Take tropical cyclones. They may not become more frequent, and the global number could even stay about the same or fall. But the ones that do form may be stronger, with faster winds and heavier rain. Cities are another concern. They're already much hotter than the countryside around them, so in many developing countries, daily life could become close to unbearable. Agriculture is exposed too. In parts of Africa, the growing season could shrink by as much as twenty percent. As planners, we shouldn't treat this as distant politics. A shorter growing season means less harvest, and stronger storms close ports and roads. Both hit lead times and supply. I find it worrying, honestly, but also useful. When risks are named, we can build buffers. Your job isn't to predict every storm. It's to make sure the plan doesn't break when one arrives. That's the practical take-away.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Warming creates wider risks that planners should prepare for",
+          "Developing countries cannot adapt to hotter cities",
+          "Weather forecasting should replace long-term planning",
+          "Tropical cyclones are the biggest single threat to supply chains"
+        ],
+        "answer": 0,
+        "explanation": "The speaker says the reports suggest something more disruptive than hotter summers."
+      },
+      {
+        "q": "By how much could the growing season shrink in parts of Africa?",
+        "options": [
+          "By up to twenty percent",
+          "By up to about forty percent",
+          "By up to forty percent",
+          "By about half"
+        ],
+        "answer": 0,
+        "explanation": "The talk says it could shrink by as much as twenty percent."
+      },
+      {
+        "q": "Why does the speaker mention a pot on the stove?",
+        "options": [
+          "To argue that cooking contributes to climate change",
+          "To explain why cities are hotter than the countryside",
+          "To show how extra energy changes behavior",
+          "To warn that heat reduces harvests"
+        ],
+        "answer": 2,
+        "explanation": "The water bubbles and spills, just as extra energy makes weather more intense."
+      },
+      {
+        "q": "What is the speaker's attitude toward the climate risks?",
+        "options": [
+          "Concerned but practical about preparing",
+          "Confident the risks will be avoided",
+          "Indifferent because they seem too distant",
+          "Doubtful that the predictions are reliable"
+        ],
+        "answer": 0,
+        "explanation": "She says it is worrying but useful, because named risks let planners build buffers."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "adv-climate-change-s667",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:climate-change",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-adv-meteorite-s289",
+    "type": "listenTalk",
+    "cefr": "B1+",
+    "skill": "listening",
+    "title": "Light Before the Sound",
+    "voice": "female",
+    "script": "People often think a meteorite arrives with a single loud bang. But the story from one city near the border with Kazakhstan shows a different order of events. The trail of vapour could be seen from hundreds of miles away. Even people in Kazakhstan saw it. One woman was working at the front desk of a clinic in the middle of the city. First, she noticed the wind. Then a very bright light flooded the room, and she could see a cloud of smoke in the sky, though she couldn't tell what kind. Only after a few minutes did the explosions come. The reason for the delay is simple. Light travels much faster than sound, so you see an event before you hear it. It's the same as seeing lightning first and hearing thunder later. This matters because a warning sign can come before the real impact. People who understood that the light could be followed by a blast might have moved away from the windows. Think about your own work. The first signals of a problem are often small, like a late message or a change in order patterns. The big effect arrives later. If you notice the early signs, you have time to react. Don't wait for the bang.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Meteorites are visible only in countries like Kazakhstan",
+          "Hospitals should be built with no windows at all",
+          "The event unfolded in stages, with early signs",
+          "Lightning is more dangerous than meteorites"
+        ],
+        "answer": 2,
+        "explanation": "The speaker says the light came before the explosions and compares it to early signals at work."
+      },
+      {
+        "q": "What did the woman notice first?",
+        "options": [
+          "A cloud of smoke",
+          "A bright light",
+          "An explosion",
+          "The wind"
+        ],
+        "answer": 3,
+        "explanation": "The talk says first she noticed the wind."
+      },
+      {
+        "q": "Why does the speaker mention what people often think about meteorites?",
+        "options": [
+          "To warn the audience about a meteorite expected next year",
+          "To describe the woman's job",
+          "To correct a mistaken idea about how it happens",
+          "To show that meteorites are very rare"
+        ],
+        "answer": 2,
+        "explanation": "She then describes a different order of events."
+      },
+      {
+        "q": "What does the speaker imply about early signs?",
+        "options": [
+          "They appear after the main impact",
+          "They give time to prepare if noticed",
+          "They are seen only by experts",
+          "They are always misleading for people nearby"
+        ],
+        "answer": 1,
+        "explanation": "She says if you notice early signs, you have time to react."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "adv-meteorite-s289",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:meteorite",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-adv-midlife-crisis-s355",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "A Midlife Dip in Apes",
+    "voice": "male",
+    "script": "Is a midlife crisis a uniquely human invention? Researchers wanted to find out by looking at our closest relatives. They studied more than five hundred apes, in three groups. Two groups were chimpanzees and the third was orangutans from Sumatra or Borneo. The animals lived in zoos, sanctuaries and research centres in the United States, Australia, Japan, Canada and Singapore. Questionnaires about each animal's well-being were completed, and when the team analysed the answers, they found a pattern. Well-being fell in middle age and rose again as the animals grew older. A U-shaped curve, in other words. Now, here's my own view. Honestly, I find it reassuring. If the dip appears in other species, it's probably not just the result of mortgages and meetings. It's something deeper about life stages. Plenty of people feel that low point and wonder what they did wrong. For planners, there's a lesson: don't assume the middle of a long process is a sign of failure. In a long project, morale often drops in the middle and recovers near the end. So expect the dip, plan for it, and don't judge the project by its lowest point.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Humans and apes may share a midlife dip",
+          "Questionnaires are the best way to study wild animals",
+          "Apes are happier in sanctuaries than they are in zoos",
+          "Midlife crises are caused by modern work"
+        ],
+        "answer": 0,
+        "explanation": "The study found well-being dipped in middle age in apes, and the speaker links this to human experience."
+      },
+      {
+        "q": "What happened to the apes' well-being in old age?",
+        "options": [
+          "It rose again",
+          "It fell further",
+          "It stayed low",
+          "It changed from day to day"
+        ],
+        "answer": 0,
+        "explanation": "The talk says it climbed again as the animals moved into old age."
+      },
+      {
+        "q": "Why does the speaker begin with a question?",
+        "options": [
+          "To raise the issue the research investigates",
+          "To introduce a joke about apes",
+          "To challenge the age of the people listening",
+          "To express some doubt about the quality of the study"
+        ],
+        "answer": 0,
+        "explanation": "The next sentence says researchers wanted to find out."
+      },
+      {
+        "q": "What is the speaker's attitude toward the findings?",
+        "options": [
+          "Skeptical because the sample of apes was too small",
+          "Worried that apes experience unhappiness",
+          "Amused that scientists study animals",
+          "Comforted by the idea that the dip is natural"
+        ],
+        "answer": 3,
+        "explanation": "He says he finds it reassuring that the dip appears in other species."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "adv-midlife-crisis-s355",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:midlife-crisis",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-adv-organs-s333",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Should Silence Mean Consent",
+    "voice": "male",
+    "script": "Should silence mean yes? That's the heart of the debate over organ donation systems where people are presumed to be donors unless they say otherwise. Supporters point to the shortage: the need for kidneys and hearts is urgent, and many patients wait a long time. Opponents worry that in the rush to supply more organs, the wishes of the dead and of their families could be overruled. Government ministers answer that there will be safeguards. Still, there's a built-in weakness in this kind of system. Inevitably, some people will simply never get around to registering an objection. They aren't saying yes. They've just been busy. In response to the concern, the government recently said families would get a bigger say. Under the plan, relatives will have a clear right to object, so they can show that the person who died wouldn't have wanted to donate. Notice the compromise. It keeps the default that increases the number of donors, but it adds a human check at the most sensitive moment. Defaults are powerful in many fields, from pension plans to software settings. They work because inertia is strong. That's exactly why they need careful design.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Default organ donation raises ethical questions",
+          "Families should never be consulted about organ donation",
+          "Organ shortages can be solved by government ministers alone",
+          "Pension plans are more important than donation"
+        ],
+        "answer": 0,
+        "explanation": "The speaker presents the debate and the compromise giving families a right of objection."
+      },
+      {
+        "q": "What new right will relatives have?",
+        "options": [
+          "The right to receive payment",
+          "The right to object to donation",
+          "The right to choose the recipient",
+          "The right to delay surgery for a year"
+        ],
+        "answer": 1,
+        "explanation": "The talk says relatives are to have a clear right of objection."
+      },
+      {
+        "q": "Why does the speaker begin with a question?",
+        "options": [
+          "To criticize the government's position",
+          "To ask the class to vote on the question",
+          "To introduce the central issue of the debate",
+          "To explain how donated organs are transported between cities"
+        ],
+        "answer": 2,
+        "explanation": "The next sentence says that is the heart of the debate."
+      },
+      {
+        "q": "What does the speaker imply about defaults?",
+        "options": [
+          "They should be avoided in medicine",
+          "Their power comes from people's inaction",
+          "People usually review them very carefully",
+          "They are most effective when optional"
+        ],
+        "answer": 1,
+        "explanation": "She says they work because inertia is strong, and some people never get around to objecting."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "adv-organs-s333",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:organs",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-adv-prince-harry-s051",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "One Pilot, Many Roles",
+    "voice": "female",
+    "script": "Every public figure has more than one job, and sometimes the jobs pull in different directions. A recent example involves a royal who served as an army helicopter pilot and commander. In interviews during his deployment, he explained that his aircraft had been used to support troops on the ground and to rescue injured soldiers and civilians, and that he had fired on enemy fighters when necessary. He pointed out that most of the time, the helicopter worked as a deterrent. Think about a police car parked at a busy junction. Drivers slow down just because it's there, and nobody has to use the siren. Presence does the work. He said he was simply doing his job. He also knew that opponents might seize on his words to stir up hostility toward his country, and he hinted at how hard it is to combine the roles in his life: soldier, public symbol and ordinary person. For business students, the interesting part is the tension between roles. A manager is also a colleague, a friend and a representative of the company, and each statement can be read differently by each audience. Before you speak in public, ask which of your roles people will hear. That's the lesson: one sentence, many audiences.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Managers should never talk about their jobs",
+          "Helicopters are the most effective tool in any army",
+          "Interviews should be avoided by soldiers during any deployment",
+          "People in public roles must balance several roles at once"
+        ],
+        "answer": 3,
+        "explanation": "The speaker focuses on the tension between roles and says one sentence reaches many audiences."
+      },
+      {
+        "q": "According to the pilot, what did the helicopter mostly do?",
+        "options": [
+          "Carried journalists to the front",
+          "Delivered food and medicine to remote bases",
+          "Discouraged attacks by being present",
+          "Trained new pilots"
+        ],
+        "answer": 2,
+        "explanation": "The talk says that most of the time, the helicopter worked as a deterrent."
+      },
+      {
+        "q": "Why does the speaker mention a police car at a junction?",
+        "options": [
+          "To compare soldiers with traffic police",
+          "To show that the army needs more vehicles on roads",
+          "To explain how mere presence can prevent trouble",
+          "To describe a rescue he carried out"
+        ],
+        "answer": 2,
+        "explanation": "Drivers slow down because the car is there, which illustrates deterrence."
+      },
+      {
+        "q": "What does the speaker imply about public statements?",
+        "options": [
+          "Different listeners may interpret them differently",
+          "They carry more weight when they are short",
+          "They are usually ignored by opponents",
+          "They should be avoided by anyone who wears a uniform"
+        ],
+        "answer": 0,
+        "explanation": "She says each statement can be read differently by each audience."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "adv-prince-harry-s051",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:prince-harry",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-adv-wnl-a-good-night-sleep-s630",
+    "type": "listenTalk",
+    "cefr": "B2+",
+    "skill": "listening",
+    "title": "The Sleep Revolution Problem",
+    "voice": "male",
+    "script": "Sleep has become a lifestyle product. Bestselling books call for a sleep revolution, and wellness brands sell pillows, apps and ten-step routines. People often think the sleep problem exists because we've decided that sleeping is a waste of time. But the data points elsewhere. Studies suggest that the people who sleep longest and best are those who are comfortable financially, with flexible schedules and quiet homes. That's not a coincidence. If you work two jobs, commute two hours or do night shifts, no routine in the world will give you eight hours. So I'd say calling it a revolution is generous. It's more of a rebranding of something wealthier readers already do. The real crisis is structural: most people simply can't afford the time to sleep. Let me give you an example from our own world. A warehouse runs rotating night shifts to meet delivery deadlines. The workers there don't need a better bedtime app. They need a schedule that leaves space to rest. If your forecast demands constant overtime, sleep loss is part of your supply chain cost, even if it never shows up on the spreadsheet. The take-away: before we advise people to sleep more, we should look at the conditions that stop them.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "People today consider sleep unimportant",
+          "Wellness products are the best solution to poor sleep",
+          "Night shifts should be banned in warehouses",
+          "Lack of sleep is mostly a problem of money and time"
+        ],
+        "answer": 3,
+        "explanation": "The speaker says the real crisis is that most people can't afford the time to sleep."
+      },
+      {
+        "q": "According to the speaker, who tends to sleep best?",
+        "options": [
+          "People who use sleep apps",
+          "People who are financially comfortable",
+          "Those with long commutes",
+          "Night-shift workers in warehouses and factories"
+        ],
+        "answer": 1,
+        "explanation": "The talk says the best sleepers are comfortable financially, with flexible schedules."
+      },
+      {
+        "q": "Why does the speaker describe a warehouse with night shifts?",
+        "options": [
+          "To recommend bedtime apps for warehouse staff to use",
+          "To show how work schedules can prevent rest",
+          "To argue that night work pays well",
+          "To prove that forecasts are rarely accurate"
+        ],
+        "answer": 1,
+        "explanation": "She says those workers need a schedule that leaves space to rest, not an app."
+      },
+      {
+        "q": "What is the speaker's attitude toward the sleep revolution?",
+        "options": [
+          "Neutral, offering no personal view",
+          "Worried that it encourages people to sleep too long",
+          "Skeptical that it addresses the real problem",
+          "Enthusiastic about its benefits for workers"
+        ],
+        "answer": 2,
+        "explanation": "She calls it generous to say revolution and describes it as a rebranding."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "adv-wnl-a-good-night-sleep-s630",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-a-good-night-sleep",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-adv-wnl-bogus-allergy-s793",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Quick Tests, Slow Answers",
+    "voice": "female",
+    "script": "When something is wrong with your child, you want an answer fast. People often think that an allergy is easy to spot, but proving or disproving that tiredness, headaches or eczema come from an allergy needs many tests and plenty of time. That slow process is frustrating, and it creates a temptation. An alternative therapist will do one test and give a quick answer. Quick, but not accurate. Let's say a parent hears \"your daughter is allergic to wheat\" after a single appointment. She removes wheat from the diet, the child's life gets more complicated, and the real cause stays undiscovered. Meanwhile, allergies are genuinely rising in developed countries. The share of children diagnosed with allergic rhinitis and with eczema has trebled in the last thirty years. So the problem is real, which makes the pressure to find answers even greater. And that's what the quick-test sellers rely on. The same pattern shows up at work. A simple dashboard offers a fast answer, but the real cause takes a longer investigation. When the problem is serious, a quick answer is often a costly one. The take-away: a good answer takes time, and a fast one should come with proof.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Dashboards are better than doctors",
+          "Proper allergy diagnosis takes time",
+          "Allergies are mostly caused by modern diets",
+          "Parents should avoid all medical tests for their children"
+        ],
+        "answer": 1,
+        "explanation": "The speaker says a good answer takes time and a fast one needs proof."
+      },
+      {
+        "q": "Over what period have diagnoses of allergic rhinitis and eczema trebled?",
+        "options": [
+          "The last thirty years",
+          "The last fifty years in Europe",
+          "The last fifty years",
+          "The last five years"
+        ],
+        "answer": 0,
+        "explanation": "The talk says the percentages have trebled in the last thirty years."
+      },
+      {
+        "q": "Why does the speaker mention a girl said to be allergic to wheat?",
+        "options": [
+          "To show that wheat allergy is very common",
+          "To illustrate the risk of a wrong quick diagnosis",
+          "To explain how medical tests work",
+          "To recommend removing wheat from every child's diet"
+        ],
+        "answer": 1,
+        "explanation": "The diet changes but the real cause stays undiscovered."
+      },
+      {
+        "q": "What does the speaker imply about single quick tests?",
+        "options": [
+          "They are tempting but can mislead people",
+          "They are cheaper but equally accurate",
+          "They are the standard method in hospitals",
+          "They are used mainly for adults"
+        ],
+        "answer": 0,
+        "explanation": "She calls the answer quick but inaccurate and says sellers rely on parents' pressure."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "adv-wnl-bogus-allergy-s793",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-bogus-allergy",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-adv-wnl-india-s-rich-s658",
+    "type": "listenTalk",
+    "cefr": "B1+",
+    "skill": "listening",
+    "title": "Luxury and the Value of Scarcity",
+    "voice": "female",
+    "script": "Let's talk about luxury, and what rich customers are really buying. Not the product. The feeling. A recent report on India's wealthy says buyers of luxury goods want psychological satisfaction, especially a sense of exclusivity, and they're becoming more demanding about it. Here's an example. A wealthy industrialist's niece had a three-day wedding that reportedly cost eighty million dollars. Hundreds of guests were flown to Barcelona, and the party was held in a museum. Not exactly a quiet family dinner. Or take a reception where one buyer ordered nine cases of Japanese whisky, at more than seven hundred and fifty dollars a bottle. You can see the logic. If everyone can buy a thing, it stops feeling special. So the rich look for experiences and products that others cannot easily get. For companies, the lesson is clear: at the top end, scarcity is part of the product. Customers pay for being among the few, which is why a rare bottle or a private venue sells so well. That affects supply too, because limiting quantity is a decision, not a problem. Keep that in mind when we discuss pricing next week.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Japanese whisky is the best investment for wealthy buyers",
+          "Luxury brands should lower their prices",
+          "Rich buyers pay for exclusivity as much as for products",
+          "Weddings are the biggest part of the luxury market"
+        ],
+        "answer": 2,
+        "explanation": "The speaker says buyers want a feeling of exclusivity, so scarcity is part of the product."
+      },
+      {
+        "q": "How much did the wedding reportedly cost?",
+        "options": [
+          "Eight million dollars",
+          "Eight hundred million dollars",
+          "Sixteen million dollars",
+          "Eighty million dollars"
+        ],
+        "answer": 3,
+        "explanation": "The talk says the three-day wedding reportedly cost eighty million dollars."
+      },
+      {
+        "q": "Why does the speaker say it was not a quiet family dinner?",
+        "options": [
+          "To criticize the guests' behavior",
+          "To show the cost was reasonable",
+          "To suggest that the wedding was held at the family home",
+          "To make a dry comment on the size of the event"
+        ],
+        "answer": 3,
+        "explanation": "The remark follows details of hundreds of flown-in guests and a museum party."
+      },
+      {
+        "q": "What can listeners conclude about scarcity in luxury markets?",
+        "options": [
+          "Large events reduce demand for luxury goods",
+          "Rich customers prefer products that are widely available",
+          "Luxury sales depend mostly on advertising",
+          "Limited supply can increase a product's appeal"
+        ],
+        "answer": 3,
+        "explanation": "The speaker says if everyone can buy a thing, it stops feeling special."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "adv-wnl-india-s-rich-s658",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-india-s-rich",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-adv-wnl-men-in-black-s788",
+    "type": "listenTalk",
+    "cefr": "B1+",
+    "skill": "listening",
+    "title": "Amateurs in Professional Settings",
+    "voice": "male",
+    "script": "How do you perform at a professional level when you're only part-time? A former football referee describes exactly this problem. He says the move to full-time referees can only help. He explains that when he officiated at the top level, he was in fact an amateur. He had a normal job at a telecoms company. He might referee a match in Newcastle on a Wednesday evening, and then at nine the next morning be in Leicester, talking to customers. Maybe he hadn't slept. Training was done in an ad hoc way, when time allowed. In his words, they were amateurs in a professional environment. Now think about supply chain teams. Many of us handle high-stakes decisions on top of normal duties: a shipment crisis, a forecast review, a supplier call. We do it all in the same week, often with little sleep and no real training. The referee's point is that, if the work has professional consequences, the preparation should be professional too. That means time, training and rest. Give your people the same: protected time, a clear process and proper preparation. Otherwise you're asking amateurs to deliver professional results.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "High-stakes work needs professional preparation",
+          "Part-time workers are always unreliable",
+          "Supply chain teams should hire former football referees",
+          "Referees should be paid more than the players"
+        ],
+        "answer": 0,
+        "explanation": "The speaker says professional consequences require time, training and rest."
+      },
+      {
+        "q": "What was the referee's day job?",
+        "options": [
+          "Teaching sports at a local school",
+          "Working for a bank",
+          "Working for a telecoms company",
+          "Managing a football club"
+        ],
+        "answer": 2,
+        "explanation": "The talk says he had a normal job at a telecoms company."
+      },
+      {
+        "q": "Why does the speaker begin with a question?",
+        "options": [
+          "To test the audience's sleep habits",
+          "To introduce the problem of part-time professionals",
+          "To ask the audience about their favorite football teams",
+          "To compare two cities"
+        ],
+        "answer": 1,
+        "explanation": "The next sentence says the referee describes exactly this problem."
+      },
+      {
+        "q": "What does the speaker imply about supply chain teams?",
+        "options": [
+          "They are usually better trained than football referees",
+          "They rarely face high-stakes decisions",
+          "They often handle important work without enough preparation",
+          "They already have enough protected time for important decisions"
+        ],
+        "answer": 2,
+        "explanation": "She says we handle high-stakes decisions with little sleep and no real training."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "adv-wnl-men-in-black-s788",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-men-in-black",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-adv-wnl-scottish-referendum-s575",
+    "type": "listenTalk",
+    "cefr": "B2+",
+    "skill": "listening",
+    "title": "Delivering on Political Promises",
+    "voice": "female",
+    "script": "There's a phrase every supply chain person knows: on time and in full. A senior minister used exactly those words after the vote on Scottish independence. The country had voted to stay in the United Kingdom, and he said that result wasn't a vote against change. He called it a new chapter for Scotland, and for constitutional reform across the union. Then he said the radical package of new powers must now be delivered on time and in full. In other words, a promise made late in the campaign had become a delivery commitment. But the result also carried a risk. Members of the governing party were threatening to rebel against the prime minister's late promise to increase the Scottish parliament's powers quickly while protecting its spending. I once worked with a salesperson who promised a delivery date to win a contract, without checking with the factory. You can guess what happened. Everyone on the shop floor was upset, and the sales team spent months repairing trust. Political promises work the same way. The campaign made the offer, but the people who must deliver hadn't all agreed. When commitments are made before the delivery side is aligned, the risk moves to implementation. The take-away: a promise is only as strong as the agreement behind it.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Scotland should have voted for independence in the end",
+          "Sales teams should avoid signing contracts with new customers",
+          "Ministers should avoid using business language",
+          "Promises are risky if delivery teams haven't agreed"
+        ],
+        "answer": 3,
+        "explanation": "The speaker ends by saying a promise is only as strong as the agreement behind it."
+      },
+      {
+        "q": "What did the minister say about the new powers?",
+        "options": [
+          "They must be put to another public vote in Scotland",
+          "They must be limited to a few areas",
+          "They must be handed over fully and without delay",
+          "They must wait until after the next election"
+        ],
+        "answer": 2,
+        "explanation": "He said they must be delivered on time and in full."
+      },
+      {
+        "q": "Why does the speaker tell the story about the salesperson?",
+        "options": [
+          "To criticize sales teams in general",
+          "To suggest that politicians should spend time working in factories",
+          "To explain how contracts are won",
+          "To compare political promises with delivery promises"
+        ],
+        "answer": 3,
+        "explanation": "She says political promises work the same way."
+      },
+      {
+        "q": "What does the speaker imply about the promise of new powers?",
+        "options": [
+          "It will be accepted easily by all MPs",
+          "Delivering it may be harder than making it",
+          "It was made after careful consultation with every party",
+          "It is no longer a concern"
+        ],
+        "answer": 1,
+        "explanation": "She notes that members of the governing party threatened to rebel against it."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "adv-wnl-scottish-referendum-s575",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-scottish-referendum",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-adv-wnl-what-s-the-secret-s000",
+    "type": "listenTalk",
+    "cefr": "B2+",
+    "skill": "listening",
+    "title": "Holding Your Breath Under Pressure",
+    "voice": "female",
+    "script": "How long can you hold your breath? Most people guess about a minute, and that's roughly right. Here's what it feels like, from a test I tried myself. The first thirty seconds are easy. Around forty-five seconds, you want to stop. But if you push through, it seems to get easier for a while. Then, just after a minute, you realize you're on borrowed time. Your heart pounds. Letting out a tiny breath helps a little, and eventually you give in, empty your lungs and take a huge gasp. Notice the pattern. The hardest moment isn't at the end. It's in the middle, when your body is asking you to stop but you still have reserves. Many planners behave like this with deadlines. The first stretch of a project feels easy, the middle gets uncomfortable, and that's when people panic or quit, even though there's capacity left. Also, a small release, like that tiny breath, can stretch your limit, which is why short breaks help in long planning cycles. Learn to recognize the early signals of discomfort, and decide in advance when you'll push and when you'll pause. That's how you keep control when the pressure builds.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Deadlines are easier when projects start strongly",
+          "Discomfort during a long effort can be managed with awareness",
+          "Holding your breath is a reliable test of fitness",
+          "People overestimate how long they can really hold their breath"
+        ],
+        "answer": 1,
+        "explanation": "The speaker advises recognizing early discomfort and deciding in advance when to push or pause."
+      },
+      {
+        "q": "What helps the speaker after about a minute?",
+        "options": [
+          "Letting out a small amount of air",
+          "Counting the seconds aloud to stay calm",
+          "Breathing in deeply",
+          "Standing up and walking"
+        ],
+        "answer": 0,
+        "explanation": "The talk says letting out a tiny breath helps a little."
+      },
+      {
+        "q": "Why does the speaker begin with a question?",
+        "options": [
+          "To draw the audience into the experience",
+          "To test which audience members have the biggest lungs",
+          "To introduce a medical warning",
+          "To compare her own time with the times of the audience"
+        ],
+        "answer": 0,
+        "explanation": "She follows it with \"Here's what it feels like, from a test I tried myself.\""
+      },
+      {
+        "q": "What can listeners infer about discomfort in the middle of a task?",
+        "options": [
+          "It disappears completely after a short break",
+          "It often appears before real limits are reached",
+          "It affects experienced planners less",
+          "It means the task should be abandoned immediately"
+        ],
+        "answer": 1,
+        "explanation": "She says the body asks you to stop in the middle even though you still have reserves."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "adv-wnl-what-s-the-secret-s000",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-what-s-the-secret",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-adv-wnl-world-cup-s200",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Optimism and Big Events",
+    "voice": "female",
+    "script": "Planning a big event looks different once it starts. Before this World Cup, preparations were plagued by protests, transport chaos and stadium problems. Critics expected the worst. Yet once the matches began, the mood among visiting fans was cheerful and largely peaceful. One supporter, a retired company chief, summed it up neatly. If he had known how complicated and costly the trip would be, he said, he wouldn't have come. But now that he was there, it was great. That's a classic pattern. People underestimate the difficulty of a project at the start, and if they had full information, they might never begin. Once they're committed, the effort is already spent and the experience feels worth it. Optimism, it turns out, is a very efficient travel agent. For us as planners, the message has two sides. On one hand, optimistic estimates are dangerous: the true cost is usually higher than expected. On the other, a project that looks messy beforehand can still deliver a good result if people stay focused. I wouldn't recommend underestimating on purpose. But I'd say we should judge events by how they finish, not only by how they start.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Stadium problems are almost always solved well before the event",
+          "Difficult preparation doesn't always mean a poor result",
+          "Critics are usually right about big events",
+          "Fans should avoid expensive trips to big events"
+        ],
+        "answer": 1,
+        "explanation": "The speaker says a messy project can still deliver a good result if people stay focused."
+      },
+      {
+        "q": "What problems affected the preparations?",
+        "options": [
+          "Ticket fraud, injuries and poor food at the stadiums",
+          "Protests, travel disruption and venue problems",
+          "Funding shortages, strikes and very bad weather",
+          "Security threats, power cuts and visa delays"
+        ],
+        "answer": 1,
+        "explanation": "The talk lists protests, transport chaos and stadium problems."
+      },
+      {
+        "q": "Why does the speaker say optimism is a travel agent?",
+        "options": [
+          "To make a dry joke about why fans go anyway",
+          "To explain why stadiums were late",
+          "To show that fans paid too much for their trips",
+          "To criticize the travel agencies that sell tickets"
+        ],
+        "answer": 0,
+        "explanation": "The line follows the point that people underestimate difficulty and then commit."
+      },
+      {
+        "q": "What is the speaker's view of optimistic estimates?",
+        "options": [
+          "Completely useless in planning",
+          "Always harmless for teams that plan big projects",
+          "Risky, though not always harmful in the end",
+          "The cause of the stadium problems"
+        ],
+        "answer": 2,
+        "explanation": "She calls them dangerous because costs run higher, yet says events can still end well."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "adv-wnl-world-cup-s200",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-world-cup",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-arctic-mapping-s682",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Mapping a Town Together",
+    "voice": "female",
+    "script": "Maps look objective. A line is a road, a dot is a town, and we assume somebody checked. But picture a small northern community whose homes and shops are missing or misplaced on the map. That was the situation in an Arctic town, and the fix was surprisingly simple. People often think mapping is a job for experts with satellites and expensive software, but here, ordinary residents did the work. About thirty people came one evening: elders, business owners and high-school students. Each received a laptop and a short lesson on how to place their own houses, stores and meeting places correctly. Notice the mix of ages. The students understood the tools, and the elders knew the place and its history. Together they covered what neither group could do alone. The town's planning director saw a benefit beyond accuracy. Good maps, he said, could help attract visitors or even new residents. So the project wasn't just a curiosity, it was a practical investment. Let's say you plan deliveries to a remote site. If the address is wrong on the map, your shipment is late before it leaves. Local knowledge fixes that cheaply. The take-away is simple: the people who live somewhere often know it best, so involve them when you build the data.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Online maps should never be used for planning",
+          "Residents can help make maps more accurate and useful",
+          "Young people understand technology better than elders",
+          "Satellite photographs are too costly for small northern communities"
+        ],
+        "answer": 1,
+        "explanation": "The talk describes locals correcting the map of their own town."
+      },
+      {
+        "q": "How did the planning director think the maps could be used?",
+        "options": [
+          "To train students in surveying",
+          "To plan new roads and public buildings in the town",
+          "To settle disputes about land",
+          "To attract visitors and new residents"
+        ],
+        "answer": 3,
+        "explanation": "He said good maps could help attract visitors or even new residents."
+      },
+      {
+        "q": "Why does the speaker mention shipments to a remote site?",
+        "options": [
+          "To explain how the town receives supplies",
+          "To describe a problem the town faced last year",
+          "To argue that deliveries are too expensive",
+          "To show why an accurate address matters"
+        ],
+        "answer": 3,
+        "explanation": "She says a wrong address on the map makes a shipment late before it leaves."
+      },
+      {
+        "q": "What does the speaker imply about local residents?",
+        "options": [
+          "They need outside experts to supervise their work closely",
+          "They need outside experts to supervise them",
+          "They are unwilling to share their data",
+          "They hold knowledge that outside experts may lack"
+        ],
+        "answer": 3,
+        "explanation": "She says the elders knew the place and its history, which the tools alone could not provide."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-arctic-mapping-s682",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:arctic-mapping",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-blackberry-s143",
+    "type": "listenTalk",
+    "cefr": "B1+",
+    "skill": "listening",
+    "title": "Too Late for Popularity",
+    "voice": "male",
+    "script": "Let's look at a company that arrived late. BlackBerry had a popular messaging service called BBM. When rivals took its users, the company decided to put BBM on Android and Apple phones too, hoping to keep its customers. The response was extraordinary: more than twenty million downloads. That sounds like a big success. But many people still think it won't save the service. One young blogger said that putting it on the iPhone came four or five years too late. By the way, my first phone had a physical keyboard, and I miss it more than I should admit. Anyway, back to the point. Think about what that young man is saying. Interest is not the same as loyalty. People may download an app to try it, then keep using the apps their friends already use. In messaging, the product is the network. If your friends are somewhere else, a better feature won't bring you back. This is why timing matters in business. Being late means others have already built habits. Downloads are a good sign, but they aren't the final result. The real measure is how many people are still active after a few months. So remember: popularity today doesn't fix a problem that began years ago.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Releasing it on rival phones may be too late",
+          "Free apps always attract more users",
+          "Physical keyboards are better than touch screens for messaging",
+          "Young bloggers understand technology better than most experts"
+        ],
+        "answer": 0,
+        "explanation": "The speaker says popularity today doesn't fix a problem that began years ago."
+      },
+      {
+        "q": "How many downloads did the service receive?",
+        "options": [
+          "More than twenty million",
+          "Around fifty million",
+          "Nearly two hundred million",
+          "About two million"
+        ],
+        "answer": 0,
+        "explanation": "The talk says there were more than twenty million downloads."
+      },
+      {
+        "q": "Why does the speaker mention his first phone?",
+        "options": [
+          "To prove that physical keyboards were very popular",
+          "To show that he used the service daily",
+          "It is a brief aside before returning to the topic",
+          "To explain why the service failed to attract users"
+        ],
+        "answer": 2,
+        "explanation": "He follows it with \"Anyway, back to the point.\""
+      },
+      {
+        "q": "What can listeners conclude about the downloads?",
+        "options": [
+          "High downloads do not guarantee long-term use",
+          "They prove that the service has been saved",
+          "They were lower than expected",
+          "They show that customers dislike all the other messaging apps"
+        ],
+        "answer": 0,
+        "explanation": "He says interest is not the same as loyalty, and the real measure is who is still active later."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-blackberry-s143",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:blackberry",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-facebook-deserted-by-millions-of-users-s172",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "When Everyone Has Already Joined",
+    "voice": "male",
+    "script": "Every product has a life cycle, and social networks are no exception. Recent figures showed that users were turning away from Facebook in several countries where it had been hugely popular, including Canada, Spain, France, Germany and Japan. A media analyst offered two explanations. First, in places like the United States and the United Kingdom, nearly everyone who wanted an account already has one. The pool of new customers is empty. Second, people get bored and like to try something new. Meanwhile, other networks have seen surges among younger users. I'd say this is the supply and demand story of attention. When demand stops growing, the existing supply has to compete for what's left. And with a service that's free to join, switching costs are close to zero. Nobody has to cancel a contract; they simply stop logging in. Being used by almost everyone is, it turns out, no guarantee of being interesting. For us, the take-away is about saturation. When your market is full, growth must come from keeping the interest of existing customers, not just finding new ones. And if those customers are young, expect them to move on first.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Popular platforms lose users when markets are full",
+          "Analysts cannot predict consumer behavior",
+          "Social networks will disappear completely within a few years",
+          "Younger users prefer to pay for the services they use"
+        ],
+        "answer": 0,
+        "explanation": "The speaker explains saturation and boredom as reasons for the decline."
+      },
+      {
+        "q": "What does the analyst say about the US and UK?",
+        "options": [
+          "Young people never signed up",
+          "Users there prefer newer and smaller networks",
+          "The network is banned there",
+          "Most potential users have already joined"
+        ],
+        "answer": 3,
+        "explanation": "The talk says nearly everyone who wanted an account already has one."
+      },
+      {
+        "q": "Why does the speaker mention switching costs?",
+        "options": [
+          "To show that the network charges high fees",
+          "To argue that contracts protect companies",
+          "To explain why users can leave so easily",
+          "To compare the network with banks"
+        ],
+        "answer": 2,
+        "explanation": "She says nobody has to cancel a contract; they simply stop logging in."
+      },
+      {
+        "q": "What is the speaker's attitude toward the network's situation?",
+        "options": [
+          "Delighted that the network is finally failing",
+          "Matter-of-fact, treating it as a normal cycle",
+          "Angry at the analyst's explanation",
+          "Alarmed that social media will soon disappear completely"
+        ],
+        "answer": 1,
+        "explanation": "She opens by saying every product has a life cycle and describes events calmly."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-facebook-deserted-by-millions-of-users-s172",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:facebook-deserted-by-millions-of-users",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-malala-s029",
+    "type": "listenTalk",
+    "cefr": "B1+",
+    "skill": "listening",
+    "title": "A Birthday Speech at the UN",
+    "voice": "male",
+    "script": "What does courage look like in practice? Sometimes it looks like a sixteen-year-old in a big chair. A teenage activist had survived being shot, then spent nine months recovering through countless operations. On her sixteenth birthday, she stood up at the United Nations and gave a defiant reply to the people who had attacked her. \"They thought that the bullet would silence us,\" she said. \"But they failed.\" It was an unusual birthday. There were no candles on a cake. Instead, she sat in a main council chamber, in the central seat that is normally kept for world leaders. I think there are two lessons for us. The first is about attitude: she didn't answer anger with anger. She answered with a clear message, in front of the right audience. The second is about platform. A message has more impact when it's delivered where decisions are made. In business, your best idea won't change much if it's only shared in a corridor. Take it to the meeting where the budget is decided. Personally, I admire how she turned an attack into a reason to speak louder. That's the kind of resilience worth learning from.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Birthdays should always be celebrated with public speeches",
+          "A young activist's response shows real resilience",
+          "The United Nations needs younger people as its leaders",
+          "Corridors are the best place for ideas"
+        ],
+        "answer": 1,
+        "explanation": "The speaker draws lessons about attitude and platform from her speech."
+      },
+      {
+        "q": "Where was she sitting during the speech?",
+        "options": [
+          "In a seat normally kept for world leaders",
+          "On a stage with musicians",
+          "Among the audience at the back of the hall",
+          "At a table with her family and friends"
+        ],
+        "answer": 0,
+        "explanation": "The talk says she sat in the central seat usually reserved for world leaders."
+      },
+      {
+        "q": "Why does the speaker begin with a question?",
+        "options": [
+          "To shift the focus to the United Nations",
+          "To introduce the theme of courage",
+          "To ask for personal stories",
+          "To quiz the class about her age"
+        ],
+        "answer": 1,
+        "explanation": "The following sentences answer it with her example."
+      },
+      {
+        "q": "How does the speaker feel about the young activist?",
+        "options": [
+          "He admires her response",
+          "He feels sorry for her recovery",
+          "He finds the event too formal",
+          "He doubts her message"
+        ],
+        "answer": 0,
+        "explanation": "He says he admires how she turned an attack into a reason to speak louder."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-malala-s029",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:malala",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-murderers-beware-s654",
+    "type": "listenTalk",
+    "cefr": "B2+",
+    "skill": "listening",
+    "title": "Scans, Scalpels and Human Judgment",
+    "voice": "female",
+    "script": "When a new technology arrives in a profession, people often think it will replace the experts. But the story of the virtual autopsy shows something different. It's a method that uses scanning to examine a body instead of cutting it open. The approach was in development for decades, and it only took off when a wealthy donor, an eye surgeon, gave money to the project. Now, you'd expect forensic pathologists to feel threatened. Many of the newer ones don't. They see the scan as something that adds to the traditional approach, and they say it might one day replace parts of it, but probably not all. A senior figure at a Berlin hospital institute that uses a version of the method explains why. To judge the colour of blood, the consistency of body fluids or smells, the specialists still need the traditional cut. A scan can't smell anything. So here's the pattern: the technology is strong at some tasks and blind to others, and the experts know exactly which. In your teams, the same applies to forecasting software. It handles volume brilliantly, but it doesn't know about the supplier's strike next week. Use the tool for what it sees, and the people for what it can't.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "New technology can complement experts rather than replace them",
+          "Pathologists should retrain as software engineers in large hospitals",
+          "Scanning is cheaper than every traditional method used today",
+          "Wealthy donors drive most medical research"
+        ],
+        "answer": 0,
+        "explanation": "The speaker says the tool is strong at some tasks and blind to others, so people still matter."
+      },
+      {
+        "q": "What allowed the project to take off?",
+        "options": [
+          "A breakthrough in scanning speed",
+          "Approval from several hospitals",
+          "A large gift from a wealthy doctor",
+          "Strong support from the national government"
+        ],
+        "answer": 2,
+        "explanation": "The talk says a donation from a wealthy eye surgeon let the project take off."
+      },
+      {
+        "q": "Why does the speaker say a scan can't smell anything?",
+        "options": [
+          "To explain why traditional methods are still needed",
+          "To show that smell is the most important clue of all",
+          "To argue that scans are unreliable overall",
+          "To mock the technology and its supporters"
+        ],
+        "answer": 0,
+        "explanation": "Specialists still need the traditional cut to judge smells, colour and consistency."
+      },
+      {
+        "q": "What does the speaker imply about forecasting software?",
+        "options": [
+          "It will soon replace human planners entirely",
+          "It needs human judgment for what it misses",
+          "It can detect supplier problems on its own",
+          "It is too slow to handle large volumes of data"
+        ],
+        "answer": 1,
+        "explanation": "She says it doesn't know about the supplier's strike, so use people for what it can't see."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-murderers-beware-s654",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:murderers-beware",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-syria-s275",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Getting Used to Danger",
+    "voice": "female",
+    "script": "People adapt. It's one of our greatest strengths, and sometimes one of our greatest risks. A reporter in a conflict zone noticed that in public, ordinary people sounded defiant, but in private conversations they were less so. A shopkeeper in the town centre said, sadly, that his baby daughter cries whenever she hears an explosion. A young student told the reporter she was afraid she might become desensitised to suffering, and perhaps to danger as well. In the beginning, she said, the explosions gave her nightmares. Now she can sleep through anything. She noticed the change and it worried her. Adaptation, to put it mildly, is a double-edged skill. Now bring this to our field. In a supply chain, we meet the same effect on a smaller scale. When late deliveries become normal, nobody reacts to them anymore. A delay that would have caused an escalation last year is now just part of the week. The risk hasn't gone away. We've stopped noticing it. So I'd suggest a habit: now and then, look at your process through the eyes of someone new. If something surprises them, ask why it no longer surprises you.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Explosions cause lasting sleep problems in children",
+          "People can get used to risk, which is dangerous",
+          "Supply chains are more dangerous than conflict zones",
+          "Public statements are always honest and complete"
+        ],
+        "answer": 1,
+        "explanation": "The speaker links the student's story to supply chain teams no longer noticing delays."
+      },
+      {
+        "q": "What does the shopkeeper's daughter do?",
+        "options": [
+          "She sings loudly during them",
+          "She cries at the sound of explosions",
+          "She refuses to leave the house at all",
+          "She sleeps through the explosions"
+        ],
+        "answer": 1,
+        "explanation": "The talk says his baby daughter cries whenever she hears an explosion."
+      },
+      {
+        "q": "Why does the speaker call adaptation a double-edged skill?",
+        "options": [
+          "To say that it only ever helps people",
+          "To make a dry comment on its good and bad sides",
+          "To criticize people who adapt too quickly to change",
+          "To praise the student's courage"
+        ],
+        "answer": 1,
+        "explanation": "She introduces it with \"to put it mildly\" after describing the student's worry."
+      },
+      {
+        "q": "What does the speaker imply about the student's change?",
+        "options": [
+          "Getting used to danger can be a warning sign",
+          "Conditions in the town have improved",
+          "Every student should learn this skill",
+          "The student is no longer afraid of anything at all"
+        ],
+        "answer": 0,
+        "explanation": "The student noticed the change and it worried her."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-syria-s275",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:syria",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-teff-s486",
+    "type": "listenTalk",
+    "cefr": "B2+",
+    "skill": "listening",
+    "title": "The Price of Teff",
+    "voice": "male",
+    "script": "When demand rises, prices rise, and everyone in the supply chain responds. That's basic. What's interesting about teff, the grain behind Ethiopia's staple flatbread, is who ends up losing. The country's middle class is growing, and in cities people now eat as much as sixty-one kilos a year. That has pushed prices up, so the poorest people can no longer afford the grain. Small farmers see the opportunity, naturally, and most of them sell the majority of their harvest in the city. That has raised incomes in some rural areas, which is good news. But the government points to a cost. Teff is the most nutritious grain in the country, so when farmers sell it, their own families may eat less of it. I once worked with a vegetable supplier who exported his best produce and kept the rejects for his own village. Same logic: the market sends the best product where the money is. Personally, I find this the hard part of any growth story. The headline numbers look healthy, but the benefits are uneven. As team leads, you'll face versions of this. A policy can raise one metric and quietly damage another. Always ask who pays for the success.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "The government has banned the sale of teff in cities",
+          "Small farmers earn more than city workers",
+          "Rising teff demand has brought benefits and costs",
+          "Teff should be exported to richer countries for profit"
+        ],
+        "answer": 2,
+        "explanation": "The speaker says incomes rose in some areas, but there were nutritional consequences."
+      },
+      {
+        "q": "Why can the poorest people no longer buy teff?",
+        "options": [
+          "Prices have risen too far",
+          "The grain is no longer grown",
+          "Harvests have failed badly",
+          "Farmers refuse to sell it locally"
+        ],
+        "answer": 0,
+        "explanation": "The talk says rising prices have pushed the grain out of reach."
+      },
+      {
+        "q": "Why does the speaker mention the vegetable supplier?",
+        "options": [
+          "To show how rejects can be sold to buyers abroad",
+          "To give a parallel example of the same logic",
+          "To suggest that farmers should keep inferior crops",
+          "To suggest that farmers keep inferior crops"
+        ],
+        "answer": 1,
+        "explanation": "She says, \"Same logic: the market sends the best product where the money is.\""
+      },
+      {
+        "q": "What is the speaker's attitude toward the growth story?",
+        "options": [
+          "Uneasy that the benefits are uneven",
+          "Confident the government will fix it",
+          "Unconcerned about nutrition for farmers",
+          "Pleased that prices keep rising"
+        ],
+        "answer": 0,
+        "explanation": "She calls it the hard part of growth, since the headline numbers hide uneven benefits."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-teff-s486",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:teff",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-are-you-a-bad-boyfriend-s156",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Subscription Gifts and Attention",
+    "voice": "male",
+    "script": "People often think a thoughtful gift shows that you care. But a new service suggests that for some customers, thoughtfulness is something you can subscribe to. A man who works in finance has been testing it. He's signed up about three hundred and fifty boyfriends, mostly friends from university and other friends who are investors, start-up founders or employees at big technology companies. For the last year, the girlfriends of those friends have been receiving presents from him. Each month, members choose from a list of seven options, such as chocolate, tea sets or manicures. From a business point of view, it's clever. It's a subscription with limited choices, so it's cheap to run and easy to predict, much like a simplified product catalogue. Demand is steady and the supply is easy to plan. But personally, I'm sceptical about the idea. If the point of a gift is to show attention, then choosing from a list of seven monthly options is attention that has been standardized. The customer is paying to avoid the very thing the gift is supposed to express. So I'd say it's a good product for busy people, and a weak substitute for actually paying attention. Test your own ideas against that, and ask what the customer is really buying.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "A gift subscription trades attention for convenience",
+          "Subscription services always fail",
+          "Technology workers are poor at looking after relationships",
+          "Chocolate is the best possible gift for partners"
+        ],
+        "answer": 0,
+        "explanation": "The speaker calls it a good product for busy people and a weak substitute for paying attention."
+      },
+      {
+        "q": "How often do members choose a gift?",
+        "options": [
+          "Twice a year",
+          "Once a year",
+          "Every month",
+          "Every week"
+        ],
+        "answer": 2,
+        "explanation": "The talk says each month members choose from seven options."
+      },
+      {
+        "q": "Why does the speaker mention the limited list of options?",
+        "options": [
+          "To argue the gifts are expensive",
+          "To show that customers dislike chocolate",
+          "To explain why the service is easy to plan",
+          "To compare the service with a restaurant menu"
+        ],
+        "answer": 2,
+        "explanation": "He says limited choices make it cheap to run and easy to predict."
+      },
+      {
+        "q": "What is the speaker's opinion of the service?",
+        "options": [
+          "A perfect solution for busy partners and their families",
+          "A scam that should be banned",
+          "Clever as a business, but poor as a gesture of care",
+          "An unprofitable idea that will fail"
+        ],
+        "answer": 2,
+        "explanation": "He calls it clever from a business view but is sceptical because the gift is standardized attention."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-are-you-a-bad-boyfriend-s156",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-are-you-a-bad-boyfriend",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-bangladeshi-organization-s184",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Catching Up Before Primary School",
+    "voice": "male",
+    "script": "What happens to a child who has to work before he ever sits in a classroom? That's the problem one organization in the capital of Bangladesh is trying to solve. It runs twenty-three urban development centres. The first job of the centres is to get children ready for primary school, with catch-up classes for lessons they missed. The second job starts once the children enroll. Then the centres help with homework, so the children don't fall behind again. Take a ten-year-old boy who used to work in a plastic factory. Today he attends one of the centres. His father sells goods on the street and his mother works part-time as a domestic worker, so there isn't much money or free time at home. As team leads, notice the design. It's a two-stage support system. Stage one gets people into the system, and stage two keeps them there. We see the same pattern in onboarding. It isn't enough to hire someone; you need to support them until they perform. A good program follows the person through the transition, not just the entry. That's why this organization works in both stages, and why it's a useful model for how we welcome new people into our own teams.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Support for children before and after they start school",
+          "Primary schools need to give children a lot more homework",
+          "Factories should stop hiring very young workers altogether",
+          "Street sellers earn less than domestic workers"
+        ],
+        "answer": 0,
+        "explanation": "The speaker describes two stages of support and says a good program follows the person through the transition."
+      },
+      {
+        "q": "How many centres does the organization run?",
+        "options": [
+          "About forty of them in total",
+          "Thirty of them",
+          "Forty of them across the country",
+          "Twenty-three of them"
+        ],
+        "answer": 3,
+        "explanation": "The talk says it runs twenty-three urban development centres."
+      },
+      {
+        "q": "Why does the speaker begin with a question?",
+        "options": [
+          "To introduce the problem the program addresses",
+          "To ask the audience for donations",
+          "To compare child labor in different countries",
+          "To test the audience's general knowledge of Bangladesh"
+        ],
+        "answer": 0,
+        "explanation": "The next sentence says that is the problem the organization is trying to solve."
+      },
+      {
+        "q": "How does the centres' second job relate to the first?",
+        "options": [
+          "It continues support after children start primary school",
+          "It replaces the first job with more advanced classes",
+          "It prepares parents for difficult factory jobs in the city",
+          "It tests whether children are ready for school"
+        ],
+        "answer": 0,
+        "explanation": "The speaker says stage one gets people in and stage two keeps them there."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-bangladeshi-organization-s184",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-bangladeshi-organization",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-black-friday-s000",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Black Friday and Impulse Demand",
+    "voice": "female",
+    "script": "Black Friday is meant to be about bargains, and people often think shoppers on that day are carefully hunting for the best deals. But listen to what one shopper said at one in the morning, leaving a twenty-four-hour supermarket in a busy part of London. She had bought an expensive vacuum cleaner and wasn't sure she even wanted it. She just picked it up, she said, because it was there and everyone else was grabbing things. She called the scene crazy and absolutely disgusting. So the experience was unpleasant, and the purchase was unplanned. This matters for planners because promotions create demand that isn't based on need. It's driven by urgency and crowd behaviour. Your forecast has to treat such peaks differently from normal demand. Sales spike, but then returns follow, and the next weeks may be weaker because customers already bought what they would have bought later. That pattern is sometimes called pull-forward. So here is the structure: first, what we saw on the shop floor, then what it means for the numbers, and finally how to protect the plan. Don't just plan for the peak. Plan for the weeks after it too.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Shoppers always regret their purchases",
+          "Supermarkets should stay open all night long",
+          "Vacuum cleaners are the best Black Friday product for sellers",
+          "Promotions can create unplanned demand"
+        ],
+        "answer": 3,
+        "explanation": "The speaker says planners must treat promotional peaks differently from normal demand."
+      },
+      {
+        "q": "What did the shopper buy?",
+        "options": [
+          "A coffee machine",
+          "A large flat-screen television",
+          "A set of tools",
+          "A vacuum cleaner"
+        ],
+        "answer": 3,
+        "explanation": "The talk says she bought an expensive vacuum cleaner."
+      },
+      {
+        "q": "Why does the speaker quote the shopper's description of the crowd?",
+        "options": [
+          "To explain why the supermarket closed early",
+          "To show the shopping was chaotic, not careful",
+          "To argue that night shopping is safer",
+          "To criticize the behavior of the supermarket staff that night"
+        ],
+        "answer": 1,
+        "explanation": "The speaker uses it to challenge the idea of careful deal-hunting."
+      },
+      {
+        "q": "How does the shopper's story relate to the rest of the talk?",
+        "options": [
+          "It is an example of demand driven by impulse",
+          "It shows how returns are processed",
+          "It proves that promotions are always unprofitable",
+          "It introduces a comparison between stores"
+        ],
+        "answer": 0,
+        "explanation": "The speaker says promotions create demand not based on need, and that affects the numbers."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-black-friday-s000",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-black-friday",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-calais-migrants-s786",
+    "type": "listenTalk",
+    "cefr": "C1",
+    "skill": "listening",
+    "title": "More Than Survival in Calais",
+    "voice": "male",
+    "script": "When we hear the word camp in a news report, we tend to picture a place where everything is temporary and people simply wait. People often think that in such places the only needs are food, shelter and safety, but the story from the Calais camp suggests otherwise. A volunteer started a school there, and it became so well known that residents simply call it by his name. The school's teachers are now concentrating on opening a separate classroom for roughly two hundred women and two dozen children. The reasoning is straightforward. Men outnumber women in the camp by about ten to one, and many women, according to volunteers, feel uncomfortable attending lessons alongside male students they don't know. The result is that a general program, however well meant, was missing the people who may have needed it most. This is a design lesson that carries well beyond a camp. A service can be technically open and still be unusable for a particular group. The founder's ambition goes further: he wants the camp to be a place where people live, rather than merely survive. For those of us who design processes, the implication is that access isn't the same as availability. Always check who is actually showing up, and who isn't.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "A camp school shows people need more than survival",
+          "Volunteers should avoid running schools in camps",
+          "News reports describe refugee camps accurately and in full",
+          "Men and women should always study together"
+        ],
+        "answer": 0,
+        "explanation": "The speaker says the founder wants a place to live, not merely survive, and describes how the school adapts."
+      },
+      {
+        "q": "Why do many women avoid the regular classes?",
+        "options": [
+          "They have no free time because of their work",
+          "They feel uncomfortable among unfamiliar men",
+          "Teachers refuse to admit them",
+          "The classes are too advanced for most of the women"
+        ],
+        "answer": 1,
+        "explanation": "The talk says many women feel uncomfortable attending lessons with male students they don't know."
+      },
+      {
+        "q": "Why does the speaker mention what people often think about camps?",
+        "options": [
+          "To blame journalists for ignoring volunteers",
+          "To explain why donors support camps",
+          "To show that the media reports camps accurately",
+          "To challenge a simplified view of life there"
+        ],
+        "answer": 3,
+        "explanation": "She says the story suggests otherwise, meaning people have needs beyond basics."
+      },
+      {
+        "q": "How does the separate classroom relate to the rest of the talk?",
+        "options": [
+          "It contrasts the school with other services in the camp",
+          "It shows how volunteers are recruited",
+          "It illustrates how a service can leave out a group",
+          "It describes a plan that was later abandoned"
+        ],
+        "answer": 2,
+        "explanation": "The speaker calls it a design lesson: a service can be open and still unusable for some people."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-calais-migrants-s786",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-calais-migrants",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-fifth-of-young-adults-s667",
+    "type": "listenTalk",
+    "cefr": "B1+",
+    "skill": "listening",
+    "title": "Why Young Adults Stay Home",
+    "voice": "male",
+    "script": "Let's look at a trend: more young adults are living with their parents. Take a woman aged twenty-nine who works as a medical receptionist. She lives in the house where she grew up, and she wants to stay near her job. She looked at renting a one-bedroom flat. The rent would be more than four hundred and twenty pounds a month, and that's before bills. For her salary, that's a big part of what she earns. She also dislikes the idea of renting at all. In her words, she'd spend a lot of money and have nothing at the end. My own first flat had a leaking roof and a landlord who never answered the phone. Anyway, back to the point. Her case shows three pressures together: low wages, high housing costs and the wish to build something lasting. Staying home isn't laziness. It's a way to save money. But it has costs too, like less independence and less privacy. In class, you might wonder whether this is a short-term choice or a long-term change. Economists would say it depends on wages and house prices. For now, remember the main idea: housing costs shape life decisions, from where people live to when they leave home. Next, we'll look at how governments try to help.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Most young adults want to move to a bigger town or city",
+          "High housing costs keep many young adults at home",
+          "Renting a flat is always cheaper than buying a home",
+          "Parents should charge their children rent"
+        ],
+        "answer": 1,
+        "explanation": "The speaker concludes that housing costs shape life decisions, including when people leave home."
+      },
+      {
+        "q": "How much would the monthly rent be, not counting bills?",
+        "options": [
+          "More than four hundred and twenty pounds",
+          "Exactly half her salary",
+          "Nearly six hundred pounds, including all bills",
+          "Nearly six hundred pounds"
+        ],
+        "answer": 0,
+        "explanation": "The talk says rent would be more than four hundred and twenty pounds a month."
+      },
+      {
+        "q": "Why does the speaker mention his first flat?",
+        "options": [
+          "It shows that landlords are unreliable in general",
+          "It proves that renting is always a bad financial choice",
+          "It explains how young adults choose where to live",
+          "It is a brief aside before returning to the topic"
+        ],
+        "answer": 3,
+        "explanation": "He follows it with \"Anyway, back to the point.\""
+      },
+      {
+        "q": "How does the receptionist's story relate to the rest of the talk?",
+        "options": [
+          "It contrasts renting with buying",
+          "It introduces a solution that governments have already offered",
+          "It illustrates the pressures behind a general trend",
+          "It shows an unusual exception to the general trend"
+        ],
+        "answer": 2,
+        "explanation": "The speaker says her case shows three pressures together: wages, housing costs and the wish to build something lasting."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-fifth-of-young-adults-s667",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-fifth-of-young-adults",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-mirrors-s143",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "A Mirror for Cooler Roofs",
+    "voice": "male",
+    "script": "Imagine a roof that helps cool the building below it. Researchers have developed a special mirror, designed to send heat away from buildings. The lead researcher says that if you cover a significant part of a roof with it, you can see how much power you save, because it can offset a large part of the electricity used for air conditioning. In some situations, he says, you could offset it completely. That's a strong claim, so it's worth remembering that buildings warm up in several different ways, not just through the roof. I once worked with a facility manager who spent a fortune on a new cooling unit, and then discovered that the real heat came through the west-facing windows. He was solving the right problem in the wrong place. That's why I like the researchers' wording. They say in some situations, not everywhere. It's an honest claim. For us, the lesson is about energy costs in warehouses and cold storage, where cooling is a major expense. Before investing in a solution, measure where the heat comes from. Then match the tool to the source. If the data supports it, a roof mirror could be a smart part of the plan.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Windows are the main source of heat in most buildings",
+          "Air conditioning is no longer necessary in modern buildings",
+          "Warehouses should be built without roofs",
+          "A roof mirror may cut air conditioning use"
+        ],
+        "answer": 3,
+        "explanation": "The speaker says the claim is honest but depends on where a building's heat comes from."
+      },
+      {
+        "q": "What can the mirror offset, according to the researcher?",
+        "options": [
+          "The water used for cleaning",
+          "The electricity used for air conditioning",
+          "The heat coming into the building through its windows",
+          "The cost of repairing the building's roof"
+        ],
+        "answer": 1,
+        "explanation": "The talk says it can offset electricity used for air conditioning."
+      },
+      {
+        "q": "Why does the speaker mention the facility manager?",
+        "options": [
+          "To recommend installing more west-facing windows in warehouses",
+          "To show the importance of finding the real source of heat",
+          "To prove mirrors work in factories",
+          "To criticize cooling units"
+        ],
+        "answer": 1,
+        "explanation": "He solved the right problem in the wrong place."
+      },
+      {
+        "q": "What is the speaker's attitude toward the researchers' claims?",
+        "options": [
+          "Dismissive, seeing the claims as exaggerated",
+          "Confused about what they mean",
+          "Enthusiastic without any reservations",
+          "Positive, but careful about the conditions"
+        ],
+        "answer": 3,
+        "explanation": "He likes the cautious wording \"in some situations\" and says the idea could be smart if the data supports it."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-mirrors-s143",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-mirrors",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-nigerian-low-tech-s360",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "When Simple Beats Sophisticated",
+    "voice": "female",
+    "script": "Ask most people which sustainability project would win a global contest, and they'll guess the one with the most advanced technology. Here's a real contest that went the other way. Ten projects reached the final. One, from California, makes plastics out of greenhouse gases, at a price and quality that compete with oil-based plastic. Another, from Switzerland, found a better way to recycle and reuse old clothes and shoes. A third, from Canada, uses smartphones to make bike-sharing more convenient. All impressive. Yet the jury picked a Nigerian initiative called Wecyclers, a recycling project built on simple, low-tech methods. Why would experts choose the simpler idea? I think it's because ideas that people can run every day tend to scale. A clever system that needs perfect conditions is fragile. A simple one that fits local reality keeps working. As planners, you'll feel this constantly. The most elegant forecasting model in the world is useless if the team can't maintain it. I'd say sophistication isn't the goal, reliability is. So when you evaluate a solution, don't ask only how advanced it is. Ask how well it fits the people and place that will use it.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Contests should only reward new technology",
+          "Practical, simple solutions can beat advanced ones",
+          "Plastic made from gases will replace oil-based plastic",
+          "Smartphones are the key to sustainability"
+        ],
+        "answer": 1,
+        "explanation": "The speaker says sophistication isn't the goal, reliability is."
+      },
+      {
+        "q": "What does the Swiss project focus on?",
+        "options": [
+          "Producing cheaper bicycles for city commuters",
+          "Producing cheaper bicycles",
+          "Reusing worn clothing and footwear",
+          "Sharing bikes through phones"
+        ],
+        "answer": 2,
+        "explanation": "The talk says the Swiss project recycles and reuses old clothes and shoes."
+      },
+      {
+        "q": "Why does the speaker ask why experts chose the simpler idea?",
+        "options": [
+          "To lead into her own explanation",
+          "To ask the audience to vote",
+          "To admit she doesn't know the reason",
+          "To criticize the jury's decision"
+        ],
+        "answer": 0,
+        "explanation": "She answers right away: \"I think it's because ideas that people can run every day tend to scale.\""
+      },
+      {
+        "q": "What is the speaker's attitude toward the winning project?",
+        "options": [
+          "Indifferent to the jury's decision",
+          "Admiring of its practical simplicity",
+          "Doubtful that it can work on a large scale",
+          "Critical of its lack of innovation"
+        ],
+        "answer": 1,
+        "explanation": "She praises simple systems that fit local reality and keep working."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-nigerian-low-tech-s360",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-nigerian-low-tech",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-organic-food-s400",
+    "type": "listenTalk",
+    "cefr": "B2+",
+    "skill": "listening",
+    "title": "Weighing the Organic Evidence",
+    "voice": "male",
+    "script": "A large analysis of studies on organic food made headlines because it compared organic and conventional crops. The research team found more antioxidants in organic crops, compounds that earlier research has linked with a lower risk of chronic illness, including heart disease and some cancers. They also measured far more cadmium, a toxic metal, in conventionally grown crops. And pesticide residues showed up in conventional crops four times more often than in organic ones. That sounds like a clear win for organic. Now, nobody had ever been angry about a carrot before this, which is a lot of drama for a vegetable. The findings will certainly be criticized. Because the analysis pooled so many studies, some of them may be of poor quality, and that could make the overall result unreliable. That's the usual trade-off with big combined analyses. More data gives more power, but mixing good and weak evidence can blur the picture. For business students, this matters when you read market research. A headline number may be built from sources of uneven quality. Before you act on it, check how it was assembled. So: first the claims, then the criticism, and always a look at how strong the evidence behind the claim really is.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Pesticides cause most chronic diseases",
+          "A large study favors organic crops but has possible weaknesses",
+          "Organic food is always safer than any conventional food",
+          "Researchers should avoid combining many studies into one analysis"
+        ],
+        "answer": 1,
+        "explanation": "The speaker presents the findings and then explains why they may be unreliable."
+      },
+      {
+        "q": "How much more often were pesticide residues found on conventional crops?",
+        "options": [
+          "Ten times as often",
+          "Three times as often",
+          "Ten times as often as organic ones",
+          "Four times more often"
+        ],
+        "answer": 3,
+        "explanation": "The talk says residues appeared four times more often on conventional crops."
+      },
+      {
+        "q": "Why does the speaker joke about a carrot?",
+        "options": [
+          "To add a light remark before turning to the criticism",
+          "To explain how the study was carried out",
+          "To show that vegetables cause arguments among farmers",
+          "To show that vegetables cause arguments among local farmers"
+        ],
+        "answer": 0,
+        "explanation": "The joke comes right before the sentence saying the findings will be criticized."
+      },
+      {
+        "q": "How does the final part of the talk relate to the findings?",
+        "options": [
+          "It rejects the findings completely",
+          "It confirms the earlier findings with a lot of additional data",
+          "It applies the findings to marketing plans",
+          "It warns that the results may be less reliable than they look"
+        ],
+        "answer": 3,
+        "explanation": "The speaker moves from claims to criticism and advises checking the strength of the evidence."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-organic-food-s400",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-organic-food",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-poverty-s484",
+    "type": "listenTalk",
+    "cefr": "B1+",
+    "skill": "listening",
+    "title": "Reaching the Chronically Poor",
+    "voice": "female",
+    "script": "Why do so many poverty programs miss the people who need help most? A recent report gives a simple answer. It describes two groups. The first is people close to the poverty line, who are poor for a short time and could cross the line with a bit of help. The second is the chronically poor, who stay poor for many years, sometimes their whole lives. Governments have been quite good at helping the first group. Moving someone over the line is relatively easy, and it makes the numbers look better. The harder job is helping the chronically poor, and that's where governments have been less active. So progress has done less for them. The report also says we should stop people from falling into poverty in the first place. Let's say a company wants to reduce late deliveries. It's easy to fix the small delays that are almost on time. The real problem is the few routes that are always late. If you only fix the easy ones, your average improves but the worst cases stay the same. The take-away is simple: don't let an easy success hide a difficult problem.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Poverty has already been solved for most people",
+          "Short-term poverty is worse than lifelong poverty",
+          "Programs tend to help the easiest cases first",
+          "Governments should stop measuring poverty in the population"
+        ],
+        "answer": 2,
+        "explanation": "The speaker says easy successes can hide the difficult problem of chronic poverty."
+      },
+      {
+        "q": "Who are the chronically poor?",
+        "options": [
+          "People living close to the poverty line",
+          "People who have just lost their jobs",
+          "People who recently moved to cities",
+          "People who stay poor for many years"
+        ],
+        "answer": 3,
+        "explanation": "The talk defines them as poor for many years, sometimes their whole lives."
+      },
+      {
+        "q": "Why does the speaker begin with a question?",
+        "options": [
+          "To ask the audience for their own solutions",
+          "To introduce the problem the report examines",
+          "To compare different countries by their national wealth",
+          "To criticize the report's authors"
+        ],
+        "answer": 1,
+        "explanation": "She says the report gives a simple answer to it."
+      },
+      {
+        "q": "How does the late-deliveries example relate to the main topic?",
+        "options": [
+          "It gives detailed data about national poverty rates",
+          "It compares poverty with a business situation",
+          "It describes a government solution",
+          "It describes a solution that one government has tried"
+        ],
+        "answer": 1,
+        "explanation": "Fixing easy delays while ignoring always-late routes parallels moving people over the poverty line."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-poverty-s484",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-poverty",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-revolution-s257",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Brewing for Women, Differently",
+    "voice": "male",
+    "script": "Big companies love to assume they know what customers want. Beer is a perfect case. For years, major brewers spent millions trying to win over women. They guessed what women wanted, and what they came up with was lighter beers, fruity flavours and even a bloat-resistant beer. None of it worked. The problem wasn't the budget, it was the method: they decided first and asked later. I should say, the hotel coffee this morning was the best part of my day. Anyway, back to the point. A group called FemAle takes a different approach. They run tastings just for women, where people can try flavours and styles they might not normally pick. Nobody's told what they should like. They're simply given the chance to experiment. The group is also pushing against decades of prejudice in the beer world, so it's not an easy job. But I think the approach is smarter. It treats customers as people with preferences to discover, not as a segment to be guessed. In your own teams, that's the difference between a survey you design to confirm your idea and a workshop that lets people react. Let them try, then listen. It beats assumptions every time.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Letting customers explore beats guessing their tastes",
+          "Women prefer lighter beers with sweet fruity flavours",
+          "Big brewers should spend a great deal more money on advertising",
+          "Beer tastings are too expensive for small firms"
+        ],
+        "answer": 0,
+        "explanation": "The speaker contrasts the brewers' guesses with FemAle's tastings and says the second approach is smarter."
+      },
+      {
+        "q": "What did the major brewers do?",
+        "options": [
+          "They ran special tastings for female customers",
+          "They designed products around guesses about tastes",
+          "They partnered with small local breweries to share costs",
+          "They cut prices to attract new buyers"
+        ],
+        "answer": 1,
+        "explanation": "The talk says they guessed what women wanted and decided first and asked later."
+      },
+      {
+        "q": "Why does the speaker mention the hotel coffee?",
+        "options": [
+          "To make a brief side remark before returning",
+          "To compare the coffee market with the beer market",
+          "To praise the people who organized the event",
+          "To explain the brewers' failure"
+        ],
+        "answer": 0,
+        "explanation": "He follows it with \"Anyway, back to the point.\""
+      },
+      {
+        "q": "What is the speaker's opinion of FemAle's approach?",
+        "options": [
+          "He thinks it is too small to make any difference",
+          "He thinks it copies the big brewers",
+          "He doubts women want new flavours",
+          "He believes it respects customers more"
+        ],
+        "answer": 3,
+        "explanation": "He says it treats customers as people with preferences to discover."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-revolution-s257",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-revolution",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-scientist-s194",
+    "type": "listenTalk",
+    "cefr": "C1",
+    "skill": "listening",
+    "title": "Ordinary Microbes, Scary Headlines",
+    "voice": "female",
+    "script": "Headlines love a scare. A line about plague in the subway makes a better headline than ordinary bacteria found in a city. Yet the second is what a team of scientists actually reported after cataloguing microbes across New York. Their study says plainly that the results do not suggest plague or anthrax is prevalent, nor that residents face any danger. In fact, most of the bacteria they identified are either harmless to people or beneficial. Some findings were what you'd expect, and the lead researcher called them a gentle reminder to wash our hands. Others turned out to be of the same sort as the bacteria used to make cheese, which is, as threats go, one most of us could live with. Let me draw out three points. First, the presence of microbes isn't the same as danger. Cities, like bodies, host huge communities of organisms, and most live alongside us quietly. Second, notice how carefully the scientists chose their language. They didn't dismiss the risk entirely; they said the data didn't suggest it. That's disciplined reasoning. And third, consider how rarely the careful version makes the front page. When you read a dramatic claim, look for what the researchers actually said.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "New York has unusually dangerous bacteria compared with other cities",
+          "Washing hands is the only way to prevent disease",
+          "Finding microbes in a city does not mean people are in danger",
+          "Scientists should avoid studying cities"
+        ],
+        "answer": 2,
+        "explanation": "The speaker says the presence of microbes isn't the same as danger."
+      },
+      {
+        "q": "According to the lead researcher, what are some results a reminder to do?",
+        "options": [
+          "Keep their hands clean",
+          "Report unusual illnesses",
+          "Avoid public transport",
+          "Cook food thoroughly"
+        ],
+        "answer": 0,
+        "explanation": "The talk says some findings were a gentle reminder to wash our hands."
+      },
+      {
+        "q": "Why does the speaker mention bacteria used to make cheese?",
+        "options": [
+          "To warn that cheese can spread serious disease",
+          "To give a mild, humorous example of harmless bacteria",
+          "To explain how the team collected samples across the city",
+          "To show which bacteria are most common"
+        ],
+        "answer": 1,
+        "explanation": "She calls it a threat most of us could live with, a dry joke."
+      },
+      {
+        "q": "What does the speaker imply about news headlines?",
+        "options": [
+          "They rarely mention health risks",
+          "They are written by the researchers",
+          "They often exaggerate what research actually found",
+          "They accurately summarize what scientific studies report"
+        ],
+        "answer": 2,
+        "explanation": "She says headlines love a scare and the careful version rarely makes the front page."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-scientist-s194",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-scientist",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-shocking-s424",
+    "type": "listenTalk",
+    "cefr": "B1+",
+    "skill": "listening",
+    "title": "Why Sitting Alone Feels Hard",
+    "voice": "female",
+    "script": "Imagine sitting in an empty room with nothing to do. No phone, no book, no music. Just you and your thoughts. Researchers asked students to do exactly that for a short time. Afterwards, they asked how it felt. On average, the students did not enjoy it. They found it hard to focus, and their minds wandered even though nothing was around to distract them. Now, maybe the strange room was the problem. So the researchers repeated the study with people at home. The results were similar. In fact, people at home found it even worse. Some got up from their chairs or checked their phones during the test. I once worked with a colleague who couldn't wait five minutes in a meeting room without opening his laptop. That's the same idea. Doing nothing feels uncomfortable for most of us. So here's what this means for us. First, it's normal to feel restless when it's quiet. Second, it helps to plan short breaks, like a walk, instead of reaching for the phone out of habit. The take-away: a quiet mind is harder to find than we think, and it takes practice.",
+    "questions": [
+      {
+        "q": "What is the main point of the talk?",
+        "options": [
+          "Students are more restless than other adults",
+          "Being alone with your thoughts is harder than people expect",
+          "People concentrate much better at home than in a laboratory",
+          "Phones are the main cause of poor concentration in young adults"
+        ],
+        "answer": 1,
+        "explanation": "The speaker ends by saying a quiet mind is harder to find than we think."
+      },
+      {
+        "q": "What did some participants do during the test at home?",
+        "options": [
+          "They fell asleep in their chairs after a while",
+          "They got up or checked their phones",
+          "They wrote down their thoughts",
+          "They talked to family members"
+        ],
+        "answer": 1,
+        "explanation": "The talk says some got up from their chairs or checked their phones."
+      },
+      {
+        "q": "Why does the speaker mention a colleague in a meeting room?",
+        "options": [
+          "To explain why laptops are banned at work",
+          "To give a personal example of the same restlessness",
+          "To show that meetings are often boring for most people",
+          "To prove the experiment was badly designed"
+        ],
+        "answer": 1,
+        "explanation": "She follows the story with \"That's the same idea.\""
+      },
+      {
+        "q": "How does the second experiment relate to the first?",
+        "options": [
+          "It checked if the strange room caused the result",
+          "It repeated the same study with a much larger group",
+          "It compared the students with a group of older adults",
+          "It added music to reduce restlessness"
+        ],
+        "answer": 0,
+        "explanation": "The speaker says the strange room might have been the problem, so they tried again at home."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-shocking-s424",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-shocking",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-shops-s098",
+    "type": "listenTalk",
+    "cefr": "C1",
+    "skill": "listening",
+    "title": "Cameras That Watch Shoppers",
+    "voice": "female",
+    "script": "Retailers have always watched customers. What's changed is how closely. According to a report from an IT services company, roughly thirty percent of stores use facial recognition to track shoppers inside the shop. People often think facial recognition simply means a camera matching a face to a name in a database, but the technology is broader than that. Some cameras can analyze particular expressions, even the clothing brands a person wears. A spokesperson for the camera maker says the purpose isn't to build databases of individual lives. The aim, he explains, is to construct generalized models of lifestyles and shopping habits. Whether you find that reassuring depends on how much you trust the distinction. As planners, you'll benefit from this kind of data. If a store knows which displays attract attention and how people move around, it can adjust stock and staffing, which improves forecasts. But the same data raises questions about consent and storage. Customers rarely read the sign near the door. The practical point for us: analysis of groups is easier to defend than tracking of individuals, yet the line between them can be thin. When you propose a data-driven idea, be ready to explain what you collect, why, and what you don't keep.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Stores should stop collecting any customer data",
+          "Facial recognition is mainly used for security in shopping centres",
+          "Planners can ignore customer behavior inside the shops",
+          "Stores use facial recognition, which raises privacy questions"
+        ],
+        "answer": 3,
+        "explanation": "The speaker describes the benefits for forecasting and then the questions about consent and storage."
+      },
+      {
+        "q": "What else can some cameras analyze besides faces?",
+        "options": [
+          "The prices that customers are willing to pay",
+          "The brands of clothing people wear",
+          "The cars in the parking lot",
+          "The words customers speak"
+        ],
+        "answer": 1,
+        "explanation": "The talk says cameras can analyze even the clothing brands a person wears."
+      },
+      {
+        "q": "Why does the speaker mention what people often think about facial recognition?",
+        "options": [
+          "To argue it is mostly used for security",
+          "To argue that facial recognition is mostly used for security",
+          "To broaden the listener's idea of what it can do",
+          "To show how simple the technology really is"
+        ],
+        "answer": 2,
+        "explanation": "She says the technology is broader than matching a face to a name."
+      },
+      {
+        "q": "What does the speaker imply about the company's explanation?",
+        "options": [
+          "It may not fully settle privacy concerns",
+          "It is supported by independent audits",
+          "It applies only to online shops",
+          "It has been proven false by independent researchers"
+        ],
+        "answer": 0,
+        "explanation": "She says whether it is reassuring depends on trusting the distinction, which she calls thin."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-shops-s098",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-shops",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-switched-babies-s324",
+    "type": "listenTalk",
+    "cefr": "B2+",
+    "skill": "listening",
+    "title": "When a Mix-Up Cannot Be Undone",
+    "voice": "female",
+    "script": "Some errors can be fixed with a phone call. Others can't, however quickly you find them. A case involving two babies switched at birth belongs to the second group. Think of two shoppers who accidentally swap trolleys. If they notice at the checkout, it's a small joke. If they notice weeks later, the food is eaten and the mess is real. In this case, the mix-up came to light only after years, and the families had built lives around the children they raised. One of the mothers described the situation as traumatic. She saw resemblances between herself and the child she hadn't raised, yet she was caring alone for a child who wasn't hers biologically, while her own child lived somewhere else. She became unhappy with how things were going and asked the children's court for custody of her biological child. The other mother refused. Notice what makes this hard. Nobody acted with bad intent, but the legal answer and the emotional answer pointed in different directions. For us as planners, the lesson is about traceability. In our world, a mix-up between batches can be found early if labels and records are accurate. The longer a mistake travels downstream, the more expensive correcting it becomes. So we invest in checks at the start, where errors are cheapest to catch.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Hospitals should keep much better records of all births",
+          "Batch labels are more important than quality checks",
+          "Courts should always favor the biological parents in such cases",
+          "Mistakes become harder to correct the longer they go unnoticed"
+        ],
+        "answer": 3,
+        "explanation": "The speaker ends by saying the longer a mistake travels downstream, the more expensive correcting it becomes."
+      },
+      {
+        "q": "What did one mother ask the children's court to do?",
+        "options": [
+          "Give her custody of her biological child",
+          "Return both children to the hospital where they were born",
+          "Stop the other family from moving away",
+          "Pay for the children's education"
+        ],
+        "answer": 0,
+        "explanation": "The talk says she asked the court for custody of her biological child."
+      },
+      {
+        "q": "Why does the speaker mention two shoppers swapping trolleys?",
+        "options": [
+          "To compare supermarkets with courts",
+          "To explain how hospitals label newborn babies correctly",
+          "To argue that shopping errors are surprisingly common these days",
+          "To show that late discovery makes a mistake harder to fix"
+        ],
+        "answer": 3,
+        "explanation": "If they notice weeks later, the food is eaten and the mess is real."
+      },
+      {
+        "q": "What does the speaker suggest about the mothers' situation?",
+        "options": [
+          "No easy solution would satisfy everyone involved",
+          "A court ruling will quickly settle the whole conflict",
+          "The mix-up was discovered within days",
+          "One of the mothers is clearly to blame"
+        ],
+        "answer": 0,
+        "explanation": "She says nobody acted with bad intent, but the legal and emotional answers pointed in different directions."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-switched-babies-s324",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-switched-babies",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-the-millenials-s787",
+    "type": "listenTalk",
+    "cefr": "B2+",
+    "skill": "listening",
+    "title": "Staying Connected Without Social Media",
+    "voice": "male",
+    "script": "We tend to assume that young people can't live without social media. Yet some opt out, and they report no problem. Take a college student who doesn't use any. He says he hasn't noticed any effect so far. His classmates post about parties and events online, but they also send him a text message, so he doesn't miss the invitations. The only time he signed up was when he had no choice, because it was the only way to contact his new roommate. I once worked with a project manager who refused to join our group chat. People worried he'd miss information. But the team simply began copying him by email, and he was never out of the loop. This is the key point: communities adapt around the exceptions. As long as the group cares about someone, it finds another route. Now, a caution. That works when the group is small and friendly. In a large company, an employee who isn't on the main channel may miss decisions. So as team leads, think about it. Don't force everyone onto one platform, but do define a fallback so no one is excluded. The take-away: tools shape habits, but relationships decide who stays connected.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Large companies should ban social media",
+          "Group chats are better than email for all kinds of teams",
+          "Young people should delete all of their accounts",
+          "People can stay connected without social media"
+        ],
+        "answer": 3,
+        "explanation": "The speaker says communities adapt around exceptions, and relationships decide who stays connected."
+      },
+      {
+        "q": "When did the student use social media?",
+        "options": [
+          "To look for a job",
+          "To post photos of events",
+          "To invite classmates to parties and events",
+          "When he needed to contact his roommate"
+        ],
+        "answer": 3,
+        "explanation": "The talk says it was the only way to reach his new roommate."
+      },
+      {
+        "q": "Why does the speaker mention the project manager?",
+        "options": [
+          "To show that group chats should always be avoided",
+          "To give a work example of the same pattern",
+          "To prove that managers dislike technology in general",
+          "To criticize the team's communication"
+        ],
+        "answer": 1,
+        "explanation": "The team copied him by email and he was never out of the loop."
+      },
+      {
+        "q": "What does the speaker imply about the student's situation?",
+        "options": [
+          "He misses most events",
+          "He secretly uses social media accounts under another name",
+          "His friends make an effort to include him",
+          "He has lost several friends because of it"
+        ],
+        "answer": 2,
+        "explanation": "Classmates post online but also text him, so he doesn't miss invitations."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-the-millenials-s787",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-the-millenials",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-waiters-s523",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Hidden Tips and Fair Pay",
+    "voice": "female",
+    "script": "Here's a supply chain question hiding inside a restaurant bill. When a payment is invisible to the person who earns it, the system is hard to trust. Take card tips. A customer adds a tip on the terminal, and the money goes into a pool the staff never see. They don't know how much customers left, so they can't tell whether their share is fair. Some waiters in London say part of the tips even goes toward customer breakages, a dropped plate or a broken glass. It reminds me of my lunch yesterday, in a tiny place near the warehouse where the soup took forty minutes. Anyway, back to the point. Compare this with France. People there tip much less, but serving is treated as a proper career, with job security and a decent wage. So the worker doesn't depend on the goodwill of customers. In planning terms, that's a visible, stable input instead of an unpredictable one. We prefer fixed capacity to guesswork in our own forecasts, and the same logic applies to income. The lesson from the restaurant is about transparency. When people can see how a number is calculated, they trust the process, even if the number isn't perfect. When they can't, they assume the worst. Next time you design a report, ask who can actually see the data.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Hidden or unpredictable pay makes a system feel unfair",
+          "Waiters earn more when customers tip generously",
+          "Restaurants in France are better run than those in London",
+          "Card payments should replace tipping completely"
+        ],
+        "answer": 0,
+        "explanation": "The speaker concludes that people trust a process when they can see how numbers are calculated."
+      },
+      {
+        "q": "What do some London waiters say tips can be used for?",
+        "options": [
+          "Giving bonuses to the kitchen team",
+          "Paying for damage caused by customers",
+          "Buying new uniforms for all of the restaurant staff",
+          "Training new waiters"
+        ],
+        "answer": 1,
+        "explanation": "The talk says part of the tips goes toward customer breakages."
+      },
+      {
+        "q": "Why does the speaker mention her lunch yesterday?",
+        "options": [
+          "It shows how supply delays change menus",
+          "It is a brief side remark, not part of the argument",
+          "It illustrates unfair pay in the city",
+          "It proves that restaurants are usually badly managed overall"
+        ],
+        "answer": 1,
+        "explanation": "She says \"Anyway, back to the point\" right after the lunch story."
+      },
+      {
+        "q": "What does the speaker imply about waiters in France?",
+        "options": [
+          "A decent wage reduces their dependence on tips",
+          "They prefer unpredictable income",
+          "They refuse to accept card payments",
+          "They are better trained than waiters in other countries"
+        ],
+        "answer": 0,
+        "explanation": "She says French waiters have a decent wage, so they do not depend on customers' goodwill."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-waiters-s523",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-waiters",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-wealth-therapy-s061",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Loneliness at the Top",
+    "voice": "female",
+    "script": "Let's talk about a group nobody expects us to feel sorry for. People often think that money solves emotional problems, but a therapist who works with very wealthy clients says the opposite. He explains that many of the extremely rich, the top one percent of the top one percent, believe their problems aren't real problems. In his view, they are. He describes three issues. The first is guilt, because they have so much while others have little. The second is a need to hide the fact that they're rich, so they play it down with friends and colleagues. The third is isolation. It can be lonely at the top, since it's hard to know who likes you for yourself. Now, I'm not asking you to feel sorry for anyone. But the pattern is useful. Think of a senior director: everyone is polite, and nobody tells them what's really happening on the floor. They're surrounded by people and still get little honest information. That's another form of isolation. As team leads, you'll move up eventually, and the further you go, the more effort you'll need to make to hear the truth. Build channels where people can disagree with you safely. It's the best protection against the loneliness of the role.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Rich people should donate far more of their money",
+          "Senior directors earn too much",
+          "Therapists are too expensive for most ordinary people",
+          "Wealth brings emotional problems people overlook"
+        ],
+        "answer": 3,
+        "explanation": "The therapist says the rich have real problems, and the speaker applies the pattern to leaders."
+      },
+      {
+        "q": "Which three issues does the therapist describe?",
+        "options": [
+          "Guilt, anger and ambition",
+          "Debt, secrecy and stress",
+          "Guilt, hiding wealth and loneliness",
+          "Taxes, personal security and boredom"
+        ],
+        "answer": 2,
+        "explanation": "The talk lists guilt, a need to hide being rich, and isolation."
+      },
+      {
+        "q": "Why does the speaker mention a senior director?",
+        "options": [
+          "To suggest that directors are paid too much",
+          "To criticize colleagues who are always polite to the director",
+          "To link the clients' isolation to leadership at work",
+          "To show that directors feel guilty"
+        ],
+        "answer": 2,
+        "explanation": "She says everyone is polite and nobody gives honest information, which is another form of isolation."
+      },
+      {
+        "q": "What does the speaker imply about leaders as they gain seniority?",
+        "options": [
+          "They no longer need support",
+          "They always prefer to be alone",
+          "They become much more closely connected with their staff",
+          "They may receive less honest feedback"
+        ],
+        "answer": 3,
+        "explanation": "She says the further you go, the more effort you need to make to hear the truth."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-wealth-therapy-s061",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-wealth-therapy",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-winter-s077",
+    "type": "listenTalk",
+    "cefr": "B2",
+    "skill": "listening",
+    "title": "Two Seasons, Two Economies",
+    "voice": "female",
+    "script": "Here's a place where two economies sit side by side. In summer, a group of seaside towns about a hundred miles from Manhattan becomes a playground for billionaires. Mansions, parties, boats. Then the season ends. The visitors leave, and the winter turns long, cold and dark. In one of those towns, a food pantry hands out a weekly parcel to more than four hundred families at this time of year. On a single morning, a woman was the thirty-fourth person to collect food, and the day had barely started. The pantry sits only a few streets from some of the most expensive homes in the world. Now, why does that contrast matter for a business audience? Because a local economy that depends on one season carries a hidden risk. Think about demand: it spikes for a few months and drops for the rest. Employers hire for the spike, and families who serve it must stretch their summer income across the whole year. When that doesn't work, the cost shifts to charities. So the lesson isn't only about charity. It's about seasonality, and about who absorbs the risk when demand falls. Whenever you build a model around peak periods, remember the people who live in the off-season.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "Wealthy residents should pay for the local food pantries",
+          "Charities cannot cope with demand in any season of the year",
+          "Seasonal economies can leave locals exposed off-season",
+          "Winters in coastal towns are getting colder"
+        ],
+        "answer": 2,
+        "explanation": "The speaker says the lesson is about seasonality and who absorbs the risk when demand falls."
+      },
+      {
+        "q": "How many families visit the pantry weekly in winter?",
+        "options": [
+          "More than four hundred",
+          "Nearly a thousand",
+          "Around one hundred",
+          "Nearly a thousand families every week"
+        ],
+        "answer": 0,
+        "explanation": "The talk says a weekly parcel goes to more than four hundred families."
+      },
+      {
+        "q": "Why does the speaker ask why the contrast matters?",
+        "options": [
+          "To check that listeners understood the numbers",
+          "To get the audience's opinion about wealth and fairness",
+          "To question how the pantry is funded",
+          "To lead into a business lesson about seasonality"
+        ],
+        "answer": 3,
+        "explanation": "She answers immediately that a one-season economy carries a hidden risk."
+      },
+      {
+        "q": "What does the speaker imply about seasonal work?",
+        "options": [
+          "Workers may struggle to earn enough across the year",
+          "Demand stays stable throughout the year",
+          "Employers pay noticeably higher wages during the winter",
+          "Charities prefer to hire seasonal staff"
+        ],
+        "answer": 0,
+        "explanation": "She says families must stretch summer income across the whole year, and charities pick up the cost when that fails."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-winter-s077",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-winter",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-wnl-young-americans-s128",
+    "type": "listenTalk",
+    "cefr": "B2+",
+    "skill": "listening",
+    "title": "Two Kinds of Supply Risk",
+    "voice": "male",
+    "script": "What can happen to a global brand when a single supplier fails? In China, a worldwide fast-food chain saw sales drop by twenty-three percent after local media showed workers at a supplier saying they used out-of-date beef and chicken. Notice that the chain itself wasn't the one in the video. A supplier was, but customers blamed the brand. In Europe, sales were down four percent, mostly because of the conflict in Ukraine and the hostile mood toward the West in Russia. There, health inspectors were investigating about two hundred of the company's four hundred and fifty restaurants, and ten had been closed. So the problems came from two very different sources: one was quality control in the supply base, the other was geopolitics. First, quality. Supplier audits matter because your customers can't see the difference between your product and your supplier's. Second, geographic exposure. Operating in many markets spreads risk, but each market adds its own. Either kind of problem can cost a company a large share of its sales in just one quarter. When we map our supply risks, we should include both types: the ones we can inspect and the ones we can only prepare for.",
+    "questions": [
+      {
+        "q": "What is the main idea of the talk?",
+        "options": [
+          "A brand can suffer from supplier and market problems",
+          "Health inspectors cause most business losses",
+          "Suppliers are always responsible for the quality of the product",
+          "Fast-food chains should leave all foreign markets"
+        ],
+        "answer": 0,
+        "explanation": "The speaker contrasts a supplier quality failure with geopolitical problems."
+      },
+      {
+        "q": "How much did sales fall in China?",
+        "options": [
+          "Forty-five percent in the first year",
+          "Forty-five percent",
+          "Twenty-three percent",
+          "Ten percent"
+        ],
+        "answer": 2,
+        "explanation": "The talk says sales dropped by twenty-three percent."
+      },
+      {
+        "q": "Why does the speaker begin with a question?",
+        "options": [
+          "To compare different food chains",
+          "To introduce the risk the talk examines",
+          "To ask listeners about the quality of their suppliers",
+          "To criticize the company's management"
+        ],
+        "answer": 1,
+        "explanation": "The following example shows what happens when a supplier fails."
+      },
+      {
+        "q": "How are the China and Russia examples related?",
+        "options": [
+          "They explain why sales rose in Europe",
+          "They contrast a failure with a success",
+          "They show two different kinds of risk",
+          "They show the same cause in two places"
+        ],
+        "answer": 2,
+        "explanation": "The speaker says one problem was supplier quality and the other was geopolitics."
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-wnl-young-americans-s128",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:wnl-young-americans",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  },
+  {
+    "id": "lt-ose-int-zero-hours-s808",
+    "type": "listenTalk",
+    "cefr": "B2+",
+    "skill": "listening",
+    "title": "Zero-Hours Contracts and Flexibility",
+    "voice": "male",
+    "script": "Imagine not knowing on Sunday night whether you'll work at all next week. For some employees, that's normal, because they're on zero-hours contracts. Under these contracts, a company doesn't promise any minimum number of hours. You work when you're called, and you're paid only for those hours. I once worked with a student who took a job like this in a cafe. One week she did thirty hours, the next week four, and she could never plan her rent. Now, supporters say the flexibility has real value. Some people want to fit work around study or family, and some argue that this flexibility helped the country avoid even higher unemployment during the economic crisis. Critics reply that for many workers it simply means insecurity. One politician said these contracts should be the exception, not the rule. Here's where the numbers get interesting. A survey suggested that about seventeen percent of private companies use them. In public organizations the figure was around twenty-four percent, and in the voluntary sector it was about thirty-four percent, which is twice the private rate. So the practice isn't limited to one type of employer. Next, we'll look at what a fair alternative could be, such as guaranteed minimum hours. But remember the main point: flexibility sounds attractive, yet who benefits depends on who controls the schedule.",
+    "questions": [
+      {
+        "q": "What is the main point of the talk?",
+        "options": [
+          "Zero-hours contracts should be banned in every sector of the economy",
+          "Flexible schedules always help workers more than employers",
+          "Most companies in the country now use zero-hours contracts",
+          "Zero-hours contracts bring flexibility but also uncertainty"
+        ],
+        "answer": 3,
+        "explanation": "The speaker says flexibility sounds attractive but leaves many workers feeling insecure."
+      },
+      {
+        "q": "According to the survey, which sector uses these contracts most?",
+        "options": [
+          "The education sector",
+          "The public sector",
+          "The voluntary sector",
+          "The private sector of the economy"
+        ],
+        "answer": 2,
+        "explanation": "The talk says about thirty-four percent of voluntary organizations use them."
+      },
+      {
+        "q": "Why does the speaker mention the student who worked in a cafe?",
+        "options": [
+          "To criticize workers who accept casual jobs",
+          "To explain why cafes avoid minimum hours",
+          "To prove that students always prefer very flexible jobs",
+          "To show how unpredictable hours affect planning"
+        ],
+        "answer": 3,
+        "explanation": "She did thirty hours one week and four the next, so she could never plan her rent."
+      },
+      {
+        "q": "What will the speaker most likely discuss next?",
+        "options": [
+          "Statistics about unemployment in other European countries",
+          "Possible alternatives that protect workers' hours",
+          "How to write a contract for new staff",
+          "Reasons why students avoid casual jobs"
+        ],
+        "answer": 1,
+        "explanation": "The speaker says, \"Next, we'll look at what a fair alternative could be.\""
+      }
+    ],
+    "source": "onestopenglish",
+    "sourceId": "int-zero-hours-s808",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "ose:zero-hours",
+    "origin": "adapted",
+    "topics": [
+      "news"
+    ]
+  }
+]

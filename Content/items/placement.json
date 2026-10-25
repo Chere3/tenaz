@@ -1,0 +1,11 @@
+[
+  {
+    "id": "placement-about-you",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "prompt": "Tell me about yourself in 120-150 words: what you do at work, what a normal day looks like for you, and what you want to be able to do in English a year from now.",
+    "mustUse": ["at the moment", "I have been ... for"],
+    "minWords": 120
+  }
+]

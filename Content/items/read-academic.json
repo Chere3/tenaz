@@ -1,0 +1,652 @@
+[
+  {
+    "id": "read-academic-01",
+    "type": "readAcademic",
+    "cefr": "B1+",
+    "skill": "reading",
+    "title": "Why Sleep Helps You Remember",
+    "text": "Many students believe that staying up all night before an exam is a good way to study. Scientists who study sleep disagree. While we sleep, the brain does not simply rest. It replays the events of the day and moves important information from short-term storage in the hippocampus to long-term storage in the cortex. This process is called memory consolidation. In one well-known experiment, two groups learned a list of word pairs. One group slept for eight hours afterward, and the other stayed awake. The next day, the group that slept remembered about 20 percent more of the pairs. Researchers also found that deep sleep seems to matter most for facts, while dream sleep may help with skills and creative thinking. This does not mean that studying is useless. You still need to learn the material first. However, the evidence suggests that a short night of sleep can cancel much of the effort you put in. A better plan is to study in the evening, sleep well, and review briefly in the morning.",
+    "questions": [
+      {
+        "q": "What is the main idea of the passage?",
+        "options": [
+          "Students should never study in the evening.",
+          "Sleep helps the brain store what we learn, so skipping it can hurt studying.",
+          "Dream sleep is more important than deep sleep.",
+          "The hippocampus is the largest part of the brain."
+        ],
+        "answer": 1,
+        "explanation": "The whole passage explains how sleep supports memory and why all-night studying is a poor plan."
+      },
+      {
+        "q": "In the experiment, how much more did the group that slept remember?",
+        "options": [
+          "About 8 percent more",
+          "About 12 percent more",
+          "About 20 percent more",
+          "About 80 percent more"
+        ],
+        "answer": 2,
+        "explanation": "The text says the sleeping group remembered about 20 percent more of the word pairs."
+      },
+      {
+        "q": "In the sentence 'a short night of sleep can cancel much of the effort you put in', the word 'cancel' is closest in meaning to",
+        "options": [
+          "measure",
+          "delay",
+          "report",
+          "undo"
+        ],
+        "answer": 3,
+        "explanation": "To cancel the effort means to remove its effect, which is what undo means."
+      },
+      {
+        "q": "Which student would the author most likely expect to remember the most?",
+        "options": [
+          "A student who studies in the evening and then sleeps eight hours",
+          "A student who studies until sunrise and takes the exam",
+          "A student who sleeps all day and never studies",
+          "A student who only reviews in the morning"
+        ],
+        "answer": 0,
+        "explanation": "The author recommends studying, then sleeping well, then a short review."
+      },
+      {
+        "q": "Why does the author write 'This does not mean that studying is useless'?",
+        "options": [
+          "To prevent a wrong conclusion from the previous findings",
+          "To introduce a new experiment about learning",
+          "To criticize students who study too much",
+          "To explain what memory consolidation is"
+        ],
+        "answer": 0,
+        "explanation": "The sentence stops readers from thinking that sleep replaces studying."
+      }
+    ]
+  },
+  {
+    "id": "read-academic-02",
+    "type": "readAcademic",
+    "cefr": "B1+",
+    "skill": "reading",
+    "title": "The Habit Loop",
+    "text": "Every morning, millions of people reach for their phones before they are fully awake. Psychologists say this is a good example of a habit loop. A habit loop has three parts: a cue, a routine, and a reward. The cue is a trigger, such as the sound of an alarm. The routine is the behavior itself, such as checking messages. The reward is the good feeling that makes the brain want to repeat the loop. Over time, the loop becomes automatic, and the person no longer makes a conscious decision. This is useful because it saves mental energy. We do not have to think about how to brush our teeth or tie our shoes. The problem is that bad habits work in the same way. Research suggests that it is very hard to delete a habit completely. It is usually easier to keep the same cue and reward but change the routine. For example, someone who eats a snack when they feel bored could take a short walk instead. The boredom is still the cue, and the reward, a small break, stays the same.",
+    "questions": [
+      {
+        "q": "What is the main idea of the passage?",
+        "options": [
+          "Phones are the main cause of bad habits.",
+          "Only the reward of a habit can be changed.",
+          "Habits follow a cue, routine and reward pattern, and changing the routine is often the best way to change them.",
+          "Automatic behavior is always harmful for the brain."
+        ],
+        "answer": 2,
+        "explanation": "The passage describes the three-part loop and ends with advice about changing the routine."
+      },
+      {
+        "q": "According to the passage, what happens when a habit loop becomes automatic?",
+        "options": [
+          "The reward becomes bigger.",
+          "The person stops making a conscious decision.",
+          "The cue disappears.",
+          "The brain uses more energy."
+        ],
+        "answer": 1,
+        "explanation": "The text says the person no longer makes a conscious decision, which saves mental energy."
+      },
+      {
+        "q": "In the passage, the word 'trigger' is closest in meaning to",
+        "options": [
+          "a hard decision",
+          "a type of reward",
+          "something that starts a response",
+          "a loud noise"
+        ],
+        "answer": 2,
+        "explanation": "A cue is a trigger: something that starts the routine."
+      },
+      {
+        "q": "What does the author imply about people who try to simply stop a habit without replacing the routine?",
+        "options": [
+          "They will probably find it difficult.",
+          "They will quickly build a better habit.",
+          "They have a weak memory.",
+          "They never feel bored."
+        ],
+        "answer": 0,
+        "explanation": "The author says deleting a habit completely is very hard and that changing the routine is easier."
+      },
+      {
+        "q": "Why does the author mention brushing teeth and tying shoes?",
+        "options": [
+          "To show that these habits are bad",
+          "To give examples of useful automatic behavior",
+          "To explain how a reward works",
+          "To compare morning and evening routines"
+        ],
+        "answer": 1,
+        "explanation": "These everyday actions show why automatic habits save mental energy."
+      }
+    ]
+  },
+  {
+    "id": "read-academic-03",
+    "type": "readAcademic",
+    "cefr": "B1+",
+    "skill": "reading",
+    "title": "Trees in Hot Cities",
+    "text": "Cities are often hotter than the countryside around them. Concrete and asphalt absorb heat during the day and release it slowly at night, an effect scientists call the urban heat island. Trees can help reduce this problem. Their leaves provide shade, and they also release water vapor, which cools the air in a process similar to sweating. A study in one large city found that streets with many trees were up to five degrees Celsius cooler than streets with none. Trees offer other benefits too. They capture dust and pollution from the air, and they give homes to birds and insects. However, planting trees is not as simple as it sounds. Young trees need regular watering, and in a dry climate this can be expensive. Some species also have roots that damage pipes or sidewalks. For this reason, city planners now choose native species that fit the local weather and soil. Residents are often invited to help, because a tree that people care about is more likely to survive.",
+    "questions": [
+      {
+        "q": "What is the main idea of the passage?",
+        "options": [
+          "Trees can cool cities and bring other benefits, but planting them needs careful planning.",
+          "Cities are always hotter than the countryside.",
+          "Native species are always cheaper than other trees.",
+          "Birds and insects cause problems in city streets."
+        ],
+        "answer": 0,
+        "explanation": "The passage lists the benefits of urban trees and then the difficulties of planting them."
+      },
+      {
+        "q": "Why do city planners now choose native species?",
+        "options": [
+          "They grow faster than other trees.",
+          "They do not need any water.",
+          "They give more shade than other trees.",
+          "They fit the local weather and soil."
+        ],
+        "answer": 3,
+        "explanation": "The text says native species are chosen because they fit the local weather and soil."
+      },
+      {
+        "q": "In the passage, the word 'capture' is closest in meaning to",
+        "options": [
+          "trap",
+          "photograph",
+          "produce",
+          "sell"
+        ],
+        "answer": 0,
+        "explanation": "Trees capture dust and pollution means they trap it so it leaves the air."
+      },
+      {
+        "q": "Why are residents often invited to help plant trees?",
+        "options": [
+          "Because trees are very cheap to plant",
+          "Because people who care about a tree will help it survive",
+          "Because city planners do not know which species to choose",
+          "Because residents can remove roots from pipes"
+        ],
+        "answer": 1,
+        "explanation": "The last sentence says a tree people care about is more likely to survive."
+      },
+      {
+        "q": "Why does the author mention a study in one large city?",
+        "options": [
+          "To show that trees need regular watering",
+          "To explain what asphalt is",
+          "To give evidence that trees cool streets",
+          "To prove that pollution is falling"
+        ],
+        "answer": 2,
+        "explanation": "The study gives numbers that support the claim that trees reduce heat."
+      }
+    ]
+  },
+  {
+    "id": "read-academic-04",
+    "type": "readAcademic",
+    "cefr": "B2",
+    "skill": "reading",
+    "title": "The Hidden Price of Every Choice",
+    "text": "Economists often say that there is no such thing as a free lunch. Even when something costs no money, it costs something else: time, attention, or another opportunity. This idea is called opportunity cost, and it refers to the value of the best alternative that you give up when you make a choice. Imagine a software developer who spends a Saturday fixing an old bug in a hobby project. The cost of that decision is not only the lost day. It is also the freelance job she could have completed, the rest she could have taken, or the course she could have finished. Opportunity cost explains why rational people sometimes reject offers that look attractive. A company may decline a profitable contract because accepting it would use the team's time that is needed for a more valuable one. Critics point out that the concept can be difficult to apply, because the alternatives are often uncertain and cannot be measured precisely. Nevertheless, it remains a useful habit of thought. Asking \"What am I giving up?\" forces decision-makers to compare options explicitly rather than evaluating each one in isolation.",
+    "questions": [
+      {
+        "q": "What is the main idea of the passage?",
+        "options": [
+          "Free services never exist in business.",
+          "Every choice has a hidden cost, and thinking about it is useful even if it is hard to measure.",
+          "Companies should always accept profitable contracts.",
+          "Economists disagree about the value of time."
+        ],
+        "answer": 1,
+        "explanation": "The passage defines opportunity cost, gives examples, notes a limitation, and defends its usefulness."
+      },
+      {
+        "q": "According to the passage, why might a company decline a profitable contract?",
+        "options": [
+          "The contract would damage its reputation.",
+          "Its team would prefer to rest.",
+          "Critics have warned against such contracts.",
+          "Its team is needed for a more valuable project."
+        ],
+        "answer": 3,
+        "explanation": "The company gives up a good contract because the team's time has a better use."
+      },
+      {
+        "q": "In the final sentence, the word 'explicitly' is closest in meaning to",
+        "options": [
+          "quickly",
+          "clearly and openly",
+          "reluctantly",
+          "rarely"
+        ],
+        "answer": 1,
+        "explanation": "Comparing options explicitly means doing it in a clear, open way instead of leaving it unstated."
+      },
+      {
+        "q": "What does the author suggest about opportunity cost as a tool?",
+        "options": [
+          "It is useful but not perfectly precise.",
+          "It is accurate only for large companies.",
+          "It is too uncertain to be worth using.",
+          "It is useful only for developers."
+        ],
+        "answer": 0,
+        "explanation": "The author admits critics have a point about measurement but still calls the idea useful."
+      },
+      {
+        "q": "Why does the author describe a developer fixing a bug on a Saturday?",
+        "options": [
+          "To criticize hobby projects",
+          "To argue that developers work too much",
+          "To show that bugs are expensive",
+          "To illustrate the concept with a concrete situation"
+        ],
+        "answer": 3,
+        "explanation": "The example makes the abstract definition of opportunity cost easier to understand."
+      }
+    ]
+  },
+  {
+    "id": "read-academic-05",
+    "type": "readAcademic",
+    "cefr": "B2",
+    "skill": "reading",
+    "title": "Teaching Computers to Read Our Words",
+    "text": "In the early 1950s, writing software meant writing in machine code, long strings of numbers that told a computer exactly what to do. Programs were slow to produce and almost impossible to read. Grace Hopper, a mathematician working on the UNIVAC computer, believed there had to be a better way. She argued that computers should translate human-friendly instructions into machine code on their own. In 1952 her team completed the A-0 system, an early compiler, which linked together pieces of pre-written code. Many senior engineers were skeptical. They insisted that computers could only do arithmetic, and that a machine could never understand anything resembling English. Hopper persisted, and by 1959 her ideas had helped shape COBOL, a language designed for business use. COBOL's readable, English-like commands allowed people without advanced mathematical training to write programs. The legacy of this shift is enormous. Every modern language, from Python to Rust, relies on tools that translate abstract code into instructions a processor can run. Hopper's insight was not merely technical. It changed who could participate in computing, turning programming from a specialist craft into a widely accessible profession.",
+    "questions": [
+      {
+        "q": "What is the main idea of the passage?",
+        "options": [
+          "COBOL is still the most popular programming language.",
+          "Mathematicians should not write software.",
+          "Grace Hopper built the first computer in 1952.",
+          "Hopper's work on compilers made programming easier and more accessible."
+        ],
+        "answer": 3,
+        "explanation": "The passage follows Hopper's compiler idea and its effect on who could program."
+      },
+      {
+        "q": "What did many senior engineers believe in the 1950s?",
+        "options": [
+          "Computers could only do arithmetic.",
+          "Machine code was easy to read.",
+          "COBOL would replace all other languages.",
+          "Business users should learn mathematics."
+        ],
+        "answer": 0,
+        "explanation": "The text says they insisted computers could only do arithmetic."
+      },
+      {
+        "q": "In the passage, the word 'persisted' is closest in meaning to",
+        "options": [
+          "gave up",
+          "changed her mind",
+          "continued despite opposition",
+          "asked for help"
+        ],
+        "answer": 2,
+        "explanation": "Hopper kept pushing her ideas even though many engineers doubted them."
+      },
+      {
+        "q": "What can be inferred about programming before compilers became common?",
+        "options": [
+          "It was mostly done by business managers.",
+          "It was limited mainly to specialists with technical training.",
+          "It was faster than programming today.",
+          "It was done in English."
+        ],
+        "answer": 1,
+        "explanation": "The last sentence says compilers turned programming from a specialist craft into an accessible profession."
+      },
+      {
+        "q": "Why does the author write 'Hopper's insight was not merely technical'?",
+        "options": [
+          "To argue that her idea also had social consequences",
+          "To suggest that her idea was not very important",
+          "To explain how a compiler works",
+          "To compare Python and Rust"
+        ],
+        "answer": 0,
+        "explanation": "The author adds that her idea changed who could take part in computing, not only how computers work."
+      }
+    ]
+  },
+  {
+    "id": "read-academic-06",
+    "type": "readAcademic",
+    "cefr": "B2",
+    "skill": "reading",
+    "title": "How New Languages Are Born",
+    "text": "When speakers of different languages must communicate regularly but share no common tongue, they often develop a pidgin: a simplified system with a small vocabulary and little grammar. Pidgins appeared, for instance, in trading ports and on colonial plantations. They are nobody's native language, and they are usually unstable. The surprising part comes in the next generation. When children grow up hearing a pidgin as their main input, they do not simply copy it. Instead, they expand it into a creole, a full language with a consistent grammar, a rich vocabulary, and native speakers. Linguist Derek Bickerton argued that this shows humans are born with a natural capacity for grammar, and that children will create structure whenever it is missing. Not everyone accepts this view. Some researchers claim that creoles inherit more grammar from the parent languages of their founders than Bickerton allowed. Still, the case of Nicaraguan Sign Language supports the general idea: deaf children who were brought together in schools in the 1970s invented a complex sign language within a single generation. Whatever the exact mechanism, these cases suggest that language is far more resilient than it looks.",
+    "questions": [
+      {
+        "q": "What is the main idea of the passage?",
+        "options": [
+          "Pidgins are more stable than most languages.",
+          "Children copy the speech of adults exactly.",
+          "Children can turn a simple pidgin into a full language, which suggests a strong human drive to create grammar.",
+          "Sign languages are older than spoken languages."
+        ],
+        "answer": 2,
+        "explanation": "The passage traces pidgins to creoles and uses it to argue that grammar emerges naturally."
+      },
+      {
+        "q": "What do some researchers claim that disagrees with Bickerton?",
+        "options": [
+          "Creoles have no grammar at all.",
+          "Pidgins are nobody's native language.",
+          "Children never create new languages.",
+          "Creoles take more grammar from their founders' languages than he said."
+        ],
+        "answer": 3,
+        "explanation": "The text says they believe creoles inherit more grammar from parent languages than Bickerton allowed."
+      },
+      {
+        "q": "In the last sentence, the word 'resilient' is closest in meaning to",
+        "options": [
+          "able to recover and continue despite difficulty",
+          "simple and easy to learn",
+          "slow to change",
+          "closely tied to one culture"
+        ],
+        "answer": 0,
+        "explanation": "Language survives and rebuilds itself even with little input, so it is resilient."
+      },
+      {
+        "q": "If Bickerton is right, what would we expect when children grow up hearing input with very little grammar?",
+        "options": [
+          "They will stay silent.",
+          "They will add grammatical structure themselves.",
+          "They will copy the input exactly.",
+          "They will learn the language of their teachers instead."
+        ],
+        "answer": 1,
+        "explanation": "His claim is that children create structure whenever it is missing."
+      },
+      {
+        "q": "Why does the author write 'Not everyone accepts this view'?",
+        "options": [
+          "To end the discussion of Bickerton",
+          "To show that the topic is not important",
+          "To introduce an opposing opinion",
+          "To define the word creole"
+        ],
+        "answer": 2,
+        "explanation": "The sentence signals that a debate exists and leads into the researchers' objection."
+      }
+    ]
+  },
+  {
+    "id": "read-academic-07",
+    "type": "readAcademic",
+    "cefr": "B2",
+    "skill": "reading",
+    "title": "The Taxi Drivers' Brains",
+    "text": "For decades, scientists assumed that the adult brain was largely fixed. A well-known study of London taxi drivers challenged that assumption. To earn a license, drivers must memorize around 25,000 streets, a training process known as the Knowledge that takes several years. Researchers at University College London scanned drivers' brains and found that the posterior hippocampus, a region involved in spatial memory, was larger than in a control group. Moreover, the size of this region correlated with how long each person had worked as a driver. A later study followed trainees before and after the exam. Those who passed showed growth in the hippocampus, while those who failed did not. This pattern suggests that the change was a result of learning rather than a pre-existing difference. However, the story has a subtle twist: drivers' anterior hippocampus appeared slightly smaller, which could mean that the brain trades off some abilities for others. Taken together, the research illustrates neuroplasticity, the brain's capacity to reorganize itself in response to experience, although it does not show how quickly such changes can be reversed.",
+    "questions": [
+      {
+        "q": "What is the main idea of the passage?",
+        "options": [
+          "Taxi drivers have better memory than other professionals.",
+          "Research on London taxi drivers shows that learning can physically change the adult brain.",
+          "The hippocampus is only active during exams.",
+          "Scientists have always known that the adult brain can change."
+        ],
+        "answer": 1,
+        "explanation": "The studies are presented as evidence for neuroplasticity in adults."
+      },
+      {
+        "q": "Which group showed growth in the hippocampus in the later study?",
+        "options": [
+          "Trainees who failed the exam",
+          "Drivers with the longest careers",
+          "Trainees who passed the exam",
+          "The control group"
+        ],
+        "answer": 2,
+        "explanation": "The text states that trainees who passed showed hippocampal growth and those who failed did not."
+      },
+      {
+        "q": "In the passage, the phrase 'correlated with' is closest in meaning to",
+        "options": [
+          "was caused by",
+          "was hidden by",
+          "was opposite to",
+          "was related to"
+        ],
+        "answer": 3,
+        "explanation": "Correlated with means there was a statistical relationship, not necessarily a cause."
+      },
+      {
+        "q": "What can be inferred about the first study when it was considered alone?",
+        "options": [
+          "It could not prove that driving caused the larger hippocampus.",
+          "It used only trainees who failed.",
+          "It was not accepted by any scientist.",
+          "It measured the anterior hippocampus only."
+        ],
+        "answer": 0,
+        "explanation": "A later before-and-after study was needed to rule out a pre-existing difference, so the first one was not conclusive."
+      },
+      {
+        "q": "Why does the author mention that the anterior hippocampus appeared smaller?",
+        "options": [
+          "To show that the study was badly designed",
+          "To add a complication: brain gains may come with trade-offs",
+          "To prove that drivers forget their routes",
+          "To compare drivers with trainees"
+        ],
+        "answer": 1,
+        "explanation": "The 'twist' sentence shows the picture is more complex than simple growth."
+      }
+    ]
+  },
+  {
+    "id": "read-academic-08",
+    "type": "readAcademic",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "When Measures Become Targets",
+    "text": "In 1975, the economist Charles Goodhart observed that any statistical regularity tends to collapse once it is used for control purposes. The principle has since been generalized, often in the blunter phrasing 'when a measure becomes a target, it ceases to be a good measure.' The logic is straightforward. A metric is useful precisely because it correlates with something we actually care about, such as learning, safety or customer satisfaction. Once rewards are attached to the metric, however, people have an incentive to optimize the number itself, frequently by means that sever its connection to the underlying goal. Hospitals pressed to reduce waiting times may reclassify patients; teachers evaluated on test scores may drill narrowly for the exam; software teams rewarded for closed tickets may split one task into many. None of this requires bad faith. Individuals respond rationally to the incentives they face, and the resulting distortion emerges from the system rather than from any individual's character. The implication is not that measurement should be abandoned, but that it should be treated as provisional: metrics work best when they are varied, periodically revised, and interpreted with judgment rather than applied mechanically.",
+    "questions": [
+      {
+        "q": "Which statement best summarizes the passage?",
+        "options": [
+          "Metrics should be abandoned in schools and hospitals.",
+          "Employees who manipulate numbers should be punished.",
+          "Economists have never agreed on how to measure performance.",
+          "Metrics lose their reliability once they become targets, so they should be used with caution."
+        ],
+        "answer": 3,
+        "explanation": "The passage explains Goodhart's law and concludes that metrics should be used provisionally and with judgment."
+      },
+      {
+        "q": "According to the passage, why is a metric useful in the first place?",
+        "options": [
+          "It is related to something people actually value.",
+          "It is impossible to manipulate.",
+          "It always produces rewards.",
+          "It replaces the need for judgment."
+        ],
+        "answer": 0,
+        "explanation": "A metric is useful because it correlates with a real goal such as learning or safety."
+      },
+      {
+        "q": "In the passage, the word 'sever' is closest in meaning to",
+        "options": [
+          "strengthen",
+          "measure",
+          "copy",
+          "cut"
+        ],
+        "answer": 3,
+        "explanation": "To sever a connection means to cut it, so the metric no longer reflects the real goal."
+      },
+      {
+        "q": "What does the author imply about people who distort a metric?",
+        "options": [
+          "They are usually dishonest.",
+          "They are often just reacting sensibly to the incentives they face.",
+          "They do not understand the goal at all.",
+          "They are usually managers."
+        ],
+        "answer": 1,
+        "explanation": "The author says none of this requires bad faith and that individuals respond rationally to incentives."
+      },
+      {
+        "q": "What is the purpose of the sentence listing hospitals, teachers and software teams?",
+        "options": [
+          "To rank which profession is most affected",
+          "To criticize public services",
+          "To show that the same pattern appears in very different fields",
+          "To define the word incentive"
+        ],
+        "answer": 2,
+        "explanation": "Three unrelated examples show that the effect is general, not limited to one sector."
+      }
+    ]
+  },
+  {
+    "id": "read-academic-09",
+    "type": "readAcademic",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "The Wolves of Yellowstone",
+    "text": "The reintroduction of gray wolves to Yellowstone National Park in 1995 is frequently cited as a textbook trophic cascade: a chain of effects in which changes at the top of a food web ripple downward. According to the popular account, wolves reduced the elk population and, just as importantly, frightened elk away from vulnerable river valleys. Willows and aspens, freed from relentless browsing, recovered; beavers returned to the regenerated willow stands; and even the rivers themselves supposedly changed course as the stabilized banks narrowed channels. It is a compelling story, and it has been retold in popular videos millions of times. Yet many ecologists urge caution. Elk numbers were already declining before wolves arrived, partly because of hunting outside the park and a prolonged drought. Cougars and bears also prey on elk, and the extent to which wolves alone were responsible remains disputed. Recovery of vegetation has been uneven, and in some areas it has been minimal. The lesson, perhaps, is less that wolves rescued Yellowstone than that complex ecosystems resist single-cause explanations, and that an elegant narrative can obscure a messier reality.",
+    "questions": [
+      {
+        "q": "What is the main point of the passage?",
+        "options": [
+          "Wolves should not have been returned to Yellowstone.",
+          "Elk are the most important animal in the park.",
+          "The popular story of wolves transforming Yellowstone is oversimplified because ecosystems have many causes.",
+          "Rivers can change course because of beavers."
+        ],
+        "answer": 2,
+        "explanation": "The author presents the popular story and then explains why scientists consider it too simple."
+      },
+      {
+        "q": "Why do many ecologists urge caution about the popular account?",
+        "options": [
+          "Wolves never ate elk in the park.",
+          "Elk numbers had begun to fall before the wolves returned.",
+          "Willows and aspens have disappeared.",
+          "Beavers were never seen in the park."
+        ],
+        "answer": 1,
+        "explanation": "The text says elk were already declining because of hunting and drought."
+      },
+      {
+        "q": "In the passage, the word 'relentless' is closest in meaning to",
+        "options": [
+          "occasional",
+          "gentle",
+          "harmful but brief",
+          "continuous and without pause"
+        ],
+        "answer": 3,
+        "explanation": "Relentless browsing means elk fed on the plants constantly, giving them no chance to recover."
+      },
+      {
+        "q": "What does the word 'supposedly' suggest about the claim that rivers changed course?",
+        "options": [
+          "The author considers it doubtful or not well proven.",
+          "The author saw it with their own eyes.",
+          "The claim has been confirmed by every study.",
+          "The claim is more important than the others."
+        ],
+        "answer": 0,
+        "explanation": "Supposedly signals that the author does not fully accept the claim."
+      },
+      {
+        "q": "Why does the author write 'It is a compelling story, and it has been retold in popular videos millions of times'?",
+        "options": [
+          "To prove that the story is accurate",
+          "To criticize the people who made the videos",
+          "To explain how wolves were reintroduced",
+          "To admit the story's appeal before presenting objections"
+        ],
+        "answer": 3,
+        "explanation": "The sentence acknowledges why the story is popular, which sets up the word 'Yet' and the objections."
+      }
+    ]
+  },
+  {
+    "id": "read-academic-10",
+    "type": "readAcademic",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Does Language Shape Thought?",
+    "text": "The hypothesis that language shapes thought, associated with Edward Sapir and Benjamin Whorf, has had a turbulent history. In its strong form, linguistic determinism, it holds that the categories of one's language set rigid limits on what one can think. This version has been largely discredited: speakers of languages without a word for a color can still perceive and remember that color, and people routinely invent words for ideas they previously lacked. A weaker claim, linguistic relativity, has fared considerably better. It proposes that language influences habitual patterns of attention and memory without constraining them absolutely. Experiments on color terms illustrate the point. Russian has separate basic words for light blue and dark blue, and Russian speakers are slightly faster at discriminating between the two shades than English speakers are, but the advantage disappears when they are asked to repeat a meaningless string of digits while performing the task, suggesting that language is actively involved in the judgment. Such effects are modest rather than dramatic. Language, on this view, is less a prison than a set of well-worn paths: it makes certain ways of thinking easier without forbidding others.",
+    "questions": [
+      {
+        "q": "Which statement best expresses the main idea?",
+        "options": [
+          "Russian speakers see colors better than English speakers.",
+          "Language completely controls what people can think.",
+          "The strong version of the hypothesis has been rejected, but a weaker version has support, with modest effects.",
+          "Sapir and Whorf proved their hypothesis with experiments."
+        ],
+        "answer": 2,
+        "explanation": "The passage rejects determinism and defends a modest form of relativity."
+      },
+      {
+        "q": "What happened when Russian speakers repeated digits during the task?",
+        "options": [
+          "They made more errors than English speakers.",
+          "Their speed advantage disappeared.",
+          "They forgot the color words.",
+          "They became faster than before."
+        ],
+        "answer": 1,
+        "explanation": "The text says the advantage disappears, suggesting that language was involved in the judgment."
+      },
+      {
+        "q": "In the passage, the phrase 'has fared considerably better' is closest in meaning to",
+        "options": [
+          "has been used more widely in schools",
+          "has changed more over time",
+          "has been much more successful",
+          "has been proven completely true"
+        ],
+        "answer": 2,
+        "explanation": "To fare better means to do better; here, the weak claim has gained more support."
+      },
+      {
+        "q": "What can be inferred about English speakers in the color experiment?",
+        "options": [
+          "They cannot tell light blue from dark blue.",
+          "They can tell the shades apart, only slightly more slowly.",
+          "They have no words for blue.",
+          "They are faster than Russian speakers."
+        ],
+        "answer": 1,
+        "explanation": "Russians are only slightly faster, so English speakers can still distinguish the shades."
+      },
+      {
+        "q": "What is the purpose of the sentence 'Such effects are modest rather than dramatic'?",
+        "options": [
+          "To limit how strongly the findings should be interpreted",
+          "To suggest that the experiments were badly designed",
+          "To return to the strong form of the hypothesis",
+          "To introduce a new language example"
+        ],
+        "answer": 0,
+        "explanation": "The sentence qualifies the results so readers do not overstate them."
+      }
+    ]
+  }
+]

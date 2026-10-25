@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "phrasal-verbs-bring-up",
+    "headword": "bring up",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "mencionar, sacar un tema",
+    "definition": "to mention a topic so people can discuss it",
+    "example": "Can you bring up the budget issue in tomorrow's meeting?",
+    "exampleEs": "¿Puedes sacar el tema del presupuesto en la reunión de mañana?",
+    "cloze": "Can you ____ the budget issue in tomorrow's meeting?",
+    "answer": "bring up",
+    "distractors": [
+      "turn off",
+      "hand in",
+      "cut down"
+    ],
+    "collocations": [
+      "bring up a concern",
+      "bring up a topic",
+      "bring up an issue"
+    ],
+    "note": "Also means 'to raise a child'. Not the same as 'grow up'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-come-up-with",
+    "headword": "come up with",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "ocurrírsele a uno, idear",
+    "definition": "to think of an idea, plan or solution",
+    "example": "Our team came up with a simple fix for the login bug.",
+    "exampleEs": "Nuestro equipo ideó una solución sencilla para el error de inicio de sesión.",
+    "cloze": "Our team ____ a simple fix for the login bug.",
+    "answer": "came up with",
+    "distractors": [
+      "got along with",
+      "put up with",
+      "ran out of"
+    ],
+    "collocations": [
+      "come up with an idea",
+      "come up with a solution",
+      "come up with a plan"
+    ],
+    "note": "Three words, always together: come up with.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-carry-out",
+    "headword": "carry out",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "llevar a cabo, realizar",
+    "definition": "to do or complete a task, test or plan",
+    "example": "We carried out a small survey among our users last week.",
+    "exampleEs": "Realizamos una pequeña encuesta entre nuestros usuarios la semana pasada.",
+    "cloze": "We ____ a small survey among our users last week.",
+    "answer": "carried out",
+    "distractors": [
+      "showed up",
+      "grew up",
+      "woke up"
+    ],
+    "collocations": [
+      "carry out a test",
+      "carry out research",
+      "carry out a plan"
+    ],
+    "note": "Formal and common in reports. It is not 'carry on' (continuar).",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-figure-out",
+    "headword": "figure out",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "averiguar, descifrar",
+    "definition": "to understand something or find the answer after thinking",
+    "example": "I still can't figure out why the build keeps failing.",
+    "exampleEs": "Todavía no logro averiguar por qué la compilación sigue fallando.",
+    "cloze": "I still can't ____ why the build keeps failing.",
+    "answer": "figure out",
+    "distractors": [
+      "call off",
+      "show up",
+      "fill in"
+    ],
+    "collocations": [
+      "figure out a problem",
+      "figure out how",
+      "figure out why"
+    ],
+    "note": "Informal and very common. Similar to 'work out'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-point-out",
+    "headword": "point out",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "señalar, hacer notar",
+    "definition": "to tell people something they may not have noticed",
+    "example": "She pointed out a mistake in the final report.",
+    "exampleEs": "Ella señaló un error en el informe final.",
+    "cloze": "She ____ a mistake in the final report.",
+    "answer": "pointed out",
+    "distractors": [
+      "backed up",
+      "wrapped up",
+      "held off"
+    ],
+    "collocations": [
+      "point out a mistake",
+      "point out the risks",
+      "point out that"
+    ],
+    "note": "Often followed by 'that': 'He pointed out that we were late'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-run-into",
+    "headword": "run into",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "toparse con, encontrarse con",
+    "definition": "to meet someone or find a problem by chance",
+    "example": "I ran into a former colleague at the airport yesterday.",
+    "exampleEs": "Me topé con un excolega en el aeropuerto ayer.",
+    "cloze": "I ____ a former colleague at the airport yesterday.",
+    "answer": "ran into",
+    "distractors": [
+      "set up",
+      "gave up",
+      "took over"
+    ],
+    "collocations": [
+      "run into a problem",
+      "run into an old friend",
+      "run into trouble"
+    ],
+    "note": "Spanish speakers sometimes say 'encounter'; 'run into' is more natural in speech.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-set-up",
+    "headword": "set up",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "configurar, establecer, organizar",
+    "definition": "to arrange, create or prepare something",
+    "example": "Could you set up a call with the design team for Friday?",
+    "exampleEs": "¿Podrías organizar una llamada con el equipo de diseño para el viernes?",
+    "cloze": "Could you ____ a call with the design team for Friday?",
+    "answer": "set up",
+    "distractors": [
+      "look up",
+      "give out",
+      "break in"
+    ],
+    "collocations": [
+      "set up a meeting",
+      "set up an account",
+      "set up a server"
+    ],
+    "note": "As a noun it is 'setup' (one word): 'a simple setup'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-put-off",
+    "headword": "put off",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "posponer, aplazar",
+    "definition": "to delay something until a later time",
+    "example": "We put off the release because of a critical security bug.",
+    "exampleEs": "Pospusimos el lanzamiento por un error de seguridad crítico.",
+    "cloze": "We ____ the release because of a critical security bug.",
+    "answer": "put off",
+    "distractors": [
+      "pick up",
+      "take in",
+      "work out"
+    ],
+    "collocations": [
+      "put off a decision",
+      "put off a meeting",
+      "put off until next week"
+    ],
+    "note": "Followed by -ing, not an infinitive: 'put off starting', not 'put off to start'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-look-into",
+    "headword": "look into",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "investigar, examinar",
+    "definition": "to investigate or study a problem",
+    "example": "The security team is looking into the strange login attempts.",
+    "exampleEs": "El equipo de seguridad está investigando los intentos de inicio de sesión extraños.",
+    "cloze": "The security team is ____ the strange login attempts.",
+    "answer": "looking into",
+    "distractors": [
+      "handing over",
+      "showing off",
+      "opting out"
+    ],
+    "collocations": [
+      "look into a complaint",
+      "look into the matter",
+      "look into an option"
+    ],
+    "note": "It takes an object and the object goes after 'into': 'look into it'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-get-across",
+    "headword": "get across",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "hacer entender, transmitir",
+    "definition": "to make your message clear to other people",
+    "example": "It was hard to get across how complex the system really is.",
+    "exampleEs": "Fue difícil hacer entender lo complejo que realmente es el sistema.",
+    "cloze": "It was hard to ____ how complex the system really is.",
+    "answer": "get across",
+    "distractors": [
+      "hold up",
+      "turn out",
+      "check in"
+    ],
+    "collocations": [
+      "get a message across",
+      "get an idea across",
+      "get your point across"
+    ],
+    "note": "Very common in the phrase 'get your point across'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-back-up",
+    "headword": "back up",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "respaldar, hacer copia de seguridad",
+    "definition": "to support a claim with proof, or to make a copy of data",
+    "example": "Please back up your files before you update the system.",
+    "exampleEs": "Por favor, haz una copia de seguridad de tus archivos antes de actualizar el sistema.",
+    "cloze": "Please ____ your files before you update the system.",
+    "answer": "back up",
+    "distractors": [
+      "cut off",
+      "log in",
+      "sit down"
+    ],
+    "collocations": [
+      "back up your data",
+      "back up a claim",
+      "back up with evidence"
+    ],
+    "note": "The noun is 'backup' (one word): 'a daily backup'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-follow-through",
+    "headword": "follow through",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "cumplir, llevar hasta el final",
+    "definition": "to complete something you said you would do",
+    "example": "He always follows through on his promises to clients.",
+    "exampleEs": "Él siempre cumple las promesas que les hace a los clientes.",
+    "cloze": "He always ____ on his promises to clients.",
+    "answer": "follows through",
+    "distractors": [
+      "turns down",
+      "gives away",
+      "breaks up"
+    ],
+    "collocations": [
+      "follow through on a promise",
+      "follow through with a plan",
+      "follow through on commitments"
+    ],
+    "note": "Usually 'follow through on' + thing. The noun 'follow-through' means completing an action.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-end-up",
+    "headword": "end up",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "terminar (en un lugar o situación)",
+    "definition": "to finally be in a place or situation, often without planning it",
+    "example": "We ended up using a simpler design than we planned.",
+    "exampleEs": "Terminamos usando un diseño más simple del que habíamos planeado.",
+    "cloze": "We ____ using a simpler design than we planned.",
+    "answer": "ended up",
+    "distractors": [
+      "set up",
+      "built up",
+      "woke up"
+    ],
+    "collocations": [
+      "end up doing",
+      "end up in",
+      "end up with"
+    ],
+    "note": "Use -ing after it: 'end up working', not 'end up to work'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-turn-down",
+    "headword": "turn down",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "rechazar, bajar (volumen)",
+    "definition": "to refuse an offer or request, or to lower a volume or setting",
+    "example": "She turned down the job offer because the salary was too low.",
+    "exampleEs": "Ella rechazó la oferta de trabajo porque el salario era muy bajo.",
+    "cloze": "She ____ the job offer because the salary was too low.",
+    "answer": "turned down",
+    "distractors": [
+      "ran into",
+      "looked after",
+      "set off"
+    ],
+    "collocations": [
+      "turn down an offer",
+      "turn down a request",
+      "turn down the volume"
+    ],
+    "note": "Opposite of 'accept'. For volume, the opposite is 'turn up'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-rule-out",
+    "headword": "rule out",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "descartar",
+    "definition": "to decide that something is not possible or not suitable",
+    "example": "The doctors ruled out a serious infection after the tests.",
+    "exampleEs": "Los médicos descartaron una infección grave después de los análisis.",
+    "cloze": "The doctors ____ a serious infection after the tests.",
+    "answer": "ruled out",
+    "distractors": [
+      "carried out",
+      "held on",
+      "stepped in"
+    ],
+    "collocations": [
+      "rule out a possibility",
+      "rule out a cause",
+      "can't rule out"
+    ],
+    "note": "Often used in the negative: 'We can't rule out a delay'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-find-out",
+    "headword": "find out",
+    "pos": "phrasal verb",
+    "cefr": "B1+",
+    "es": "descubrir, enterarse",
+    "definition": "to learn a fact or discover information",
+    "example": "I found out about the schedule change this morning.",
+    "exampleEs": "Me enteré del cambio de horario esta mañana.",
+    "cloze": "I ____ about the schedule change this morning.",
+    "answer": "found out",
+    "distractors": [
+      "gave in",
+      "took off",
+      "stepped down"
+    ],
+    "collocations": [
+      "find out the truth",
+      "find out more",
+      "find out about"
+    ],
+    "note": "'Find out' is to discover; 'know' is to already have the information.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-sort-out",
+    "headword": "sort out",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "resolver, arreglar, ordenar",
+    "definition": "to solve a problem or organize something that is confusing",
+    "example": "Let's sort out the details before we talk to the client.",
+    "exampleEs": "Resolvamos los detalles antes de hablar con el cliente.",
+    "cloze": "Let's ____ the details before we talk to the client.",
+    "answer": "sort out",
+    "distractors": [
+      "hold on",
+      "call off",
+      "pass away"
+    ],
+    "collocations": [
+      "sort out a problem",
+      "sort out the details",
+      "sort out a mess"
+    ],
+    "note": "Informal; common in British English, also used in the US.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-work-out",
+    "headword": "work out",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "resolver, calcular; hacer ejercicio",
+    "definition": "to find a solution or calculate something; to exercise",
+    "example": "We need to work out how much the project will cost.",
+    "exampleEs": "Necesitamos calcular cuánto costará el proyecto.",
+    "cloze": "We need to ____ how much the project will cost.",
+    "answer": "work out",
+    "distractors": [
+      "turn off",
+      "run out",
+      "step in"
+    ],
+    "collocations": [
+      "work out a plan",
+      "work out a price",
+      "work out an agreement"
+    ],
+    "note": "Has two meanings: solve/calculate and exercise at the gym. Context tells you which.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-go-over",
+    "headword": "go over",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "revisar, repasar",
+    "definition": "to check or review something carefully",
+    "example": "Let's go over the main points one more time.",
+    "exampleEs": "Repasemos los puntos principales una vez más.",
+    "cloze": "Let's ____ the main points one more time.",
+    "answer": "go over",
+    "distractors": [
+      "shut down",
+      "speed up",
+      "blow up"
+    ],
+    "collocations": [
+      "go over the details",
+      "go over the numbers",
+      "go over a document"
+    ],
+    "note": "Very common in meetings: 'Can we go over the agenda?'",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-follow-up",
+    "headword": "follow up",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "dar seguimiento",
+    "definition": "to do something more about a topic or message you already started",
+    "example": "I'll follow up with you by email after the call.",
+    "exampleEs": "Te daré seguimiento por correo después de la llamada.",
+    "cloze": "I'll ____ with you by email after the call.",
+    "answer": "follow up",
+    "distractors": [
+      "clean up",
+      "break in",
+      "pull out"
+    ],
+    "collocations": [
+      "follow up with someone",
+      "follow up on an email",
+      "follow up on an action item"
+    ],
+    "note": "As a noun or adjective it is 'follow-up': 'a follow-up email'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-catch-up",
+    "headword": "catch up",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "ponerse al día",
+    "definition": "to learn the latest news or reach the same level as others",
+    "example": "Let's have coffee and catch up on everything.",
+    "exampleEs": "Tomemos un café y pongámonos al día con todo.",
+    "cloze": "Let's have coffee and ____ on everything.",
+    "answer": "catch up",
+    "distractors": [
+      "pay off",
+      "fall out",
+      "dress up"
+    ],
+    "collocations": [
+      "catch up on news",
+      "catch up with someone",
+      "catch up on work"
+    ],
+    "note": "'Catch up with' a person, 'catch up on' a topic or task.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-check-in",
+    "headword": "check in",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "registrarse; ver cómo va algo",
+    "definition": "to register at a hotel or airport, or to ask how someone or something is doing",
+    "example": "I'm just checking in to see how the migration is going.",
+    "exampleEs": "Solo quería ver cómo va la migración.",
+    "cloze": "I'm just ____ to see how the migration is going.",
+    "answer": "checking in",
+    "distractors": [
+      "breaking up",
+      "running out",
+      "giving away"
+    ],
+    "collocations": [
+      "check in with someone",
+      "check in on progress",
+      "check in at the hotel"
+    ],
+    "note": "At work, 'check in with' means a short update or conversation.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-hold-off",
+    "headword": "hold off",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "esperar, posponer",
+    "definition": "to wait before doing something",
+    "example": "We should hold off on announcing the news until Monday.",
+    "exampleEs": "Deberíamos esperar para anunciar la noticia hasta el lunes.",
+    "cloze": "We should ____ on announcing the news until Monday.",
+    "answer": "hold off",
+    "distractors": [
+      "take on",
+      "stand out",
+      "pick out"
+    ],
+    "collocations": [
+      "hold off on a decision",
+      "hold off on buying",
+      "hold off until later"
+    ],
+    "note": "Often with 'on': 'hold off on the update'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-pull-off",
+    "headword": "pull off",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "lograr (algo difícil)",
+    "definition": "to succeed in doing something difficult",
+    "example": "I can't believe the team pulled off the launch in two weeks.",
+    "exampleEs": "No puedo creer que el equipo lograra el lanzamiento en dos semanas.",
+    "cloze": "I can't believe the team ____ the launch in two weeks.",
+    "answer": "pulled off",
+    "distractors": [
+      "laid off",
+      "dropped off",
+      "woken up"
+    ],
+    "collocations": [
+      "pull off a surprise",
+      "pull off a deal",
+      "pull it off"
+    ],
+    "note": "Informal. The meaning is positive: it was hard, and they did it.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-take-on",
+    "headword": "take on",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "asumir, encargarse de",
+    "definition": "to accept a task, responsibility or challenge",
+    "example": "I'm happy to take on the new project.",
+    "exampleEs": "Con gusto me encargo del nuevo proyecto.",
+    "cloze": "I'm happy to ____ the new project.",
+    "answer": "take on",
+    "distractors": [
+      "get off",
+      "wake up",
+      "sit down"
+    ],
+    "collocations": [
+      "take on a project",
+      "take on more work",
+      "take on a challenge"
+    ],
+    "note": "Also means 'to hire': 'The company took on ten new developers'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-step-down",
+    "headword": "step down",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "renunciar a un cargo",
+    "definition": "to leave an important position or job",
+    "example": "The CEO will step down at the end of the year.",
+    "exampleEs": "El director general dejará su cargo a fin de año.",
+    "cloze": "The CEO will ____ at the end of the year.",
+    "answer": "step down",
+    "distractors": [
+      "step in",
+      "set out",
+      "show off"
+    ],
+    "collocations": [
+      "step down as CEO",
+      "step down from a role",
+      "step down voluntarily"
+    ],
+    "note": "The opposite is 'step in' (to help in a situation) or 'take over'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-wrap-up",
+    "headword": "wrap up",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "terminar, concluir",
+    "definition": "to finish something, especially a meeting or a project",
+    "example": "Let's wrap up the meeting; we're running out of time.",
+    "exampleEs": "Terminemos la reunión; se nos está acabando el tiempo.",
+    "cloze": "Let's ____ the meeting; we're running out of time.",
+    "answer": "wrap up",
+    "distractors": [
+      "dress up",
+      "cheer up",
+      "show up"
+    ],
+    "collocations": [
+      "wrap up a meeting",
+      "wrap up a project",
+      "wrap things up"
+    ],
+    "note": "Common at the end of meetings: 'To wrap up, ...'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-roll-out",
+    "headword": "roll out",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "lanzar gradualmente, desplegar",
+    "definition": "to introduce a new product or feature step by step",
+    "example": "They plan to roll out the new feature to all users next month.",
+    "exampleEs": "Planean lanzar la nueva función a todos los usuarios el mes que viene.",
+    "cloze": "They plan to ____ the new feature to all users next month.",
+    "answer": "roll out",
+    "distractors": [
+      "log in",
+      "fall apart",
+      "fill out"
+    ],
+    "collocations": [
+      "roll out a feature",
+      "roll out a product",
+      "roll out gradually"
+    ],
+    "note": "The noun is 'rollout' (one word). Very common in tech and business.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-break-down",
+    "headword": "break down",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "descomponer; averiar; analizar",
+    "definition": "to divide something into smaller parts, or to stop working",
+    "example": "Let's break down the problem into three smaller tasks.",
+    "exampleEs": "Dividamos el problema en tres tareas más pequeñas.",
+    "cloze": "Let's ____ the problem into three smaller tasks.",
+    "answer": "break down",
+    "distractors": [
+      "sign up",
+      "hold on",
+      "speed up"
+    ],
+    "collocations": [
+      "break down a problem",
+      "break down costs",
+      "break down into parts"
+    ],
+    "note": "Also: 'The server broke down' (it stopped working) and 'break down in tears'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-call-off",
+    "headword": "call off",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "cancelar",
+    "definition": "to cancel something that was planned",
+    "example": "They called off the event because of the storm.",
+    "exampleEs": "Cancelaron el evento por la tormenta.",
+    "cloze": "They ____ the event because of the storm.",
+    "answer": "called off",
+    "distractors": [
+      "looked up",
+      "picked up",
+      "made up"
+    ],
+    "collocations": [
+      "call off a meeting",
+      "call off a trip",
+      "call off a deal"
+    ],
+    "note": "Not the same as 'call' (llamar). It means 'cancel'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-cut-back",
+    "headword": "cut back",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "reducir",
+    "definition": "to reduce the amount or size of something",
+    "example": "We need to cut back on our cloud spending.",
+    "exampleEs": "Necesitamos reducir nuestro gasto en la nube.",
+    "cloze": "We need to ____ on our cloud spending.",
+    "answer": "cut back",
+    "distractors": [
+      "speed up",
+      "show up",
+      "hand in"
+    ],
+    "collocations": [
+      "cut back on costs",
+      "cut back on spending",
+      "cut back on sugar"
+    ],
+    "note": "Usually followed by 'on': 'cut back on'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-deal-with",
+    "headword": "deal with",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "lidiar con, ocuparse de",
+    "definition": "to take action to solve a problem or handle a task",
+    "example": "I'll deal with the customer complaints this afternoon.",
+    "exampleEs": "Me ocuparé de las quejas de los clientes esta tarde.",
+    "cloze": "I'll ____ the customer complaints this afternoon.",
+    "answer": "deal with",
+    "distractors": [
+      "break up with",
+      "go off with",
+      "grow out of"
+    ],
+    "collocations": [
+      "deal with a problem",
+      "deal with a customer",
+      "deal with stress"
+    ],
+    "note": "Not 'deal to' or 'deal in' for this meaning. Always 'deal with'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-drop-off",
+    "headword": "drop off",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "dejar (en un lugar); disminuir",
+    "definition": "to leave something or someone at a place, or to decrease",
+    "example": "I'll drop off the documents at your office this afternoon.",
+    "exampleEs": "Dejaré los documentos en tu oficina esta tarde.",
+    "cloze": "I'll ____ the documents at your office this afternoon.",
+    "answer": "drop off",
+    "distractors": [
+      "come up",
+      "take after",
+      "grow up"
+    ],
+    "collocations": [
+      "drop off a package",
+      "drop off a friend",
+      "drop off in sales"
+    ],
+    "note": "Also 'to fall asleep' (informal) and 'to decrease': 'Traffic dropped off'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-fill-in",
+    "headword": "fill in",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "rellenar; sustituir",
+    "definition": "to complete a form, or to replace someone temporarily",
+    "example": "Please fill in the form and send it back to HR.",
+    "exampleEs": "Por favor, rellena el formulario y envíaselo a Recursos Humanos.",
+    "cloze": "Please ____ the form and send it back to HR.",
+    "answer": "fill in",
+    "distractors": [
+      "look out",
+      "come across",
+      "show off"
+    ],
+    "collocations": [
+      "fill in a form",
+      "fill in for someone",
+      "fill someone in"
+    ],
+    "note": "In US English 'fill out' a form is also common. 'Fill someone in' means to give them the latest information.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-get-back-to",
+    "headword": "get back to",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "responder más tarde a",
+    "definition": "to reply to someone after you have checked something",
+    "example": "Let me check the numbers and get back to you tomorrow.",
+    "exampleEs": "Déjame revisar los números y te respondo mañana.",
+    "cloze": "Let me check the numbers and ____ you tomorrow.",
+    "answer": "get back to",
+    "distractors": [
+      "get away from",
+      "get along with",
+      "get over with"
+    ],
+    "collocations": [
+      "get back to you",
+      "get back to someone",
+      "get back to work"
+    ],
+    "note": "Very useful in meetings when you do not know the answer yet.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-give-up",
+    "headword": "give up",
+    "pos": "phrasal verb",
+    "cefr": "B1+",
+    "es": "rendirse, dejar de intentar",
+    "definition": "to stop trying or to stop a habit",
+    "example": "Don't give up; you're very close to finding the bug.",
+    "exampleEs": "No te rindas; estás muy cerca de encontrar el error.",
+    "cloze": "Don't ____; you're very close to finding the bug.",
+    "answer": "give up",
+    "distractors": [
+      "hold up",
+      "stand up",
+      "wake up"
+    ],
+    "collocations": [
+      "give up trying",
+      "give up on a goal",
+      "give up a habit"
+    ],
+    "note": "Use -ing after it: 'give up smoking'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-go-ahead",
+    "headword": "go ahead",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "proceder, adelante",
+    "definition": "to start or continue doing something, often with permission",
+    "example": "You can go ahead and send the invitation to the whole team.",
+    "exampleEs": "Puedes proceder y enviar la invitación a todo el equipo.",
+    "cloze": "You can ____ and send the invitation to the whole team.",
+    "answer": "go ahead",
+    "distractors": [
+      "break down",
+      "get along",
+      "fall apart"
+    ],
+    "collocations": [
+      "go ahead with a plan",
+      "go ahead and start",
+      "get the go-ahead"
+    ],
+    "note": "By itself, 'Go ahead' means 'Please start'. The noun is 'the go-ahead' (approval).",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-hand-over",
+    "headword": "hand over",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "entregar, ceder",
+    "definition": "to give something or responsibility to someone else",
+    "example": "She will hand over the project to Marco next week.",
+    "exampleEs": "Ella le entregará el proyecto a Marco la próxima semana.",
+    "cloze": "She will ____ the project to Marco next week.",
+    "answer": "hand over",
+    "distractors": [
+      "hold out",
+      "take after",
+      "sit down"
+    ],
+    "collocations": [
+      "hand over control",
+      "hand over a document",
+      "hand over responsibility"
+    ],
+    "note": "The noun 'handover' is common in teams: 'a smooth handover'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-hold-up",
+    "headword": "hold up",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "retrasar; sostener",
+    "definition": "to delay something, or to remain strong under pressure",
+    "example": "A late approval is holding up the whole release.",
+    "exampleEs": "Una aprobación tardía está retrasando todo el lanzamiento.",
+    "cloze": "A late approval is ____ the whole release.",
+    "answer": "holding up",
+    "distractors": [
+      "backing off",
+      "going on",
+      "keeping out"
+    ],
+    "collocations": [
+      "hold up progress",
+      "hold up traffic",
+      "hold up well"
+    ],
+    "note": "As a noun, 'a hold-up' means a delay. Also means to rob someone.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-keep-up-with",
+    "headword": "keep up with",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "mantenerse al ritmo de",
+    "definition": "to stay at the same level or speed as someone or something",
+    "example": "It's hard to keep up with all the new AI tools.",
+    "exampleEs": "Es difícil mantenerse al día con todas las nuevas herramientas de IA.",
+    "cloze": "It's hard to ____ all the new AI tools.",
+    "answer": "keep up with",
+    "distractors": [
+      "run out of",
+      "get away with",
+      "break up with"
+    ],
+    "collocations": [
+      "keep up with news",
+      "keep up with demand",
+      "keep up with technology"
+    ],
+    "note": "Three words, followed by a thing or person. Use it for news, trends and speed.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-look-forward-to",
+    "headword": "look forward to",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "esperar con ganas",
+    "definition": "to feel happy about something that will happen soon",
+    "example": "I'm looking forward to meeting the new team.",
+    "exampleEs": "Tengo muchas ganas de conocer al nuevo equipo.",
+    "cloze": "I'm ____ meeting the new team.",
+    "answer": "looking forward to",
+    "distractors": [
+      "thinking back on",
+      "getting around to",
+      "coming up to"
+    ],
+    "collocations": [
+      "look forward to seeing you",
+      "look forward to the weekend",
+      "look forward to working"
+    ],
+    "note": "The 'to' here is a preposition, so use -ing: 'looking forward to hearing', not 'to hear'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-make-up",
+    "headword": "make up",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "inventar; compensar; formar",
+    "definition": "to invent something, or to form a whole from parts",
+    "example": "Don't make up an answer; just say you will check.",
+    "exampleEs": "No inventes una respuesta; solo di que lo vas a revisar.",
+    "cloze": "Don't ____ an answer; just say you will check.",
+    "answer": "make up",
+    "distractors": [
+      "take in",
+      "put away",
+      "hold back"
+    ],
+    "collocations": [
+      "make up a story",
+      "make up for lost time",
+      "make up a team"
+    ],
+    "note": "'Make up for' means to compensate. 'Be made up of' means to consist of.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-miss-out",
+    "headword": "miss out",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "perderse (una oportunidad)",
+    "definition": "to lose a chance to enjoy or take part in something",
+    "example": "If you skip the workshop, you'll miss out on a great chance to learn.",
+    "exampleEs": "Si te saltas el taller, te perderás una gran oportunidad para aprender.",
+    "cloze": "If you skip the workshop, you'll ____ on a great chance to learn.",
+    "answer": "miss out",
+    "distractors": [
+      "log out",
+      "hand out",
+      "pass out"
+    ],
+    "collocations": [
+      "miss out on a chance",
+      "miss out on an opportunity",
+      "fear of missing out"
+    ],
+    "note": "Always 'miss out on' + thing. Not 'miss out of'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-opt-out",
+    "headword": "opt out",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "optar por no participar",
+    "definition": "to choose not to take part in something",
+    "example": "Users can opt out of data collection in the settings.",
+    "exampleEs": "Los usuarios pueden optar por no participar en la recopilación de datos desde los ajustes.",
+    "cloze": "Users can ____ of data collection in the settings.",
+    "answer": "opt out",
+    "distractors": [
+      "log in",
+      "sign up",
+      "check in"
+    ],
+    "collocations": [
+      "opt out of a program",
+      "opt out of emails",
+      "opt out of tracking"
+    ],
+    "note": "The opposite is 'opt in'. Very common in privacy and software contexts.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-pick-up",
+    "headword": "pick up",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "recoger; retomar; aprender",
+    "definition": "to collect something, to restart, or to learn something easily",
+    "example": "I picked up some Python while I was working on that project.",
+    "exampleEs": "Aprendí algo de Python mientras trabajaba en ese proyecto.",
+    "cloze": "I ____ some Python while I was working on that project.",
+    "answer": "picked up",
+    "distractors": [
+      "handed in",
+      "turned in",
+      "dropped out"
+    ],
+    "collocations": [
+      "pick up a skill",
+      "pick up the phone",
+      "pick up where we left off"
+    ],
+    "note": "Many meanings: collect, answer (a call), restart, learn. Check the context.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-play-down",
+    "headword": "play down",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "restar importancia a",
+    "definition": "to make something seem less serious or important",
+    "example": "The company tried to play down the problem with the data.",
+    "exampleEs": "La empresa intentó restarle importancia al problema con los datos.",
+    "cloze": "The company tried to ____ the problem with the data.",
+    "answer": "play down",
+    "distractors": [
+      "play out",
+      "play back",
+      "play along"
+    ],
+    "collocations": [
+      "play down a risk",
+      "play down the importance",
+      "play down a mistake"
+    ],
+    "note": "The opposite is 'play up' (to make something seem more important).",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-pass-on",
+    "headword": "pass on",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "transmitir, pasar a otra persona",
+    "definition": "to give information or a message to someone else",
+    "example": "Could you pass on my thanks to the whole team?",
+    "exampleEs": "¿Podrías transmitirle mis agradecimientos a todo el equipo?",
+    "cloze": "Could you ____ my thanks to the whole team?",
+    "answer": "pass on",
+    "distractors": [
+      "turn up",
+      "break off",
+      "hold on"
+    ],
+    "collocations": [
+      "pass on a message",
+      "pass on information",
+      "pass on a cost"
+    ],
+    "note": "Also 'to decline': 'I'll pass on that offer'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-put-forward",
+    "headword": "put forward",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "proponer, presentar",
+    "definition": "to suggest an idea, plan or person for discussion",
+    "example": "She put forward a clever proposal to cut our costs.",
+    "exampleEs": "Ella presentó una propuesta inteligente para reducir nuestros costos.",
+    "cloze": "She ____ a clever proposal to cut our costs.",
+    "answer": "put forward",
+    "distractors": [
+      "put away",
+      "took over",
+      "woke up"
+    ],
+    "collocations": [
+      "put forward an idea",
+      "put forward a proposal",
+      "put forward a candidate"
+    ],
+    "note": "Formal. In meetings, you can also say 'I'd like to propose'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-reach-out",
+    "headword": "reach out",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "ponerse en contacto, acercarse",
+    "definition": "to contact someone, often to ask for help or start a conversation",
+    "example": "Feel free to reach out if you have any questions.",
+    "exampleEs": "No dudes en escribirme si tienes alguna pregunta.",
+    "cloze": "Feel free to ____ if you have any questions.",
+    "answer": "reach out",
+    "distractors": [
+      "cut out",
+      "spread out",
+      "check out"
+    ],
+    "collocations": [
+      "reach out to someone",
+      "reach out for help",
+      "reach out by email"
+    ],
+    "note": "Very common in business emails: 'I'm reaching out to...'. Usually followed by 'to'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-run-out-of",
+    "headword": "run out of",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "quedarse sin",
+    "definition": "to use all of something so that none is left",
+    "example": "We ran out of time before we finished the demo.",
+    "exampleEs": "Nos quedamos sin tiempo antes de terminar la demostración.",
+    "cloze": "We ____ time before we finished the demo.",
+    "answer": "ran out of",
+    "distractors": [
+      "came up with",
+      "got out of",
+      "made up of"
+    ],
+    "collocations": [
+      "run out of time",
+      "run out of money",
+      "run out of ideas"
+    ],
+    "note": "The subject is the person: 'We ran out of time'. Without 'of', 'run out' means the supply is gone: 'Time ran out'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-scale-up",
+    "headword": "scale up",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "escalar, aumentar la escala",
+    "definition": "to make something bigger or increase its capacity",
+    "example": "We need to scale up our servers before the product launch.",
+    "exampleEs": "Necesitamos escalar nuestros servidores antes del lanzamiento del producto.",
+    "cloze": "We need to ____ our servers before the product launch.",
+    "answer": "scale up",
+    "distractors": [
+      "pull out",
+      "pass out",
+      "wake up"
+    ],
+    "collocations": [
+      "scale up production",
+      "scale up a team",
+      "scale up infrastructure"
+    ],
+    "note": "The opposite is 'scale down'. Very common in startups and tech.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-set-out",
+    "headword": "set out",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "proponerse; exponer",
+    "definition": "to start a task with a clear goal, or to explain something clearly",
+    "example": "We set out to build the simplest note-taking app.",
+    "exampleEs": "Nos propusimos construir la aplicación de notas más simple.",
+    "cloze": "We ____ to build the simplest note-taking app.",
+    "answer": "set out",
+    "distractors": [
+      "turn up",
+      "set aside",
+      "set back"
+    ],
+    "collocations": [
+      "set out to do something",
+      "set out a plan",
+      "set out the rules"
+    ],
+    "note": "'Set out to' + infinitive means 'to begin with a goal'. Different from 'set off' (start a trip).",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-show-up",
+    "headword": "show up",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "aparecer, presentarse",
+    "definition": "to arrive or appear at a place or event",
+    "example": "Only five people showed up to the workshop.",
+    "exampleEs": "Solo cinco personas se presentaron al taller.",
+    "cloze": "Only five people ____ to the workshop.",
+    "answer": "showed up",
+    "distractors": [
+      "held up",
+      "put up",
+      "gave up"
+    ],
+    "collocations": [
+      "show up on time",
+      "show up late",
+      "show up to a meeting"
+    ],
+    "note": "Informal. 'Show off' is different: it means to boast.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-sign-up",
+    "headword": "sign up",
+    "pos": "phrasal verb",
+    "cefr": "B1+",
+    "es": "registrarse, inscribirse",
+    "definition": "to register for a service, course or event",
+    "example": "You can sign up for the webinar on our website.",
+    "exampleEs": "Puedes registrarte en el seminario web en nuestro sitio.",
+    "cloze": "You can ____ for the webinar on our website.",
+    "answer": "sign up",
+    "distractors": [
+      "log out",
+      "fill up",
+      "speak up"
+    ],
+    "collocations": [
+      "sign up for a course",
+      "sign up for a newsletter",
+      "sign up for an account"
+    ],
+    "note": "The noun is 'sign-up': 'a sign-up form'. Use 'for' after it.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-slow-down",
+    "headword": "slow down",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "desacelerar, ir más despacio",
+    "definition": "to become slower, or to make something slower",
+    "example": "Can you slow down a little? I want to take notes.",
+    "exampleEs": "¿Puedes ir un poco más despacio? Quiero tomar notas.",
+    "cloze": "Can you ____ a little? I want to take notes.",
+    "answer": "slow down",
+    "distractors": [
+      "speed up",
+      "give out",
+      "log in"
+    ],
+    "collocations": [
+      "slow down a process",
+      "slow down your speech",
+      "slow down growth"
+    ],
+    "note": "Useful phrase when someone speaks too fast in a meeting.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-stand-out",
+    "headword": "stand out",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "destacar, sobresalir",
+    "definition": "to be easy to notice because of being better or different",
+    "example": "Her presentation really stood out from the others.",
+    "exampleEs": "Su presentación realmente destacó entre las demás.",
+    "cloze": "Her presentation really ____ from the others.",
+    "answer": "stood out",
+    "distractors": [
+      "stood by",
+      "stood up",
+      "stood for"
+    ],
+    "collocations": [
+      "stand out from the crowd",
+      "stand out as the best",
+      "stand out because of"
+    ],
+    "note": "Do not mix it up with 'stand for' (to represent).",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-take-over",
+    "headword": "take over",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "tomar el control, asumir",
+    "definition": "to start controlling or doing something that someone else did",
+    "example": "Maria will take over the team when Alex leaves.",
+    "exampleEs": "María asumirá la dirección del equipo cuando Alex se vaya.",
+    "cloze": "Maria will ____ the team when Alex leaves.",
+    "answer": "take over",
+    "distractors": [
+      "take off",
+      "take in",
+      "take after"
+    ],
+    "collocations": [
+      "take over a project",
+      "take over a company",
+      "take over from someone"
+    ],
+    "note": "A 'takeover' (noun) is when a company buys another.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-take-up",
+    "headword": "take up",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "empezar (un pasatiempo); ocupar",
+    "definition": "to start a new activity, or to use space or time",
+    "example": "I took up running last year to manage my stress.",
+    "exampleEs": "Empecé a correr el año pasado para manejar mi estrés.",
+    "cloze": "I ____ running last year to manage my stress.",
+    "answer": "took up",
+    "distractors": [
+      "took out",
+      "took off",
+      "took back"
+    ],
+    "collocations": [
+      "take up a hobby",
+      "take up space",
+      "take up time"
+    ],
+    "note": "Also: 'take someone up on an offer' means to accept an offer.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-team-up",
+    "headword": "team up",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "unirse, formar equipo",
+    "definition": "to join with another person or group to work together",
+    "example": "We teamed up with a local startup to build the prototype.",
+    "exampleEs": "Nos asociamos con una startup local para construir el prototipo.",
+    "cloze": "We ____ with a local startup to build the prototype.",
+    "answer": "teamed up",
+    "distractors": [
+      "backed down",
+      "kept out",
+      "broke in"
+    ],
+    "collocations": [
+      "team up with someone",
+      "team up on a project",
+      "team up to win"
+    ],
+    "note": "Always 'team up with' + person or company.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-think-through",
+    "headword": "think through",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "analizar a fondo",
+    "definition": "to consider all the details and results of something carefully",
+    "example": "Let's think through the risks before we choose a vendor.",
+    "exampleEs": "Analicemos a fondo los riesgos antes de elegir un proveedor.",
+    "cloze": "Let's ____ the risks before we choose a vendor.",
+    "answer": "think through",
+    "distractors": [
+      "give away",
+      "think back",
+      "fall behind"
+    ],
+    "collocations": [
+      "think through a problem",
+      "think through the options",
+      "think it through"
+    ],
+    "note": "Different from 'think over', which means to consider for some time.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-turn-out",
+    "headword": "turn out",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "resultar, salir (de cierta manera)",
+    "definition": "to have a particular result, especially a surprising one",
+    "example": "The meeting turned out to be much shorter than expected.",
+    "exampleEs": "La reunión resultó ser mucho más corta de lo esperado.",
+    "cloze": "The meeting ____ to be much shorter than expected.",
+    "answer": "turned out",
+    "distractors": [
+      "turned in",
+      "turned off",
+      "turned on"
+    ],
+    "collocations": [
+      "turn out to be",
+      "turn out well",
+      "as it turned out"
+    ],
+    "note": "Often 'turn out to be' + noun or adjective: 'It turned out to be easy'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-try-out",
+    "headword": "try out",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "probar",
+    "definition": "to test something to see if it works or if you like it",
+    "example": "We tried out three different tools before choosing this one.",
+    "exampleEs": "Probamos tres herramientas diferentes antes de elegir esta.",
+    "cloze": "We ____ three different tools before choosing this one.",
+    "answer": "tried out",
+    "distractors": [
+      "kept up",
+      "dried up",
+      "ended up"
+    ],
+    "collocations": [
+      "try out a new tool",
+      "try out an idea",
+      "try out for a team"
+    ],
+    "note": "The noun is 'tryout'. 'Try on' is for clothes.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-weigh-in",
+    "headword": "weigh in",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "opinar, intervenir",
+    "definition": "to give your opinion in a discussion",
+    "example": "Several engineers weighed in on the proposed change.",
+    "exampleEs": "Varios ingenieros opinaron sobre el cambio propuesto.",
+    "cloze": "Several engineers ____ on the proposed change.",
+    "answer": "weighed in",
+    "distractors": [
+      "weighed up",
+      "clocked in",
+      "stepped out"
+    ],
+    "collocations": [
+      "weigh in on a debate",
+      "weigh in on an issue",
+      "weigh in with an opinion"
+    ],
+    "note": "Often 'weigh in on' + topic. Informal.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-write-down",
+    "headword": "write down",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "anotar, escribir",
+    "definition": "to put information on paper or on a screen so you remember it",
+    "example": "Please write down the main action items from the call.",
+    "exampleEs": "Por favor, anota los puntos de acción principales de la llamada.",
+    "cloze": "Please ____ the main action items from the call.",
+    "answer": "write down",
+    "distractors": [
+      "write back",
+      "wake up",
+      "hold on"
+    ],
+    "collocations": [
+      "write down notes",
+      "write down an idea",
+      "write down the date"
+    ],
+    "note": "Different from 'write up', which means to produce a full written version.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-phase-out",
+    "headword": "phase out",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "retirar gradualmente",
+    "definition": "to stop using or providing something step by step",
+    "example": "The company will phase out the old software by December.",
+    "exampleEs": "La empresa retirará gradualmente el software antiguo para diciembre.",
+    "cloze": "The company will ____ the old software by December.",
+    "answer": "phase out",
+    "distractors": [
+      "log in",
+      "blow up",
+      "sit down"
+    ],
+    "collocations": [
+      "phase out a product",
+      "phase out a service",
+      "phase out slowly"
+    ],
+    "note": "The opposite is 'phase in' (to introduce gradually).",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-sum-up",
+    "headword": "sum up",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "resumir",
+    "definition": "to give the main points in a short form",
+    "example": "To sum up, we need more time and a clearer scope.",
+    "exampleEs": "En resumen, necesitamos más tiempo y un alcance más claro.",
+    "cloze": "To ____, we need more time and a clearer scope.",
+    "answer": "sum up",
+    "distractors": [
+      "add up",
+      "back up",
+      "mix up"
+    ],
+    "collocations": [
+      "sum up the discussion",
+      "sum up in one sentence",
+      "to sum up"
+    ],
+    "note": "A natural way to start your conclusion in a meeting: 'To sum up, ...'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-fall-through",
+    "headword": "fall through",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "fracasar, no concretarse",
+    "definition": "to fail to happen, especially a plan or deal",
+    "example": "The deal fell through at the last minute.",
+    "exampleEs": "El trato se cayó a último minuto.",
+    "cloze": "The deal ____ at the last minute.",
+    "answer": "fell through",
+    "distractors": [
+      "fell behind",
+      "fell for",
+      "grew up"
+    ],
+    "collocations": [
+      "a deal falls through",
+      "a plan falls through",
+      "fall through at the last minute"
+    ],
+    "note": "Used for plans and agreements, not for people.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-live-up-to",
+    "headword": "live up to",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "estar a la altura de",
+    "definition": "to be as good as people expected",
+    "example": "The product didn't live up to the hype.",
+    "exampleEs": "El producto no estuvo a la altura de la expectativa.",
+    "cloze": "The product didn't ____ the hype.",
+    "answer": "live up to",
+    "distractors": [
+      "look up to",
+      "make up for",
+      "get away with"
+    ],
+    "collocations": [
+      "live up to expectations",
+      "live up to a promise",
+      "live up to a reputation"
+    ],
+    "note": "Three words. Usually with 'expectations', 'hype' or 'reputation'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-come-across",
+    "headword": "come across",
+    "pos": "phrasal verb",
+    "cefr": "B2+",
+    "es": "toparse con; dar la impresión",
+    "definition": "to find something by chance, or to seem a certain way",
+    "example": "I came across a great article about vector databases.",
+    "exampleEs": "Me topé con un excelente artículo sobre bases de datos vectoriales.",
+    "cloze": "I ____ a great article about vector databases.",
+    "answer": "came across",
+    "distractors": [
+      "came over",
+      "came out",
+      "came through"
+    ],
+    "collocations": [
+      "come across an article",
+      "come across as confident",
+      "come across a problem"
+    ],
+    "note": "'Come across as' + adjective describes the impression you give: 'You come across as confident'.",
+    "tags": [
+      "phrasal"
+    ]
+  },
+  {
+    "id": "phrasal-verbs-build-on",
+    "headword": "build on",
+    "pos": "phrasal verb",
+    "cefr": "B2",
+    "es": "construir sobre, aprovechar",
+    "definition": "to use something as a base for further progress",
+    "example": "We can build on the results from the first pilot.",
+    "exampleEs": "Podemos construir sobre los resultados del primer piloto.",
+    "cloze": "We can ____ the results from the first pilot.",
+    "answer": "build on",
+    "distractors": [
+      "break into",
+      "look down on",
+      "give up"
+    ],
+    "collocations": [
+      "build on success",
+      "build on an idea",
+      "build on previous work"
+    ],
+    "note": "Different from 'build up', which means to increase gradually.",
+    "tags": [
+      "phrasal"
+    ]
+  }
+]

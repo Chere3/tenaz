@@ -1,0 +1,1174 @@
+[
+  {
+    "id": "ra-onestopqa-101-year-old-bottle-message-adv-p0-p1",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "101-Year-Old Bottle Message",
+    "text": "Angela Erdmann never knew her grandfather. He died in 1946, six years before she was born. But, on Tuesday 8th April, 2014, she described the extraordinary moment when she received a message in a bottle, 101 years after he had lobbed it into the Baltic Sea. Thought to be the world's oldest message in a bottle, it was presented to Erdmann by the museum that is now exhibiting it in Germany.\n\n\"It was very surprising,\" Angela Erdmann, 62, said, recalling how she found out about the bottle. \"A man stood at my door and told me he had post from my grandfather. He then told me that a message in a bottle had been found and that the name that was on the card was that of my grandfather.\" Her visitor was a genealogical researcher who had managed to track her down in Berlin after the letter was given to the International Maritime Museum in the northern port city of Hamburg.",
+    "questions": [
+      {
+        "q": "Who threw the bottle into the Baltic Sea?",
+        "options": [
+          "A museum worker",
+          "Angela Erdmann",
+          "A fisherman",
+          "Angela Erdmann's grandfather"
+        ],
+        "answer": 3,
+        "explanation": "The text says the message was lobbed into the Baltic Sea 101 years earlier by Angela Erdmann's grandfather, whose name was on the card."
+      },
+      {
+        "q": "Where is the bottle now?",
+        "options": [
+          "On exhibit in Germany",
+          "In Angela Erdmann's possession",
+          "In a private collection of maritime items",
+          "In the Baltic Sea"
+        ],
+        "answer": 0,
+        "explanation": "The text says the museum that presented the bottle to Erdmann is now exhibiting it in Germany."
+      },
+      {
+        "q": "What did Angela's visitor deliver?",
+        "options": [
+          "A message from the post office",
+          "News of the discovery of the bottle",
+          "A letter from a museum in Hamburg",
+          "A package for Angela"
+        ],
+        "answer": 1,
+        "explanation": "The visitor told her that a message in a bottle had been found and that it carried her grandfather's name, so he brought news of the discovery."
+      },
+      {
+        "q": "Who was Angela's visitor?",
+        "options": [
+          "A journalist",
+          "A postman",
+          "A museum representative from Hamburg",
+          "An ancestry researcher"
+        ],
+        "answer": 3,
+        "explanation": "The text describes the visitor as a genealogical researcher who tracked her down in Berlin, which means an ancestry researcher."
+      },
+      {
+        "q": "How did the visitor know the message in the bottle was written by Angela's grandfather?",
+        "options": [
+          "The letter had unique details about her grandfather's life",
+          "The person who gave it to the museum said so",
+          "Her grandfather's name was carved on the bottle",
+          "Her grandfather's name appeared on the message"
+        ],
+        "answer": 3,
+        "explanation": "The visitor said the name on the card was that of her grandfather, so the name on the message identified the writer."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "101-year-old-bottle-message-adv-p0-p1",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:101-year-old-bottle-message:p0-p1",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "ra-onestopqa-a-new-form-of-lie-detector-test-adv-p2-p3",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "A New Form of Lie Detector Test",
+    "text": "The polygraph was created in 1921 by policeman John Larson, based on research by the psychologist William Marston. It records changes in pulse, blood pressure, sweating and breathing to ascertain whether a subject is lying. While cinema depictions suggest the device is near-infallible, the US Supreme Court ruled, in 1998, that there was no consensus that the polygraph was reliable, a finding supported by the US National Academy of Scientists in 2003.\n\nThe experiment carried out by Anderson and his colleagues involved 180 students and employees at Lancaster University, of which half were told to tell the truth and half to lie. They were each paid £7.50 for their participation in the 70-minute experiment, involving two tests. Some were interviewed about a computer game Never End, which they played for seven minutes, while others lied about playing it, having only been shown notes about it. The second test involved a lost wallet containing £5. Some were asked to bring the wallet to a lost-and-found box while others hid it and lied about it.",
+    "questions": [
+      {
+        "q": "Who was John Larson?",
+        "options": [
+          "A policeman who developed a lie-detection method",
+          "A US Supreme Court judge who ruled on the reliability of the polygraph",
+          "A 21st century researcher working on new methods of lie detection",
+          "A psychologist who created the polygraph"
+        ],
+        "answer": 0,
+        "explanation": "The text says the polygraph was created in 1921 by policeman John Larson, so he developed a lie-detection method."
+      },
+      {
+        "q": "What happened in 1998?",
+        "options": [
+          "The European Union decided that polygraphs are not reliable",
+          "The Supreme Court decided to prohibit the use of polygraphs",
+          "The US National Academy of Scientists said it cannot confirm that polygraphs are reliable",
+          "The Supreme Court could not confirm that polygraphs are reliable"
+        ],
+        "answer": 3,
+        "explanation": "The text says that in 1998 the US Supreme Court ruled there was no consensus that the polygraph was reliable."
+      },
+      {
+        "q": "Who first stated that the polygraph might not be reliable?",
+        "options": [
+          "The Federal Bureau of Intelligence",
+          "The Supreme Court of the United States",
+          "The psychologist William Martson",
+          "The National Academy of Scientists"
+        ],
+        "answer": 1,
+        "explanation": "The Supreme Court ruling came in 1998, while the National Academy of Scientists only supported that finding later, in 2003."
+      },
+      {
+        "q": "What were some people supposed to do with the wallet?",
+        "options": [
+          "Take out £5 and leave it where they found it",
+          "Discuss what they would do with it in an interview",
+          "Seek out the original owner and return it",
+          "Return it to a box of lost-and-found items"
+        ],
+        "answer": 3,
+        "explanation": "The text says some participants were asked to bring the lost wallet to a lost-and-found box, while others hid it and lied."
+      },
+      {
+        "q": "What did some participants do for seven minutes?",
+        "options": [
+          "Played a computer game",
+          "Looked for a place to hide a wallet",
+          "Talked to a policeman",
+          "Were interviewed about Never End"
+        ],
+        "answer": 0,
+        "explanation": "The text says some participants played the computer game Never End for seven minutes before being interviewed about it."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "a-new-form-of-lie-detector-test-adv-p2-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:a-new-form-of-lie-detector-test:p2-p3",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "ra-onestopqa-can-the-us-electric-bike-market-get-a-jump-start-adv-p2-p3",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Can the US Electric Bike Market Get a Jump Start?",
+    "text": "Electric bikes are different from motorcycles or mopeds, which rely on motorized power; they are bicycles that can be pedaled with - or without - assistance from an electric motor. Riding an e-bike feels like riding a conventional bike with a brisk tailwind; the motor helps you go faster or climb hills but it's typically not the primary source of propulsion. Unlike mopeds, e-bicycles are usually permitted on bike paths and they can't travel faster than 20mph.\n\nTo succeed, the electric bike business in the US must clear legal, cultural and financial hurdles. E-bikes are banned in some states, including New York, although the law isn't strictly enforced. Traditionalists who own and staff bike shops don't like putting motors on bicycles, citing, among other things, the added weight. Some e-bikes are close to 30kg. E-bikes are also pricey. While low-end models sell for as little as $700, Court Rye, the founder and editor of ElectricBikeReview.com, a popular website, says riders should expect to pay at least $1,500 for a quality e-bike with a good battery. Top-of-the-line models cost more than twice that.",
+    "questions": [
+      {
+        "q": "What is one difference between e-bikes and mopeds with regard to their motors?",
+        "options": [
+          "E-bike motors are quieter",
+          "E-bikes can be ridden without using their motor",
+          "E-bike motors are less resilient to wind",
+          "E-bike motors are better suited for going fast uphill"
+        ],
+        "answer": 1,
+        "explanation": "The text says e-bikes can be pedaled with or without assistance from the motor, so they can be ridden without using it."
+      },
+      {
+        "q": "When can you ride e-bikes on bike lanes?",
+        "options": [
+          "In most cases",
+          "Never",
+          "Whenever you ride without the help of the motor",
+          "Whenever you ride slower than 20mph"
+        ],
+        "answer": 0,
+        "explanation": "The text says that, unlike mopeds, e-bicycles are usually permitted on bike paths, so in most cases they can use them."
+      },
+      {
+        "q": "Why don't some bike sellers want to put motors on bikes?",
+        "options": [
+          "Because they think e-bikes are unsafe",
+          "Because the bikes they sell already have a weight of almost 30kg",
+          "Because they prefer the bikes to be lighter",
+          "Because motor sales are banned in some states"
+        ],
+        "answer": 2,
+        "explanation": "The text says traditionalists who run bike shops dislike putting motors on bicycles because of the added weight."
+      },
+      {
+        "q": "What is true of e-bike prices?",
+        "options": [
+          "They are getting cheaper",
+          "They are exempt from taxes in states like New York",
+          "They vary from several hundred to a few thousand dollars",
+          "They cost at least $1,500"
+        ],
+        "answer": 2,
+        "explanation": "The text says low-end models sell for as little as $700 and top models cost more than twice $1,500, so prices range widely."
+      },
+      {
+        "q": "What can you get for $1,500?",
+        "options": [
+          "A low-tier e-bike",
+          "A quality e-bike",
+          "A bike that weighs at least 30kg",
+          "A bike that weighs at least 50kg"
+        ],
+        "answer": 1,
+        "explanation": "The text says riders should expect to pay at least $1,500 for a quality e-bike with a good battery."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "can-the-us-electric-bike-market-get-a-jump-start-adv-p2-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:can-the-us-electric-bike-market-get-a-jump-start:p2-p3",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "ra-onestopqa-four-new-elements-find-a-place-on-periodic-table-adv-p3-p4",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Four New Elements Find a Place on Periodic Table",
+    "text": "When elements 114 and 116 were assigned formal names in 2012, scientists chose flerovium and livermorium respectively, after the Flerov Lab at Dubna's Joint Institute of Research and the Lawrence Livermore Lab in the US, where the elements were discovered. Kosuke Morita, who led the research at RIKEN, said his team now planned to \"look into the uncharted territory of element 119 and beyond.\" Jan Reedijk, president of the Inorganic Chemistry Division of IUPAC, said: \"The chemistry community is eager to see its most cherished table finally being completed down to the seventh row.\"\n\nThe Japanese team is believed to be considering three names for ununtrium: japonium, rikenium and nishinarium, after the Nishina Center for Accelerator-Based Science, where the element was found. \"They will have been thinking about it for a while already,\" said Polly Arnold, professor of chemistry at Edinburgh University. \"This is painstaking work. All this trying to understand Mother Nature helps us with our models and with understanding radioactive decay. If we understand it better, hopefully we can do better at dealing with nuclear waste and things that are important in the real world. It also leads to fantastic technological advances in building the equipment to make these observations.\"",
+    "questions": [
+      {
+        "q": "How were the formal names for elements 114 and 116 chosen?",
+        "options": [
+          "They were named after their chemical properties",
+          "They were named after scientists at IUPAC",
+          "They were named after the lab where they were discovered",
+          "They were named after scientists who were founders of the field"
+        ],
+        "answer": 2,
+        "explanation": "The text says flerovium and livermorium were named after the Flerov Lab and the Lawrence Livermore Lab, where the elements were discovered."
+      },
+      {
+        "q": "What does the RIKEN research team plan to do now?",
+        "options": [
+          "Try to discover additional new elements",
+          "Further look into the element they discovered",
+          "Finally move beyond completing the seventh row of the periodic table",
+          "Figure out uses for the newly uncovered elements"
+        ],
+        "answer": 0,
+        "explanation": "Morita said his team now planned to look into the uncharted territory of element 119 and beyond, meaning more new elements."
+      },
+      {
+        "q": "What does Polly Arnold say about the work that is being done?",
+        "options": [
+          "It helps us prevent radioactive decay",
+          "The work is rewarding for the scientists involve",
+          "It has gotten easier due to advances in technology",
+          "It is hard and requires a lot of effort"
+        ],
+        "answer": 3,
+        "explanation": "Arnold calls the work painstaking, which means it is hard and takes a great deal of effort."
+      },
+      {
+        "q": "What would lead to great improvements in technology?",
+        "options": [
+          "The discovery of new elements",
+          "Development of equipment for discovering new elements",
+          "Utilization of japonium, rikenium and nishinarium",
+          "More involvement of commercial companies in chemical research"
+        ],
+        "answer": 1,
+        "explanation": "Arnold says the work leads to fantastic technological advances in building the equipment used to make these observations."
+      },
+      {
+        "q": "What may happen once people understand radioactive decay better?",
+        "options": [
+          "Nuclear reactors can become safer",
+          "Significant technological developments",
+          "Scientists in the Nishina Center may be able to find new elements",
+          "Improved handling of nuclear waste"
+        ],
+        "answer": 3,
+        "explanation": "Arnold says that if radioactive decay is better understood, we can hopefully do better at dealing with nuclear waste."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "four-new-elements-find-a-place-on-periodic-table-adv-p3-p4",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:four-new-elements-find-a-place-on-periodic-table:p3-p4",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "ra-onestopqa-four-new-elements-find-a-place-on-periodic-table-int-p0-p1",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Four New Elements Find a Place on Periodic Table",
+    "text": "Chemists have waited a long time for a new element to turn up and, now, four have been discovered by researchers in Japan, Russia and the US. The four new elements are the first to be added to the periodic table since 2011, when elements 114 and 116 were included. The new elements, all highly radioactive, complete the seventh row of the periodic table and mean that science textbooks around the world are now out of date.\n\nThe US-based International Union of Pure and Applied Chemistry (IUPAC), the global organization that controls chemical names, terminology and measurement, verified the elements on 30 December, 2015 after examining studies dating back to 2004. The scientists who found them must now come up with formal names to replace the Latin-based temporary names - ununtrium, ununpentium, ununseptium and ununoctium - which reflect their atomic numbers, 113, 115, 117, and 118. The atomic number is the number of protons found in an element's atomic nucleus.",
+    "questions": [
+      {
+        "q": "What happened in 2011?",
+        "options": [
+          "A convention on the state of the periodic table took place",
+          "The seventh row of the periodic table was completed",
+          "Four new elements were added to the periodic table",
+          "Two new elements were added to the periodic table"
+        ],
+        "answer": 3,
+        "explanation": "The text says the four new elements are the first added since 2011, when elements 114 and 116 were included, so two were added."
+      },
+      {
+        "q": "What is true about the new elements?",
+        "options": [
+          "They emit a significant amount of radiation",
+          "They behave similarly to elements 114 and 116",
+          "They are exist mainly in the form of a gas",
+          "They begin the seventh row of the periodic table"
+        ],
+        "answer": 0,
+        "explanation": "The text says the new elements are all highly radioactive, which means they emit a significant amount of radiation."
+      },
+      {
+        "q": "Who discovered the new elements?",
+        "options": [
+          "Research teams from three different countries",
+          "Research teams from four different countries",
+          "Research teams from seven different countries",
+          "Dmitri Mendeleev"
+        ],
+        "answer": 0,
+        "explanation": "The text says the elements were discovered by researchers in Japan, Russia and the US, which are three countries."
+      },
+      {
+        "q": "What is the International Union of Pure and Applied Chemistry?",
+        "options": [
+          "An organization that publishes chemistry journals",
+          "A global gathering of chemists which took place in 2015",
+          "An institution that regulates element naming",
+          "An institution that introduced the atomic numbering system for elements"
+        ],
+        "answer": 2,
+        "explanation": "The text describes IUPAC as the global organization that controls chemical names, terminology and measurement, so it regulates element naming."
+      },
+      {
+        "q": "What must the scientists who found the new elements do now?",
+        "options": [
+          "Verify that the atomic numbers of the new elements are 113, 115, 117 and 118",
+          "Further study the properties of the new elements",
+          "Decide on the official names of the new elements",
+          "Verify the new elements with IUPAC"
+        ],
+        "answer": 2,
+        "explanation": "The text says the scientists who found the elements must now come up with formal names to replace the temporary ones."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "four-new-elements-find-a-place-on-periodic-table-int-p0-p1",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:four-new-elements-find-a-place-on-periodic-table:p0-p1",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "ra-onestopqa-google-introduces-its-driverless-car-int-p0-p1",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Google Introduces its Driverless Car",
+    "text": "A car with a top speed of 25mph, two seats and no pedals or steering wheel might not make much of an impression at a motor show. But Google, in the US, sent a shock through the car and taxi industries as it unveiled the latest version of its driverless car. The electrically powered vehicle, which Google has begun testing around its headquarters in Mountain View, California, dispenses with all the normal controls, including foot pedals. Instead, it has a smartphone app that calls it and tells it the destination, and a single STOP button between the two front-facing seats in case the passengers need to override the computer.\n\nThe car, in fact, does all the tasks of navigation, steering, acceleration and braking. The company is building about 100 prototypes for a two-year test. The company's co-founder, Sergey Brin, told a conference in California that the vehicle was \"still in the prototype stage\" but that the project was about changing the world for people who do not have good transportation today. He said of the car: \"You're just sitting there; no steering wheel, no pedals. For me, it was very relaxing. About ten seconds after getting in, I forgot I was there. I found it really enjoyable.\"",
+    "questions": [
+      {
+        "q": "What kind of reaction did Google's new driverless car draw from the automobile industry?",
+        "options": [
+          "It drew considerable skepticism from safety experts",
+          "The industry wasn't impressed and did not find it interesting at first, but was shocked later",
+          "It drew strong attention from the industry",
+          "It drew mostly excitement, but also disappointment at its lack of controls"
+        ],
+        "answer": 2,
+        "explanation": "The text says Google sent a shock through the car and taxi industries, which means the car drew strong attention from them."
+      },
+      {
+        "q": "How does the car passenger's phone interact with the car?",
+        "options": [
+          "It keeps track of the car's speed so that it does not exceed 25 miles per hour",
+          "It has an app with normal car controls in case of an emergency",
+          "It tells the car where the user wants to go",
+          "It processes the sensory information from the car and guides the car"
+        ],
+        "answer": 2,
+        "explanation": "The text says the smartphone app calls the car and tells it the destination, so the phone tells the car where to go."
+      },
+      {
+        "q": "What is unique about the controls of the car that Google just released?",
+        "options": [
+          "It can quickly accelerate to a speed of 25 miles per hour",
+          "It has special foot pedals",
+          "It has fewer controls compared to a typical car",
+          "It has more reliable controls as compared to conventional cars"
+        ],
+        "answer": 2,
+        "explanation": "The car dispenses with all the normal controls, including pedals and a steering wheel, so it has fewer controls than a typical car."
+      },
+      {
+        "q": "What does Brin say his company's motivation is for making this car?",
+        "options": [
+          "Becoming the leading company in prototyping autonomous vehicles",
+          "Helping people who do not have good transportation today",
+          "Changing the world for people who already drive regularly",
+          "Improving traffic"
+        ],
+        "answer": 1,
+        "explanation": "Brin said the project was about changing the world for people who do not have good transportation today."
+      },
+      {
+        "q": "According to the company's co-founder, the experience of riding in the car was ...",
+        "options": [
+          "life-changing",
+          "pleasant",
+          "thrilling",
+          "forgettable"
+        ],
+        "answer": 1,
+        "explanation": "Brin called the ride very relaxing and really enjoyable, which describes it as pleasant."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "google-introduces-its-driverless-car-int-p0-p1",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:google-introduces-its-driverless-car:p0-p1",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "ra-onestopqa-hundreds-hurt-after-meteorite-falls-to-earth-adv-p3-p4",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Hundreds Hurt after Meteorite Falls to Earth",
+    "text": "In Chelyabinsk itself, schools and universities were closed and many other staff told to go home early. About 200 children were among the injured. A steady stream of lightly injured people, most suffering cuts from flying glass, came into the clinic where Bets works. She said a nearby college was particularly badly affected and many of the students were brought in suffering from fright. \"There were a lot of girls from the college in shock. Some were very pale and many of them fainted,\" she said. Early estimates suggested more than 100,000 square meters of glass had been broken and 3,000 buildings hit. The total cost of the damage in the city was being valued at in excess of one billion roubles (£20m).\n\nThe meteorite over Chelyabinsk arrived less than a day before asteroid 2012 DA14 was expected to make the closest pass to Earth (about 17,510 miles) of any recorded cosmic body. But experts said the two events were linked by nothing more than coincidence. Rumors and conspiracy theories, however, swirled in the first few hours after the incident. Reports on Russian state television and in local media suggested that the meteorite was engaged by local air defense units and blown apart at an altitude of more than 15 miles.",
+    "questions": [
+      {
+        "q": "What is true of most of the people who came into the clinic where Bets works?",
+        "options": [
+          "They were children",
+          "They were injured by glass",
+          "They were in shock",
+          "They were brought in ambulances"
+        ],
+        "answer": 1,
+        "explanation": "The text says most of the lightly injured people who came to the clinic were suffering cuts from flying glass."
+      },
+      {
+        "q": "Who was in shock, according to Bets?",
+        "options": [
+          "College students",
+          "Hospital staff",
+          "Children",
+          "People injured by glass"
+        ],
+        "answer": 0,
+        "explanation": "Bets said there were a lot of girls from the nearby college in shock, and that many students were brought in suffering from fright."
+      },
+      {
+        "q": "What is true of the asteroid 2012 DA14?",
+        "options": [
+          "It was blown apart by the Russian military",
+          "It created panic in Russia",
+          "It passed Earth without hitting it",
+          "It hit earth 17,510 miles away from the landing site of the meteorite"
+        ],
+        "answer": 2,
+        "explanation": "The text says asteroid 2012 DA14 was expected to make the closest pass to Earth, and experts said it was only a coincidence."
+      },
+      {
+        "q": "What did rumours say about the Russian military and air defense?",
+        "options": [
+          "They detected the asteroid 2012 DA14",
+          "They ignored the impending meteorite",
+          "They only responded to the incident after a few hours had passed",
+          "They exploded the meteorite into pieces"
+        ],
+        "answer": 3,
+        "explanation": "Local media suggested that the meteorite was engaged by air defense units and blown apart, so they supposedly exploded it into pieces."
+      },
+      {
+        "q": "What took place in the first few hours after the incident?",
+        "options": [
+          "A lot of press coverage and media speculation about the meteorite",
+          "Community service efforts to help people affected by the meteor",
+          "Panic about another impending crash from asteroid 2012 DA14",
+          "The Russian military announced that it blew apart the meteorite"
+        ],
+        "answer": 0,
+        "explanation": "The text says rumors and conspiracy theories swirled in the first few hours, with reports on state television and in local media."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "hundreds-hurt-after-meteorite-falls-to-earth-adv-p3-p4",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:hundreds-hurt-after-meteorite-falls-to-earth:p3-p4",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "ra-onestopqa-hundreds-hurt-after-meteorite-falls-to-earth-int-p1-p2",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Hundreds Hurt after Meteorite Falls to Earth",
+    "text": "The meteorite entered the atmosphere traveling at a speed of at least 33,000mph and broke up into pieces between 18 and 32 miles above the ground, according to a statement from the Russian Academy of Sciences. The event caused panic in Chelyabinsk, a Russian city of one million people to the south of the Ural mountains. Mobile phone networks swiftly became jammed by the volume of calls. A video showed the pieces of meteorite glowing more brightly as they approached the moment of impact. The vapor trail was visible for hundreds of miles around, including in neighboring Kazakhstan.\n\nTatyana Bets was at work in the reception area of a hospital clinic in the center of the city when the meteorite hit. \"First we noticed the wind, and then the room was filled with a very bright light and we could see a cloud of smoke in the sky,\" she said. Then, after a few minutes, the explosions came. At least three craters were discovered, according to the Ministry of the Interior. One crater was more than six meters wide and another piece of the meteorite broke through the thick ice of a nearby lake. Radiation levels at the impact sites were normal, according to the local military.",
+    "questions": [
+      {
+        "q": "What was notable about the vapor trail left behind by the meteorite?",
+        "options": [
+          "It spanned between 18 and 32 miles",
+          "It was noticeable from very far distances",
+          "It was located in Kazakhstan",
+          "It remained in the air for weeks"
+        ],
+        "answer": 1,
+        "explanation": "The text says the vapor trail was visible for hundreds of miles around, so it could be noticed from very far away."
+      },
+      {
+        "q": "Where do one million people live?",
+        "options": [
+          "In the Ural mountains",
+          "In Novosibirsk",
+          "In Chelyabinsk",
+          "In Kazakhstan"
+        ],
+        "answer": 2,
+        "explanation": "The text describes Chelyabinsk as a Russian city of one million people."
+      },
+      {
+        "q": "What was Tatyana Bets doing as she noticed the wind, light and smoke?",
+        "options": [
+          "Visiting a lake",
+          "Hospitalized at a clinic",
+          "Working at the city center",
+          "Preparing to go to be"
+        ],
+        "answer": 2,
+        "explanation": "The text says Bets was at work in the reception area of a hospital clinic in the center of the city."
+      },
+      {
+        "q": "What is true of one of the meteorite fragments?",
+        "options": [
+          "It had abnormal radiation levels",
+          "It formed at the backyard of a school",
+          "It landed on a lake",
+          "It was more than six meters wide"
+        ],
+        "answer": 2,
+        "explanation": "The text says another piece of the meteorite broke through the thick ice of a nearby lake, so it landed on a lake."
+      },
+      {
+        "q": "What happened in the room Tatyana Bets worked in?",
+        "options": [
+          "A fire started in it",
+          "Its reception desk was impacted by a meteorite",
+          "It became bright",
+          "There were explosions in it"
+        ],
+        "answer": 2,
+        "explanation": "Bets said the room was filled with a very bright light, so it became bright."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "hundreds-hurt-after-meteorite-falls-to-earth-int-p1-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:hundreds-hurt-after-meteorite-falls-to-earth:p1-p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "ra-onestopqa-rwandan-women-whip-up-popular-ice-cream-business-adv-p0-p1",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Rwandan Women Whip up Popular Ice Cream Business",
+    "text": "From all across Rwanda, and even parts of neighboring Burundi, people flock to the southern town of Butare to a little shop called Inzozi Nziza (Sweet Dreams). They come for a taste of the unknown, something most have never tasted - the sweet, cold, velvety embrace of ice cream. Here, at the central African country's first ice-cream parlor, customers can buy scoops in sweet cream, passion fruit, strawberry and pineapple flavors. Toppings include fresh fruit, honey, chocolate chips and granola. Black tea and coffee are also on sale.\n\nThe shop, which has \"ice cream, coffee, dreams\" across its signage, is milking local curiosity about the dessert - and \"changing lives\" in the process, says Inzozi Nziza's manager, Louise Ingabire. \"Ice cream is important,\" she says between mouthfuls of a honey-flavored offering. \"Some Rwandans like ice cream, but it's a new thing. We still have some work to do, to tell others that they'll enjoy it.\" True to Inzozi Nziza's motto, the shop can certainly make dreams come true. \"I didn't have a job before: I just stayed at home. Now, I have a vision for the future. I am making money and I can give some of it to my family,\" says the 27-year-old.",
+    "questions": [
+      {
+        "q": "Where is the ice cream shop located?",
+        "options": [
+          "Burundi",
+          "Butare",
+          "Near a popular tea and coffee shop",
+          "The capital Kigali"
+        ],
+        "answer": 1,
+        "explanation": "The text says people flock to the southern town of Butare to a little shop called Inzozi Nziza."
+      },
+      {
+        "q": "What can customers buy at the ice cream shop, other than ice cream?",
+        "options": [
+          "Passion fruit",
+          "Frozen yogurt",
+          "Beverages",
+          "Traditional Butare sweets"
+        ],
+        "answer": 2,
+        "explanation": "The text says black tea and coffee are also on sale, so customers can buy beverages as well."
+      },
+      {
+        "q": "Where is one place where people come to the ice cream shop from?",
+        "options": [
+          "Inzozi Nziza",
+          "Burundi",
+          "Uganda",
+          "South Africa"
+        ],
+        "answer": 1,
+        "explanation": "The text says people come from all across Rwanda and even parts of neighboring Burundi."
+      },
+      {
+        "q": "What does Ingabire plan to do with some of the money she is making?",
+        "options": [
+          "Start a family",
+          "Change many people's lives",
+          "Provide financial support to her relatives",
+          "Improve her shop"
+        ],
+        "answer": 2,
+        "explanation": "Ingabire says she is making money and can give some of it to her family, meaning she will support her relatives."
+      },
+      {
+        "q": "Why did Ingabire previously stay at home?",
+        "options": [
+          "She was able to make money from home",
+          "She was trying to make her family's dreams come true",
+          "She was taking care of her parents",
+          "She was not employed"
+        ],
+        "answer": 3,
+        "explanation": "She says she did not have a job before and just stayed at home, so she was not employed."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "rwandan-women-whip-up-popular-ice-cream-business-adv-p0-p1",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:rwandan-women-whip-up-popular-ice-cream-business:p0-p1",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "ra-onestopqa-rwandan-women-whip-up-popular-ice-cream-business-adv-p2-p3",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Rwandan Women Whip up Popular Ice Cream Business",
+    "text": "Butare, which has 89,600 residents and is located 135km south of the capital, Kigali, is the home of the National University of Rwanda. Inzozi Nziza has become a hub for tired students looking to treat themselves to something cool and different. \"It's something uniting people here,\" Kalisa Migendo, a 24-year-old agriculture student, says. \"If you need to go out and talk to a friend, a girl or a boy, you come to Inzozi Nziza for an ice cream.\" Most of the ingredients are sourced locally and the milk comes from a depot in nearby Nyanza. The vanilla beans and cocoa are imported.\n\nInzozi Nziza was opened by the theater director Odile Gakire Katese. She met Alexis Miesen and Jennie Dundas, co-founders of Blue Marble Ice Cream in Brooklyn, New York, and formed a partnership with them to open the shop in 2010. \"An ice-cream shop, Katese proposed, might help to put the human pieces back together by rebuilding spirits, hopes and family traditions,\" Miesen says. At the start, Miesen and Dundas owned the shop in partnership with its staff and had shares in the business, which is a cooperative and non-profit. They did not set financial targets, but waited for 18 months before they transferred their shares to the women, who had by then proved their business credentials.",
+    "questions": [
+      {
+        "q": "Where is the National University of Rwanda located?",
+        "options": [
+          "Nyanza",
+          "Nairobi",
+          "Butare",
+          "Kigali"
+        ],
+        "answer": 2,
+        "explanation": "The text says Butare is the home of the National University of Rwanda."
+      },
+      {
+        "q": "Where do the ice cream shop's ingredients come from?",
+        "options": [
+          "Some are local and some from the capital, Kigali",
+          "Most are from a nearby grocery store",
+          "Most are from nearby Nyanza",
+          "Some are local and some are not local"
+        ],
+        "answer": 3,
+        "explanation": "The text says most ingredients are sourced locally and the milk comes from nearby Nyanza, while the vanilla beans and cocoa are imported."
+      },
+      {
+        "q": "What happened in 2010?",
+        "options": [
+          "Women workers received shares of Inzozi Nziza",
+          "A partnership was formed to open an ice cream shop",
+          "Inzozi Nziza became the most popular dessert shop in Rwanda",
+          "Alexis Miesen and Jennie Dundas co-founded Blue Marble Ice Cream"
+        ],
+        "answer": 1,
+        "explanation": "The text says Katese formed a partnership with Miesen and Dundas to open the shop in 2010."
+      },
+      {
+        "q": "Who had all the shares of the business 18 months after the opening?",
+        "options": [
+          "Odile Gakire Katese",
+          "Miesen and Dundas",
+          "The workers",
+          "A local family"
+        ],
+        "answer": 2,
+        "explanation": "Miesen and Dundas waited 18 months and then transferred their shares to the women, so the workers held all the shares."
+      },
+      {
+        "q": "Who founded Blue Marble Ice Cream?",
+        "options": [
+          "Odile Gakire Katese",
+          "A partnership of ice cream store workers",
+          "Alexis Miesen and Jennie Dundas",
+          "A group of social activists"
+        ],
+        "answer": 2,
+        "explanation": "The text calls Alexis Miesen and Jennie Dundas the co-founders of Blue Marble Ice Cream in Brooklyn."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "rwandan-women-whip-up-popular-ice-cream-business-adv-p2-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:rwandan-women-whip-up-popular-ice-cream-business:p2-p3",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "ra-onestopqa-spain-s-robin-hood-adv-p1-p2",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Spain's Robin Hood",
+    "text": "From 2006 to 2008, Duran took out 68 commercial and personal loans from 39 banks in Spain. He farmed the money out to social activists, funding speaking tours against capitalism and TV cameras for a media network. \"I saw that, on one side, these social movements were building alternatives but that they lacked resources and communication capacities,\" he said. \"Meanwhile, our economy was perpetually growing, which lead to a system that created money out of nothing.\"\n\nThe loans Duran swindled from banks were his way of regulating and denouncing this situation, he said. He started slowly. \"I filled out a few credit applications with my real details. They denied me, but I just wanted to get a feel for what they were asking for.\" From there, the former table-tennis coach began to weave an intricate web of accounts, payments and transfers. \"I was learning constantly.\" By the summer of 2007, he had discovered how to make the system work, applying for loans under the name of a false television production company. \"Then, I managed to get a lot.\" €492,000, to be exact.",
+    "questions": [
+      {
+        "q": "What was the money Duran took from the banks used for?",
+        "options": [
+          "Aid for unemployed and homeless people",
+          "Funding for pro-capitalism activists and media networks",
+          "Helping social activists have enough money for their basic needs",
+          "Speeches and equipment for campaigns against capitalism"
+        ],
+        "answer": 3,
+        "explanation": "The text says he farmed the money out to social activists, funding speaking tours against capitalism and TV cameras for a media network."
+      },
+      {
+        "q": "What does Duran believe was wrong with Spain's economic system?",
+        "options": [
+          "Spain's economy wasn't growing",
+          "Spain was not able to pay its debts",
+          "Spain has only 39 banks",
+          "Spain was trying to create money from nothing"
+        ],
+        "answer": 3,
+        "explanation": "Duran says the economy kept growing in a system that created money out of nothing, which he saw as the problem."
+      },
+      {
+        "q": "How has Spain's economic situation been changing, according to Duran?",
+        "options": [
+          "The economy was slowed down by funding of social campaigns and media networks",
+          "The economy has been increasingly lacking money",
+          "The country has been gradually recovering from an economic crisis",
+          "The economy has been continually expanding"
+        ],
+        "answer": 3,
+        "explanation": "Duran says our economy was perpetually growing, which means it has been continually expanding."
+      },
+      {
+        "q": "Why did the banks reject Duran's loan applications at first?",
+        "options": [
+          "A few important details were missing from his applications",
+          "The banks thought that he was cheating",
+          "He provided his real information, based on which he wasn't eligible for loans",
+          "The banks suspected he was trying to learn how the banking system operates"
+        ],
+        "answer": 2,
+        "explanation": "Duran says he first filled out applications with his real details and was denied, so his real information made him ineligible."
+      },
+      {
+        "q": "How did Duran obtain a lot of money in 2007?",
+        "options": [
+          "He leveraged the few bank loans he previously took out using his real details",
+          "He requested loans from banks outside of Spain",
+          "He took out extensive loans on behalf of a fake company",
+          "He struck a deal with a television production company"
+        ],
+        "answer": 2,
+        "explanation": "The text says that by summer 2007 he applied for loans under the name of a false television production company and managed to get a lot."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "spain-s-robin-hood-adv-p1-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:spain-s-robin-hood:p1-p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "ra-onestopqa-swarthy-blue-eyed-caveman-revealed-adv-p0-p1",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Swarthy Blue-Eyed Caveman Revealed",
+    "text": "DNA taken from the wisdom tooth of a European hunter-gatherer has given scientists an unprecedented glimpse of modern humans before the rise of farming. The Mesolithic man, who lived in Spain around 7,000 years ago, had an unusual mix of blue eyes, black or brown hair and dark skin, according to analyses of his genetic make-up. He was probably lactose intolerant and had more difficulty digesting starchy foods than the farmers who transformed diets and lifestyles when they took up tools in the first agricultural revolution.\n\nThe invention of farming brought humans and animals into much closer contact and humans likely evolved more robust immune systems to fend off infections that the animals passed on. But scientists may have overestimated the impact farming had in shaping the human immune system, because tests on the hunter-gatherer's DNA found that he already carried mutations that boost the immune system to tackle various nasty bugs. Some live on in modern Europeans today. \"Before we started this work, I had some ideas of what we were going to find,\" said Carles Lalueza-Fox, who led the study at the Institute of Evolutionary Biology in Barcelona. \"Most of those ideas turned out to be completely wrong.\"",
+    "questions": [
+      {
+        "q": "What was unusual about the Mesolithic man?",
+        "options": [
+          "He had blue eyes and dark skin",
+          "He had blond hair and dark skin",
+          "He was a European hunter-gatherer",
+          "He had larger bones than modern man"
+        ],
+        "answer": 0,
+        "explanation": "The text says the Mesolithic man had an unusual mix of blue eyes, black or brown hair and dark skin."
+      },
+      {
+        "q": "Which of these foods would the Mesolithic man find difficult to digest?",
+        "options": [
+          "Foods containing lactose",
+          "Foods from farms",
+          "Foods that are spicy",
+          "Foods lacking sufficient starch"
+        ],
+        "answer": 0,
+        "explanation": "The text says he was probably lactose intolerant, so foods containing lactose would be hard for him to digest."
+      },
+      {
+        "q": "Where did the Mesolithic man live?",
+        "options": [
+          "Spain",
+          "Africa",
+          "Farms in Europe",
+          "Scientists have narrowed it to 7,000 plausible locations"
+        ],
+        "answer": 0,
+        "explanation": "The text says the Mesolithic man lived in Spain around 7,000 years ago."
+      },
+      {
+        "q": "What did the DNA test reveal about human immune systems?",
+        "options": [
+          "Modern Europeans have relatively weak immune systems",
+          "Genes can affect the immune system",
+          "Humans had strong immune systems even before they started farming",
+          "Since the time of the hunter-gatherers, immune systems have been dependent on a healthy diet"
+        ],
+        "answer": 2,
+        "explanation": "Tests found the hunter-gatherer already carried mutations that boost the immune system, so strong immunity existed before farming."
+      },
+      {
+        "q": "What did scientists assume about the hunter-gatherer's immune system before the DNA tests of this study?",
+        "options": [
+          "The invention of farming had a significant impact on its development",
+          "It was very similar to the immune systems of Neanderthals",
+          "Europeans had stronger immune systems than other populations",
+          "Hunter-gatherers had highly developed immune systems"
+        ],
+        "answer": 0,
+        "explanation": "The text says scientists may have overestimated the impact of farming on the immune system, so they assumed farming had a major effect."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "swarthy-blue-eyed-caveman-revealed-adv-p0-p1",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:swarthy-blue-eyed-caveman-revealed:p0-p1",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "ra-onestopqa-the-greek-island-where-time-is-running-out-adv-p0-p1",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "The Greek Island Where Time Is Running Out",
+    "text": "Agios Efstratios is so remote, so forgotten by the banks, the government and most of the modern world that the mobile phone network can't process data and there isn't a single ATM or credit-card machine on the island. Before Greece was plunged into financial chaos, residents of this tranquil outpost in the northern Aegean managed quite well. They did their banking at the post office and the few dozen rooms to rent were booked out every summer with people who had heard - by word of mouth - of its spectacular empty beaches, clear seas and fresh seafood.\n\nBut, because the island still runs on cash, the closure of banks nationwide has been devastating. Residents have been forced to make nine-hour round trips to the nearest big island to get cash and Greek visitors say they can't get together enough cash to come. \"Tourist numbers are down 80% this year,\" said Mayor Maria Kakali, in an office in the village where she grew up, home to around 200 people. \"Even people born here and living in Athens, who have their own places on the island, aren't coming.\"",
+    "questions": [
+      {
+        "q": "What event dramatically reduced the quality of life for residents in Agios Efstratios?",
+        "options": [
+          "A storm in the northern Aegean sea that devastated the island",
+          "The financial crisis that occurred in the country",
+          "The installment of a new government",
+          "The removal of ATM machines from the island"
+        ],
+        "answer": 1,
+        "explanation": "The text says Greece was plunged into financial chaos, which closed banks and hurt this island that runs on cash."
+      },
+      {
+        "q": "What was true about tourism in Agios Efstratios before the recent financial crisis?",
+        "options": [
+          "Tourists overcrowded Agios Efstratios",
+          "A small number of tourists visited Agios Efstratios each summer",
+          "Many tourism agencies gave awards to Agios Efstratios",
+          "Agios Efstratios was so remote that tourists were not able to access it"
+        ],
+        "answer": 1,
+        "explanation": "The text says only a few dozen rooms were available and they were booked out every summer by word of mouth."
+      },
+      {
+        "q": "How has the closure of Greek banks affected the local residents of the island?",
+        "options": [
+          "Some have moved to Athens to earn more money",
+          "They have to make long trips to another island to get money",
+          "They have to go to the biggest Greek island for banking services",
+          "All the bank workers on the island lost their jobs"
+        ],
+        "answer": 1,
+        "explanation": "The text says residents must make nine-hour round trips to the nearest big island to get cash."
+      },
+      {
+        "q": "Why do Greek visitors no longer come to the island?",
+        "options": [
+          "Travel agents no longer recommend it as an attractive destination",
+          "They do not have enough physical money",
+          "It is 9 hours away from the closest island",
+          "They can't afford the trip"
+        ],
+        "answer": 1,
+        "explanation": "The text says Greek visitors can't get together enough cash to come, as the island still runs on cash."
+      },
+      {
+        "q": "Where do island residents have to travel to get cash?",
+        "options": [
+          "To the post office",
+          "To the city of Athens",
+          "To a bank on the same island that can take 9 hours to reach",
+          "To a bigger neighboring island"
+        ],
+        "answer": 3,
+        "explanation": "The text says residents travel to the nearest big island to get cash, which is a bigger neighboring island."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "the-greek-island-where-time-is-running-out-adv-p0-p1",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:the-greek-island-where-time-is-running-out:p0-p1",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "ra-onestopqa-the-greek-island-where-time-is-running-out-int-p4-p5",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "The Greek Island Where Time Is Running Out",
+    "text": "For Agios Efstratios and its closest large neighbor, Lemnos, the timing of the crisis is particularly cruel. They were seen as remote for years partly because you could only reach the islands by slow and unreliable ferries. In 2015, the government had finally given the contract to a new, efficient company and this has brought many new visitors to explore the islands' charms. But, then, the bank controls hit. \"This season started as the best season in 30 years and, in one week, it became the worst,\" said Atzamis Konstantinos, a travel agent in Lemnos.\n\nLemnos has dozens of wild beaches, where you can swim and sunbathe virtually alone, a small nightlife scene and many cultural sites. Lemnos is the eighth largest island in Greece, so it is in line for the first round of tax increases in autumn, 2015 but it is far less wealthy than many smaller islands. It has just over 3,000 beds for visitors, compared with tens of thousands on an island such as Rhodes. \"We have been suffering economically in recent years and now we will suffer more,\" said Lemnos Mayor, Dimitris Marinakis. \"When there is not enough money, you reduce your consumption and the whole economy gets worse.\"",
+    "questions": [
+      {
+        "q": "What improvement made the islands more popular for tourists?",
+        "options": [
+          "The opening of Atzamis Konstantinos' travel agency in Lemnos",
+          "A new marketing campaign by the Greek tourism ministry",
+          "Efficient transportation to the islands",
+          "Ferry cruises around the islands"
+        ],
+        "answer": 2,
+        "explanation": "The text says a new, efficient ferry company got the contract in 2015, which brought many new visitors to the islands."
+      },
+      {
+        "q": "What caused this tourism season to be the worst in 30 years?",
+        "options": [
+          "Slow, unreliable ferries",
+          "Other islands became more popular",
+          "Fewer controls on banks",
+          "Introduction of bank controls"
+        ],
+        "answer": 3,
+        "explanation": "The text says the season was the best in 30 years until the bank controls hit, and then it became the worst."
+      },
+      {
+        "q": "What is among the primary attractions of Lemnos?",
+        "options": [
+          "Highly-regarded restaurants",
+          "A large number of cultural destinations",
+          "Beaches constantly full of locals and tourists",
+          "3,000 luxury hotels"
+        ],
+        "answer": 1,
+        "explanation": "The text lists dozens of wild beaches, a small nightlife scene and many cultural sites, so the cultural sites are a main draw."
+      },
+      {
+        "q": "Why does Lemnos have to pay the first round of tax increases?",
+        "options": [
+          "It is the eighth most visited island in Greece",
+          "It is one of the largest islands in Greece",
+          "It has a large number of cultural sites",
+          "It is one of the richest islands in Greece"
+        ],
+        "answer": 1,
+        "explanation": "The text says Lemnos is the eighth largest island in Greece, so it is in line for the first round of tax increases."
+      },
+      {
+        "q": "How does Lemnos compare in size to other islands in Greece?",
+        "options": [
+          "It is the smallest among the islands that have public beaches",
+          "It is the smallest among the islands that are accessible by public ferries",
+          "There are seven islands larger than it",
+          "It is the largest island"
+        ],
+        "answer": 2,
+        "explanation": "The text says Lemnos is the eighth largest island in Greece, so seven islands are larger than it."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "the-greek-island-where-time-is-running-out-int-p4-p5",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:the-greek-island-where-time-is-running-out:p4-p5",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "ra-onestopqa-vienna-named-world-s-top-city-for-quality-of-life-adv-p1-p2",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Vienna Named World’s Top City for Quality of Life",
+    "text": "Viennese-born Helena Hartlauer, 32, said she was not surprised at her city's top position. The municipality's social democratic government has a long tradition of investing in high-quality social housing, making Vienna almost uniquely affordable among major cities. \"I live in a 100sq-meter turn-of-the-century apartment in a good area about 20 minutes' walk from the city center. But my rent is just €800 (£625) a month.\" An equivalent apartment in London would cost upwards of £2,000 and even more in New York, ranked 44th in the table.\n\nUS cities perform relatively poorly in the study, largely because of issues around personal safety and crime. The highest ranking city in the US is San Francisco, at 28th; Boston is 34th. Canadian cities, led by Vancouver, far outrank their US rivals in the table. \"You don't realize how safe Vienna is until you head abroad,\" said Hartlauer. \"We also have terrific public transport, with the underground working 24 hours at weekends, and it only costs €1 per trip.\"",
+    "questions": [
+      {
+        "q": "Why is Vienna a cheap place to live compared to other cities?",
+        "options": [
+          "Apartments in other cities are closer to the city center",
+          "The government has helped make housing cheap",
+          "A social tradition of sharing apartments among several people",
+          "Vienna is not a bustling economic center"
+        ],
+        "answer": 1,
+        "explanation": "The text says Vienna's government has a long tradition of investing in high-quality social housing, making it almost uniquely affordable."
+      },
+      {
+        "q": "How much rent does Helena Hartlauer pay for her apartment?",
+        "options": [
+          "£2,000",
+          "£625",
+          "She does not pay rent as she owns her apartment",
+          "£100"
+        ],
+        "answer": 1,
+        "explanation": "Hartlauer says her rent is just €800, which the text converts to £625 a month."
+      },
+      {
+        "q": "What is one thing Hartlauer lists as a desirable aspect of her apartment?",
+        "options": [
+          "Its proximity to the center of the city",
+          "The lack of crime in its surroundings",
+          "It is a 20 minute walk from her workplace",
+          "It is owned by Vienna's government"
+        ],
+        "answer": 0,
+        "explanation": "She mentions that her apartment is in a good area about 20 minutes' walk from the city center."
+      },
+      {
+        "q": "What does Hartlauer think about safety in Vienna?",
+        "options": [
+          "She thinks people don't recognize how safe it is",
+          "She thinks people abroad believe it is safe",
+          "She thinks the government should implement better safety policies",
+          "She worries about personal safety and crime there"
+        ],
+        "answer": 0,
+        "explanation": "Hartlauer says you don't realize how safe Vienna is until you head abroad, so people often fail to recognize it."
+      },
+      {
+        "q": "What is one reason why the Viennese public transport system is good, according to Hartlauer?",
+        "options": [
+          "The trains run 24 hours a day, every day",
+          "It is very safe",
+          "The subway is cheap to ride",
+          "The stations are clean and orderly"
+        ],
+        "answer": 2,
+        "explanation": "Hartlauer praises the public transport and says the underground only costs €1 per trip, which makes it cheap."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "vienna-named-world-s-top-city-for-quality-of-life-adv-p1-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:vienna-named-world-s-top-city-for-quality-of-life:p1-p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "ra-onestopqa-wealth-therapy-for-the-rich-int-p0-p1",
+    "type": "readAcademic",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Wealth Therapy for the Rich",
+    "text": "Clay Cockrell is sitting in his office across the street from 1 Central Park West, the address of the Trump International Hotel and Tower. In front of the tower is Central Park, where Cockrell holds his popular walk and talk therapy sessions. Cockrell, a former Wall Street worker who is now a therapist, spends large parts of his days walking through Central Park or the Battery Park in downtown Manhattan near Wall Street, as a confidant and counselor to some of New York's wealthiest people.\n\n\"Many of the extremely wealthy - the 1% of the 1% - feel that their problems are really not problems. But they are,\" he says. So, what issues do America's 1% have? \"There is guilt because they are rich,\" he said. \"There is the feeling that they have to hide the fact that they are rich. And, then, there is the isolation - being in the 1% can be lonely.\" Counselors argue that things have become worse since the financial crisis and the discussion about income inequality brought on by movements like Occupy Wall Street.",
+    "questions": [
+      {
+        "q": "Where does Clay Cockrell hold his popular therapy sessions?",
+        "options": [
+          "At a park near the Trump International Hotel and Tower",
+          "At a golf course",
+          "On Wall Street",
+          "In his office opposite the Trump International Hotel and Tower"
+        ],
+        "answer": 0,
+        "explanation": "The text says Cockrell holds his popular walk and talk sessions in Central Park, which is in front of the Trump International Hotel and Tower."
+      },
+      {
+        "q": "What was Cockrell's occupation before taking on his current job?",
+        "options": [
+          "Wall Street worker",
+          "Manager at the Trump International Hotel and Tower",
+          "Real estate agent",
+          "Therapist"
+        ],
+        "answer": 0,
+        "explanation": "The text calls Cockrell a former Wall Street worker who is now a therapist."
+      },
+      {
+        "q": "What is opposite Cockrell's office?",
+        "options": [
+          "Cockrell's apartment complex",
+          "Central Park",
+          "Wall Street offices",
+          "Trump International Hotel and Tower"
+        ],
+        "answer": 3,
+        "explanation": "The text says his office is across the street from 1 Central Park West, the address of the Trump International Hotel and Tower."
+      },
+      {
+        "q": "Who thinks that the problems of the wealthy are not real?",
+        "options": [
+          "No one",
+          "Occupy Wall Street",
+          "A large number of the extremely wealthy people",
+          "1% of the extremely wealthy people"
+        ],
+        "answer": 2,
+        "explanation": "Cockrell says many of the extremely wealthy feel that their problems are really not problems."
+      },
+      {
+        "q": "What do wealthy people feel guilty about?",
+        "options": [
+          "Creating separation between the rich and the poor",
+          "Not working as hard as poor people",
+          "The need to hide that they are rich",
+          "Their wealth"
+        ],
+        "answer": 3,
+        "explanation": "Cockrell lists guilt because they are rich as the first issue wealthy Americans face."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "wealth-therapy-for-the-rich-int-p0-p1",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:wealth-therapy-for-the-rich:p0-p1",
+    "origin": "adapted",
+    "topics": []
+  }
+]

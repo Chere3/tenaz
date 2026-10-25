@@ -1,0 +1,962 @@
+[
+ {
+  "id": "grammar-b-01",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "We were surprised by the ____ of the new feature.",
+  "options": [
+   "popularize",
+   "popular",
+   "popularity",
+   "popularly"
+  ],
+  "answer": 2,
+  "explanation": "After 'the', we need a noun: popularity.",
+  "pattern": "word-form"
+ },
+ {
+  "id": "grammar-b-02",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "The server ____ by the IT team last night.",
+  "options": [
+   "fixed",
+   "has fix",
+   "is fixing",
+   "was fixed"
+  ],
+  "answer": 3,
+  "explanation": "Past passive: was + past participle.",
+  "pattern": "passive"
+ },
+ {
+  "id": "grammar-b-03",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "Alex has been coding for twelve hours. He ____ be very tired.",
+  "options": [
+   "mustn't",
+   "must",
+   "doesn't have to",
+   "shouldn't"
+  ],
+  "answer": 1,
+  "explanation": "'Must' expresses a strong deduction.",
+  "pattern": "modal"
+ },
+ {
+  "id": "grammar-b-04",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "He told me he ____ the report the day before.",
+  "options": [
+   "finish",
+   "finishes",
+   "had finished",
+   "has finished"
+  ],
+  "answer": 2,
+  "explanation": "Reported past events use the past perfect.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-b-05",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "I need to ____ a decision before Friday.",
+  "options": [
+   "put",
+   "make",
+   "do",
+   "bring"
+  ],
+  "answer": 1,
+  "explanation": "The collocation is 'make a decision'.",
+  "pattern": "collocation"
+ },
+ {
+  "id": "grammar-b-06",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "____, I'm working on a new AI project.",
+  "options": [
+   "Lastly",
+   "Hardly",
+   "Currently",
+   "Eventually"
+  ],
+  "answer": 2,
+  "explanation": "'Actualmente' is 'currently'; 'eventually' means 'in the end'.",
+  "pattern": "false-friend"
+ },
+ {
+  "id": "grammar-b-07",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "I like Minecraft, ____ I don't have much time to play.",
+  "options": [
+   "because",
+   "or",
+   "so",
+   "but"
+  ],
+  "answer": 3,
+  "explanation": "'But' shows contrast.",
+  "pattern": "linker"
+ },
+ {
+  "id": "grammar-b-08",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "____ it was raining, we played outside.",
+  "options": [
+   "Because",
+   "Although",
+   "However",
+   "Despite"
+  ],
+  "answer": 1,
+  "explanation": "'Although' is followed by a full clause and shows contrast.",
+  "pattern": "linker"
+ },
+ {
+  "id": "grammar-b-09",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "She is a very ____ developer.",
+  "options": [
+   "create",
+   "creatively",
+   "creative",
+   "creation"
+  ],
+  "answer": 2,
+  "explanation": "An adjective is needed before the noun 'developer'.",
+  "pattern": "word-form"
+ },
+ {
+  "id": "grammar-b-10",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "Don't forget to ____ a break after two hours of work.",
+  "options": [
+   "make",
+   "put",
+   "do",
+   "take"
+  ],
+  "answer": 3,
+  "explanation": "We 'take a break'.",
+  "pattern": "collocation"
+ },
+ {
+  "id": "grammar-b-11",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "You ____ park here. It's forbidden.",
+  "options": [
+   "might",
+   "mustn't",
+   "don't have to",
+   "needn't"
+  ],
+  "answer": 1,
+  "explanation": "'Mustn't' expresses prohibition.",
+  "pattern": "modal"
+ },
+ {
+  "id": "grammar-b-12",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "English ____ in many countries.",
+  "options": [
+   "spoke",
+   "speaks",
+   "is speaking",
+   "is spoken"
+  ],
+  "answer": 3,
+  "explanation": "Present passive: is + past participle.",
+  "pattern": "passive"
+ },
+ {
+  "id": "grammar-b-13",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "Be ____ and don't deploy on a Friday night.",
+  "options": [
+   "sentimental",
+   "sensational",
+   "sensible",
+   "sensitive"
+  ],
+  "answer": 2,
+  "explanation": "'Sensible' means reasonable; 'sensitive' means easily affected.",
+  "pattern": "false-friend"
+ },
+ {
+  "id": "grammar-b-14",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "The ____ between the two designs is clear.",
+  "options": [
+   "differ",
+   "differently",
+   "difference",
+   "different"
+  ],
+  "answer": 2,
+  "explanation": "After 'The' and before 'between' we need a noun.",
+  "pattern": "word-form"
+ },
+ {
+  "id": "grammar-b-15",
+  "type": "grammarMC",
+  "cefr": "B1",
+  "skill": "grammar",
+  "sentence": "I ____ in this company since 2024.",
+  "options": [
+   "work",
+   "am working",
+   "worked",
+   "have worked"
+  ],
+  "answer": 3,
+  "explanation": "'Since' with an ongoing situation needs the present perfect.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-b-16",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "She asked me ____ the bug myself.",
+  "options": [
+   "whether I had fixed",
+   "whether had I fixed",
+   "did I fix",
+   "that I fixed"
+  ],
+  "answer": 0,
+  "explanation": "Reported yes/no questions use whether/if with normal word order.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-b-17",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The manager told us not ____ the file before Monday.",
+  "options": [
+   "to share",
+   "we share",
+   "sharing",
+   "that share"
+  ],
+  "answer": 0,
+  "explanation": "Tell + object + (not) to + infinitive.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-b-18",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "He admitted ____ the wrong version.",
+  "options": [
+   "deploy",
+   "deploying",
+   "to deploy",
+   "that deploy"
+  ],
+  "answer": 1,
+  "explanation": "Admit is followed by an -ing form.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-b-19",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The new policy ____ by the board next week.",
+  "options": [
+   "is announcing",
+   "will be announced",
+   "would announced",
+   "will announce"
+  ],
+  "answer": 1,
+  "explanation": "Future passive: will be + past participle.",
+  "pattern": "passive"
+ },
+ {
+  "id": "grammar-b-20",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The data ____ twice before it was sent.",
+  "options": [
+   "was checking",
+   "has checked",
+   "had checking",
+   "had been checked"
+  ],
+  "answer": 3,
+  "explanation": "Past perfect passive: had been + past participle.",
+  "pattern": "passive"
+ },
+ {
+  "id": "grammar-b-21",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "I try to avoid ____ in front of the whole team.",
+  "options": [
+   "being criticized",
+   "to be criticized",
+   "criticize",
+   "be criticized"
+  ],
+  "answer": 0,
+  "explanation": "After 'avoid' we use an -ing form, and the passive needs 'being'.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-b-22",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "She is said ____ the best engineer in the company.",
+  "options": [
+   "being",
+   "to be",
+   "be",
+   "that is"
+  ],
+  "answer": 1,
+  "explanation": "Passive reporting structure: is said + to-infinitive.",
+  "pattern": "passive"
+ },
+ {
+  "id": "grammar-b-23",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The build failed, so someone ____ the config yesterday.",
+  "options": [
+   "should changed",
+   "must change",
+   "can have changed",
+   "must have changed"
+  ],
+  "answer": 3,
+  "explanation": "'Must have' + past participle is a deduction about the past.",
+  "pattern": "modal"
+ },
+ {
+  "id": "grammar-b-24",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "He hasn't answered, but he ____ the email yet.",
+  "options": [
+   "must not be read",
+   "might not have read",
+   "should not read",
+   "might not reading"
+  ],
+  "answer": 1,
+  "explanation": "'Might not have' + past participle expresses possibility about the past.",
+  "pattern": "modal"
+ },
+ {
+  "id": "grammar-b-25",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "They've been in the office since 7 a.m. They ____ be exhausted.",
+  "options": [
+   "ought",
+   "must",
+   "have",
+   "shall"
+  ],
+  "answer": 1,
+  "explanation": "'Must' expresses a logical conclusion.",
+  "pattern": "modal"
+ },
+ {
+  "id": "grammar-b-26",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The startup managed to ____ a huge profit in its first year.",
+  "options": [
+   "win",
+   "do",
+   "take",
+   "make"
+  ],
+  "answer": 3,
+  "explanation": "The collocation is 'make a profit'.",
+  "pattern": "collocation"
+ },
+ {
+  "id": "grammar-b-27",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The new law will ____ effect next month.",
+  "options": [
+   "take",
+   "make",
+   "run",
+   "bring"
+  ],
+  "answer": 0,
+  "explanation": "We say a law 'takes effect'.",
+  "pattern": "collocation"
+ },
+ {
+  "id": "grammar-b-28",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "She has a ____ interest in neuroscience.",
+  "options": [
+   "keen",
+   "quick",
+   "tall",
+   "thick"
+  ],
+  "answer": 0,
+  "explanation": "'Keen interest' is a fixed collocation.",
+  "pattern": "collocation"
+ },
+ {
+  "id": "grammar-b-29",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The company went ____ after losing its main client.",
+  "options": [
+   "bankruptcy",
+   "broken",
+   "banker",
+   "bankrupt"
+  ],
+  "answer": 3,
+  "explanation": "'Go bankrupt' is the standard collocation.",
+  "pattern": "collocation"
+ },
+ {
+  "id": "grammar-b-30",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "Over 200 people ____ the webinar.",
+  "options": [
+   "assisted",
+   "attended",
+   "realized",
+   "visited"
+  ],
+  "answer": 1,
+  "explanation": "'Asistir a' is 'attend'; 'assist' means 'help'.",
+  "pattern": "false-friend"
+ },
+ {
+  "id": "grammar-b-31",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "We tried several fixes, and after three hours we ____ solved the problem.",
+  "options": [
+   "occasionally",
+   "possibly",
+   "hardly",
+   "eventually"
+  ],
+  "answer": 3,
+  "explanation": "'Eventually' means 'finally, in the end'; Spanish 'eventualmente' means 'occasionally'.",
+  "pattern": "false-friend"
+ },
+ {
+  "id": "grammar-b-32",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "My boss gave me good ____ on how to prepare.",
+  "options": [
+   "advice",
+   "adviser",
+   "advices",
+   "advise"
+  ],
+  "answer": 0,
+  "explanation": "'Advice' is an uncountable noun.",
+  "pattern": "word-form"
+ },
+ {
+  "id": "grammar-b-33",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "____ the budget cuts, the project was completed on time.",
+  "options": [
+   "Even",
+   "Although",
+   "Despite",
+   "However"
+  ],
+  "answer": 2,
+  "explanation": "'Despite' is followed by a noun phrase.",
+  "pattern": "linker"
+ },
+ {
+  "id": "grammar-b-34",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The app is fast; ____, it uses very little battery.",
+  "options": [
+   "otherwise",
+   "whereas",
+   "moreover",
+   "unless"
+  ],
+  "answer": 2,
+  "explanation": "'Moreover' adds another point.",
+  "pattern": "linker"
+ },
+ {
+  "id": "grammar-b-35",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "You should back up your files; ____, you could lose everything.",
+  "options": [
+   "moreover",
+   "although",
+   "otherwise",
+   "instead"
+  ],
+  "answer": 2,
+  "explanation": "'Otherwise' means 'if you don't'.",
+  "pattern": "linker"
+ },
+ {
+  "id": "grammar-b-36",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "Some students prefer online classes, ____ others like face-to-face.",
+  "options": [
+   "despite",
+   "unless",
+   "whereas",
+   "therefore"
+  ],
+  "answer": 2,
+  "explanation": "'Whereas' contrasts two groups.",
+  "pattern": "linker"
+ },
+ {
+  "id": "grammar-b-37",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "He left early ____ he could catch the last train.",
+  "options": [
+   "so that",
+   "owing to",
+   "in spite of",
+   "even though"
+  ],
+  "answer": 0,
+  "explanation": "'So that' expresses purpose.",
+  "pattern": "linker"
+ },
+ {
+  "id": "grammar-b-38",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The ____ of the system took three months.",
+  "options": [
+   "implementable",
+   "implement",
+   "implementally",
+   "implementation"
+  ],
+  "answer": 3,
+  "explanation": "After 'The' we need a noun: implementation.",
+  "pattern": "word-form"
+ },
+ {
+  "id": "grammar-b-39",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "The results were ____ because the sample was too small.",
+  "options": [
+   "unreliable",
+   "disreliable",
+   "irreliable",
+   "nonreliable"
+  ],
+  "answer": 0,
+  "explanation": "The negative form of 'reliable' is 'unreliable'.",
+  "pattern": "word-form"
+ },
+ {
+  "id": "grammar-b-40",
+  "type": "grammarMC",
+  "cefr": "B2",
+  "skill": "grammar",
+  "sentence": "Her presentation was ____; everyone stayed engaged.",
+  "options": [
+   "impressive",
+   "impression",
+   "impressively",
+   "impressed"
+  ],
+  "answer": 0,
+  "explanation": "An adjective is needed after 'was'; 'impressive' describes the thing.",
+  "pattern": "word-form"
+ },
+ {
+  "id": "grammar-b-41",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "Not only ____ the deadline, but they also exceeded the budget.",
+  "options": [
+   "did they miss",
+   "they did miss",
+   "they missed",
+   "missed they"
+  ],
+  "answer": 0,
+  "explanation": "After 'Not only' at the start we invert: did + subject + base verb.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-b-42",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "Hardly ____ the meeting begun when the call dropped.",
+  "options": [
+   "was",
+   "did",
+   "had",
+   "has"
+  ],
+  "answer": 2,
+  "explanation": "'Hardly had' + subject + past participle, followed by 'when'.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-b-43",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "Under no circumstances ____ your password.",
+  "options": [
+   "you do share",
+   "do you should share",
+   "should you share",
+   "you should share"
+  ],
+  "answer": 2,
+  "explanation": "Negative adverbials trigger inversion.",
+  "pattern": "modal"
+ },
+ {
+  "id": "grammar-b-44",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "Rarely ____ such an elegant solution to a hard problem.",
+  "options": [
+   "I saw",
+   "did I saw",
+   "have I seen",
+   "I have seen"
+  ],
+  "answer": 2,
+  "explanation": "'Rarely' at the start requires inversion.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-b-45",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "Only after the audit ____ the flaw.",
+  "options": [
+   "did they discover",
+   "they did discover",
+   "discovered they",
+   "they discovered"
+  ],
+  "answer": 0,
+  "explanation": "'Only after' at the start triggers inversion with an auxiliary.",
+  "pattern": "tense"
+ },
+ {
+  "id": "grammar-b-46",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "If I had taken the job in Berlin, I ____ in Madrid now.",
+  "options": [
+   "won't live",
+   "wouldn't have lived",
+   "didn't live",
+   "wouldn't be living"
+  ],
+  "answer": 3,
+  "explanation": "Mixed conditional: past condition, present result.",
+  "pattern": "conditional"
+ },
+ {
+  "id": "grammar-b-47",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "If she weren't so careful, she ____ that critical bug last week.",
+  "options": [
+   "would have missed",
+   "would miss",
+   "will have missed",
+   "had missed"
+  ],
+  "answer": 0,
+  "explanation": "Mixed conditional: present trait, past result.",
+  "pattern": "conditional"
+ },
+ {
+  "id": "grammar-b-48",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "Had I known about the outage, I ____ the client earlier.",
+  "options": [
+   "called",
+   "would have called",
+   "would call",
+   "will call"
+  ],
+  "answer": 1,
+  "explanation": "Inverted third conditional: would have + past participle.",
+  "pattern": "conditional"
+ },
+ {
+  "id": "grammar-b-49",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "If we hadn't migrated to the cloud, we ____ struggling with these servers today.",
+  "options": [
+   "would still be",
+   "will still be",
+   "would have still been",
+   "had still been"
+  ],
+  "answer": 0,
+  "explanation": "Mixed conditional: past condition, present result.",
+  "pattern": "conditional"
+ },
+ {
+  "id": "grammar-b-50",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "I'd be much more fluent now if I ____ English seriously at school.",
+  "options": [
+   "had studied",
+   "would study",
+   "studied",
+   "were studying"
+  ],
+  "answer": 0,
+  "explanation": "Past unreal condition uses the past perfect.",
+  "pattern": "conditional"
+ },
+ {
+  "id": "grammar-b-51",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "The study provides ____ evidence that sleep affects memory.",
+  "options": [
+   "tall",
+   "rigid",
+   "harsh",
+   "compelling"
+  ],
+  "answer": 3,
+  "explanation": "'Compelling evidence' is a strong collocation.",
+  "pattern": "collocation"
+ },
+ {
+  "id": "grammar-b-52",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "The CEO is under mounting ____ to resign.",
+  "options": [
+   "force",
+   "tension",
+   "weight",
+   "pressure"
+  ],
+  "answer": 3,
+  "explanation": "'Under pressure' is the collocation.",
+  "pattern": "collocation"
+ },
+ {
+  "id": "grammar-b-53",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "The prototype performed well; ____, it still needs extensive testing.",
+  "options": [
+   "owing to",
+   "that said",
+   "provided that",
+   "consequently"
+  ],
+  "answer": 1,
+  "explanation": "'That said' introduces a contrast.",
+  "pattern": "linker"
+ },
+ {
+  "id": "grammar-b-54",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "We will approve the budget ____ the team delivers a working prototype.",
+  "options": [
+   "in case of",
+   "as though",
+   "even though",
+   "provided that"
+  ],
+  "answer": 3,
+  "explanation": "'Provided that' introduces a condition.",
+  "pattern": "linker"
+ },
+ {
+  "id": "grammar-b-55",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "The server is thought ____ by an unknown attacker last week.",
+  "options": [
+   "to be compromised",
+   "to have compromised",
+   "being compromised",
+   "to have been compromised"
+  ],
+  "answer": 3,
+  "explanation": "Past event: to have been + past participle.",
+  "pattern": "passive"
+ },
+ {
+  "id": "grammar-b-56",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "You ____ told me about the delay! I could have rescheduled.",
+  "options": [
+   "must have",
+   "can have",
+   "should",
+   "should have"
+  ],
+  "answer": 3,
+  "explanation": "'Should have' expresses criticism about the past.",
+  "pattern": "modal"
+ },
+ {
+  "id": "grammar-b-57",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "The company's growth rate is ____ in the long run.",
+  "options": [
+   "insustainable",
+   "unsustained",
+   "nonsustainable",
+   "unsustainable"
+  ],
+  "answer": 3,
+  "explanation": "'Unsustainable' is the adjective.",
+  "pattern": "word-form"
+ },
+ {
+  "id": "grammar-b-58",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "He was criticized for his ____ response to the crisis.",
+  "options": [
+   "inadequate",
+   "nonadequate",
+   "disadequate",
+   "unadequate"
+  ],
+  "answer": 0,
+  "explanation": "The negative of 'adequate' is 'inadequate'.",
+  "pattern": "word-form"
+ },
+ {
+  "id": "grammar-b-59",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "He suggested ____ the launch until next quarter.",
+  "options": [
+   "postponing",
+   "to postpone",
+   "that postponing",
+   "us to postpone"
+  ],
+  "answer": 0,
+  "explanation": "Suggest is followed by an -ing form.",
+  "pattern": "verb-pattern"
+ },
+ {
+  "id": "grammar-b-60",
+  "type": "grammarMC",
+  "cefr": "C1",
+  "skill": "grammar",
+  "sentence": "She ____ to finish the report by Friday, but she ran out of time.",
+  "options": [
+   "pretended",
+   "attended",
+   "intended",
+   "pretexted"
+  ],
+  "answer": 2,
+  "explanation": "Spanish 'pretender' means 'intend'; English 'pretend' means 'fingir'.",
+  "pattern": "false-friend"
+ }
+]

@@ -1,0 +1,4029 @@
+[
+  {
+    "id": "rd-cosmos-train-02a778ac",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Buying a Fireplace Online",
+    "text": "Just remember that you'll usually have to pay shipping charges, which could impact the final cost of your purchase considerably. But if you really love it and it's something that you know you'll enjoy for a long time, the extra fees might be worth it. As a final caution, it's important for all people and pets in the household to understand that they must stay away from the fireplace while it's burning and even for a period of time afterwards. This is because the ashes are still hot enough to cause some serious burns.",
+    "questions": [
+      {
+        "q": "What may be the reason for the post?",
+        "options": [
+          "To give user reviews",
+          "To give shopping advice",
+          "To describe my day",
+          "To ask for tech support"
+        ],
+        "answer": 1,
+        "explanation": "The writer warns about shipping charges that can raise the final cost, which is advice for someone deciding on a purchase."
+      },
+      {
+        "q": "Why does the writer say everyone must keep away from the burning fireplace?",
+        "options": [
+          "The smoke can damage furniture and other items in the room.",
+          "The ashes stay hot enough to cause serious burns even afterwards.",
+          "The fireplace may be too heavy to move once it is lit.",
+          "Pets are likely to knock it over while it is burning."
+        ],
+        "answer": 1,
+        "explanation": "The text says the ashes are still hot enough to cause some serious burns."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-02a778ac",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:67363334",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-03e4a7cc",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Ruby's Ear Infection Treatment",
+    "text": "Ruby has a bad ear infection in one ear, and one brewing in the other ear. The vet thought it was from taking her swimming last weekend. So, I have to clean her ears and put in ear medication twice a day for 10 days. It should be interesting doing it by myself because she was not a compliant patient at the vet's office with me and the assistant doing it.",
+    "questions": [
+      {
+        "q": "Why does Ruby have an ear infection?",
+        "options": [
+          "She was given medication.",
+          "Water may have gotten in her ear.",
+          "The assistant helped her.",
+          "She went to the vet."
+        ],
+        "answer": 1,
+        "explanation": "The vet linked the infection to swimming last weekend, so water probably got into her ears."
+      },
+      {
+        "q": "What might happen once Ruby's ear treatment at home begins?",
+        "options": [
+          "Ruby might sit still and welcome the treatment.",
+          "Ruby might sit still and fidget a lot to get the treatment.",
+          "Ruby might not sit still and fidget a lot to avoid the treatment.",
+          "Ruby might not sit still but welcome the treatment."
+        ],
+        "answer": 2,
+        "explanation": "Ruby was not a compliant patient at the vet's office, so she will likely resist treatment at home."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-03e4a7cc",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:2033cddd",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-070d481d",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Learning Through Affiliate Marketing",
+    "text": "After this, I began to join more affiliate programs, and test more offers. I currently have around 15 campaigns running, and now it seems it's only a matter of testing around until you find something that works. You will lose money though, as risk is part of the game.",
+    "questions": [
+      {
+        "q": "What may be the reason for losing money?",
+        "options": [
+          "Spending too much money.",
+          "Campaigning for something that is worth it.",
+          "Making mistakes and taking chances.",
+          "Buying support from other people."
+        ],
+        "answer": 2,
+        "explanation": "The writer says risk is part of the game while testing offers, so losses come from mistakes and taking chances."
+      },
+      {
+        "q": "What approach does the writer describe for finding a profitable offer?",
+        "options": [
+          "Testing many offers until one of them works.",
+          "Copying the campaigns of other experienced affiliates.",
+          "Waiting for a program to guarantee a fixed income.",
+          "Running a single campaign for as long as possible."
+        ],
+        "answer": 0,
+        "explanation": "The writer has about 15 campaigns running and says it is a matter of testing until something works."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-070d481d",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:72b46a71",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-0e40f515",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "A Bus Breakdown",
+    "text": "Ten minutes after we left the station the bus broke down. My roommate had told me that would probably happen. A 45 minute delay followed before another bus showed up to transfer us. The new bus was in worse shape and made terrible grinding noises like the gears were shot every time the driver shifted.",
+    "questions": [
+      {
+        "q": "Why did their roommates warn them about the bus beforehand?",
+        "options": [
+          "The bus was notorious for breaking down.",
+          "The bus is notorious for being delayed.",
+          "The bus was known to be late.",
+          "They wanted them to catch their bus on time."
+        ],
+        "answer": 0,
+        "explanation": "The roommate had said the breakdown would probably happen, which suggests the bus was known for breaking down."
+      },
+      {
+        "q": "What does the grinding noise suggest about the second bus?",
+        "options": [
+          "It was in worse condition than the first one.",
+          "It was newer and had just been repaired.",
+          "It was much faster than the first one.",
+          "It was carrying too few passengers."
+        ],
+        "answer": 0,
+        "explanation": "The text says the new bus was in worse shape and made terrible grinding noises."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-0e40f515",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:96f8762a",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-0fa779ca",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "A Long Trip Home",
+    "text": "To finish the story- we get to a taxi by 3 am and off we go to the bus station. We got a little tour of NYC and went through time square which was crazy busy for 3:30am. We get our tickets and wait until 5 am to take the bus home. Finally we got home at 3:30pm.",
+    "questions": [
+      {
+        "q": "Why is the narrator so tired when they got home?",
+        "options": [
+          "They were on a bus for awhile.",
+          "They were in a taxi for a long time.",
+          "They were on a long taxi ride.",
+          "They were on a long subway ride."
+        ],
+        "answer": 0,
+        "explanation": "They waited for a 5 am bus and reached home only at 3:30 pm, so the long bus journey made them tired."
+      },
+      {
+        "q": "Why did the group take a taxi at 3 am?",
+        "options": [
+          "To get to the bus station.",
+          "To tour the city before leaving.",
+          "To reach their hotel after the trip.",
+          "To meet friends who lived in the city."
+        ],
+        "answer": 0,
+        "explanation": "The text says they got to a taxi by 3 am and went off to the bus station."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-0fa779ca",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:501cdbf0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-10d1e8c9",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Soaked in Summer Rain",
+    "text": "Off and on, off and on. Eventually we gave up trying to share my small polka dotted umbrella between the four of us and embraced the rain, since we were already soaked anyhow. It was still steaming hot enough for the girls to want an icee. Marcus tried to sweet talk Caitlin into giving him a bite of the cold icee but she was having too much fun teasing him.",
+    "questions": [
+      {
+        "q": "What may be a fact about this group's situation?",
+        "options": [
+          "They had gotten stuck in the rain.",
+          "They are all related to one another.",
+          "They needed to cool themselves down.",
+          "They wanted to go dry off their clothes."
+        ],
+        "answer": 0,
+        "explanation": "The group gave up sharing one umbrella and 'embraced the rain', so they were caught outside in it."
+      },
+      {
+        "q": "What may be the reason that they all got soaked?",
+        "options": [
+          "They wanted to take a walk in the rain.",
+          "The weather did not forecast any rain.",
+          "The umbrella they had was too small for the rain.",
+          "The rain jackets they had were too thin."
+        ],
+        "answer": 2,
+        "explanation": "Four people tried to share one 'small' umbrella and were still soaked, so it was too small."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-10d1e8c9",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:49e44465",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-16fdcac8",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Dollar Coins at the Parking Garage",
+    "text": "At the parking structure Viv got a lot of the new dollar coins after paying for parking. They're very shiny! We kept M company while she paid and then we off to the vehicles. I was riding with Viv and we were going to pick up Joe at Vienna Metro.",
+    "questions": [
+      {
+        "q": "What may be the reason for her getting dollar coins back?",
+        "options": [
+          "Because she over paid in cash.",
+          "Because she was able to get cashback from her account.",
+          "Because she specifically asked for them.",
+          "Because she paid with her credit card."
+        ],
+        "answer": 0,
+        "explanation": "Viv received many dollar coins right after paying for parking, which suggests she overpaid in cash and got change."
+      },
+      {
+        "q": "Where were they going to pick up Joe?",
+        "options": [
+          "At the Vienna Metro station.",
+          "At the parking structure downtown.",
+          "At the hotel where M was staying.",
+          "At the airport terminal."
+        ],
+        "answer": 0,
+        "explanation": "The text says they were going to pick up Joe at Vienna Metro."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-16fdcac8",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:868b8ad7",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-1bc4d924",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "A Disappointing DJ Set",
+    "text": "Sadly he is no where the DJ he is producer and his set was full of mediocre mixes and rather poorly programmed electro and tech house. That said, I danced to most of his set and enjoyed it, but compared to JDS and Rennie, mang it d be hard for anyone to step up. Was cool to see him though.",
+    "questions": [
+      {
+        "q": "What may be true about him as a DJ?",
+        "options": [
+          "His music is average.",
+          "His music was better than JDS's set.",
+          "He stopped making mixes.",
+          "His music isn't even average."
+        ],
+        "answer": 0,
+        "explanation": "The writer calls his set full of mediocre mixes and poorly programmed electro, so his music was average."
+      },
+      {
+        "q": "How did the writer feel about the set overall?",
+        "options": [
+          "They left early because the mixes were so poor.",
+          "They thought it was better than the other sets.",
+          "They enjoyed dancing to it despite its flaws.",
+          "They were bored and stayed only to see him."
+        ],
+        "answer": 2,
+        "explanation": "The writer says they danced to most of his set and enjoyed it."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-1bc4d924",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:ad47c5d0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-1c87e239",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Chocolate Dessert on Holiday",
+    "text": "Dessert was a must, even after 1 full size and 4 mini cupcakes that day. I must not have satisfied my chocolate fix yet, because I ordered the chocolate almond midnight. We got it to go and headed back to our hotel room. Most of it was actually eaten the next morning for breakfast!",
+    "questions": [
+      {
+        "q": "What type of dessert does the narrator seem to like?",
+        "options": [
+          "They like dessert in their hotel room.",
+          "They like vanilla dessert.",
+          "They like breakfast dessert.",
+          "They like chocolate."
+        ],
+        "answer": 3,
+        "explanation": "The writer ordered a chocolate dessert because they had not yet satisfied their chocolate fix."
+      },
+      {
+        "q": "When did the writer finish most of the dessert?",
+        "options": [
+          "Right away at the restaurant.",
+          "The next morning, at breakfast.",
+          "Later that night in the hotel room.",
+          "Before the cupcakes the same day."
+        ],
+        "answer": 1,
+        "explanation": "The text says most of it was eaten the next morning for breakfast."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-1c87e239",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:1ef817c1",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-1dc63995",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "A Missed Bike Group Ride",
+    "text": "I hung out until about 7:20 and then decided if I'd not seen any of the team, no cars with bike racks, then the joke was on me and I'm missing a memo from someone. I turned around and headed back home. There's one nice uphill section that you hit on the way back.",
+    "questions": [
+      {
+        "q": "What may be the reason why no one showed up?",
+        "options": [
+          "There was an emergency and they couldn't make it.",
+          "They don't like her.",
+          "They decided to meet somewhere else.",
+          "They rescheduled and no one told them."
+        ],
+        "answer": 3,
+        "explanation": "The writer waited until 7:20 and, seeing no team, suspected a missed memo, which suggests a plan changed unannounced."
+      },
+      {
+        "q": "What did the writer do after waiting until about 7:20?",
+        "options": [
+          "Went back home.",
+          "Rode on alone along the route.",
+          "Called a teammate to ask about the plan.",
+          "Stayed to wait for the next group."
+        ],
+        "answer": 0,
+        "explanation": "The writer turned around and headed back home."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-1dc63995",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:f704dad1",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-20aad1db",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Guilt over a broken promise",
+    "text": "As I listened to Ernie's story I found myself feeling some guilt. I've promised to take someone hunting a time or two where I let something interfere with it. I guess I didn't think about how big an impact it could end up having on that person's life.",
+    "questions": [
+      {
+        "q": "Why does the narrator have guilt about Ernie?",
+        "options": [
+          "They never stopped the bullying on Ernie.",
+          "They never let him come to the narrator's home.",
+          "They never took him hunting.",
+          "They never stopped the interference on Ernie."
+        ],
+        "answer": 2,
+        "explanation": "The narrator says they promised to take someone hunting but let something interfere with it."
+      },
+      {
+        "q": "What does the narrator realize about broken promises?",
+        "options": [
+          "They can seriously affect another person's life.",
+          "They are easy for people to forget.",
+          "They usually strengthen a friendship.",
+          "They rarely matter to anyone involved."
+        ],
+        "answer": 0,
+        "explanation": "The narrator feels guilty because they promised to take someone hunting but let something interfere."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-20aad1db",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:8e709a91",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-269fcc53",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "A week off for projects",
+    "text": "I took a week off from (paying) work last week and spent the time at home catching up on various projects that had accumulated on my to do list. I built a wood shed. I cleaned up the tool shed by the barn and built a bin to hold shavings for the horse stalls. I cleared out some fallen trees that were blocking the creek.",
+    "questions": [
+      {
+        "q": "Why would the narrator take a week off work?",
+        "options": [
+          "They needed a week away from home.",
+          "They needed a week away from family.",
+          "They needed to get caught up.",
+          "They were going on a vacation."
+        ],
+        "answer": 2,
+        "explanation": "The narrator spent the week at home catching up on projects that had piled up on a to-do list."
+      },
+      {
+        "q": "Which job did the narrator complete during the week?",
+        "options": [
+          "Repainting the main house.",
+          "Replacing the barn roof.",
+          "Building a wood shed.",
+          "Planting a new vegetable garden."
+        ],
+        "answer": 2,
+        "explanation": "The narrator spent the week at home catching up on projects that had piled up on a to-do list."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-269fcc53",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:38a6fc64",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-2ba1da40",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Thankful for scenic exercise",
+    "text": "I am sure somehow that they did not need to walk this loop in order to give their bodies much needed exercise. I am sure their life was full of exertions that filled the need to burn a few calories. My heart is full of thanksgiving that I am allowed to spend my exercise time enjoying such beautiful scenery all around me. I am indeed even thankful for the big hill that seems to never end.",
+    "questions": [
+      {
+        "q": "What may be true about the narrator?",
+        "options": [
+          "They do not feel like exercising",
+          "They do not enjoy exercising outside",
+          "They do not feel grateful for nature",
+          "That they feel they need to exercise"
+        ],
+        "answer": 3,
+        "explanation": "The narrator is thankful to spend 'exercise time' outdoors, which shows they feel they need to exercise."
+      },
+      {
+        "q": "How does the narrator feel about the big hill?",
+        "options": [
+          "Annoyed that it is so steep.",
+          "Worried about slipping on it.",
+          "Eager to avoid it next time.",
+          "Thankful for it despite the effort."
+        ],
+        "answer": 3,
+        "explanation": "The narrator calls the exercise time a blessing and thanks the surroundings, implying they do need to exercise."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-2ba1da40",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:7529d10c",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-2ed7c068",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Ignored by eBay management",
+    "text": "As you probably guessed, we did not receive any response to our requests. So, for 2 years ebay & Beyond: Basics to Business was shut out of any opportunity to interview ebay management. Now, I really did not like being shunned the first year, and was more than a little miffed when we did not even receive a No Opportunity Available response.",
+    "questions": [
+      {
+        "q": "What may be the reason they are disappointed?",
+        "options": [
+          "Because they didn't get the job.",
+          "Because they were hoping their friend would get the job.",
+          "Because they thought they would at least get a response.",
+          "Because they didn't want the job."
+        ],
+        "answer": 2,
+        "explanation": "The narrator was 'miffed' that they did not even receive a 'No Opportunity Available' reply."
+      },
+      {
+        "q": "In the text, what does 'shut out' mean?",
+        "options": [
+          "Invited to a private meeting.",
+          "Denied any chance to interview.",
+          "Asked to pay for an interview.",
+          "Offered a different opportunity."
+        ],
+        "answer": 1,
+        "explanation": "The narrator was upset because they did not even get a 'No Opportunity Available' reply, so they had expected at least an answer."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-2ed7c068",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:39e3a7c8",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-3d6aecd1",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Matching donations for classrooms",
+    "text": "However, you folks only need to come up with half of that. Florida Citizens for Science will match every dollar donated up to $600! So, if you folks contribute $600, then FCS will match it with another $600 for a total of $1,200: our goal! If you folks go over that amount, then great; we'll fund yet more classroom requests.",
+    "questions": [
+      {
+        "q": "What is to happen if the narrator donates $500 to FCS?",
+        "options": [
+          "FCS will ultimately have five hundred dollars.",
+          "FCS will have fifteen hundred dollars.",
+          "FCS will ultimately have $500.",
+          "FCS will ultimately have a thousand."
+        ],
+        "answer": 3,
+        "explanation": "FCS matches every dollar up to $600, so a $500 donation is matched with another $500 for a thousand."
+      },
+      {
+        "q": "What is the fundraising goal?",
+        "options": [
+          "$1,200.",
+          "$600.",
+          "$2,400.",
+          "$500."
+        ],
+        "answer": 0,
+        "explanation": "FCS matches every dollar up to $600, so a $500 donation becomes $1,000."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-3d6aecd1",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:f2509b84",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-3f53c90e",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "A song that transports",
+    "text": "The first time I heard it, I was stuck on a miserable car trip from a remote factory to downtown Shanghai. So when this soaring ballad came on the radio, it transported me away from my problems. Every time I listen to it, I get a little teary. It just encapsulates everything I imagine about Asia, the epic landscapes, tragic loves and sheer beauty of the people.",
+    "questions": [
+      {
+        "q": "What seemed to motivate the narrator and take them to another place?",
+        "options": [
+          "A piece of TV that moved him.",
+          "The buildings in Shangai.",
+          "The sights of Shanghai.",
+          "A piece of music."
+        ],
+        "answer": 3,
+        "explanation": "A 'soaring ballad' on the radio 'transported me away from my problems'."
+      },
+      {
+        "q": "How does the narrator react when listening to the song now?",
+        "options": [
+          "They fall asleep.",
+          "They get a little teary.",
+          "They turn the volume down.",
+          "They change the station."
+        ],
+        "answer": 1,
+        "explanation": "The narrator says the soaring ballad on the radio transported them away from their problems during a miserable car trip."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-3f53c90e",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:960186f7",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-40eb71ef",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B1+",
+    "title": "Tornado Warning in Chicago",
+    "text": "Wow. What a night. There were some really bad storms in IL and Indiana last night. It's bad when there's a tornado warning for the city of Chicago, including downtown and the north side b / c that's so rare.",
+    "questions": [
+      {
+        "q": "Where did the tornado warning hit?",
+        "options": [
+          "It hit in Indianapolis, Indiana.",
+          "It was in Indiana.",
+          "It hit in Chicago.",
+          "It hit in all of Illinois."
+        ],
+        "answer": 2,
+        "explanation": "The writer says there was a tornado warning for the city of Chicago, including downtown and the north side."
+      },
+      {
+        "q": "Why does the writer call the Chicago warning unusual?",
+        "options": [
+          "Tornado warnings for the city are described as very rare.",
+          "The storms had never reached Indiana before.",
+          "The warning covered only the north side.",
+          "Last night was the first storm of the year."
+        ],
+        "answer": 0,
+        "explanation": "The writer says a tornado warning for Chicago is bad because it is so rare."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-40eb71ef",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:0d74378f",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-4602e6ce",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Matilda Jane Clothing Shows",
+    "text": "Just in time for fall photos and early holiday shopping, Matilda Jane Clothing (MJC) offers an eclectic look that you can't find anywhere else. It allows self expression with its mix and match appeal. MJC will add flare to any wardrobe. MJC is exclusive and only available through these types of shows, not available for online ordering or in stores!",
+    "questions": [
+      {
+        "q": "Where can one purchase MJC?",
+        "options": [
+          "You can purchase MJC for early holiday shopping.",
+          "You can purchase it and add it to your flare and wardrobes.",
+          "ONLY through their shows, not available in stores or online.",
+          "You cannot order it, as you cannot find it anywhere else."
+        ],
+        "answer": 2,
+        "explanation": "The text says the clothing is exclusive and only available through shows, not online or in stores."
+      },
+      {
+        "q": "What is the main purpose of this text?",
+        "options": [
+          "To promote clothing that is sold only through shows.",
+          "To explain how to order clothing online.",
+          "To compare two clothing brands.",
+          "To announce a new clothing store opening."
+        ],
+        "answer": 0,
+        "explanation": "The text praises the brand's look and stresses it is exclusive to shows."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-4602e6ce",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:68682364",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-47153560",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "A Friend's Anonymous Phone Call",
+    "text": "My friend was so irritated when I spoke to her this afternoon. She got an anonymous call from a prank caller. She doesn't know what the problem of the caller is and why the caller is saying such bad things about her. My friend was really so upset and she is really bothered on the identity of the caller.",
+    "questions": [
+      {
+        "q": "What may have happened during the prank call of my friend?",
+        "options": [
+          "She was happy after the call.",
+          "She got really upset and was called bad names.",
+          "She was going to go out with the caller.",
+          "The caller invited her for a drink."
+        ],
+        "answer": 1,
+        "explanation": "The friend got a call from an anonymous prank caller who said bad things about her, which left her upset."
+      },
+      {
+        "q": "What bothers the friend most after the call?",
+        "options": [
+          "She does not know who the caller was.",
+          "She missed an important meeting.",
+          "She was charged for the call.",
+          "She could not hear the caller clearly."
+        ],
+        "answer": 0,
+        "explanation": "The text says she is really bothered about the identity of the caller."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-47153560",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:06d6eac5",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-4d4eef4c",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Why People Love Stories",
+    "text": "Everybody loves a story. A story can capture our imagination, and transport us beyond the realms of our daily lives. A story can move us and put us in touch with our deepest feelings. And a story can teach us, by allowing us to walk a mile in another person's shoes and understand their point of view.",
+    "questions": [
+      {
+        "q": "What may be the reason for people loving stories?",
+        "options": [
+          "They don't like television.",
+          "It's an escape from reality.",
+          "It's a challenge to read a book.",
+          "They don't like adventure."
+        ],
+        "answer": 1,
+        "explanation": "The text says stories transport us beyond the realms of our daily lives, which is a form of escape."
+      },
+      {
+        "q": "According to the text, how can a story teach us?",
+        "options": [
+          "By letting us understand another person's point of view.",
+          "By giving us a list of rules to follow.",
+          "By testing our memory of facts.",
+          "By showing us how to win arguments."
+        ],
+        "answer": 0,
+        "explanation": "The text says a story lets us walk a mile in another person's shoes."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-4d4eef4c",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:12589179",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-4db442d4",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Finding a Photo Exhibition in Dublin",
+    "text": "On Saturday we ventured out at about 14h30 to go and find V's house. Malcolm works with him and he was having a little exhibition of his photographic achievements at his home on the north side of Dublin. Malcolm had received an email invitation and had a look at the map book to plan our route. We decided to walk and luas as it was fairly far from us.",
+    "questions": [
+      {
+        "q": "Whose house was the narrator seeking?",
+        "options": [
+          "They were off to see Malcolm's place.",
+          "They were off to see their friend in Dublin.",
+          "They were off to see Malcolm.",
+          "They were off to find V's place of resident."
+        ],
+        "answer": 3,
+        "explanation": "The narrator was going to find V's house, where a small photo exhibition was being held."
+      },
+      {
+        "q": "How did they plan to get to the house?",
+        "options": [
+          "By walking and taking the tram.",
+          "By driving and parking nearby.",
+          "By cycling and then taking a bus.",
+          "By taking a taxi from the station."
+        ],
+        "answer": 0,
+        "explanation": "They decided to walk and take the luas because the house was fairly far away."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-4db442d4",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:bda5f469",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-4e3ee74c",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B1+",
+    "title": "One Last Warm Day",
+    "text": "We went for a short walk today. The weather was glorious, actually almost uncomfortably warm, like summer giving us one last glimpse. It's a lovely cool evening, now. First up, a really beautiful flower that was escaping from under someone's fence. People! Walking on OUR beach!",
+    "questions": [
+      {
+        "q": "What may be the reason for one last warm day?",
+        "options": [
+          "There was a heat wave.",
+          "Summer is coming.",
+          "Fall is coming.",
+          "It was hot on a winter day."
+        ],
+        "answer": 2,
+        "explanation": "The warm weather felt like summer giving a last glimpse, which suggests fall is coming."
+      },
+      {
+        "q": "How does the writer describe the evening?",
+        "options": [
+          "Lovely and cool.",
+          "Hot and humid.",
+          "Cold and rainy.",
+          "Windy and dark."
+        ],
+        "answer": 0,
+        "explanation": "The writer says it is a lovely cool evening now, in contrast to the warm day."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-4e3ee74c",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:e0cdd6bf",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-4f434817",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Writing a Blog in English",
+    "text": "Although I know he will not read my blog in future, I still write this blog in English since I know he can't understand any English. I don't want him to read this blog. Suddenly, I realised that I even haven't taken a photo with him.",
+    "questions": [
+      {
+        "q": "What do you know about the speaker?",
+        "options": [
+          "They are not a native English speaker.",
+          "They still can't understand English.",
+          "They know he will read their blog in the future.",
+          "They suddenly took a photo with him."
+        ],
+        "answer": 0,
+        "explanation": "The writer writes in English because the person cannot understand it, which implies English is not their first language."
+      },
+      {
+        "q": "What does the writer regret at the end?",
+        "options": [
+          "Not having taken a photo with him.",
+          "Writing the blog in English.",
+          "Letting him read the blog.",
+          "Forgetting to publish the post."
+        ],
+        "answer": 0,
+        "explanation": "The writer suddenly realised they had never taken a photo with him."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-4f434817",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:01360e3c",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-5d361008",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "A Surprise Night at the Theatre",
+    "text": "I went to see cats the musical! It was a suprise, but a good one! It is so much better live on stage, even with 2 power cuts! The best part was, that one of the cats came up and sat next to me!",
+    "questions": [
+      {
+        "q": "What type of entertainment does the narrator like?",
+        "options": [
+          "They like movies.",
+          "They like singing productions.",
+          "They like Cat YouTube videos.",
+          "They like videos from YouTube."
+        ],
+        "answer": 1,
+        "explanation": "The narrator saw a musical and says it is much better live on stage, which shows a liking for singing productions."
+      },
+      {
+        "q": "What made the evening especially memorable for the narrator?",
+        "options": [
+          "The performance ended early because of power cuts.",
+          "The narrator was upgraded to a front-row seat.",
+          "One of the performers sat down beside the narrator.",
+          "The cast invited the audience on stage."
+        ],
+        "answer": 2,
+        "explanation": "The narrator calls it the best part that one of the cats came up and sat next to them."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-5d361008",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:1935eac7",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-61096f57",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Switching to a Monthly Lease",
+    "text": "Instead of renewing our lease again for 6 months, we switched to a month to month lease because we want to get out of here sooner. As long as we're out by February, we'll save money by going month to month over a six month lease. Over the weekend, I picked a real estate agent who works with first time home buyers.",
+    "questions": [
+      {
+        "q": "Why did they switch to a month to month lease?",
+        "options": [
+          "Because they would save money with a lease.",
+          "Because they wanted to stay 6 months.",
+          "Because they were first time home buyers.",
+          "They wanted to move somewhere else."
+        ],
+        "answer": 3,
+        "explanation": "The writer says they want to get out sooner, so they chose a month to month lease instead of another six months."
+      },
+      {
+        "q": "What has the writer done to prepare for buying a home?",
+        "options": [
+          "Bought a house in another city.",
+          "Asked the landlord for a longer lease.",
+          "Sold their furniture to save money.",
+          "Picked an agent who works with first-time buyers."
+        ],
+        "answer": 3,
+        "explanation": "The writer says they picked a real estate agent who works with first time home buyers."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-61096f57",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:8bfcda39",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-617df819",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Waiting for a Bubble Bath",
+    "text": "She was thinking about when her shift was over, when she could go home and into her nice tub filled with bubbles. Bakersfield was a boring town, with little problems whatsoever. \"I am so bored, nothing good ever happens here.\" Sammie glanced over at her.",
+    "questions": [
+      {
+        "q": "What is in the future of the subject after their shift is over?",
+        "options": [
+          "A nice bubble bath.",
+          "A night out in Bakersfield.",
+          "A trip to Bakersfield.",
+          "A nice long shower."
+        ],
+        "answer": 0,
+        "explanation": "She is thinking about when her shift ends so she can go home to her nice tub filled with bubbles."
+      },
+      {
+        "q": "How does the character feel about Bakersfield?",
+        "options": [
+          "It is dangerous after dark.",
+          "It is crowded and noisy.",
+          "It is too far from her home.",
+          "It is dull, with little happening."
+        ],
+        "answer": 3,
+        "explanation": "She calls it a boring town and says nothing good ever happens there."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-617df819",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:3a40fa15",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-61ecec87",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Student Loan Approved",
+    "text": "I got approved for my student loan today. Friday I got an email from the financial aid office saying that they had sent an email to all of my instructors asking for an academic status report because I was a new student. I wrote back that I was not a new student, I was a returning student with second year status and did that make a difference? Got an email today saying that yes indeed that did make a difference and that they would approve my loan today and I should hear from Wells Fargo tomorrow.",
+    "questions": [
+      {
+        "q": "Why does the narrator need a loan?",
+        "options": [
+          "They need the loan for a car.",
+          "They need the loan for working in an office.",
+          "They need the loan for school.",
+          "They need the loan for paying back Wells Fargo."
+        ],
+        "answer": 2,
+        "explanation": "The writer got approved for a student loan after the financial aid office confirmed their second-year student status."
+      },
+      {
+        "q": "Why did the financial aid office first contact the instructors?",
+        "options": [
+          "Because the writer had missed several classes.",
+          "Because the writer was treated as a new student.",
+          "Because the loan amount was unusually high.",
+          "Because the writer had changed banks."
+        ],
+        "answer": 1,
+        "explanation": "The office asked instructors for a status report because it thought the writer was a new student."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-61ecec87",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:03ec63ef",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-627f62fc",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Hotel Housing at GenCon",
+    "text": "It is a little remote from the main action, but the walk to and from the convention center and other hotels runs past restaurants and other pleasant places. One of the downside of GenCon Indy is the uncertainty over housing. Lately, one has to log into the system just as soon as rooms open, and all of the places close to the convention center are gone 10 minutes later. It's insane.",
+    "questions": [
+      {
+        "q": "What may happen during the walk to the convention center?",
+        "options": [
+          "There are several vacancies at the hotels.",
+          "We are able to get a place close to the convention center.",
+          "We are too late to log in once we arrive.",
+          "We see several people eating in restaurants."
+        ],
+        "answer": 3,
+        "explanation": "The walk to the convention center runs past restaurants, so people are likely to see others eating there."
+      },
+      {
+        "q": "What is described as a downside of GenCon Indy?",
+        "options": [
+          "The high price of convention tickets.",
+          "The long distance between hotels.",
+          "The uncertainty about finding a room.",
+          "The lack of restaurants nearby."
+        ],
+        "answer": 2,
+        "explanation": "The writer names the uncertainty over housing as a downside, since nearby rooms disappear within ten minutes."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-627f62fc",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:a0d902e0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-65d852f0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Bengals Defense Struggles",
+    "text": "It's keeping opponents from light up the scoreboard that's been the problem in Cincinnati. The Bengals have made a collective effort to improve their defense in the past three drafts, using their last three first round picks on that side of the ball. In 2006, Cincy selected South Carolina corner Jonathan Joseph with their first round pick and in 2007 the Bengals took another defensive back with their first pick in Michigan's Leon Hall. This past draft, the team tabbed USC outside linebacker Keith Rivers in the first round.",
+    "questions": [
+      {
+        "q": "What is the reason the Bengals keep losing?",
+        "options": [
+          "Jonathan Joseph stayed with South Carolina.",
+          "Keith Rivers remained at USC",
+          "Leon Hall stayed at Michigan.",
+          "Their defense needs improving."
+        ],
+        "answer": 3,
+        "explanation": "The text says keeping opponents from scoring has been the problem, and the team has been trying to improve its defense."
+      },
+      {
+        "q": "What did the Bengals do with their last three first-round picks?",
+        "options": [
+          "Traded them for experienced veterans.",
+          "Selected quarterbacks and receivers.",
+          "Used them to strengthen the offense.",
+          "Chose players for the defense each time."
+        ],
+        "answer": 3,
+        "explanation": "The text says they used their last three first round picks on the defensive side of the ball."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-65d852f0",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:1afe0539",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-6731bb46",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "A Lazy Day at the Mall",
+    "text": "Yet another stressful and lethargic day in the life of the InfernaBeast. Woke up quite late today because I didn't see the need to wake up early. Didn't have breakfast and went out with Dad and Mum to Northpoint. Dad needed to purchase some printer ink cartridge, and we thought we could just go around shopping. It seems like John Little is having a storewide sales, so we went and took a look.",
+    "questions": [
+      {
+        "q": "What may be the reason to go shopping?",
+        "options": [
+          "We needed ink.",
+          "We needed food.",
+          "We needed a phone.",
+          "We needed a computer."
+        ],
+        "answer": 0,
+        "explanation": "Dad needed to buy printer ink cartridges, and the family decided to go shopping from there."
+      },
+      {
+        "q": "Why did the writer wake up late?",
+        "options": [
+          "The writer had stayed out late the night before.",
+          "The writer saw no need to get up early.",
+          "The writer's alarm failed to ring.",
+          "The writer was waiting for a delivery."
+        ],
+        "answer": 1,
+        "explanation": "The writer says they woke up late because they did not see the need to wake up early."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-6731bb46",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:f1921a08",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-68ff273b",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Packing for the Move",
+    "text": "It's funny sometimes the things you end up doing when you're panicking about how little time there is. Dave bought me this book for my birthday and today I felt inspired to do one of the activities in it: Assignment # 63: Make an Encouraging Banner. So I did. And posted it over the fireplace, which is currently stacked with boxes for the impending move. It's true.",
+    "questions": [
+      {
+        "q": "Why are the boxes stacked?",
+        "options": [
+          "They are cleaning around the house",
+          "To get them out of the way",
+          "They will be moving soon.",
+          "They want to save space"
+        ],
+        "answer": 2,
+        "explanation": "The boxes sit by the fireplace because of the impending move, as the writer mentions."
+      },
+      {
+        "q": "Which activity from the book did the writer complete?",
+        "options": [
+          "Writing a letter to Dave.",
+          "Making an encouraging banner.",
+          "Painting the fireplace.",
+          "Packing boxes for the move."
+        ],
+        "answer": 1,
+        "explanation": "The writer says they did Assignment 63, which was to make an encouraging banner."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-68ff273b",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:cfd64038",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-6957c7be",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "A Stressful Driving Lesson",
+    "text": "I was a little freaked out because my instructor had taken me on all the routes before, so when I didn't recognize any streets, I tried hard to stay calm. At a corner when she told me to make a right turn, I was in the process of turning when she screamed, \"LOOK that car in front of you [car in opposite direction turning his left, but my right] is turning left! Did you PAY attention?! That's dangerous!\"",
+    "questions": [
+      {
+        "q": "What may be the reason why the instructor was so upset?",
+        "options": [
+          "She loves her job.",
+          "She is having a hard time at home.",
+          "She doesn't want to get into an accident.",
+          "She wants to be the one driving."
+        ],
+        "answer": 2,
+        "explanation": "The instructor screamed that the oncoming car was turning left and called the situation dangerous, so she wanted to avoid an accident."
+      },
+      {
+        "q": "How did the narrator react when the streets looked unfamiliar?",
+        "options": [
+          "The narrator pulled over and asked for directions.",
+          "The narrator asked the instructor to drive.",
+          "The narrator tried hard to stay calm.",
+          "The narrator turned around and went home."
+        ],
+        "answer": 2,
+        "explanation": "The narrator says they tried hard to stay calm when they did not recognize any streets."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-6957c7be",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:f2a1f83b",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-6cfbdd94",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Photo Print Size Limits",
+    "text": "Prints from photo sets 002-007 cannot be printed larger than 5x7. Additionally, prints cannot be made from photo set 001 due to the unconventional (read: inconvenient) sizes of the photos in that set. If you know the subject of the print(s) you'd like to order, it may be easier to look at the tags for the photo posts.",
+    "questions": [
+      {
+        "q": "Why are the photos so difficult to see?",
+        "options": [
+          "Their dimensions are normal.",
+          "The photo is black and white.",
+          "The photo is scratched.",
+          "Their dimensions are off."
+        ],
+        "answer": 3,
+        "explanation": "The text says photo set 001 has unconventional, inconvenient sizes, so its dimensions are off."
+      },
+      {
+        "q": "What does the writer suggest for finding a particular print?",
+        "options": [
+          "Email the photographer directly.",
+          "Order from photo set 001 instead.",
+          "Search the photos by date.",
+          "Look at the tags on the photo posts."
+        ],
+        "answer": 3,
+        "explanation": "The writer says it may be easier to look at the tags for the photo posts."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-6cfbdd94",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:c415776a",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-6f4b9285",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Making Leather Saddlebags",
+    "text": "I'm making a set of saddlebags for myself. Saturday, Sept 20: I designed the pattern myself, laid it out on a tooling side, marked it, and rough cut it. It all took me about four hours, start to finish, but I was at the shop for almost six hours, because there was chatter involved. Had to leave the pieces at Tandy because I rode my bike to the shop and didn't have room to carry them home. Tuesday, Sept 23: First chance I've had to work on it, since I had to pick the pieces up on Monday on my way to take my cat to a vet appointment, and well, I didn't get to it.",
+    "questions": [
+      {
+        "q": "What may happen after they make the saddlebags?",
+        "options": [
+          "They will put the saddlebags to use.",
+          "They will put the saddlebags in the bike shop.",
+          "They will put the saddlebags up for sale.",
+          "They will sell the saddlebags they had made."
+        ],
+        "answer": 0,
+        "explanation": "The writer is making the saddlebags for themselves, so they will most likely use them."
+      },
+      {
+        "q": "Why did the writer leave the pieces at the shop?",
+        "options": [
+          "Because they needed more tools to finish them.",
+          "Because there was no room to carry them on a bike.",
+          "Because the shop offered to stitch them.",
+          "Because they were not ready to be cut."
+        ],
+        "answer": 1,
+        "explanation": "The writer rode a bike to the shop and did not have room to carry the pieces home."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-6f4b9285",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:d19c3902",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-6fbe277a",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Stop and Smell the Roses",
+    "text": "In this fast paced world where we want everything now, we often forget about the simplest things in life and how important some of these simple things can be to our overall health. What am I talking about? Well, one of the simplest and best things in life (also one of the healthiest) is to take the time out to smell the roses. Learn to relax and enjoy mother nature.",
+    "questions": [
+      {
+        "q": "What might happen if we appreciate the simple things?",
+        "options": [
+          "We wouldn't be able to unwind.",
+          "We would learn to smell the roses.",
+          "We can keep up with the fast paced world.",
+          "We would unwind and improve our lives."
+        ],
+        "answer": 3,
+        "explanation": "The text says taking time out to relax and enjoy nature is one of the simplest and healthiest things in life."
+      },
+      {
+        "q": "What does smell the roses mean in this text?",
+        "options": [
+          "Spend more time gardening.",
+          "Avoid modern technology.",
+          "Slow down and enjoy simple pleasures.",
+          "Give flowers to friends."
+        ],
+        "answer": 2,
+        "explanation": "The text links it to learning to relax and enjoy nature in a fast paced world."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-6fbe277a",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:1dbdede0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-72a4ac58",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Visiting Eastern Berlin",
+    "text": "Ingo told us before that his apartment was in the shady part of Berlin, but it really was not what I was expecting (probably because I've seen the shady part of San Bernardino, hehe.) It's in the eastern part of Berlin, so what we gathered was that when it was occupied by Russia after WWII, it wasn't as prosperous as the west side and thus the area is less prosperous and nice. I like it because the food was really cheap and delicious.",
+    "questions": [
+      {
+        "q": "How was the shady part of Berlin?",
+        "options": [
+          "The food was cheap and gross.",
+          "It was worse than San Bernadino.",
+          "It was bad because of the food.",
+          "It was better than expected."
+        ],
+        "answer": 3,
+        "explanation": "The area was not what the writer expected, and the writer likes it because the food was cheap and delicious."
+      },
+      {
+        "q": "What does the writer like about the neighborhood?",
+        "options": [
+          "The cheap and tasty food.",
+          "The quiet streets at night.",
+          "The modern apartment buildings.",
+          "The nearby museums."
+        ],
+        "answer": 0,
+        "explanation": "The writer says they like it because the food was really cheap and delicious."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-72a4ac58",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:0086705d",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-744e4998",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Lost Poems and Stolen Scrapbook",
+    "text": "Included was the disc that I had my copies on. It feels like there is a part of me missing and I would desperately like to get copies of my poems and continue writing. This is the second time something has happened to my poetry. In 2001 I had my scrap book stolen with about 118 poems in.",
+    "questions": [
+      {
+        "q": "What has happened to the narrator?",
+        "options": [
+          "Their house has burned down",
+          "They have been robbed",
+          "They can't get into their locker",
+          "Their poetry has been criticised"
+        ],
+        "answer": 1,
+        "explanation": "The narrator says a scrap book with about 118 poems was stolen in 2001, which means they were robbed."
+      },
+      {
+        "q": "What does the narrator most want to do now?",
+        "options": [
+          "Publish the poems in a new book",
+          "Report the theft to the police",
+          "Get copies of the poems and keep writing",
+          "Buy a new disc for music files"
+        ],
+        "answer": 2,
+        "explanation": "The narrator says they would 'desperately like to get copies of my poems and continue writing'."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-744e4998",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:12485db3",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-78c8701e",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "A Live Concert Review",
+    "text": "The concert yesterday was awesome. Monica Naranjo rocked. It's true that she's no Madonna and she doesn't dance or do fancy stuff, but one has to admit that it was a very good \"mise en scene\" and well, she sings live. Not all the time, since she relied on her chorus a lot, but she did all the screams she's known for.",
+    "questions": [
+      {
+        "q": "What day was the concert?",
+        "options": [
+          "The day after two days ago.",
+          "Two days before today.",
+          "Two days ago.",
+          "The day after three days ago."
+        ],
+        "answer": 0,
+        "explanation": "The narrator writes 'The concert yesterday', and the day after two days ago is yesterday."
+      },
+      {
+        "q": "What does the narrator praise about the performance?",
+        "options": [
+          "The elaborate dance routines",
+          "The staging and the live singing",
+          "The recorded backing tracks",
+          "The comparison with Madonna"
+        ],
+        "answer": 1,
+        "explanation": "The narrator admits it was a very good 'mise en scene' and says she sings live."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-78c8701e",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:6d9bda59",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-78ef177f",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Personality Traits and Repeated Mistakes",
+    "text": "Sometimes you can be rather erratic and scatter yourself and your energies. You have a hard time keeping regular office hours and maintaining any sort of a routine. You tend to react strongly if you sense that your freedom of speech or action is being impaired or restricted in any way. As clever as you are, you may have a tendency to make the same mistakes over and over again because much of your response is glib reaction rather that thoughtful application.",
+    "questions": [
+      {
+        "q": "What causes repeated errors?",
+        "options": [
+          "Maintaining a routine can cause mistakes.",
+          "Acting without thought can cause mistakes.",
+          "Freedom of action can cause mistakes.",
+          "Freedom of speech can cause mistakes."
+        ],
+        "answer": 1,
+        "explanation": "The text blames repeated errors on 'glib reaction rather than thoughtful application', meaning acting without thinking."
+      },
+      {
+        "q": "How does the writer say the reader responds to restrictions?",
+        "options": [
+          "They accept limits without complaint",
+          "They ask others to set the rules",
+          "They ignore every restriction quietly",
+          "They react strongly against them"
+        ],
+        "answer": 3,
+        "explanation": "The text says you 'react strongly' if your freedom of speech or action is restricted."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-78ef177f",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:50016bd5",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-79b5753a",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B1+",
+    "title": "A Quick Favorite Dinner",
+    "text": "This has to be one of my favorite meals to make and to eat for dinner. I'm not sure where I got it or if I made it up myself. I make several variations of it. It is super simple, quick, and so good.",
+    "questions": [
+      {
+        "q": "Why is this one of my favorite meals?",
+        "options": [
+          "Because it is so easy to digest.",
+          "Because it is so much easier to swallow.",
+          "Because it is so easy to put together.",
+          "Because it is so easy to microwave."
+        ],
+        "answer": 2,
+        "explanation": "The narrator calls the dish 'super simple, quick, and so good', so it is easy to put together."
+      },
+      {
+        "q": "What does the narrator say about the recipe's origin?",
+        "options": [
+          "It comes from a family cookbook",
+          "It was copied from a restaurant",
+          "The narrator is unsure where it came from",
+          "A friend taught it in a cooking class"
+        ],
+        "answer": 2,
+        "explanation": "The narrator says 'I'm not sure where I got it or if I made it up myself'."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-79b5753a",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:fdaf8cd6",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-7cc13675",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Why Constant Band Emails Backfire",
+    "text": "Think about a social network like Myspace. Let's imagine a band you like sends out an email every day talking about how great they are. It would probably make you think a little less of the band, wouldn't it? Nobody likes being talked at.",
+    "questions": [
+      {
+        "q": "What would they do if they got an email from a band they liked?",
+        "options": [
+          "They'd act on the email.",
+          "They'd talk about the email",
+          "They'd think less of the band.",
+          "They'd share the email on MySpace."
+        ],
+        "answer": 2,
+        "explanation": "The text says daily emails bragging about a band 'would probably make you think a little less of the band'."
+      },
+      {
+        "q": "What is the main point of the passage?",
+        "options": [
+          "Constant self-promotion can push fans away",
+          "Social networks should ban messages from bands",
+          "Bands should email their fans more often",
+          "Myspace is the best place to reach fans"
+        ],
+        "answer": 0,
+        "explanation": "The writer concludes that 'Nobody likes being talked at', so heavy self-promotion annoys people."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-7cc13675",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:20f93b6f",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-7ef3a5e9",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Why People Improve Their Homes",
+    "text": "Best Syndication News A home is generally the largest financial investment most people will ever make. Buying a house or flat is a costly process but one that can, and usually does, pay off in the future. Whether the benefits are financial such as when it comes to selling it on and gaining equity, or practical by simply ensuring a family home for years to come, they will generally be welcome. It is inevitable then, that so many people wish to undertake a little home improvement.",
+    "questions": [
+      {
+        "q": "What may be a valid fact about a home?",
+        "options": [
+          "Keeping a home long term may cause its owner to lose equity.",
+          "Overall, making enhancements to the property may not be attractive with homeowners.",
+          "It may involve very little money to go through and complete a home purchase transaction.",
+          "A big chunk of many homeowner's wealth may be tied up in the home."
+        ],
+        "answer": 3,
+        "explanation": "The text calls a home 'the largest financial investment most people will ever make', so much of their wealth is tied up in it."
+      },
+      {
+        "q": "Why does the text say home improvement is inevitable?",
+        "options": [
+          "Banks require owners to renovate regularly",
+          "Owners hope for financial or practical benefits",
+          "Most families sell their homes within a year",
+          "Property taxes rise after every purchase"
+        ],
+        "answer": 1,
+        "explanation": "It says the benefits, whether financial or practical, are generally welcome, so many people wish to improve their homes."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-7ef3a5e9",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:048564a4",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-7f18cf81",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Exploring Google Earth at Home",
+    "text": "Bug and I spent some time reading his book on the future today. It had a section on satellites and referenced Google Earth. We downloaded it hoping for some fun with satellites but couldn't find what we were looking for. We did, however, find a street view of Google Maps that had a visual of our street that was fun.",
+    "questions": [
+      {
+        "q": "What may have happened after they found their street on Google Earth?",
+        "options": [
+          "They looked up other landmarks on Google Earth.",
+          "They returned the book.",
+          "They uninstalled google earth.",
+          "They rated google earth with a low rating."
+        ],
+        "answer": 0,
+        "explanation": "They enjoyed seeing their own street after the satellite search failed, so looking up other places is a natural next step."
+      },
+      {
+        "q": "What were they hoping to find after downloading the program?",
+        "options": [
+          "Directions to a local shop",
+          "Something fun involving satellites",
+          "A digital copy of the book",
+          "A photo of their own house"
+        ],
+        "answer": 1,
+        "explanation": "They downloaded it 'hoping for some fun with satellites' but could not find what they wanted."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-7f18cf81",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:5fd20ed6",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-7f2f74e6",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2+",
+    "title": "A Telecom Distributor Introduces Itself",
+    "text": "We were established in the year 2001 as a corporate company in the Telecom distributorship industry, We have branches and drop shippers worldwide. We have achieved alot of goals due to the high quality that we provide to the public. We ship Internationally!",
+    "questions": [
+      {
+        "q": "What may be the reason why they ship internationally?",
+        "options": [
+          "In order to sound appealing.",
+          "In order to get more customers.",
+          "In order to lose customers.",
+          "In order to lose money."
+        ],
+        "answer": 1,
+        "explanation": "A company with branches worldwide that advertises international shipping is trying to reach a wider market and get more customers."
+      },
+      {
+        "q": "What does the company claim about its success?",
+        "options": [
+          "It grew mainly by cutting its prices",
+          "It was started by a famous brand",
+          "It met its goals because of high quality",
+          "It sells only to nearby customers"
+        ],
+        "answer": 2,
+        "explanation": "The text says they 'achieved alot of goals due to the high quality' they provide."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-7f2f74e6",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:ce6e1ff4",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-83b696e0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Jam Made From Rare Apricots",
+    "text": "I love this packaging by We Love Jam, a little company that makes jam from varieties of apricots that are at risk of extinction. I haven't had the opportunity to try the jam, but, apparently, these varieties of apricots are much tastier than the ones we are familiar with. They are harder to grow, though, so big agriculture companies don't deal with them.",
+    "questions": [
+      {
+        "q": "What may be the reason for their liking of the jam?",
+        "options": [
+          "They like the taste of the jam.",
+          "They are different than the other jam companies.",
+          "They find this brand of jam to be tastier.",
+          "They buy the jam brand often."
+        ],
+        "answer": 1,
+        "explanation": "The writer admires a small company that uses endangered apricot varieties, unlike the big agriculture companies."
+      },
+      {
+        "q": "Why do big agriculture companies avoid these apricots?",
+        "options": [
+          "They taste worse than common types",
+          "They cost too much to ship",
+          "Laws forbid selling them widely",
+          "They are harder to grow"
+        ],
+        "answer": 3,
+        "explanation": "The text says these varieties 'are harder to grow, though, so big agriculture companies don't deal with them'."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-83b696e0",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:b9221140",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-8568889c",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Staying Motivated in Week Four",
+    "text": "So, at the beginning of this week, week 4, I am as motivated as I was when I first started. I got my second wind. I am sure I'll get a few more before this is over, but as of now I am on a high. I even got up at 5:45 this morning to make sure I exercised before I hit up jury duty.",
+    "questions": [
+      {
+        "q": "What does the early morning workout do for the narrator?",
+        "options": [
+          "It helps them feel that they are starting the day right.",
+          "It gets them to feel overwhelmed.",
+          "It gets them to feel relatively tired.",
+          "It gets them to feel relatively drained."
+        ],
+        "answer": 0,
+        "explanation": "The writer says getting up to exercise before jury duty keeps them motivated and 'on a high'."
+      },
+      {
+        "q": "Why may this person be motivated by working out?",
+        "options": [
+          "The workout drains them early in the morning.",
+          "The early morning workout makes them feel ready for the day.",
+          "The early morning workout leaves them tired.",
+          "The early morning workout feels like a chore."
+        ],
+        "answer": 1,
+        "explanation": "The writer calls this week a second wind and exercises early to stay on track, so they feel ready for the day."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-8568889c",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:c4b1cca4",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-86271899",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Driving Lesson With Uncle",
+    "text": "I guess its good because it trains you to talk and drive and focus at the same time... When reached the open space car park, I was again scared because there is other cars on the road too... Follow the steps that the uncle taught me to do parking... Did a few tries... And the usual de me asked him again saying that the car does nt look straight... But he said the most important thing is to know how to gauge the position and reverse the car into the carpark lot...",
+    "questions": [
+      {
+        "q": "What may be a fact about their uncle in this situation?",
+        "options": [
+          "Their uncle is learning how to drive a car.",
+          "Their uncle is learning how to park a car.",
+          "Their uncle is frustrated trying to park their car.",
+          "Their uncle is teaching them how to drive."
+        ],
+        "answer": 3,
+        "explanation": "The writer follows 'the steps that the uncle taught me' to park, so the uncle is teaching them."
+      },
+      {
+        "q": "What may happen during this situation?",
+        "options": [
+          "They will learn how to park the car.",
+          "They will park in the correct parking spot.",
+          "They will teach their uncle how to park the car.",
+          "They will end up crashing the car."
+        ],
+        "answer": 0,
+        "explanation": "The writer is practicing parking and the uncle says the key skill is judging position and reversing in."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-86271899",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:0ca7e997",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-9032487a",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Picking Up a New Scooter",
+    "text": "So, Anthony got my scooter ready, and we picked it up tonight. My helmet isn't in, so he loaned me one until it comes in next week. After a 20 minute reviewing all the features, and squaring up the bill, I hopped on and rode the scooter home.",
+    "questions": [
+      {
+        "q": "What would the narrator do with the helmet she was using when her new helmet arrived?",
+        "options": [
+          "She would loan that helmet to Anthony for a week.",
+          "She would keep it on the back of the scooter for a spare.",
+          "She would take the helmet to Anthony and give it back to him.",
+          "She would ask Anthony if he was interested in buying that helmet from her."
+        ],
+        "answer": 2,
+        "explanation": "The helmet was only loaned 'until it comes in next week,' so she would give it back to Anthony."
+      },
+      {
+        "q": "Why was the narrator wearing a borrowed helmet?",
+        "options": [
+          "She had forgotten to bring her own helmet",
+          "Her old helmet was damaged during the ride",
+          "Her own helmet had not arrived yet",
+          "Anthony required it for the safety review"
+        ],
+        "answer": 2,
+        "explanation": "The text says 'My helmet isn't in, so he loaned me one until it comes in next week'."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-9032487a",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:76c53528",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-919ec322",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Steam at the Restaurant",
+    "text": "The other day after pulling into a parking lot at Outback Steakhouse, I noticed steam spewing out from the front of my car. Not from under the hood, but from the grate area, right above the license plate. Fortunately my Step Dad and Mom were meeting us and were able to help assess the situation.",
+    "questions": [
+      {
+        "q": "Whose car was having issues with steam?",
+        "options": [
+          "It was the narrator's mom's car.",
+          "It was the car of the narrator.",
+          "It was the car of the narrator's mom.",
+          "It was the car of the narrator's dad."
+        ],
+        "answer": 1,
+        "explanation": "The writer says the steam came from the front of 'my car' as they pulled into the parking lot."
+      },
+      {
+        "q": "Where on the car did the steam come from?",
+        "options": [
+          "The grate area above the license plate",
+          "Directly from under the hood",
+          "The exhaust pipe at the back",
+          "The wheels near the front tires"
+        ],
+        "answer": 0,
+        "explanation": "The text says the steam came 'not from under the hood, but from the grate area, right above the license plate'."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-919ec322",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:61e368ef",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-9bd1f241",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Grumpy After the Olympics",
+    "text": "Day 26 of the 100 days of healing was supposed be me telling you that I had a good day. I woke up a little grumpy but what else is new about that? I get grumpy when I stay up too late watching the Olympics and get up early, who knew? But the day went pretty much as Monday's go.",
+    "questions": [
+      {
+        "q": "Why is the narrator not on their best behavior?",
+        "options": [
+          "They are sore from participating in the Olympics.",
+          "The Olympics weren't on last night.",
+          "They didn't get any healing.",
+          "They watched too much Olympics."
+        ],
+        "answer": 3,
+        "explanation": "The writer says they get grumpy 'when I stay up too late watching the Olympics' and wake up early."
+      },
+      {
+        "q": "How did the rest of the day go for the writer?",
+        "options": [
+          "Better than any day that month",
+          "Much like a normal Monday",
+          "Worse than expected, with many problems",
+          "Very quiet, with no work to do"
+        ],
+        "answer": 1,
+        "explanation": "The text says 'the day went pretty much as Monday's go'."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-9bd1f241",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:99c93101",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-a12dc03f",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "A Music Festival Weekend",
+    "text": "Sasquatch 08 was amazing. Saturday began early with a trip to Top Pot and a long drive with great music. The weather was fantastic on the way up and stayed that way for several hours into the day, lightly raining in late afternoon a bit and picking up as we headed back to the campsite. Beirut started our day off wonderfully. Having heard a couple tracks here and there, I knew I could expect some orchestral pop with a deep voice singing at the front. They were a pleasant surprise -- the music was seriously gorgeous. Then, pizza!",
+    "questions": [
+      {
+        "q": "Why did the narrator seem to enjoy Sasquatch so much?",
+        "options": [
+          "There was no rain.",
+          "The bands were great.",
+          "The Top Pot was good.",
+          "There was a lot of movies shown.."
+        ],
+        "answer": 1,
+        "explanation": "The writer calls the weekend amazing and says Beirut's music was 'seriously gorgeous'."
+      },
+      {
+        "q": "What was the weather like for most of the early day?",
+        "options": [
+          "Rainy from early morning",
+          "Fantastic, with rain only later",
+          "Cold and windy all day",
+          "Foggy until the afternoon"
+        ],
+        "answer": 1,
+        "explanation": "The text says 'The weather was fantastic' for several hours, with light rain in the late afternoon."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-a12dc03f",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:3c0243d6",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-a6058a40",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Problem With a Dry-Cleaned Suit",
+    "text": "I am going to call the cleaners today and see what they have to say about my problem. My hunch is they are going to try to avoid responsibility, since the clerk tried to tell me it was the suit's fault that they pressed a 8 inch vertical crease into an area of the suit where there wasn't even a seam underneath. I did not notice the puckering on pick up... I didn't notice it until the next morning before putting on the suit for an interview.",
+    "questions": [
+      {
+        "q": "Who does the narrator seem to blame for problems with their clothes?",
+        "options": [
+          "The narrator blames themselves.",
+          "The narrator blames the cleaners.",
+          "The narrator blames their parents.",
+          "The narrator blames their spouse."
+        ],
+        "answer": 1,
+        "explanation": "The narrator says the cleaners will try to avoid responsibility and that the clerk blamed the suit for the crease the cleaners pressed in."
+      },
+      {
+        "q": "When did the narrator first notice the damage to the suit?",
+        "options": [
+          "When picking it up from the cleaners.",
+          "The morning of an interview, before putting it on.",
+          "While talking to the clerk on the phone.",
+          "After wearing it to the interview."
+        ],
+        "answer": 1,
+        "explanation": "The narrator did not notice the puckering at pick-up, only the next morning before putting on the suit for an interview."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-a6058a40",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:8b8f15f4",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-a67a3428",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "A Rainy Night Outdoors",
+    "text": "Because there were around 10 of them, all they could do was stand up so each of them could stay dry. The rain lasted through the most of the night, and when it did stop all they could do for water was put a hole on the tent where water had collected and drank from there. They continued to walk, and reached Luneta Rizal Park where they found out they arrived a day early.",
+    "questions": [
+      {
+        "q": "What may be the reason they had to stand up to stay dry?",
+        "options": [
+          "The people wouldn't make room for each other.",
+          "The tent was too big.",
+          "The people were large.",
+          "The tent was small."
+        ],
+        "answer": 3,
+        "explanation": "With around ten people sharing one tent and only standing room to stay dry, the tent must have been too small for the group."
+      },
+      {
+        "q": "What did the group discover when they reached Luneta Rizal Park?",
+        "options": [
+          "They had arrived one day late.",
+          "The park was closed because of the rain.",
+          "They had arrived one day early.",
+          "Their friends had already left."
+        ],
+        "answer": 2,
+        "explanation": "The text says they reached the park and found out they had arrived a day early."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-a67a3428",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:41503754",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-a78f51eb",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Waiting at the Bank",
+    "text": "Lucky for me, I was in the Business Accounts line and it was shorter and a bit faster (if a slug were to outrace a sloth.) But while I was about to complain (even if I didn't have to), I was stopped by the unusual atmosphere in the area. People were glued to the two huge screens situated in the middle of the bank. They were watching it intently.",
+    "questions": [
+      {
+        "q": "Why was the narrator able to get through the line much quicker than others?",
+        "options": [
+          "They are royalty.",
+          "They are a dignitary.",
+          "They are disabled.",
+          "They have a special account."
+        ],
+        "answer": 3,
+        "explanation": "The narrator waited in the Business Accounts line, which was shorter and faster than the other lines."
+      },
+      {
+        "q": "What was unusual about the atmosphere in the bank?",
+        "options": [
+          "The staff were handing out numbers.",
+          "Everyone was complaining about the wait.",
+          "The bank was almost empty.",
+          "Customers were absorbed in watching two large screens."
+        ],
+        "answer": 3,
+        "explanation": "The narrator notes people were glued to two huge screens in the middle of the bank, watching intently."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-a78f51eb",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:0daaf4a8",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-a7a223a2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Buyer Asks for Closing Costs",
+    "text": "I was speaking with one of my sellers the other day about an offer we had received on his property. In the offer, the buyer asked for a 3% credit towards the buyer's closing costs. This means, in effect, that the buyer is asking the seller to pay 3% of the buyer's closing costs. The seller was wondering if the buyer was even qualified to buy the house since they didn't have enough money for closing costs.",
+    "questions": [
+      {
+        "q": "Why does the narrator have doubts about selling the home?",
+        "options": [
+          "They doubt the seller's ability to be honest.",
+          "They doubt the seller.",
+          "They doubt the seller's finances.",
+          "They doubt the buyer's finances."
+        ],
+        "answer": 3,
+        "explanation": "The seller wondered whether the buyer was qualified because the buyer lacked enough money for closing costs."
+      },
+      {
+        "q": "What did the buyer request in the offer?",
+        "options": [
+          "A 3% credit toward the buyer's closing costs.",
+          "A 3% discount on the final sale price.",
+          "A delay in the closing date.",
+          "A repair of the house before closing."
+        ],
+        "answer": 0,
+        "explanation": "The offer asked for a 3% credit towards the buyer's closing costs, meaning the seller would pay that share."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-a7a223a2",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:e27045ce",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-a82c6fdf",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Learning Camera Settings",
+    "text": "OK, so I figured out which button to press and which wheel to twiddle to change the shutter speed and the aperture. (Up to now I'd just been able to alter the ISO.) And The Girl came home. After some disastrously underexposed shots (I was overenthusiastic, hadn't checked the screen and hadn't twigged what the meter in the viewfinder was for...) I started to get some slightly better results in very low light. Still not quite right though.",
+    "questions": [
+      {
+        "q": "Why is the narrator so upset with their work?",
+        "options": [
+          "The photos didn't come out right.",
+          "The shutter doesn't look right.",
+          "The view finder is broken.",
+          "The shutter is broken."
+        ],
+        "answer": 0,
+        "explanation": "The narrator describes disastrously underexposed shots and results that are still not quite right, which explains the frustration with the photos."
+      },
+      {
+        "q": "What did the narrator figure out how to change?",
+        "options": [
+          "The lens and the ISO.",
+          "The shutter speed and the aperture.",
+          "The battery and the memory card.",
+          "The screen brightness and the flash."
+        ],
+        "answer": 1,
+        "explanation": "The text says the narrator found the button and wheel to change shutter speed and aperture, having only altered ISO before."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-a82c6fdf",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:a1f7f4a0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-aa2ca2c4",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Missing Groups in SharePoint",
+    "text": "I ran into an interesting issue at a customer site. They had dozens of newly created Active Directory groups, but only two of them were showing up when they wanted to create a new audience or specify one of the groups as a target for a list item. It turns out that SharePoint only shows Active Directory groups that contain users who have a profile imported into SharePoint. There's a simple work around: add a user to the group who also has a SharePoint user profile.",
+    "questions": [
+      {
+        "q": "What type of work is the narrator doing?",
+        "options": [
+          "They are doing human resources work.",
+          "They are doing IT work.",
+          "They are doing HR stuff.",
+          "They are doing admin work."
+        ],
+        "answer": 1,
+        "explanation": "The narrator troubleshoots Active Directory groups and SharePoint user profiles at a customer site, which is typical IT work."
+      },
+      {
+        "q": "What simple workaround does the narrator suggest?",
+        "options": [
+          "Delete the new Active Directory groups.",
+          "Import every group into SharePoint manually.",
+          "Add a user with a SharePoint profile to the group.",
+          "Create a separate audience for each user."
+        ],
+        "answer": 2,
+        "explanation": "The narrator says to add to the group a user who also has a SharePoint user profile."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-aa2ca2c4",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:a42cff41",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-ab6c58f9",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2+",
+    "title": "Used Vehicle Description",
+    "text": "It drives super straight with no vibrations, funny noises or issues at all at any speed or under braking. The exterior condition on this vehicle is extra clean, paint is smooth and glossy with deep luster shine. The interior is clean and in good condition, free of any odors, and has no evidence that it's ever been smoked in. All of the electrical and optional equipment on this vehicle work like new.",
+    "questions": [
+      {
+        "q": "Why is the vehicle in the condition it's in?",
+        "options": [
+          "The exterior is quite dirty.",
+          "It's been taken well care of.",
+          "It smells like it was smoked in.",
+          "It was neglected."
+        ],
+        "answer": 1,
+        "explanation": "The listing says it drives straight, has a clean exterior and interior, and works like new, all showing it was well maintained."
+      },
+      {
+        "q": "What does the description say about the interior?",
+        "options": [
+          "It has a few worn electrical parts.",
+          "It smells strongly of cleaning products.",
+          "It has been fully replaced.",
+          "It is clean and shows no sign of smoking."
+        ],
+        "answer": 3,
+        "explanation": "The text says the interior is clean, free of odors, and has no evidence of ever being smoked in."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-ab6c58f9",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:68231c25",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-b092efbd",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "A Speaking Test Interview",
+    "text": "The speaking part was the toughest. A Russian lady came up to me and just asked me my name, where I lived, etc. I was so flustered the whole time, but I was able to respond to most of her questions. After that was over, I went to lunch.",
+    "questions": [
+      {
+        "q": "Why were they flustered?",
+        "options": [
+          "They were scared of the Russian lady.",
+          "They were attracted to the Russian lady.",
+          "They were nervous to speak to the lady.",
+          "They were anxious to hear a decision."
+        ],
+        "answer": 2,
+        "explanation": "The writer says the speaking part was toughest and describes being flustered, which shows nervousness about talking to the examiner."
+      },
+      {
+        "q": "What did the Russian lady ask the writer?",
+        "options": [
+          "Their opinion about the exam.",
+          "Their plans for the afternoon.",
+          "Their reasons for studying.",
+          "Their name and where they lived."
+        ],
+        "answer": 3,
+        "explanation": "The text says she asked for the writer's name and where they lived, among other basic questions."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-b092efbd",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:e38e66f9",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-c041458b",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "A Chaotic Morning",
+    "text": "So it's every hour, twice every hour, until 6 pm... And then again on Saturday after 6 pm. So I'm trying to get ready for work while watching bad cable access television. Mike and I overslept this morning causing much chaos before being fully alive to comprehend it.",
+    "questions": [
+      {
+        "q": "What might be causing chaos in their morning routine?",
+        "options": [
+          "There was a fire.",
+          "They didn't sleep at all.",
+          "They woke up too early.",
+          "They didn't wake up at an appropriate time."
+        ],
+        "answer": 3,
+        "explanation": "The writer says they and Mike overslept, which caused chaos before they were fully awake."
+      },
+      {
+        "q": "What is the writer doing while getting ready for work?",
+        "options": [
+          "Listening to the radio.",
+          "Watching bad cable access television.",
+          "Reading the morning news.",
+          "Talking on the phone."
+        ],
+        "answer": 1,
+        "explanation": "The writer says they are trying to get ready for work while watching bad cable access television."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-c041458b",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:2a208111",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-c1373afc",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Fixing Website Header Warnings",
+    "text": "Wow, it's been almost a month since my last entry! I didn't know it's been that long: crazy: A lot of things have happened during the time in question, but I'll try to make this as brief as possible, so no one gets bored Note: for some odd reason I was getting all this warnings to do with my header / footer... I was going a bit nuts, but I think I fixed the problem. I'm not sure why it was not reading them the way I had it, since I haven't modified those main files since I uploaded this layout. Who knows.",
+    "questions": [
+      {
+        "q": "What was the person working on?",
+        "options": [
+          "They were writing a letter.",
+          "They were writing a journal entry.",
+          "They were working on a website.",
+          "They were working on social media."
+        ],
+        "answer": 2,
+        "explanation": "The writer mentions warnings about a header and footer and a layout that was uploaded, so the work was on a website."
+      },
+      {
+        "q": "How long has it been since the writer's last entry?",
+        "options": [
+          "About a week",
+          "Nearly a year",
+          "Almost a month",
+          "Only a couple of days"
+        ],
+        "answer": 2,
+        "explanation": "The text opens by saying it has been almost a month since the last entry."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-c1373afc",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:58b3a617",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-c7ed30cc",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "A DVR That Missed Its Recording",
+    "text": "I tried to schedule a recording to start at the next hour, and it didn't. The TV schedule was fine and thought it was recording, but the DVR had not received this message. The FiOS DVR help screens were 100% useless, so I poked around online and found the only suggest was to reboot the DVR.",
+    "questions": [
+      {
+        "q": "What may be the reason their show wasn't recorded?",
+        "options": [
+          "They didn't schedule it for the right day.",
+          "They don't know how to use the DVR.",
+          "They just got the DVR and never read the manual.",
+          "There's something wrong with their DVR."
+        ],
+        "answer": 3,
+        "explanation": "The TV schedule looked fine, but the DVR had not received the message, which points to a problem with the DVR itself."
+      },
+      {
+        "q": "What was the only suggestion the writer found online?",
+        "options": [
+          "To call the cable company",
+          "To reset the TV schedule",
+          "To replace the DVR with a new one",
+          "To reboot the DVR"
+        ],
+        "answer": 3,
+        "explanation": "The writer says the help screens were useless and the only suggestion found online was to reboot the DVR."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-c7ed30cc",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:c8afc32d",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-ce50f14c",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Connection Problems During a Chat",
+    "text": "So, after awhile I paused the game and went into another room and tried to talk. This time around, it was extremely difficult. It wasn't only the speed, but also the fact that their connections were disconnecting and connecting over and over again.",
+    "questions": [
+      {
+        "q": "What may be the reason for it being difficult to talk?",
+        "options": [
+          "They weren't picking up their phones.",
+          "Their internet kept cutting in and out.",
+          "They lost their phone.",
+          "Their cell coverage wasn't very good."
+        ],
+        "answer": 1,
+        "explanation": "The text says their connections kept disconnecting and connecting, so their internet kept cutting in and out."
+      },
+      {
+        "q": "What did the writer do after pausing the game?",
+        "options": [
+          "Restarted the game on a faster connection",
+          "Called the others from a different phone",
+          "Stopped talking to them for the evening",
+          "Went into another room to try to talk"
+        ],
+        "answer": 3,
+        "explanation": "The text says that after a while the writer paused the game and went into another room and tried to talk."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-ce50f14c",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:53de58a8",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-d44fc5f8",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Tracing a Smoking Motorcycle",
+    "text": "Our diagnostics included starting the bike until it smoked then looking for a source. Did that 4 or 5 times until we found what we think is the problem. (He's still in the garage working on it). There's fresh oil on the front exhaust header that smokes as soon as the pipe gets hot.",
+    "questions": [
+      {
+        "q": "What condition is the bike in?",
+        "options": [
+          "The bike is brand new.",
+          "The bike has no mechanical problems.",
+          "The bike needs some kind of repairs.",
+          "The bike is in perfect condition."
+        ],
+        "answer": 2,
+        "explanation": "The bike smokes and has fresh oil on the front exhaust header, and the owner is still working on it in the garage, so it needs repairs."
+      },
+      {
+        "q": "What do they think is causing the smoke?",
+        "options": [
+          "A broken cord in the ignition system",
+          "A worn tire rubbing against the frame",
+          "A leak in the fuel tank",
+          "Fresh oil on the front exhaust header"
+        ],
+        "answer": 3,
+        "explanation": "The text says there is fresh oil on the front exhaust header that smokes as soon as the pipe gets hot."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-d44fc5f8",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:2a8470f7",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-dbe86285",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Marketing Automation Tools Overview",
+    "text": "Marketing automation tools are an important element in marketing for businesses. Many marketing automation tools are computer based and some Internet based so that the marketing team can reach a lot more consumers than ever before. There are different types of software that can be useful to market automation. Before picking automation software, it is good to know what the company's marketing needs are.",
+    "questions": [
+      {
+        "q": "Are marketing tools useful?",
+        "options": [
+          "Other elements are more important.",
+          "They don't have automation.",
+          "They can reach many consumers.",
+          "They are too computer based to be useful."
+        ],
+        "answer": 2,
+        "explanation": "The text says automation tools let the marketing team 'reach a lot more consumers than ever before'."
+      },
+      {
+        "q": "What industry is this product being marketed to?",
+        "options": [
+          "It is being sold to software coders.",
+          "It is being sold to people in sales.",
+          "It is being sold to software engineers.",
+          "It is being sold to network engineers."
+        ],
+        "answer": 1,
+        "explanation": "The text is about software for marketing teams, so it is aimed at sales and marketing people."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-dbe86285",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:d0f6fbcf",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-e282dbe0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Patience With Skincare Products",
+    "text": "Usually that subsides within a week or two. I would stick with a product for at least 30 days and be sure you're using it as the manufacturer directs. Some products may take even longer to see results, such as products for scar treatment.",
+    "questions": [
+      {
+        "q": "What might the person be referring to?",
+        "options": [
+          "Medical equipment",
+          "Skincare products",
+          "Exercise equipment",
+          "Health juices"
+        ],
+        "answer": 1,
+        "explanation": "The advice mentions using a product 'as the manufacturer directs' and scar treatment, which points to skincare products."
+      },
+      {
+        "q": "How long does the writer suggest trying a product?",
+        "options": [
+          "At least 30 days.",
+          "Only a week or two.",
+          "Until the product runs out.",
+          "Just a few days."
+        ],
+        "answer": 0,
+        "explanation": "The writer says to stick with a product for at least 30 days."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-e282dbe0",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:1f079d9f",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-e347a076",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "A Surprise Birthday Celebration",
+    "text": "Then I knew something was up when everything quieted down in the dining room. How suddenly everyone wanted me to clear the table. I could hear whispers and giggling, I kept trying to hold back more and more but finally I was forced into the dining room where they had an ice cream cake (my favorite from Carvel) They all insisted on singing Happy Birthday to me.",
+    "questions": [
+      {
+        "q": "What may be the reason for the giggling and the whispering?",
+        "options": [
+          "They heard they're getting a car for their birthday.",
+          "They are excited about the surprise.",
+          "They found out a secret about them.",
+          "They heard what they did wrong."
+        ],
+        "answer": 1,
+        "explanation": "The room goes quiet, there are whispers and giggles, then an ice cream cake appears, showing the family was excited about the surprise."
+      },
+      {
+        "q": "What did the family do once the narrator entered the dining room?",
+        "options": [
+          "They asked the narrator to wash the dishes.",
+          "They gave the narrator a new car.",
+          "They went quiet and left the room.",
+          "They served an ice cream cake and sang Happy Birthday."
+        ],
+        "answer": 3,
+        "explanation": "The family had an ice cream cake ready and insisted on singing Happy Birthday."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-e347a076",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:91908643",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-e3648d50",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Buses Under Police Escort",
+    "text": "So I'm trying to scramble up on the grill (not a good idea) to get a better look and sure enough there go local LEO, lights flashing, sirens blaring escorting a number of buses through the light. Well no we wasn't close enough to see inside the buses to see what important dignitaries might be inside. We weren't privy to to what elite members of society may have occupied those buses that deserved such a red carpet roll out. No sir, if your on the road when them air conditioned buses drinking up the gas that you can't find come hauling through escorted by Police then you gots to pull over.",
+    "questions": [
+      {
+        "q": "Why did they think there were elite people on the bus?",
+        "options": [
+          "They had police escorts.",
+          "They asked one of the officers.",
+          "They had a banner on the bus.",
+          "Someone told them about it."
+        ],
+        "answer": 0,
+        "explanation": "Police with flashing lights and sirens escorted the buses through the light, so the writer assumed important people were aboard."
+      },
+      {
+        "q": "What must drivers do when the escorted buses come through?",
+        "options": [
+          "They must pull over to let them pass.",
+          "They must follow the buses closely.",
+          "They must turn back at the next exit.",
+          "They must slow down and join the line behind them."
+        ],
+        "answer": 0,
+        "explanation": "The writer says anyone on the road when the escorted buses arrive has to pull over."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-e3648d50",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:48080817",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-e3ca8c23",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "A Laptop in the Kitchen",
+    "text": "Ok, see the problem is that my lovely laptop is in my kitchen, which is quite the center of my home. It's an open kitchen, opening on the living room, and so the garden. So for someone who spends most of her free time on internet, it is a cool place to be for my laptop.",
+    "questions": [
+      {
+        "q": "Why does the narrator not mind being online so much?",
+        "options": [
+          "They are addicted to the internet.",
+          "They have their laptop in a comforting place.",
+          "They only have online friends.",
+          "They are obsessed with the internet."
+        ],
+        "answer": 1,
+        "explanation": "The laptop sits in an open kitchen at the center of the home, which the narrator calls 'a cool place to be.'"
+      },
+      {
+        "q": "How is the narrator's kitchen described?",
+        "options": [
+          "It is a closed room used only for cooking.",
+          "It is open to the living room and the garden.",
+          "It is on the top floor with a view of the city.",
+          "It is shared with neighbors in the building."
+        ],
+        "answer": 1,
+        "explanation": "The kitchen is described as open, leading onto the living room and then the garden."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-e3ca8c23",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:d61337c9",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-e3ec4ffe",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Iced Tea and Poor Sleep",
+    "text": "[Blue Pill = sleeping pill, Unisom, or maybe it's the Target brand of Unisom.] 8/14/08 7:27 pm Well, I think I caught up on sleep last night. Steve thinks the iced tea I've been drinking on the way home may be disrupting my sleep. He usually brings me iced water, but lately I've requested iced tea.",
+    "questions": [
+      {
+        "q": "What may be the reason the tea disrupts sleep?",
+        "options": [
+          "It has alot of milk in it which causes an allergic reaction.",
+          "It has too much coffee in the drink and not enough tea.",
+          "It has a built in speaker that wakes people up at night.",
+          "It has too much caffeine in it causing sleepless nights."
+        ],
+        "answer": 3,
+        "explanation": "Steve blames the iced tea for disrupting the narrator's sleep, and tea contains caffeine, which keeps people awake."
+      },
+      {
+        "q": "What does Steve usually bring the narrator on the way home?",
+        "options": [
+          "Hot coffee.",
+          "Orange juice.",
+          "Iced water.",
+          "A sleeping pill."
+        ],
+        "answer": 2,
+        "explanation": "The text says Steve usually brings iced water, but lately the narrator has asked for iced tea."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-e3ec4ffe",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:0c150adb",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-e7241111",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "A Last Meal in Japan",
+    "text": "Probably not enough to make up for the charge to change the flight, but eh. I managed to have one last meal in Japan at a sushi place. Specifically, in addition to miso soup and orange juice, I had a piece of toro and a piece of avocado roll. I'm a sucker for unintended symbolism like that.",
+    "questions": [
+      {
+        "q": "Why did the narrator opt for Sushi?",
+        "options": [
+          "The narrator was looking for protein.",
+          "The narrator only ate fish.",
+          "The narrator wanted to remember Japan.",
+          "The narrator only ate carbs."
+        ],
+        "answer": 2,
+        "explanation": "It was the narrator's 'one last meal in Japan,' and they admit liking 'unintended symbolism,' so the sushi marks the trip."
+      },
+      {
+        "q": "What did the narrator order besides miso soup and orange juice?",
+        "options": [
+          "Two pieces of eel and a salad.",
+          "A bowl of ramen and green tea.",
+          "A piece of toro and an avocado roll.",
+          "Tempura and a fruit plate."
+        ],
+        "answer": 2,
+        "explanation": "Besides miso soup and orange juice, the narrator had a piece of toro and a piece of avocado roll."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-e7241111",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:609a8fac",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-e8b93353",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B1+",
+    "title": "Returning Home to Help",
+    "text": "I felt that my country needed my skills more than the US did. They had enough brilliant people there. There were more opportunities to make a difference in the Philippines. More challenges to face, more issues you can try to solve.",
+    "questions": [
+      {
+        "q": "What did the narrator do after they relized they were needed back home?",
+        "options": [
+          "They recognized the challenges, but remained here.",
+          "They sent brilliant American talent to the Philippines.",
+          "They moved back home to provide their talent to their people.",
+          "They sent all of their savings to their family back home."
+        ],
+        "answer": 2,
+        "explanation": "The narrator felt their country 'needed my skills more than the US did,' so they went back to the Philippines to use them there."
+      },
+      {
+        "q": "Why did the narrator see more opportunity in the Philippines?",
+        "options": [
+          "It paid higher salaries than the US.",
+          "It offered a lower cost of living.",
+          "It had better universities.",
+          "It offered more challenges and problems to solve."
+        ],
+        "answer": 3,
+        "explanation": "The narrator says the Philippines had more challenges to face and more issues to try to solve."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-e8b93353",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:8a37de9e",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-e9e82607",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2+",
+    "title": "Glue Spill on My Desk",
+    "text": "I got in this morning and the cleaners had spilled some coffee / glue hybrid on my desk. It had gone all the way under a box file that I use to keep all my USB gadgets out of the way: It was very firmly stuck fast: Then I had to clean up. Which wasn't easy.",
+    "questions": [
+      {
+        "q": "Why did the narrator have to clean up their desk?",
+        "options": [
+          "The narrator spilled glue.",
+          "The narrator made a mess.",
+          "Their friends made a mess.",
+          "The cleaners made a mess."
+        ],
+        "answer": 3,
+        "explanation": "The cleaners spilled a coffee and glue mixture on the desk, and the narrator then had to clean it up."
+      },
+      {
+        "q": "Why was the mess hard to clean?",
+        "options": [
+          "The cleaners had removed all the supplies.",
+          "It had seeped under a box file and stuck fast.",
+          "It covered the keyboard and all the cables.",
+          "The narrator was late for a meeting."
+        ],
+        "answer": 1,
+        "explanation": "The mixture had gone under a box file and was 'very firmly stuck fast,' so cleaning it was not easy."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-e9e82607",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:6dc73f52",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-ea9231f9",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Pleased With Great Customer Service",
+    "text": "That was a very kind gesture from your team to allow me the privilege of signing up to your services at the reduced price that Steve mentioned on his Blog. Although I run a very small company, and you working for such a large company, I still had the feeling that you cared and took special interest in addressing my request. Even if you had come back and said \"sorry, we can't offer you the discount\", I would still feel that Steve, Clive and you had a pleasant personal touch addressing me by first name and replying to emails and phone calls almost immediately. To be perfectly honest with you, I thought that my original email to Steve would have had an automated reply and that it would be the end of the story.",
+    "questions": [
+      {
+        "q": "Why is the narrator so pleased with the business?",
+        "options": [
+          "They got a welcome letter from Steve.",
+          "They got a discount.",
+          "They got a date with Steve.",
+          "They got a welcome letter from Clive."
+        ],
+        "answer": 1,
+        "explanation": "The writer thanks the team for letting them sign up at a reduced price, which is the main reason they are pleased."
+      },
+      {
+        "q": "What had the writer expected after sending the first email?",
+        "options": [
+          "A phone call from a manager.",
+          "A refusal within a few minutes.",
+          "An automated reply and nothing more.",
+          "A free trial of every service."
+        ],
+        "answer": 2,
+        "explanation": "The writer thought the original email would get an automated reply and that it would be the end of the story."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-ea9231f9",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:d8e2da4f",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-ec901f46",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Toddlers Helping Clean Up",
+    "text": "If I asked her to clean up her own mess, she'd probably smile and laugh at me completely oblivious to what I was asking of her. My three and four year old on the other hand can \"help\" clean things up. They can put aways toys or games they take out and wipe up messes they make with supervision and sometimes a little help. They sometimes even ask for help cleaning some things up and depending on what needs to be cleaned up and how busy I am I may step in and help.",
+    "questions": [
+      {
+        "q": "What may happen after asking her to clean up the messes?",
+        "options": [
+          "She would laugh.",
+          "She would be respectful.",
+          "She would be loving.",
+          "She would listen."
+        ],
+        "answer": 0,
+        "explanation": "The writer expects her to 'smile and laugh' at the request, completely oblivious, unlike the older children."
+      },
+      {
+        "q": "What can the three and four year olds do?",
+        "options": [
+          "Cook simple meals alone.",
+          "Clean the whole house by themselves.",
+          "Put away toys and wipe up messes with supervision.",
+          "Wash the family car."
+        ],
+        "answer": 2,
+        "explanation": "The writer says the three and four year olds can put away toys and wipe up messes with supervision."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-ec901f46",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:d9ded218",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-eeb1b32f",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Lunch With Many Side Dishes",
+    "text": "I hardly been to the building before but she said it was nice. And so we took the monorail and stop at Jalan Raja Chulan station. I ordered one of my favourite salmon but with butter soya sauce, something new! It was quite nice and there were many side dishes like the miso soup, salads, pickles, eggs, mochi and appetizer.",
+    "questions": [
+      {
+        "q": "What did the narrator find unique about the meal?",
+        "options": [
+          "The amount of side dishes.",
+          "The location on the monorail.",
+          "Its proximity to the monorail.",
+          "The amount of waiters."
+        ],
+        "answer": 0,
+        "explanation": "The salmon meal came with miso soup, salads, pickles, eggs, mochi and an appetizer, so the many side dishes stood out."
+      },
+      {
+        "q": "How did the narrator and their companion reach the restaurant?",
+        "options": [
+          "They took the monorail to Jalan Raja Chulan station.",
+          "They drove through the city center.",
+          "They took a taxi from the airport.",
+          "They walked from the hotel."
+        ],
+        "answer": 0,
+        "explanation": "The text says they took the monorail and stopped at Jalan Raja Chulan station."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-eeb1b32f",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:1dc776d1",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-f1930d8f",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Front Row at the Pow Wow",
+    "text": "I got great seats right up front and was not disappointed. I was happy to see that I recognized many of the dancers from my first pow wow so I kind of knew who to keep an eye out for. My favorite dancer was there but I was disappointed that he didn't participate in the grass dance, he danced the men's traditional. I like the men's grass dance the best, they really get down!",
+    "questions": [
+      {
+        "q": "Why did they want to sit up front?",
+        "options": [
+          "So they could get picked for audience participation.",
+          "So they can record the event.",
+          "So they could see everything.",
+          "So they can try to pick up the guys."
+        ],
+        "answer": 2,
+        "explanation": "Sitting right up front gave a close view of the dancers the narrator recognized and wanted to watch."
+      },
+      {
+        "q": "Which dance does the narrator like best?",
+        "options": [
+          "The men's traditional dance.",
+          "The men's grass dance.",
+          "The women's jingle dance.",
+          "The fancy shawl dance."
+        ],
+        "answer": 1,
+        "explanation": "The narrator says they like the men's grass dance the best."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-f1930d8f",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:064b3823",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-f304425a",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "A Promotion at Work",
+    "text": "I haven't added anything here in awhile, so I decided I would post a little about what's been going on with my bad self. I got promoted at work to Technical Services Manager and now I am in charge of almost all of the daily operations at my work and also have a huge hand in infrastructure planning. I guess all my network geekery is starting to pay off.",
+    "questions": [
+      {
+        "q": "Why is the narrator so excited at work?",
+        "options": [
+          "They just got promoted.",
+          "They just got help with building the work infrastructure.",
+          "They just expanded their network.",
+          "They just got a new job."
+        ],
+        "answer": 0,
+        "explanation": "The narrator says they were promoted to Technical Services Manager and now run daily operations."
+      },
+      {
+        "q": "What does the narrator do besides manage daily operations?",
+        "options": [
+          "Train new employees on sales.",
+          "Handle customer complaints.",
+          "Design the company website.",
+          "Help plan the company's infrastructure."
+        ],
+        "answer": 3,
+        "explanation": "The narrator also has 'a huge hand in infrastructure planning.'"
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-f304425a",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:a5d52e4b",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-train-f5533a26",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Snow at a Spring Wedding",
+    "text": "This was my first wedding of the season. We had everything planned out so that we had lots of time to get outside for some spring looking photos at Riverside Park in Red Lake Falls. Mother Nature had other plans! Not only did it snow the day of Shayne and Katie's wedding (April 26th, may I remind you) but it snowed like a foot!",
+    "questions": [
+      {
+        "q": "Why would the narrator be upset at how the event went?",
+        "options": [
+          "The event was chaotic.",
+          "The weather did not comply.",
+          "The event was broken up by conflict.",
+          "The event featured a fight."
+        ],
+        "answer": 1,
+        "explanation": "The wedding was planned around spring photos outdoors, but it snowed about a foot on April 26th."
+      },
+      {
+        "q": "What had the narrator planned to do before the snow?",
+        "options": [
+          "Cancel the whole event",
+          "Take spring-style photos outside at the park",
+          "Hold the ceremony indoors only",
+          "Travel to another town"
+        ],
+        "answer": 1,
+        "explanation": "The text says they had lots of time planned for spring looking photos at Riverside Park."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-f5533a26",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:26febca1",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-f79161b3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2+",
+    "title": "A Burnt Matchstick",
+    "text": "But after several seconds, the fire runs out of stick, and all what's left is a teeny tiny burnt piece of wood. If that matchstick was my life, then I can say, \"Wow, checkit! Look at my fire! I'm so cool and stuff!\"",
+    "questions": [
+      {
+        "q": "Why did the fire burn out?",
+        "options": [
+          "It was tired of life.",
+          "It wanted to burn out.",
+          "Fire need material and oxygen to exist, and it ran out of material to leach life off.",
+          "It didn't want to exist anymore."
+        ],
+        "answer": 2,
+        "explanation": "The fire stopped because it ran out of stick, leaving only a tiny burnt piece of wood."
+      },
+      {
+        "q": "What is left of the matchstick at the end?",
+        "options": [
+          "A teeny tiny burnt piece of wood",
+          "A bright flame",
+          "A new unused match",
+          "A pile of ash and smoke"
+        ],
+        "answer": 0,
+        "explanation": "The text says all that is left is a teeny tiny burnt piece of wood."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-f79161b3",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:33bb3441",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-fe7fa0aa",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Focusing on Causes",
+    "text": "There's such a huge focus on global warming right now that we are forgetting other environmental issues and the reasons that the climate is changing like this. Global warming is a global problem, but for me it seems that people aren't seeing the whole picture. We're focusing on the effect and trying to fix that, but we're not seeing the cause.",
+    "questions": [
+      {
+        "q": "What might the person think is one solution?",
+        "options": [
+          "Emitting more greenhouse gases",
+          "Using more coal powered energy",
+          "Putting more cars on the road",
+          "Switching to solar power"
+        ],
+        "answer": 3,
+        "explanation": "The writer wants people to address the cause rather than the effect, and switching to solar power targets a cause of emissions."
+      },
+      {
+        "q": "What is the writer's main complaint?",
+        "options": [
+          "People focus on the effect, not the cause",
+          "People ignore climate scientists",
+          "Global warming is not a real problem",
+          "Governments spend too little on research"
+        ],
+        "answer": 0,
+        "explanation": "The text says we are focusing on the effect and trying to fix that, but not seeing the cause."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-fe7fa0aa",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:437a9f06",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-train-ffd11c86",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2+",
+    "title": "A Week Off Work",
+    "text": "Mikon's off this week. We're not doing anything * really * special, not flying anywhere or anything, but he's just happy to get time off work. A \"wow I can't believe I'm in the park on a weekday\" kind of thing.",
+    "questions": [
+      {
+        "q": "Why is Mikon looking more rested?",
+        "options": [
+          "Mikon has no responsibilities.",
+          "Mikon has gotten plenty of sleep.",
+          "Mikon has the week off.",
+          "Mikon has no job."
+        ],
+        "answer": 2,
+        "explanation": "The text says Mikon is off this week and is happy to get time off work."
+      },
+      {
+        "q": "What kind of week are they having?",
+        "options": [
+          "A week of long flights abroad",
+          "A busy week of home repairs",
+          "A relaxed week without big plans",
+          "A week of extra shifts"
+        ],
+        "answer": 2,
+        "explanation": "The text says they are not doing anything really special and not flying anywhere."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "train-ffd11c86",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:ea1a1b00",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-validation-00cec87e",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "New Runco TV Technology",
+    "text": "Runco's been back at the drawing board and they have some new TV's and new technology to show for it. First thing first though, we have to tell you about the new OPAL, or optical path alignment, image enhancement technology. First off, OPAL uses Ambient Light Rejection to reduce screen glare up to 20 times, enhancing image clarity in high ambient light environments without additional backlight brightness.",
+    "questions": [
+      {
+        "q": "Why did the company develop technology to reduce screen glare?",
+        "options": [
+          "Because screen glare reduces the quality of the images, under some conditions.",
+          "Because OPAL uses ambient light rejection.",
+          "Because the company has been back at the drawing board.",
+          "Because the company has some new TV's."
+        ],
+        "answer": 0,
+        "explanation": "Glare makes images harder to see in bright rooms, and OPAL is described as improving image clarity in those conditions."
+      },
+      {
+        "q": "What does OPAL stand for?",
+        "options": [
+          "Ambient light rejection",
+          "Optical path alignment",
+          "Output panel light",
+          "Optimal picture and lighting"
+        ],
+        "answer": 1,
+        "explanation": "The text defines OPAL as optical path alignment image enhancement technology."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-00cec87e",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:3922a89a",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-validation-077818de",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Meeting a Famous Person",
+    "text": "He makes you at ease immediately. I was nervous to walk up to him, not because he's scary, but because he's such a famous person and it's a bit intimidating to approach him. Once I got to talk to him, all that has vanished!",
+    "questions": [
+      {
+        "q": "How might it be possible that he makes you at ease immediately despite being so famous?",
+        "options": [
+          "It might be possible because he's a down to earth person but acts snobbish.",
+          "It might be possible because he's a famous person who tries to act snobbish.",
+          "It might be possible because he's snobbish person who tries to act down to earth.",
+          "It might be possible because he's a down to earth person who doesn't act snobbish."
+        ],
+        "answer": 3,
+        "explanation": "The writer says he puts people at ease even though he is famous, which suggests he is modest and unpretentious."
+      },
+      {
+        "q": "How did the writer feel before approaching him?",
+        "options": [
+          "Bored and impatient",
+          "Annoyed by the wait",
+          "Completely confident",
+          "Nervous because he is famous"
+        ],
+        "answer": 3,
+        "explanation": "The text says the writer was nervous because he is such a famous person and intimidating to approach."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-077818de",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:09eb119a",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-validation-082b5508",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2+",
+    "title": "Dancing the Quick Step",
+    "text": "They pretty much looked effortless, very elegant & quite beautiful... Kym Johnson and Warren Sapp were up next and they did t he quick step. It's amazing that a guy that big can work it so well. He has awesome footwork and he's a real pleasure to watch. I really love these two. Normally the quick step is a dance that looks best with a tall, lean couple.",
+    "questions": [
+      {
+        "q": "What may have caused Kym and Warren to do the quick step well?",
+        "options": [
+          "You need a guy that big to do the quick step.",
+          "They were a tall lean couple.",
+          "They had excellent mechanics.",
+          "Warren had excellent mechanics that carried Kym in the dance."
+        ],
+        "answer": 2,
+        "explanation": "The dancers looked effortless and elegant, and the writer praises Warren's awesome footwork, which suggests excellent technique."
+      },
+      {
+        "q": "What does the writer say about the quick step?",
+        "options": [
+          "It is easiest for large dancers",
+          "It is always performed last",
+          "It looks best with a tall, lean couple",
+          "It is rarely chosen"
+        ],
+        "answer": 2,
+        "explanation": "The text says the quick step normally looks best with a tall, lean couple."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-082b5508",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:983f523f",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-validation-0e8622d0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Meeting a Script Client",
+    "text": "So I went to Costa Mesa yesterday to meet a client for a script I am writing. We met for six hours and he described to me every scene he had planned out from notes written in pen covering two pieces of paper. After about an hour of this, a big black man in a purple shirt wandered into the Hilton lobby by himself. He was covered in tattoos, had a nose ring, and was smoking a cigar.",
+    "questions": [
+      {
+        "q": "Why did the writer go to meet a client about a script?",
+        "options": [
+          "Because they wanted to have a six hour meeting.",
+          "Because they really wanted to go to Costa Mesa.",
+          "Because they want the script to be used in a film or play.",
+          "Because they wanted to see a big, black man."
+        ],
+        "answer": 2,
+        "explanation": "The writer is working on a script for a client, so it is likely meant to be produced as a film or play."
+      },
+      {
+        "q": "How long did the writer and the client meet?",
+        "options": [
+          "Six hours",
+          "One hour",
+          "Two days",
+          "Half a day"
+        ],
+        "answer": 0,
+        "explanation": "The text says they met for six hours."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-0e8622d0",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:809db71d",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-validation-1617e8a2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Back From Stockholm",
+    "text": "Now I am back in England already since a week. Stockholm was great and climbing the cool stairs up the city hall tower was worth the flight price. The hostel we stayed in was very good as well although I did miss a kitchen. For two days however it was fully sufficient and we had lots of fun.",
+    "questions": [
+      {
+        "q": "What's a possible reason the writer missed a kitchen?",
+        "options": [
+          "Because Stockholm was great.",
+          "Because they are back in England.",
+          "Because they enjoy cooking.",
+          "Because the hostel was very good."
+        ],
+        "answer": 2,
+        "explanation": "The writer says the hostel was good but they missed a kitchen, which suggests they like to cook."
+      },
+      {
+        "q": "How long did the writer stay in Stockholm?",
+        "options": [
+          "A full month",
+          "One week",
+          "Only a few hours",
+          "About two days"
+        ],
+        "answer": 3,
+        "explanation": "The text says that for two days the hostel was fully sufficient."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-1617e8a2",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:82ee30d1",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-validation-2352f88c",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Skins at Powderhorn Golf Club",
+    "text": "Everyone has a lucky hole. Mark Foss finds the 12th at Powderhorn Golf Club to his liking: his birdie there held up again for a $149.50 skin. Geoff Nicely notched the other skin on Thursday with a birdie on the par-3 17th hole, and also took the pin shot there.",
+    "questions": [
+      {
+        "q": "What can be concluded about Mark Foss winning skins in the 12th hole at Powderhorn Golf Club?",
+        "options": [
+          "Mark Foss must have won at least three additional skin in the 12th hole previously.",
+          "Mark Foss must have won at least one additional skin in the 12th hole previously.",
+          "Mark Foss must have won at least two additional skins in the 12th hole previously.",
+          "Mark Foss must have won at least one additional skin in the another hole previously."
+        ],
+        "answer": 1,
+        "explanation": "The word again shows the 12th hole has produced a winning birdie for Mark before, so he won at least one other skin there."
+      },
+      {
+        "q": "Which hole gave Geoff Nicely his skin?",
+        "options": [
+          "The par-3 17th",
+          "The 12th",
+          "The 18th",
+          "The par-4 9th"
+        ],
+        "answer": 0,
+        "explanation": "The text says he notched the other skin with a birdie on the par-3 17th hole."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-2352f88c",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:9f14a482",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-validation-4496a365",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Buying Waterfront Property",
+    "text": "Maine waterfront property is subject to Maine Mandatory Shoreland Zoning. When buying a property there are some things that you need to know in order to make an informed decision about whether a specific property will work for you now and in the future. Here are 5 questions that you should ask your agent to determine the potential of a waterfront property. 1.",
+    "questions": [
+      {
+        "q": "Why should you ask your agent questions?",
+        "options": [
+          "Because the property is waterfront.",
+          "Because property is subject to Maine Mandatory Shoreland Zoning.",
+          "Because you should know all of the important information before buying property.",
+          "Because the property is in Maine."
+        ],
+        "answer": 2,
+        "explanation": "The text says buyers need certain information to make an informed decision before choosing a property."
+      },
+      {
+        "q": "What law applies to Maine waterfront property?",
+        "options": [
+          "Federal fishing rules",
+          "Local building permits",
+          "Mandatory Shoreland Zoning",
+          "Historic district rules"
+        ],
+        "answer": 2,
+        "explanation": "The text says Maine waterfront property is subject to Maine Mandatory Shoreland Zoning."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-4496a365",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:ca230de8",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-validation-537f37f2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Doubts About the Boat Trip",
+    "text": "My Mom doubted it. It was too great a risk to take. Sure the captain was good and all, but the boat was too small to go against the tides. My mom thought its engine wasn't big enough, and thought about the possibilities of \"what if it would die out?\"",
+    "questions": [
+      {
+        "q": "What did they probably do after the Mom had her doubts?",
+        "options": [
+          "They found a good captain.",
+          "They decided not to take the boat trip.",
+          "They put the small boat against the tides.",
+          "They took a great risk."
+        ],
+        "answer": 1,
+        "explanation": "The mother thought the trip was \"too great a risk\" because the small boat's engine might fail, so they likely cancelled it."
+      },
+      {
+        "q": "Why was the mother worried about the boat?",
+        "options": [
+          "Its engine might not be big enough",
+          "The captain was inexperienced",
+          "The weather forecast was bad",
+          "The tickets were too expensive"
+        ],
+        "answer": 0,
+        "explanation": "The text says she \"thought its engine wasn't big enough\" and feared it might die out."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-537f37f2",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:70b7b320",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-validation-543d238c",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Loving Handmade Art",
+    "text": "I love art in any shape or form! Just give me a piece of muslin, a needle and a thread and see what I come up with. I don't use too many tools and love creating the old fashioned way.",
+    "questions": [
+      {
+        "q": "What is probably true about the narrator?",
+        "options": [
+          "They aren't creative and artistic",
+          "They only like certain types of art",
+          "They like using different tools",
+          "They are creative and artistic"
+        ],
+        "answer": 3,
+        "explanation": "The narrator says \"I love art in any shape or form\" and enjoys creating by hand, which shows creativity."
+      },
+      {
+        "q": "Which materials does the narrator mention using?",
+        "options": [
+          "Clay and a kiln",
+          "Oil paints and canvas",
+          "Muslin, a needle and thread",
+          "A sewing machine and power tools"
+        ],
+        "answer": 2,
+        "explanation": "The narrator says to \"give me a piece of muslin, a needle and a thread\"."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-543d238c",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:df60cc10",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-validation-58932f49",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Who Will Be Queen of Teen",
+    "text": "A number of very popular writers have been holding their collective breaths for some time now, and crossing fingers and things, in the hope that she will be the one to become Queen of Teen at the end of September. They have each egged their fans on to vote for them, so we'll have to see who's been more persuasive than her colleagues. If I've got this right, I believe that a group of fans who nominated their favourite author, will be invited to come and meet her, and hopefully see her crowned.",
+    "questions": [
+      {
+        "q": "What may be the reason for the authors being anxious?",
+        "options": [
+          "There is a heated competition that they all want to win.",
+          "There is a heated competition between fans that they're trying to stop.",
+          "They have to organize a meet up with their teen fans.",
+          "The Queen of Teen is going to select an author as her \"successor.\""
+        ],
+        "answer": 0,
+        "explanation": "The authors are \"holding their collective breaths\" because each is urging fans to vote, so they all compete to win."
+      },
+      {
+        "q": "How will the winner be decided?",
+        "options": [
+          "By a panel of editors",
+          "By book sales figures",
+          "By a draw among the authors",
+          "By votes from fans"
+        ],
+        "answer": 3,
+        "explanation": "The text says the authors have \"egged their fans on to vote for them\"."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-58932f49",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:05a95aa2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-validation-69a4ddb0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "A Boy's First School Day",
+    "text": "Today is Nathaniel's first day of school. I miss him, but I am sure he is having a fabulous day! He was so excited about being back at school. He told me he was awake at about 6:00 AM and couldn't get back to sleep.",
+    "questions": [
+      {
+        "q": "What may have caused Nathaniel to wake up at 6:00 AM?",
+        "options": [
+          "He was worried about his first day at school.",
+          "He just couldn't go back to sleep.",
+          "He was anticipating today's events.",
+          "He was anticipating a day to miss school."
+        ],
+        "answer": 2,
+        "explanation": "Nathaniel \"was so excited about being back at school\", so he probably woke early anticipating the day."
+      },
+      {
+        "q": "How does the writer feel about Nathaniel's first day?",
+        "options": [
+          "Missing him but sure he is enjoying it",
+          "Worried that he is unhappy",
+          "Relieved that he is gone",
+          "Angry that he left early"
+        ],
+        "answer": 0,
+        "explanation": "The writer says \"I miss him, but I am sure he is having a fabulous day\"."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-69a4ddb0",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:29110f40",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-validation-8c0e19eb",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B1+",
+    "title": "A Campaign Sign Appears",
+    "text": "We figure that, since we live in a house on a pretty major intersection / street, some campaign guy came by and just slapped it up there without asking. On private property. So my neighbor took it down. I should have taken a picture or two.",
+    "questions": [
+      {
+        "q": "What did the campaign guy slap up there?",
+        "options": [
+          "A sign promoting his candidate.",
+          "A street.",
+          "A picture.",
+          "A major intersection."
+        ],
+        "answer": 0,
+        "explanation": "The writer assumes \"some campaign guy came by and just slapped it up there\", meaning a sign for a candidate."
+      },
+      {
+        "q": "Who took the sign down?",
+        "options": [
+          "The neighbor",
+          "The campaign worker",
+          "The writer",
+          "City officials"
+        ],
+        "answer": 0,
+        "explanation": "The text says \"my neighbor took it down\"."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-8c0e19eb",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:d2ede963",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-validation-8f8d303b",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Fighting Jet Lag in Dublin",
+    "text": "Our goal for the day was to make it without sleeping until 6 pm local time, which was quite a struggle. We were unable to get into our rooms until 2 pm, but due to our perserverence and the realization that we would only prolong the jetlag if we gave in, we valiantly made it until 4:30pm before lying down. We slept all night, woke up around 7:30am this morning, and I think we're good to go. Today we plan to see the Dublin Castle, and take a double decker bus tour of the city.",
+    "questions": [
+      {
+        "q": "Why did they try not to sleep until 6 pm?",
+        "options": [
+          "Because they wanted to adjust to the time at their new location.",
+          "Because they wanted to see Dublin castle.",
+          "Because they were unable to get into the rooms until 2 pm.",
+          "Because they wanted to prolong the jetlag."
+        ],
+        "answer": 0,
+        "explanation": "They stayed awake because they realized that \"we would only prolong the jetlag if we gave in\" and slept early."
+      },
+      {
+        "q": "What do they plan to do today?",
+        "options": [
+          "Rest in their rooms all day",
+          "Fly to another city",
+          "See Dublin Castle and take a bus tour",
+          "Go hiking in the countryside"
+        ],
+        "answer": 2,
+        "explanation": "The text says they plan \"to see the Dublin Castle, and take a double decker bus tour\"."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-8f8d303b",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:c96f7c0c",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-validation-9bc97008",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "A Busy Spring Break Week",
+    "text": "So, she isn't walking just yet, but I think we are getting close (not that I'm rushing her, but I think her poor little knees would appreciate the break!). We had a busy week here. Ben was on Spring Break so we bopped from from one adventure or craft to the next. We visited a butterfly farm outside of town, picked some more strawberries, visited the library, hung out at the park with friends, swam at the springs, splashed in our kiddie pool, took walks in the woods, and zipped down the slip and slide.",
+    "questions": [
+      {
+        "q": "What may have caused the week with her to be busy?",
+        "options": [
+          "Ben asked me to pick some strawberries for him.",
+          "We constantly did activities at the library.",
+          "We constantly switched between activities.",
+          "We weren't on Spring Break yet."
+        ],
+        "answer": 2,
+        "explanation": "The week was busy because they went \"from one adventure or craft to the next\", constantly switching activities."
+      },
+      {
+        "q": "Where did they go outside of town?",
+        "options": [
+          "To a butterfly farm",
+          "To a zoo",
+          "To the beach",
+          "To a science museum"
+        ],
+        "answer": 0,
+        "explanation": "The text says \"we visited a butterfly farm outside of town\"."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-9bc97008",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:065b5242",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-validation-afde5123",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2+",
+    "title": "A Welcome Pooh Balloon",
+    "text": "My good friend picked my up from the airport holding a nice pooh bear balloon. Nothing says welcome like pooh! Anyways we had an eventful ride from Tel Aviv to Haifa where I am living, asking everyone how to get to the University.",
+    "questions": [
+      {
+        "q": "Why did the writer's friend have a pooh bear balloon?",
+        "options": [
+          "Because they wanted to do something nice for the writer.",
+          "Because they had an eventful ride.",
+          "Because the writer lives in Haifa.",
+          "Because they were at the airport."
+        ],
+        "answer": 0,
+        "explanation": "The friend greeted the writer with \"a nice pooh bear balloon\", so it was a kind welcome gesture."
+      },
+      {
+        "q": "Where were the writer and friend traveling after the airport?",
+        "options": [
+          "Back to Tel Aviv",
+          "To a hotel in Jerusalem",
+          "To Haifa, where the writer lives",
+          "To another airport"
+        ],
+        "answer": 2,
+        "explanation": "The text says the ride went \"from Tel Aviv to Haifa where I am living\"."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-afde5123",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:020b2649",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-validation-c2d9a037",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Marking Garden Tools",
+    "text": "I also bought a roll of fuchsia electrical tape. I brought my new tools home and marked them well. I then showed them to my beloved and said \" when you see this tape you should think these are NOT my toys\"Now I'll gather up my Felco's, try and track down my Smith and Hawkin spade and fork and deliver them to the hardware store for resharpening. I'll buy a new set of Women'sWork gloves and they will all receive a dose of the coveted fuchsia electrical tape.",
+    "questions": [
+      {
+        "q": "What may happen after the tools are marked?",
+        "options": [
+          "The narrator will take the tools back to the hardware store.",
+          "The narrator will take the tools to be sharpened.",
+          "The narrator's partner will borrow the tools.",
+          "The narrator's partner will not touch the tools that have been marked."
+        ],
+        "answer": 3,
+        "explanation": "The narrator tells their partner that the fuchsia tape means \"these are NOT my toys\", so the partner should leave them alone."
+      },
+      {
+        "q": "Why did the narrator buy fuchsia tape?",
+        "options": [
+          "To repair the broken handles",
+          "To wrap gifts",
+          "To protect the blades",
+          "To mark the tools as the narrator's own"
+        ],
+        "answer": 3,
+        "explanation": "The narrator marked the tools so the partner would know \"these are NOT my toys\"."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-c2d9a037",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:edff2761",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-cosmos-validation-ccc51a73",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "A Perfect Day for Yardwork",
+    "text": "Yesterday was insanely gorgeous outside. It was in the mid-80's with a breeze. Richard and I did a bunch of yardwork, cleaning up leaves and whatnot. We came inside to clean the house from top to bottom, then went straight back out.",
+    "questions": [
+      {
+        "q": "How did they feel while working outside?",
+        "options": [
+          "They felt happy.",
+          "They felt it was too hot.",
+          "They were bored.",
+          "They felt too tired."
+        ],
+        "answer": 0,
+        "explanation": "The writer calls the day \"insanely gorgeous\" at mid-80s with a breeze, so they likely felt happy outside."
+      },
+      {
+        "q": "What was the weather like?",
+        "options": [
+          "Cold and snowy",
+          "Warm with a breeze",
+          "Rainy and windy",
+          "Freezing and cloudy"
+        ],
+        "answer": 1,
+        "explanation": "The text says \"it was in the mid-80's with a breeze\"."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-ccc51a73",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:5e8c8f15",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-validation-e23a87b0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Harley Sticker Parking Standoff",
+    "text": "I found out last night after stopping at the local Ace Hardware store. After I left the store and was putting on my gear, some guy pulled around and backed into the parking space immediately in front of me. His car had a HUGE Harley Davidson window sticker on it and I know he backed up in front of me only to make a statement. Well as he got out of his car, I had already started my Guzzi. I roared off and onto the road where I opened her up!",
+    "questions": [
+      {
+        "q": "What kind of statement was the guy with the Harley Davidson sticker on his car trying to make when he backed up in front of me?",
+        "options": [
+          "He was telling me that Harley Davidson motorcycles are better than Moto Guzzi motorcycles.",
+          "He was telling me that his favorite motorcycle company is better than Harley Davidson.",
+          "He was telling me that any motorcycle company is better than my favorite motorcycle company.",
+          "He was telling me that Moto Guzzi motorcycles are better than Harley Davidson motorcycles."
+        ],
+        "answer": 0,
+        "explanation": "The Harley sticker and his backing in front of the writer's Guzzi suggest he was claiming his brand is better."
+      },
+      {
+        "q": "How did the writer respond to the man's behavior?",
+        "options": [
+          "He complained to the store manager.",
+          "He moved his motorcycle to another space.",
+          "He rode away quickly onto the road.",
+          "He ignored the man and went back inside the store."
+        ],
+        "answer": 2,
+        "explanation": "The writer had already started the Guzzi and then roared off onto the road."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-e23a87b0",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:7f9c2f03",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-cosmos-validation-f570d999",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Whisking Oil Into Curd",
+    "text": "What a thrill just watching the little fellows jump and dance and burst. I dropped this onto the curd and gently whisked the mixture until the oil blended with the curd. I dipped a spoon in, and tasted the mixture.",
+    "questions": [
+      {
+        "q": "Why did the writer drop something onto the curd?",
+        "options": [
+          "Because little fellows were dancing.",
+          "Because they are making some kind of dish.",
+          "Because it was a thrill.",
+          "Because the writer wanted to dip a spoon in."
+        ],
+        "answer": 1,
+        "explanation": "The writer whisks oil into curd and tastes it, which shows they are preparing a dish."
+      },
+      {
+        "q": "What did the writer do right after blending the oil into the curd?",
+        "options": [
+          "Served the mixture to guests",
+          "Poured the mixture into a bowl to cool",
+          "Tasted the mixture with a spoon",
+          "Added more oil to the mixture"
+        ],
+        "answer": 2,
+        "explanation": "The writer says they dipped a spoon in and tasted the mixture."
+      }
+    ],
+    "source": "cosmosqa",
+    "sourceId": "validation-f570d999",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "cosmos:ctx:1ec185f9",
+    "origin": "adapted",
+    "topics": []
+  }
+]

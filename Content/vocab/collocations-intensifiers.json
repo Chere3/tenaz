@@ -1,0 +1,1562 @@
+[
+ {
+  "id": "collocations-intensifiers-highly-likely",
+  "headword": "highly likely",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "muy probable",
+  "definition": "very probable; used for predictions",
+  "example": "It is highly likely that the release will slip to next week.",
+  "exampleEs": "Es muy probable que el lanzamiento se retrase a la próxima semana.",
+  "cloze": "It is ____ likely that the release will slip to next week.",
+  "answer": "highly",
+  "distractors": [
+   "tightly",
+   "softly",
+   "narrowly"
+  ],
+  "collocations": [
+   "highly likely",
+   "highly unlikely",
+   "highly recommended"
+  ],
+  "note": "Use 'highly' with likely, unlikely, recommended, effective. Not 'very very very'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-deeply-concerned",
+  "headword": "deeply concerned",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "profundamente preocupado",
+  "definition": "worried in a serious, strong way",
+  "example": "The team is deeply concerned about the security of the new API.",
+  "exampleEs": "El equipo está profundamente preocupado por la seguridad de la nueva API.",
+  "cloze": "The team is ____ concerned about the security of the new API.",
+  "answer": "deeply",
+  "distractors": [
+   "widely",
+   "thinly",
+   "shortly"
+  ],
+  "collocations": [
+   "deeply concerned",
+   "deeply grateful",
+   "deeply worried"
+  ],
+  "note": "Concerned about + noun, not 'concerned of'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-extremely-useful",
+  "headword": "extremely useful",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "extremadamente útil",
+  "definition": "useful to a very high degree",
+  "example": "This debugging tool is extremely useful when the logs are messy.",
+  "exampleEs": "Esta herramienta de depuración es extremadamente útil cuando los logs están desordenados.",
+  "cloze": "This debugging tool is ____ useful when the logs are messy.",
+  "answer": "extremely",
+  "distractors": [
+   "bitterly",
+   "heavily",
+   "narrowly"
+  ],
+  "collocations": [
+   "extremely useful",
+   "extremely important",
+   "extremely difficult"
+  ],
+  "note": "Replaces 'very, very, very good': one strong adverb is enough.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-utterly-exhausted",
+  "headword": "utterly exhausted",
+  "pos": "collocation",
+  "cefr": "C1",
+  "es": "completamente agotado",
+  "definition": "completely tired, with no energy left",
+  "example": "After the all-night deployment, I was utterly exhausted.",
+  "exampleEs": "Después del despliegue de toda la noche, estaba completamente agotado.",
+  "cloze": "After the all-night deployment, I was ____ exhausted.",
+  "answer": "utterly",
+  "distractors": [
+   "tightly",
+   "softly",
+   "narrowly"
+  ],
+  "collocations": [
+   "utterly exhausted",
+   "utterly ridiculous",
+   "utterly impossible"
+  ],
+  "note": "Utterly goes with extreme words (exhausted, ridiculous), not with plain 'tired'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-heavily-rely-on",
+  "headword": "heavily rely on",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "depender mucho de",
+  "definition": "to depend on something a lot",
+  "example": "Our pipeline heavily relies on a single third-party service.",
+  "exampleEs": "Nuestro pipeline depende mucho de un solo servicio de terceros.",
+  "cloze": "Our pipeline ____ relies on a single third-party service.",
+  "answer": "heavily",
+  "distractors": [
+   "tightly",
+   "softly",
+   "thinly"
+  ],
+  "collocations": [
+   "heavily rely on",
+   "heavily depend on",
+   "heavily influenced"
+  ],
+  "note": "Always 'rely ON', never 'rely in'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-bitterly-disappointed",
+  "headword": "bitterly disappointed",
+  "pos": "collocation",
+  "cefr": "C1",
+  "es": "amargamente decepcionado",
+  "definition": "very disappointed and upset",
+  "example": "The founders were bitterly disappointed when the investors pulled out.",
+  "exampleEs": "Los fundadores quedaron amargamente decepcionados cuando los inversionistas se retiraron.",
+  "cloze": "The founders were ____ disappointed when the investors pulled out.",
+  "answer": "bitterly",
+  "distractors": [
+   "sweetly",
+   "loosely",
+   "cheerfully"
+  ],
+  "collocations": [
+   "bitterly disappointed",
+   "bitterly cold",
+   "bitterly regret"
+  ],
+  "note": "Bitterly is for negative feelings only.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-strongly-recommend",
+  "headword": "strongly recommend",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "recomendar encarecidamente",
+  "definition": "to recommend with a lot of conviction",
+  "example": "I strongly recommend that we test this before the demo.",
+  "exampleEs": "Recomiendo encarecidamente que lo probemos antes de la demo.",
+  "cloze": "I ____ recommend that we test this before the demo.",
+  "answer": "strongly",
+  "distractors": [
+   "tightly",
+   "narrowly",
+   "thinly"
+  ],
+  "collocations": [
+   "strongly recommend",
+   "strongly agree",
+   "strongly disagree"
+  ],
+  "note": "After 'recommend that', use the base verb: 'recommend that we test'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-firmly-believe",
+  "headword": "firmly believe",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "creer firmemente",
+  "definition": "to believe something with total certainty",
+  "example": "I firmly believe that small habits beat big plans.",
+  "exampleEs": "Creo firmemente que los hábitos pequeños superan a los planes grandes.",
+  "cloze": "I ____ believe that small habits beat big plans.",
+  "answer": "firmly",
+  "distractors": [
+   "loosely",
+   "softly",
+   "narrowly"
+  ],
+  "collocations": [
+   "firmly believe",
+   "firmly committed",
+   "firmly established"
+  ],
+  "note": "Good opinion opener in meetings: 'I firmly believe that...'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-widely-available",
+  "headword": "widely available",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "ampliamente disponible",
+  "definition": "easy to get in many places",
+  "example": "The model is widely available through several cloud providers.",
+  "exampleEs": "El modelo está ampliamente disponible en varios proveedores de nube.",
+  "cloze": "The model is ____ available through several cloud providers.",
+  "answer": "widely",
+  "distractors": [
+   "deeply",
+   "tightly",
+   "bitterly"
+  ],
+  "collocations": [
+   "widely available",
+   "widely used",
+   "widely known"
+  ],
+  "note": "Also 'widely believed', 'widely criticized'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-entirely-different",
+  "headword": "entirely different",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "completamente diferente",
+  "definition": "different in every way",
+  "example": "The two teams took entirely different approaches to the problem.",
+  "exampleEs": "Los dos equipos adoptaron enfoques completamente diferentes para el problema.",
+  "cloze": "The two teams took ____ different approaches to the problem.",
+  "answer": "entirely",
+  "distractors": [
+   "tightly",
+   "softly",
+   "bitterly"
+  ],
+  "collocations": [
+   "entirely different",
+   "entirely new",
+   "entirely possible"
+  ],
+  "note": "Entirely is not used with gradable words like 'good' or 'big'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-fully-aware",
+  "headword": "fully aware",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "plenamente consciente",
+  "definition": "completely conscious of something",
+  "example": "I am fully aware that the deadline is tight.",
+  "exampleEs": "Soy plenamente consciente de que la fecha límite es ajustada.",
+  "cloze": "I am ____ aware that the deadline is tight.",
+  "answer": "fully",
+  "distractors": [
+   "heavily",
+   "bitterly",
+   "tightly"
+  ],
+  "collocations": [
+   "fully aware",
+   "fully understand",
+   "fully committed"
+  ],
+  "note": "Aware OF something, not 'aware about'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-perfectly-clear",
+  "headword": "perfectly clear",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "perfectamente claro",
+  "definition": "completely easy to understand",
+  "example": "Her instructions were perfectly clear, so I started right away.",
+  "exampleEs": "Sus instrucciones eran perfectamente claras, así que empecé de inmediato.",
+  "cloze": "Her instructions were ____ clear, so I started right away.",
+  "answer": "perfectly",
+  "distractors": [
+   "heavily",
+   "bitterly",
+   "deeply"
+  ],
+  "collocations": [
+   "perfectly clear",
+   "perfectly normal",
+   "perfectly fine"
+  ],
+  "note": "Perfectly works with clear, normal, fine, reasonable.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-absolutely-essential",
+  "headword": "absolutely essential",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "absolutamente esencial",
+  "definition": "completely necessary",
+  "example": "Clear communication is absolutely essential in remote teams.",
+  "exampleEs": "La comunicación clara es absolutamente esencial en los equipos remotos.",
+  "cloze": "Clear communication is ____ essential in remote teams.",
+  "answer": "absolutely",
+  "distractors": [
+   "slightly",
+   "barely",
+   "mildly"
+  ],
+  "collocations": [
+   "absolutely essential",
+   "absolutely certain",
+   "absolutely fantastic"
+  ],
+  "note": "Absolutely goes with extreme adjectives; not 'absolutely good'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-totally-unacceptable",
+  "headword": "totally unacceptable",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "totalmente inaceptable",
+  "definition": "completely not acceptable",
+  "example": "Missing the client call without notice is totally unacceptable.",
+  "exampleEs": "Faltar a la llamada con el cliente sin avisar es totalmente inaceptable.",
+  "cloze": "Missing the client call without notice is ____ unacceptable.",
+  "answer": "totally",
+  "distractors": [
+   "heavily",
+   "narrowly",
+   "tightly"
+  ],
+  "collocations": [
+   "totally unacceptable",
+   "totally different",
+   "totally agree"
+  ],
+  "note": "In speech, 'I totally agree' is very common.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-painfully-slow",
+  "headword": "painfully slow",
+  "pos": "collocation",
+  "cefr": "C1",
+  "es": "dolorosamente lento",
+  "definition": "so slow that it is frustrating",
+  "example": "The old build process was painfully slow, so we replaced it.",
+  "exampleEs": "El proceso de compilación anterior era dolorosamente lento, así que lo reemplazamos.",
+  "cloze": "The old build process was ____ slow, so we replaced it.",
+  "answer": "painfully",
+  "distractors": [
+   "happily",
+   "brightly",
+   "warmly"
+  ],
+  "collocations": [
+   "painfully slow",
+   "painfully obvious",
+   "painfully shy"
+  ],
+  "note": "Painfully is used for annoying or awkward qualities.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-genuinely-interested",
+  "headword": "genuinely interested",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "genuinamente interesado",
+  "definition": "really interested, not pretending",
+  "example": "I am genuinely interested in how the team handles feedback.",
+  "exampleEs": "Estoy genuinamente interesado en cómo el equipo maneja la retroalimentación.",
+  "cloze": "I am ____ interested in how the team handles feedback.",
+  "answer": "genuinely",
+  "distractors": [
+   "heavily",
+   "tightly",
+   "bitterly"
+  ],
+  "collocations": [
+   "genuinely interested",
+   "genuinely surprised",
+   "genuinely excited"
+  ],
+  "note": "Interested IN, not 'interested on'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-deeply-rooted",
+  "headword": "deeply rooted",
+  "pos": "collocation",
+  "cefr": "C1",
+  "es": "profundamente arraigado",
+  "definition": "strongly established and hard to change",
+  "example": "Their fear of failure is deeply rooted in the company culture.",
+  "exampleEs": "Su miedo al fracaso está profundamente arraigado en la cultura de la empresa.",
+  "cloze": "Their fear of failure is ____ rooted in the company culture.",
+  "answer": "deeply",
+  "distractors": [
+   "softly",
+   "narrowly",
+   "happily"
+  ],
+  "collocations": [
+   "deeply rooted",
+   "deeply ingrained",
+   "deeply flawed"
+  ],
+  "note": "Rooted IN something.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-acutely-aware",
+  "headword": "acutely aware",
+  "pos": "collocation",
+  "cefr": "C1",
+  "es": "muy consciente (agudamente)",
+  "definition": "very sharply conscious of something",
+  "example": "I am acutely aware that the budget is limited this quarter.",
+  "exampleEs": "Soy muy consciente de que el presupuesto es limitado este trimestre.",
+  "cloze": "I am ____ aware that the budget is limited this quarter.",
+  "answer": "acutely",
+  "distractors": [
+   "gently",
+   "softly",
+   "warmly"
+  ],
+  "collocations": [
+   "acutely aware",
+   "acutely sensitive",
+   "acutely embarrassed"
+  ],
+  "note": "More formal than 'very aware'; good for meetings.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-vividly-remember",
+  "headword": "vividly remember",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "recordar vívidamente",
+  "definition": "to remember in clear, detailed images",
+  "example": "I vividly remember my first day at a real software job.",
+  "exampleEs": "Recuerdo vívidamente mi primer día en un trabajo real de software.",
+  "cloze": "I ____ remember my first day at a real software job.",
+  "answer": "vividly",
+  "distractors": [
+   "heavily",
+   "tightly",
+   "narrowly"
+  ],
+  "collocations": [
+   "vividly remember",
+   "vividly describe",
+   "vividly recall"
+  ],
+  "note": "'Remember doing' = recall the event.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-sharply-increase",
+  "headword": "sharply increase",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "aumentar bruscamente",
+  "definition": "to go up quickly and by a large amount",
+  "example": "Server costs sharply increased after the launch.",
+  "exampleEs": "Los costos del servidor aumentaron bruscamente después del lanzamiento.",
+  "cloze": "Server costs ____ increased after the launch.",
+  "answer": "sharply",
+  "distractors": [
+   "softly",
+   "warmly",
+   "politely"
+  ],
+  "collocations": [
+   "sharply increase",
+   "sharply decline",
+   "sharply rise"
+  ],
+  "note": "Good for describing charts and trends.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-steadily-improve",
+  "headword": "steadily improve",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "mejorar de forma constante",
+  "definition": "to get better at a regular, continuous pace",
+  "example": "My listening has steadily improved since I started daily practice.",
+  "exampleEs": "Mi comprensión auditiva ha mejorado de forma constante desde que empecé a practicar a diario.",
+  "cloze": "My listening has ____ improved since I started daily practice.",
+  "answer": "steadily",
+  "distractors": [
+   "bitterly",
+   "politely",
+   "warmly"
+  ],
+  "collocations": [
+   "steadily improve",
+   "steadily grow",
+   "steadily decline"
+  ],
+  "note": "Present perfect for change up to now: 'has steadily improved'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-drastically-reduce",
+  "headword": "drastically reduce",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "reducir drásticamente",
+  "definition": "to make much smaller in a big, sudden way",
+  "example": "Caching can drastically reduce the response time.",
+  "exampleEs": "El caché puede reducir drásticamente el tiempo de respuesta.",
+  "cloze": "Caching can ____ reduce the response time.",
+  "answer": "drastically",
+  "distractors": [
+   "politely",
+   "warmly",
+   "happily"
+  ],
+  "collocations": [
+   "drastically reduce",
+   "drastically change",
+   "drastically different"
+  ],
+  "note": "Drastically goes with change words: reduce, change, cut.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-fiercely-competitive",
+  "headword": "fiercely competitive",
+  "pos": "collocation",
+  "cefr": "C1",
+  "es": "ferozmente competitivo",
+  "definition": "very competitive and determined to win",
+  "example": "The AI market is fiercely competitive right now.",
+  "exampleEs": "El mercado de la IA es ferozmente competitivo en este momento.",
+  "cloze": "The AI market is ____ competitive right now.",
+  "answer": "fiercely",
+  "distractors": [
+   "politely",
+   "softly",
+   "sweetly"
+  ],
+  "collocations": [
+   "fiercely competitive",
+   "fiercely loyal",
+   "fiercely independent"
+  ],
+  "note": "Fiercely goes with competitive, loyal, independent.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-strictly-confidential",
+  "headword": "strictly confidential",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "estrictamente confidencial",
+  "definition": "absolutely private; not to be shared",
+  "example": "The clinical data is strictly confidential and cannot leave the system.",
+  "exampleEs": "Los datos clínicos son estrictamente confidenciales y no pueden salir del sistema.",
+  "cloze": "The clinical data is ____ confidential and cannot leave the system.",
+  "answer": "strictly",
+  "distractors": [
+   "softly",
+   "warmly",
+   "sweetly"
+  ],
+  "collocations": [
+   "strictly confidential",
+   "strictly forbidden",
+   "strictly speaking"
+  ],
+  "note": "Useful in pharma and compliance contexts.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-readily-available",
+  "headword": "readily available",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "fácilmente disponible",
+  "definition": "easy to get immediately",
+  "example": "The documentation is readily available on the internal wiki.",
+  "exampleEs": "La documentación está fácilmente disponible en la wiki interna.",
+  "cloze": "The documentation is ____ available on the internal wiki.",
+  "answer": "readily",
+  "distractors": [
+   "tightly",
+   "bitterly",
+   "narrowly"
+  ],
+  "collocations": [
+   "readily available",
+   "readily admit",
+   "readily accessible"
+  ],
+  "note": "Readily also means 'without hesitation': 'she readily agreed'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-increasingly-important",
+  "headword": "increasingly important",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "cada vez más importante",
+  "definition": "becoming more important over time",
+  "example": "Data privacy is becoming increasingly important for every product.",
+  "exampleEs": "La privacidad de los datos se está volviendo cada vez más importante para todo producto.",
+  "cloze": "Data privacy is becoming ____ important for every product.",
+  "answer": "increasingly",
+  "distractors": [
+   "tightly",
+   "softly",
+   "bitterly"
+  ],
+  "collocations": [
+   "increasingly important",
+   "increasingly common",
+   "increasingly difficult"
+  ],
+  "note": "Spanish 'cada vez más' = increasingly.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-vastly-different",
+  "headword": "vastly different",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "enormemente diferente",
+  "definition": "different by a very large amount",
+  "example": "The two proposals are vastly different in cost and scope.",
+  "exampleEs": "Las dos propuestas son enormemente diferentes en costo y alcance.",
+  "cloze": "The two proposals are ____ different in cost and scope.",
+  "answer": "vastly",
+  "distractors": [
+   "tightly",
+   "softly",
+   "warmly"
+  ],
+  "collocations": [
+   "vastly different",
+   "vastly improved",
+   "vastly overrated"
+  ],
+  "note": "Use with comparatives: 'vastly better'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-mutually-beneficial",
+  "headword": "mutually beneficial",
+  "pos": "collocation",
+  "cefr": "C1",
+  "es": "mutuamente beneficioso",
+  "definition": "good for both sides",
+  "example": "We want a mutually beneficial partnership with the lab.",
+  "exampleEs": "Queremos una alianza mutuamente beneficiosa con el laboratorio.",
+  "cloze": "We want a ____ beneficial partnership with the lab.",
+  "answer": "mutually",
+  "distractors": [
+   "narrowly",
+   "softly",
+   "warmly"
+  ],
+  "collocations": [
+   "mutually beneficial",
+   "mutually exclusive",
+   "mutually agreed"
+  ],
+  "note": "Common in business and negotiation.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-closely-monitor",
+  "headword": "closely monitor",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "monitorear de cerca",
+  "definition": "to watch carefully and continuously",
+  "example": "We will closely monitor the error rate after the update.",
+  "exampleEs": "Vamos a monitorear de cerca la tasa de errores después de la actualización.",
+  "cloze": "We will ____ monitor the error rate after the update.",
+  "answer": "closely",
+  "distractors": [
+   "politely",
+   "warmly",
+   "happily"
+  ],
+  "collocations": [
+   "closely monitor",
+   "closely related",
+   "closely follow"
+  ],
+  "note": "The verb is 'monitor', not 'monitorize' (false friend).",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-thoroughly-enjoy",
+  "headword": "thoroughly enjoy",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "disfrutar muchísimo",
+  "definition": "to enjoy completely",
+  "example": "I thoroughly enjoyed the workshop on prompt design.",
+  "exampleEs": "Disfruté muchísimo el taller sobre diseño de prompts.",
+  "cloze": "I ____ enjoyed the workshop on prompt design.",
+  "answer": "thoroughly",
+  "distractors": [
+   "narrowly",
+   "thinly",
+   "tightly"
+  ],
+  "collocations": [
+   "thoroughly enjoy",
+   "thoroughly test",
+   "thoroughly review"
+  ],
+  "note": "Thoroughly also means 'carefully and completely'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-sincerely-apologize",
+  "headword": "sincerely apologize",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "disculparse sinceramente",
+  "definition": "to say sorry in an honest way",
+  "example": "I sincerely apologize for the confusion in yesterday's meeting.",
+  "exampleEs": "Me disculpo sinceramente por la confusión en la reunión de ayer.",
+  "cloze": "I ____ apologize for the confusion in yesterday's meeting.",
+  "answer": "sincerely",
+  "distractors": [
+   "tightly",
+   "thinly",
+   "heavily"
+  ],
+  "collocations": [
+   "sincerely apologize",
+   "sincerely hope",
+   "sincerely grateful"
+  ],
+  "note": "Apologize FOR something, to someone.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-fundamentally-flawed",
+  "headword": "fundamentally flawed",
+  "pos": "collocation",
+  "cefr": "C1",
+  "es": "fundamentalmente defectuoso",
+  "definition": "wrong at the most basic level",
+  "example": "The experiment design was fundamentally flawed from the start.",
+  "exampleEs": "El diseño del experimento estaba fundamentalmente defectuoso desde el inicio.",
+  "cloze": "The experiment design was ____ flawed from the start.",
+  "answer": "fundamentally",
+  "distractors": [
+   "politely",
+   "warmly",
+   "happily"
+  ],
+  "collocations": [
+   "fundamentally flawed",
+   "fundamentally different",
+   "fundamentally change"
+  ],
+  "note": "A strong critique phrase for reviews.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-seriously-consider",
+  "headword": "seriously consider",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "considerar seriamente",
+  "definition": "to think about something carefully as a real option",
+  "example": "You should seriously consider asking for a clearer scope.",
+  "exampleEs": "Deberías considerar seriamente pedir un alcance más claro.",
+  "cloze": "You should ____ consider asking for a clearer scope.",
+  "answer": "seriously",
+  "distractors": [
+   "warmly",
+   "softly",
+   "happily"
+  ],
+  "collocations": [
+   "seriously consider",
+   "seriously injured",
+   "seriously underestimate"
+  ],
+  "note": "Consider + -ing: 'consider asking'.",
+  "tags": [
+   "intensifier"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-make-decision",
+  "headword": "make a decision",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "tomar una decisión",
+  "definition": "to choose after thinking",
+  "example": "We need to make a decision before Friday.",
+  "exampleEs": "Necesitamos tomar una decisión antes del viernes.",
+  "cloze": "We need to ____ a decision before Friday.",
+  "answer": "make",
+  "distractors": [
+   "do",
+   "go",
+   "hold"
+  ],
+  "collocations": [
+   "make a decision",
+   "make a choice",
+   "make a plan"
+  ],
+  "note": "Spanish 'tomar' is not 'take' here: 'make a decision'.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-take-risk",
+  "headword": "take a risk",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "correr un riesgo",
+  "definition": "to do something that might fail",
+  "example": "Startups have to take a risk to grow quickly.",
+  "exampleEs": "Las startups tienen que correr un riesgo para crecer rápido.",
+  "cloze": "Startups have to ____ a risk to grow quickly.",
+  "answer": "take",
+  "distractors": [
+   "do",
+   "fit",
+   "hold"
+  ],
+  "collocations": [
+   "take a risk",
+   "take a chance",
+   "take a step"
+  ],
+  "note": "Also 'run the risk of' + -ing.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-pay-attention",
+  "headword": "pay attention",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "prestar atención",
+  "definition": "to focus on something",
+  "example": "Please pay attention to the error messages in the logs.",
+  "exampleEs": "Por favor presta atención a los mensajes de error en los logs.",
+  "cloze": "Please ____ attention to the error messages in the logs.",
+  "answer": "pay",
+  "distractors": [
+   "make",
+   "do",
+   "hold"
+  ],
+  "collocations": [
+   "pay attention",
+   "pay a visit",
+   "pay a compliment"
+  ],
+  "note": "Pay attention TO, not 'pay attention in'.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-raise-concern",
+  "headword": "raise a concern",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "expresar una preocupación",
+  "definition": "to bring up a worry so others discuss it",
+  "example": "I want to raise a concern about the testing timeline.",
+  "exampleEs": "Quiero plantear una preocupación sobre el calendario de pruebas.",
+  "cloze": "I want to ____ a concern about the testing timeline.",
+  "answer": "raise",
+  "distractors": [
+   "rise",
+   "grow",
+   "build"
+  ],
+  "collocations": [
+   "raise a concern",
+   "raise an issue",
+   "raise a question"
+  ],
+  "note": "Raise needs an object; 'rise' does not.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-carry-out-research",
+  "headword": "carry out research",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "llevar a cabo una investigación",
+  "definition": "to do research in an organized way",
+  "example": "The team will carry out research on user retention next month.",
+  "exampleEs": "El equipo llevará a cabo una investigación sobre la retención de usuarios el próximo mes.",
+  "cloze": "The team will ____ out research on user retention next month.",
+  "answer": "carry",
+  "distractors": [
+   "go",
+   "fall",
+   "lie"
+  ],
+  "collocations": [
+   "carry out research",
+   "carry out a test",
+   "carry out a plan"
+  ],
+  "note": "Formal alternative to 'do research'.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-conduct-survey",
+  "headword": "conduct a survey",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "realizar una encuesta",
+  "definition": "to organize and run a survey",
+  "example": "We conducted a survey to learn what users actually want.",
+  "exampleEs": "Realizamos una encuesta para saber qué quieren realmente los usuarios.",
+  "cloze": "We ____ a survey to learn what users actually want.",
+  "answer": "conducted",
+  "distractors": [
+   "wore",
+   "drove",
+   "painted"
+  ],
+  "collocations": [
+   "conduct a survey",
+   "conduct an interview",
+   "conduct an experiment"
+  ],
+  "note": "Stress: con-DUCT (verb) vs CON-duct (noun).",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-meet-deadline",
+  "headword": "meet a deadline",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "cumplir con una fecha límite",
+  "definition": "to finish something on time",
+  "example": "The whole team worked hard to meet the deadline.",
+  "exampleEs": "Todo el equipo trabajó duro para cumplir con la fecha límite.",
+  "cloze": "The whole team worked hard to ____ the deadline.",
+  "answer": "meet",
+  "distractors": [
+   "catch",
+   "win",
+   "carry"
+  ],
+  "collocations": [
+   "meet a deadline",
+   "meet a requirement",
+   "meet expectations"
+  ],
+  "note": "'Cumplir' = meet; not 'fulfill the deadline'.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-reach-conclusion",
+  "headword": "reach a conclusion",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "llegar a una conclusión",
+  "definition": "to decide after thinking or discussing",
+  "example": "After two hours, the committee reached a conclusion.",
+  "exampleEs": "Después de dos horas, el comité llegó a una conclusión.",
+  "cloze": "After two hours, the committee ____ a conclusion.",
+  "answer": "reached",
+  "distractors": [
+   "arrived",
+   "came",
+   "climbed"
+  ],
+  "collocations": [
+   "reach a conclusion",
+   "reach an agreement",
+   "reach a goal"
+  ],
+  "note": "'Arrive at' also works, but not 'arrive a conclusion'.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-draw-conclusion",
+  "headword": "draw a conclusion",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "sacar una conclusión",
+  "definition": "to form an opinion from evidence",
+  "example": "It is too early to draw a conclusion from this data.",
+  "exampleEs": "Es muy pronto para sacar una conclusión de estos datos.",
+  "cloze": "It is too early to ____ a conclusion from this data.",
+  "answer": "draw",
+  "distractors": [
+   "paint",
+   "pull",
+   "carry"
+  ],
+  "collocations": [
+   "draw a conclusion",
+   "draw attention to",
+   "draw a comparison"
+  ],
+  "note": "Spanish 'sacar una conclusión' becomes 'draw', not 'take out'.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-hold-meeting",
+  "headword": "hold a meeting",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "llevar a cabo una reunión",
+  "definition": "to organize and run a meeting",
+  "example": "We will hold a meeting with the clinical team on Monday.",
+  "exampleEs": "Llevaremos a cabo una reunión con el equipo clínico el lunes.",
+  "cloze": "We will ____ a meeting with the clinical team on Monday.",
+  "answer": "hold",
+  "distractors": [
+   "make",
+   "do",
+   "carry"
+  ],
+  "collocations": [
+   "hold a meeting",
+   "hold a discussion",
+   "hold a vote"
+  ],
+  "note": "In casual speech, 'have a meeting' is also fine. Not 'make a meeting'.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-give-presentation",
+  "headword": "give a presentation",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "dar una presentación",
+  "definition": "to present something to an audience",
+  "example": "She will give a presentation about the new model.",
+  "exampleEs": "Ella dará una presentación sobre el nuevo modelo.",
+  "cloze": "She will ____ a presentation about the new model.",
+  "answer": "give",
+  "distractors": [
+   "bring",
+   "carry",
+   "pass"
+  ],
+  "collocations": [
+   "give a presentation",
+   "give a talk",
+   "give feedback"
+  ],
+  "note": "Spanish 'dar' maps well to 'give' here.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-set-goal",
+  "headword": "set a goal",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "fijar una meta",
+  "definition": "to decide what you want to achieve",
+  "example": "I set a goal to pass the exam in six months.",
+  "exampleEs": "Me fijé la meta de aprobar el examen en seis meses.",
+  "cloze": "I ____ a goal to pass the exam in six months.",
+  "answer": "set",
+  "distractors": [
+   "put",
+   "do",
+   "lay"
+  ],
+  "collocations": [
+   "set a goal",
+   "set a deadline",
+   "set an example"
+  ],
+  "note": "Past of set is also set.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-face-challenge",
+  "headword": "face a challenge",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "enfrentar un desafío",
+  "definition": "to deal with something difficult",
+  "example": "Every new developer will face a challenge like this one.",
+  "exampleEs": "Todo desarrollador nuevo enfrentará un desafío como este.",
+  "cloze": "Every new developer will ____ a challenge like this one.",
+  "answer": "face",
+  "distractors": [
+   "do",
+   "drive",
+   "catch"
+  ],
+  "collocations": [
+   "face a challenge",
+   "face a problem",
+   "face criticism"
+  ],
+  "note": "Face has no preposition: 'face a challenge', not 'face with'.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-overcome-obstacle",
+  "headword": "overcome an obstacle",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "superar un obstáculo",
+  "definition": "to succeed in dealing with a difficulty",
+  "example": "They overcame many obstacles to get approval for the study.",
+  "exampleEs": "Superaron muchos obstáculos para obtener la aprobación del estudio.",
+  "cloze": "They ____ many obstacles to get approval for the study.",
+  "answer": "overcame",
+  "distractors": [
+   "overcooked",
+   "overheated",
+   "oversaw"
+  ],
+  "collocations": [
+   "overcome an obstacle",
+   "overcome a fear",
+   "overcome a difficulty"
+  ],
+  "note": "Past tense is irregular: overcome, overcame, overcome.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-play-role",
+  "headword": "play a role",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "desempeñar un papel",
+  "definition": "to have a part or influence in something",
+  "example": "Communication plays a key role in remote teams.",
+  "exampleEs": "La comunicación desempeña un papel clave en los equipos remotos.",
+  "cloze": "Communication ____ a key role in remote teams.",
+  "answer": "plays",
+  "distractors": [
+   "makes",
+   "does",
+   "lifts"
+  ],
+  "collocations": [
+   "play a role",
+   "play a part",
+   "play a key role"
+  ],
+  "note": "Also 'play an important role in' + noun.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-make-progress",
+  "headword": "make progress",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "avanzar, hacer progresos",
+  "definition": "to move forward or improve",
+  "example": "We are making progress on the migration.",
+  "exampleEs": "Estamos avanzando en la migración.",
+  "cloze": "We are ____ progress on the migration.",
+  "answer": "making",
+  "distractors": [
+   "doing",
+   "taking",
+   "getting"
+  ],
+  "collocations": [
+   "make progress",
+   "make an effort",
+   "make an improvement"
+  ],
+  "note": "'Progress' is uncountable: never 'a progress'.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-run-test",
+  "headword": "run a test",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "ejecutar una prueba",
+  "definition": "to execute a test",
+  "example": "Let me run a test on the new build.",
+  "exampleEs": "Déjame ejecutar una prueba en el nuevo build.",
+  "cloze": "Let me ____ a test on the new build.",
+  "answer": "run",
+  "distractors": [
+   "walk",
+   "jump",
+   "swim"
+  ],
+  "collocations": [
+   "run a test",
+   "run an experiment",
+   "run a script"
+  ],
+  "note": "Common in tech: run a script, run a query.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-build-trust",
+  "headword": "build trust",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "generar confianza",
+  "definition": "to slowly create trust",
+  "example": "Honest updates help build trust with stakeholders.",
+  "exampleEs": "Las actualizaciones honestas ayudan a generar confianza con los interesados.",
+  "cloze": "Honest updates help ____ trust with stakeholders.",
+  "answer": "build",
+  "distractors": [
+   "bake",
+   "wear",
+   "dig"
+  ],
+  "collocations": [
+   "build trust",
+   "build a relationship",
+   "build momentum"
+  ],
+  "note": "'Stakeholders' is a common meeting word.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-strike-balance",
+  "headword": "strike a balance",
+  "pos": "collocation",
+  "cefr": "C1",
+  "es": "encontrar un equilibrio",
+  "definition": "to find a fair middle point between two things",
+  "example": "It is hard to strike a balance between speed and quality.",
+  "exampleEs": "Es difícil encontrar un equilibrio entre velocidad y calidad.",
+  "cloze": "It is hard to ____ a balance between speed and quality.",
+  "answer": "strike",
+  "distractors": [
+   "kick",
+   "punch",
+   "slap"
+  ],
+  "collocations": [
+   "strike a balance",
+   "strike a deal",
+   "strike a chord"
+  ],
+  "note": "Balance BETWEEN two things.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-spark-debate",
+  "headword": "spark a debate",
+  "pos": "collocation",
+  "cefr": "C1",
+  "es": "desatar un debate",
+  "definition": "to start a lively discussion",
+  "example": "The announcement sparked a heated debate in the community.",
+  "exampleEs": "El anuncio desató un debate acalorado en la comunidad.",
+  "cloze": "The announcement ____ a heated debate in the community.",
+  "answer": "sparked",
+  "distractors": [
+   "froze",
+   "drowned",
+   "washed"
+  ],
+  "collocations": [
+   "spark a debate",
+   "spark interest",
+   "spark controversy"
+  ],
+  "note": "Great for Discord and online community topics.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-shed-light-on",
+  "headword": "shed light on",
+  "pos": "collocation",
+  "cefr": "C1",
+  "es": "aclarar, arrojar luz sobre",
+  "definition": "to help explain something",
+  "example": "The report sheds light on why users leave in the first week.",
+  "exampleEs": "El informe aclara por qué los usuarios se van en la primera semana.",
+  "cloze": "The report ____ light on why users leave in the first week.",
+  "answer": "sheds",
+  "distractors": [
+   "washes",
+   "kicks",
+   "knits"
+  ],
+  "collocations": [
+   "shed light on",
+   "shed light on the problem",
+   "shed doubt"
+  ],
+  "note": "Shed is irregular: shed, shed, shed.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-pose-threat",
+  "headword": "pose a threat",
+  "pos": "collocation",
+  "cefr": "C1",
+  "es": "representar una amenaza",
+  "definition": "to be a possible danger",
+  "example": "Weak passwords pose a serious threat to the whole system.",
+  "exampleEs": "Las contraseñas débiles representan una amenaza seria para todo el sistema.",
+  "cloze": "Weak passwords ____ a serious threat to the whole system.",
+  "answer": "pose",
+  "distractors": [
+   "sit",
+   "stand",
+   "lie"
+  ],
+  "collocations": [
+   "pose a threat",
+   "pose a risk",
+   "pose a question"
+  ],
+  "note": "Pose a threat TO something.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-voice-concern",
+  "headword": "voice a concern",
+  "pos": "collocation",
+  "cefr": "C1",
+  "es": "expresar una preocupación",
+  "definition": "to say a worry out loud",
+  "example": "Several engineers voiced concerns about the new schedule.",
+  "exampleEs": "Varios ingenieros expresaron preocupaciones sobre el nuevo calendario.",
+  "cloze": "Several engineers ____ concerns about the new schedule.",
+  "answer": "voiced",
+  "distractors": [
+   "noised",
+   "hummed",
+   "knitted"
+  ],
+  "collocations": [
+   "voice a concern",
+   "voice an opinion",
+   "voice support"
+  ],
+  "note": "Voice is also a verb here, not only a noun.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-address-issue",
+  "headword": "address an issue",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "abordar un problema",
+  "definition": "to deal with a problem",
+  "example": "We need to address this issue before the audit.",
+  "exampleEs": "Necesitamos abordar este problema antes de la auditoría.",
+  "cloze": "We need to ____ this issue before the audit.",
+  "answer": "address",
+  "distractors": [
+   "dress",
+   "bless",
+   "guess"
+  ],
+  "collocations": [
+   "address an issue",
+   "address a concern",
+   "address a question"
+  ],
+  "note": "'Address' means 'deal with', not 'give someone an address'.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-weigh-pros-cons",
+  "headword": "weigh the pros and cons",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "sopesar pros y contras",
+  "definition": "to compare good and bad points before deciding",
+  "example": "Let's weigh the pros and cons before choosing a vendor.",
+  "exampleEs": "Sopesemos los pros y contras antes de elegir un proveedor.",
+  "cloze": "Let's ____ the pros and cons before choosing a vendor.",
+  "answer": "weigh",
+  "distractors": [
+   "lift",
+   "carry",
+   "throw"
+  ],
+  "collocations": [
+   "weigh the pros and cons",
+   "weigh the options",
+   "weigh the risks"
+  ],
+  "note": "Weigh sounds like 'way'.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-keep-promise",
+  "headword": "keep a promise",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "cumplir una promesa",
+  "definition": "to do what you said you would do",
+  "example": "If you make a promise, you must keep it.",
+  "exampleEs": "Si haces una promesa, debes cumplirla.",
+  "cloze": "If you make a promise, you must ____ it.",
+  "answer": "keep",
+  "distractors": [
+   "carry",
+   "wear",
+   "bring"
+  ],
+  "collocations": [
+   "keep a promise",
+   "keep a secret",
+   "keep in touch"
+  ],
+  "note": "The opposite is 'break a promise'.",
+  "tags": [
+   "collocation"
+  ]
+ },
+ {
+  "id": "collocations-intensifiers-break-habit",
+  "headword": "break a habit",
+  "pos": "collocation",
+  "cefr": "B2+",
+  "es": "romper un hábito",
+  "definition": "to stop doing something you usually do",
+  "example": "It took me months to break the habit of checking my phone.",
+  "exampleEs": "Me tomó meses romper el hábito de revisar mi teléfono.",
+  "cloze": "It took me months to ____ the habit of checking my phone.",
+  "answer": "break",
+  "distractors": [
+   "crash",
+   "spill",
+   "melt"
+  ],
+  "collocations": [
+   "break a habit",
+   "break a record",
+   "break the rules"
+  ],
+  "note": "Habit OF + -ing.",
+  "tags": [
+   "collocation"
+  ]
+ }
+]

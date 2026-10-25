@@ -1,0 +1,642 @@
+[
+  {
+    "id": "listen-response-001",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "prompt": "Hey, do you have a minute to look at my code?",
+    "voice": "female",
+    "options": [
+      "Sure, what's the problem?",
+      "Yes, I have a minute of code.",
+      "No, I looked at it yesterday night.",
+      "It was a very long meeting."
+    ],
+    "answer": 0,
+    "explanation": "A natural reply agrees to help and asks what the issue is."
+  },
+  {
+    "id": "listen-response-002",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "prompt": "How was your weekend?",
+    "voice": "male",
+    "options": [
+      "I'm going to the office tomorrow.",
+      "It was great. I played Minecraft with my friends.",
+      "The weekend is Saturday and Sunday.",
+      "Yes, it was very good weekend."
+    ],
+    "answer": 1,
+    "explanation": "The question asks about the past weekend, so the reply should describe it in the past tense."
+  },
+  {
+    "id": "listen-response-003",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "prompt": "Could you send me the report by Friday?",
+    "voice": "female",
+    "options": [
+      "I sent you the Friday yesterday.",
+      "The report is very interesting.",
+      "No problem. I'll send it before lunch.",
+      "Yes, I am sending since two days."
+    ],
+    "answer": 2,
+    "explanation": "The speaker makes a request, so a natural reply accepts it and gives a time."
+  },
+  {
+    "id": "listen-response-004",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "prompt": "Where do you want to have lunch today?",
+    "voice": "male",
+    "options": [
+      "I had lunch at noon yesterday.",
+      "Lunch is the food of the middle day.",
+      "I want that you choose the place.",
+      "I don't mind. Let's try the new pizza place."
+    ],
+    "answer": 3,
+    "explanation": "The question asks for a preference, and this reply gives a flexible, natural answer."
+  },
+  {
+    "id": "listen-response-005",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "prompt": "I think I'm going to be late for the meeting.",
+    "voice": "female",
+    "options": [
+      "Don't worry. I'll tell everyone you're on your way.",
+      "Late is the opposite of early.",
+      "The meeting was in a big room.",
+      "You are welcome, I like meetings."
+    ],
+    "answer": 0,
+    "explanation": "A helpful reply reassures the person and offers to cover for them."
+  },
+  {
+    "id": "listen-response-006",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "prompt": "Do you know how to fix this bug?",
+    "voice": "male",
+    "options": [
+      "Yes, the bug is an insect.",
+      "I'm not sure, but we can check the logs together.",
+      "I fixed my bike last summer.",
+      "No, I didn't know the bug yesterday."
+    ],
+    "answer": 1,
+    "explanation": "The reply answers honestly and suggests a useful next step."
+  },
+  {
+    "id": "listen-response-007",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "prompt": "What time does the call start?",
+    "voice": "female",
+    "options": [
+      "The call starts since ten.",
+      "I called my mother last night.",
+      "It starts at ten, Mexico City time.",
+      "Ten is a number between nine and eleven."
+    ],
+    "answer": 2,
+    "explanation": "The question asks for a time, so the reply gives one with a time zone."
+  },
+  {
+    "id": "listen-response-008",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "prompt": "Would you like some coffee?",
+    "voice": "male",
+    "options": [
+      "Yes, I like coffee of yesterday.",
+      "The coffee is in the kitchen, I like.",
+      "No, I don't want that you give me.",
+      "Yes, please. Just a little milk."
+    ],
+    "answer": 3,
+    "explanation": "A natural answer to an offer is to accept politely and add a detail."
+  },
+  {
+    "id": "listen-response-009",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "prompt": "I just started learning to play the guitar.",
+    "voice": "female",
+    "options": [
+      "That's cool! Are you enjoying it?",
+      "I started the guitar in the mountain.",
+      "The guitar is a music instrument of strings.",
+      "Yes, I am agree with you."
+    ],
+    "answer": 0,
+    "explanation": "The speaker shares news, so a friendly follow-up question is natural."
+  },
+  {
+    "id": "listen-response-010",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "prompt": "Sorry, I forgot to reply to your message.",
+    "voice": "male",
+    "options": [
+      "Yes, you forgot very much.",
+      "That's okay. It wasn't urgent.",
+      "I will forget it tomorrow too.",
+      "The message is on the phone."
+    ],
+    "answer": 1,
+    "explanation": "When someone apologizes, a natural reply accepts the apology."
+  },
+  {
+    "id": "listen-response-011",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "prompt": "Are you coming to the team dinner on Thursday?",
+    "voice": "female",
+    "options": [
+      "I came to dinner on the last year.",
+      "The dinner is a meal of the night.",
+      "I'd love to, but I have a class that night.",
+      "Yes, I am coming since Thursday."
+    ],
+    "answer": 2,
+    "explanation": "The reply politely declines and gives a reason, which is a common pattern."
+  },
+  {
+    "id": "listen-response-012",
+    "type": "listenResponse",
+    "cefr": "B1",
+    "skill": "listening",
+    "prompt": "Can you turn down the music a little?",
+    "voice": "male",
+    "options": [
+      "The music is a kind of art.",
+      "Yes, I like the music too much.",
+      "I turned it up for you yesterday.",
+      "Oh, sorry. Is that better?"
+    ],
+    "answer": 3,
+    "explanation": "A natural reply apologizes and checks that the problem is solved."
+  },
+  {
+    "id": "listen-response-013",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "Have you had a chance to review the pull request I sent this morning?",
+    "voice": "female",
+    "options": [
+      "Not yet, but I'll go through it right after this call.",
+      "I have reviewed the movie since last year.",
+      "Yes, the morning is a good time for sending.",
+      "I will have a chance when you will send it."
+    ],
+    "answer": 0,
+    "explanation": "The present perfect question calls for a reply about whether it has been done yet."
+  },
+  {
+    "id": "listen-response-014",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "I'm thinking about switching to a different programming language. Any thoughts?",
+    "voice": "male",
+    "options": [
+      "Yes, I think about it since a long time.",
+      "It depends on what you're building. What's pushing you to switch?",
+      "Languages are difficult to switch in the keyboard.",
+      "I switched the light off before leaving."
+    ],
+    "answer": 1,
+    "explanation": "The reply gives a balanced opinion and asks about the reason."
+  },
+  {
+    "id": "listen-response-015",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "We're running behind schedule. Do you think we should push the release back?",
+    "voice": "female",
+    "options": [
+      "The release was pushed by the door.",
+      "Yes, I believe we are behind the schedule of the bus.",
+      "I'd rather cut a feature than delay the whole thing.",
+      "I don't push anything, I am a developer."
+    ],
+    "answer": 2,
+    "explanation": "The reply gives a clear preference with a reasonable alternative."
+  },
+  {
+    "id": "listen-response-016",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "What did you make of the new onboarding flow?",
+    "voice": "male",
+    "options": [
+      "I made it in my house with my hands.",
+      "It was done by the last month.",
+      "I make the flow in my team last month.",
+      "Honestly, I found it a bit confusing at the second step."
+    ],
+    "answer": 3,
+    "explanation": "\"What did you make of...?\" asks for an opinion, and this reply gives one."
+  },
+  {
+    "id": "listen-response-017",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "I wish I had more time to work on side projects.",
+    "voice": "female",
+    "options": [
+      "Same here. I try to block out a couple of hours every weekend.",
+      "I have more time since I wish it.",
+      "The projects are on the side of the street.",
+      "Yes, I wished it yesterday in the morning."
+    ],
+    "answer": 0,
+    "explanation": "The reply shares a similar feeling and adds a practical tip."
+  },
+  {
+    "id": "listen-response-018",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "Why didn't you mention the delay during the standup?",
+    "voice": "male",
+    "options": [
+      "Because the standup is for standing.",
+      "Because I have not mention the delay yesterday.",
+      "I didn't want to raise it until I had a clearer picture.",
+      "I will mention the delay in the past."
+    ],
+    "answer": 2,
+    "explanation": "A why-question needs a reason, and this reply gives a believable one."
+  },
+  {
+    "id": "listen-response-019",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "If the client asks for another revision, what should we say?",
+    "voice": "female",
+    "options": [
+      "We should say the revision in a loud voice.",
+      "The client is always asking for the revision.",
+      "We should say yes, because the revision is asking for client.",
+      "We could agree to it, as long as we agree on the scope first."
+    ],
+    "answer": 3,
+    "explanation": "The question is about a hypothetical, so a reasonable proposal with a condition fits."
+  },
+  {
+    "id": "listen-response-020",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "I've been trying to cut down on caffeine lately.",
+    "voice": "male",
+    "options": [
+      "How's that going? I could never manage it.",
+      "I have cut my hair in the caffeine.",
+      "Lately is a word for the late hours.",
+      "Yes, I try since I was a child."
+    ],
+    "answer": 0,
+    "explanation": "A natural reply shows interest and relates to the speaker's experience."
+  },
+  {
+    "id": "listen-response-021",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "Do you mind if I take over the demo from here?",
+    "voice": "female",
+    "options": [
+      "Yes, I mind the demo very much.",
+      "Not at all. Go ahead.",
+      "I took the demo over the bridge.",
+      "The demo is over from here to there."
+    ],
+    "answer": 1,
+    "explanation": "After \"Do you mind...?\" the polite way to agree is \"Not at all.\""
+  },
+  {
+    "id": "listen-response-022",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "Our server costs have doubled since the launch.",
+    "voice": "male",
+    "options": [
+      "That is good, doubled is two times less.",
+      "The launch was in a big rocket.",
+      "We should look into whether we can optimize our queries.",
+      "Yes, I doubled my shirt for the cost."
+    ],
+    "answer": 2,
+    "explanation": "The reply responds to the problem with a concrete next step."
+  },
+  {
+    "id": "listen-response-023",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "I can't decide whether to take the job offer or stay where I am.",
+    "voice": "female",
+    "options": [
+      "The job is offered by the stay.",
+      "You should to decide before the offer is ending.",
+      "Yes, I can't decide too, the offer is a paper.",
+      "What would you miss most about your current role if you left?"
+    ],
+    "answer": 3,
+    "explanation": "A supportive reply helps the person think through the decision with a good question."
+  },
+  {
+    "id": "listen-response-024",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "I was surprised the model performed so well on such a small dataset.",
+    "voice": "male",
+    "options": [
+      "Me too. I suspect the data was cleaner than usual.",
+      "The dataset is small because of the model's size.",
+      "I am surprising of the performance.",
+      "Yes, the model walked well to the dataset."
+    ],
+    "answer": 0,
+    "explanation": "The reply agrees and offers a plausible explanation."
+  },
+  {
+    "id": "listen-response-025",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "Sorry to bother you, but is this seat taken?",
+    "voice": "female",
+    "options": [
+      "Yes, I took the seat by taxi.",
+      "No, go ahead. It's free.",
+      "The seat is made of a soft material.",
+      "No, it is not bother to me."
+    ],
+    "answer": 1,
+    "explanation": "The question asks whether the seat is occupied, so \"No, go ahead\" answers it directly."
+  },
+  {
+    "id": "listen-response-026",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "Which would you rather do: ship the feature this week or polish it for another sprint?",
+    "voice": "male",
+    "options": [
+      "I would rather the sprint is running.",
+      "I ship the polish every week.",
+      "I'd lean toward shipping now and iterating based on feedback.",
+      "The feature is a sprint of this week."
+    ],
+    "answer": 2,
+    "explanation": "\"Would rather\" questions need a clear choice, ideally with a short reason."
+  },
+  {
+    "id": "listen-response-027",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "By the way, did you catch what the manager said about the budget?",
+    "voice": "female",
+    "options": [
+      "I caught a cold last week, not the manager.",
+      "The budget said that it was catching.",
+      "Yes, the manager said it in the budget.",
+      "Only part of it. Could you fill me in?"
+    ],
+    "answer": 3,
+    "explanation": "\"Fill me in\" is a natural way to ask someone to explain what you missed."
+  },
+  {
+    "id": "listen-response-028",
+    "type": "listenResponse",
+    "cefr": "B2",
+    "skill": "listening",
+    "prompt": "I don't mean to nitpick, but the figures on slide four don't quite add up.",
+    "voice": "male",
+    "options": [
+      "Good catch. Let me double-check the source and correct it.",
+      "Nitpicking is a hobby that I really enjoy.",
+      "The slide four is added up to the figures.",
+      "No, I don't add figures in my slides."
+    ],
+    "answer": 0,
+    "explanation": "The reply acknowledges the correction and commits to fixing it, which suits a professional setting."
+  },
+  {
+    "id": "listen-response-029",
+    "type": "listenResponse",
+    "cefr": "C1",
+    "skill": "listening",
+    "prompt": "Frankly, I'm not convinced this approach will scale once we hit a few million users.",
+    "voice": "female",
+    "options": [
+      "I am convinced since the million of users.",
+      "That's a fair concern. What would you propose as an alternative?",
+      "The scale is a tool to measure the weight of users.",
+      "Yes, we hit the users with a few millions."
+    ],
+    "answer": 1,
+    "explanation": "The reply accepts the criticism and invites a constructive proposal."
+  },
+  {
+    "id": "listen-response-030",
+    "type": "listenResponse",
+    "cefr": "C1",
+    "skill": "listening",
+    "prompt": "Would it be too much to ask for an extension on the deliverable?",
+    "voice": "male",
+    "options": [
+      "Yes, extension is a cable for the deliverable.",
+      "I asked too much to the deliverable.",
+      "Let me check with the team, but I think we can stretch it by a couple of days.",
+      "It is not much to ask the extension of me."
+    ],
+    "answer": 2,
+    "explanation": "The reply neither promises nor refuses outright; it offers a realistic, tentative answer."
+  },
+  {
+    "id": "listen-response-031",
+    "type": "listenResponse",
+    "cefr": "C1",
+    "skill": "listening",
+    "prompt": "Hardly anyone on the team seems to read the documentation anymore.",
+    "voice": "female",
+    "options": [
+      "Yes, everybody reads it hardly, it is very hard.",
+      "The documentation anymore is not reading.",
+      "I read hardly anyone on the team.",
+      "Maybe it's out of date. People tend to stop trusting docs once they find a few mistakes."
+    ],
+    "answer": 3,
+    "explanation": "The reply offers an insightful explanation for the observation."
+  },
+  {
+    "id": "listen-response-032",
+    "type": "listenResponse",
+    "cefr": "C1",
+    "skill": "listening",
+    "prompt": "I'd be lying if I said I wasn't a little nervous about presenting to the executives.",
+    "voice": "male",
+    "options": [
+      "That's understandable. Walking through it once beforehand might help.",
+      "You lied to the executives yesterday.",
+      "The executives are nervous because of the little presentation.",
+      "Yes, you would be lying to say that."
+    ],
+    "answer": 0,
+    "explanation": "The reply validates the feeling and offers practical support."
+  },
+  {
+    "id": "listen-response-033",
+    "type": "listenResponse",
+    "cefr": "C1",
+    "skill": "listening",
+    "prompt": "Had we known about the API change earlier, we could have avoided this outage.",
+    "voice": "female",
+    "options": [
+      "Yes, the outage knew about the change earlier.",
+      "True, but there's no point dwelling on it now. Let's focus on a postmortem.",
+      "We could have known the avoid of the API.",
+      "The API changed because I had earlier outage."
+    ],
+    "answer": 1,
+    "explanation": "The reply accepts the point and moves the conversation toward a productive next step."
+  },
+  {
+    "id": "listen-response-034",
+    "type": "listenResponse",
+    "cefr": "C1",
+    "skill": "listening",
+    "prompt": "What's your take on the argument that large language models don't truly understand language?",
+    "voice": "male",
+    "options": [
+      "My take is on the plate of the argument.",
+      "I understand the language models are large.",
+      "It depends on how you define understanding. They clearly model patterns, but whether that counts is debatable.",
+      "They don't truly language the understanding."
+    ],
+    "answer": 2,
+    "explanation": "An opinion question at this level calls for a nuanced, qualified answer."
+  },
+  {
+    "id": "listen-response-035",
+    "type": "listenResponse",
+    "cefr": "C1",
+    "skill": "listening",
+    "prompt": "I'm afraid we'll have to scale back the project given the budget cuts.",
+    "voice": "female",
+    "options": [
+      "Scale is back of the project since the cut.",
+      "I am afraid of the budget in the back.",
+      "The cuts are given by the project to us.",
+      "I see. Could we at least keep the core features and phase out the rest?"
+    ],
+    "answer": 3,
+    "explanation": "The reply accepts the constraint and negotiates a compromise."
+  },
+  {
+    "id": "listen-response-036",
+    "type": "listenResponse",
+    "cefr": "C1",
+    "skill": "listening",
+    "prompt": "It never occurred to me that the bug could be on the client side.",
+    "voice": "male",
+    "options": [
+      "It's an easy thing to overlook. Let's reproduce it in a clean browser to rule it out.",
+      "Never occurred is a bug in the client of the side.",
+      "Yes, it occurred to me never on the side.",
+      "The client is occurring the bug on me."
+    ],
+    "answer": 0,
+    "explanation": "The reply is understanding and suggests a concrete debugging step."
+  },
+  {
+    "id": "listen-response-037",
+    "type": "listenResponse",
+    "cefr": "C1",
+    "skill": "listening",
+    "prompt": "Not to put you on the spot, but where do you stand on the proposed reorganization?",
+    "voice": "female",
+    "options": [
+      "I stand on the spot of the reorganization.",
+      "I'm cautiously supportive, though I'd want more clarity on how it affects reporting lines.",
+      "The proposal stands in the reorganization of spots.",
+      "I put the spot on you, I stand."
+    ],
+    "answer": 1,
+    "explanation": "The reply states a position with a reasonable reservation, which is typical in workplace talk."
+  },
+  {
+    "id": "listen-response-038",
+    "type": "listenResponse",
+    "cefr": "C1",
+    "skill": "listening",
+    "prompt": "Do you reckon we're better off building this in-house or buying an off-the-shelf solution?",
+    "voice": "male",
+    "options": [
+      "In-house is a house that we are building.",
+      "The shelf is off because we reckon.",
+      "Unless it's core to our product, I'd lean toward buying and spending our time elsewhere.",
+      "We are better off in house than the shelf of off."
+    ],
+    "answer": 2,
+    "explanation": "The reply gives a clear recommendation with a condition and a rationale."
+  },
+  {
+    "id": "listen-response-039",
+    "type": "listenResponse",
+    "cefr": "C1",
+    "skill": "listening",
+    "prompt": "Honestly, I thought the pilot would've gone a lot smoother than it did.",
+    "voice": "female",
+    "options": [
+      "The pilot went to the smoother airport.",
+      "Yes, I thought that you would go smoother.",
+      "Smooth is how the pilot was in the airplane.",
+      "Same. In hindsight, we underestimated how much training the users would need."
+    ],
+    "answer": 3,
+    "explanation": "The reply agrees and reflects on the cause with hindsight, a natural C1 pattern."
+  },
+  {
+    "id": "listen-response-040",
+    "type": "listenResponse",
+    "cefr": "C1",
+    "skill": "listening",
+    "prompt": "Remind me why we decided to move away from the monolith in the first place?",
+    "voice": "male",
+    "options": [
+      "Mostly so teams could deploy independently without stepping on each other.",
+      "The monolith moved away because we reminded it.",
+      "We decided the place first, in a monolith.",
+      "Because the first place was moved in the reminder."
+    ],
+    "answer": 0,
+    "explanation": "The reply gives a clear, concise reason for a past decision."
+  }
+]

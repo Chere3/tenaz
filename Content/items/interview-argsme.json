@@ -1,0 +1,2155 @@
+[
+  {
+    "id": "iv-argsme-interview-da86b00e-pay-state-school-teachers-based-on-merit",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Paying teachers by results",
+    "questions": [
+      "How did your teachers at school motivate you to work harder, and what worked best for you?",
+      "Tell me about a time when a bonus or reward changed how you approached a task at work.",
+      "Some schools reward teachers whose students get better test scores. What problems could that cause in practice?",
+      "How should a society decide what makes a teacher excellent, and who should make that decision?"
+    ],
+    "source": "argsme",
+    "sourceId": "da86b00e:pay-state-school-teachers-based-on-merit",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:4a1890cd",
+    "origin": "generated",
+    "topics": [
+      "education"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-9679ee11-a-cap-and-trade-system-is-preferable-to",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Carbon policy options",
+    "questions": [
+      "How do you try to reduce your own energy use or waste at home or at work?",
+      "Describe a time when your company or team had to adapt to a new rule or an extra cost.",
+      "Some governments tax carbon, while others limit emissions and let firms trade permits. Which approach seems more practical to you, and why?",
+      "How might supply chains look different in twenty years if the cost of carbon keeps rising?"
+    ],
+    "source": "argsme",
+    "sourceId": "9679ee11:a-cap-and-trade-system-is-preferable-to-a-carbon-tax-in-redu",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:2a1e78a0",
+    "origin": "generated",
+    "topics": [
+      "environment",
+      "economy",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-eed3e468-poverty-is-the-most-important-security-i",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Poverty and security",
+    "questions": [
+      "How secure do you feel in your daily life, and what contributes most to that feeling?",
+      "Describe a time when you saw how a lack of money limited someone's opportunities.",
+      "Some people say poverty is the root of conflict, while others point to politics and identity. What is your view of these explanations?",
+      "What would a country need to change for people from different backgrounds to live and work together peacefully?"
+    ],
+    "source": "argsme",
+    "sourceId": "eed3e468:poverty-is-the-most-important-security-issue-facing-africa",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:f7259afb",
+    "origin": "generated",
+    "topics": [
+      "society",
+      "economy"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-c857c733-spare-the-rod-spoil-the-child-strict-par",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Strict or relaxed parenting",
+    "questions": [
+      "How did your parents set rules when you were growing up, and which rules do you remember most?",
+      "Tell me about a time when a strict rule or deadline helped you achieve something important.",
+      "Some people believe strict discipline produces successful adults, while others favor freedom and play. Where do you stand on this?",
+      "How will the way children are raised change as technology becomes more central to family life?"
+    ],
+    "source": "argsme",
+    "sourceId": "c857c733:spare-the-rod-spoil-the-child-strict-parenting-works-best",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:e352f22e",
+    "origin": "generated",
+    "topics": [
+      "family",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-ccc13722-the-right-to-anonymous-posting-on-the-in",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Anonymity online",
+    "questions": [
+      "How do you decide what personal information to share on social media or professional platforms?",
+      "Describe a situation when you read an anonymous comment or review that affected your opinion.",
+      "Should employees be able to criticize their company anonymously online? Explain what risks and benefits you see.",
+      "How should societies balance free speech and accountability as more public discussion moves online?"
+    ],
+    "source": "argsme",
+    "sourceId": "ccc13722:the-right-to-anonymous-posting-on-the-internet-should-be-pro",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:eb268d07",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-d23d9ea5-homework-is-a-waste-of-time-junior",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Homework and learning",
+    "questions": [
+      "How much of your studying at school was done at home, and how did you organize it?",
+      "Tell me about a time when an assignment taught you something you would not have learned in class.",
+      "Some schools are reducing or banning homework. What effects do you think this has on students and families?",
+      "How might education change in the future if students can get help from AI tools whenever they want?"
+    ],
+    "source": "argsme",
+    "sourceId": "d23d9ea5:homework-is-a-waste-of-time-junior",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:1ebed84d",
+    "origin": "generated",
+    "topics": [
+      "education"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-9c96cdf7-not-fund-any-work-that-is-not-released-u",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Open licensing of work",
+    "questions": [
+      "What kinds of free resources, such as templates, courses or software, do you use regularly?",
+      "Describe a time when you built something new by adapting someone else's work.",
+      "Should organizations that fund research require the results to be shared freely? What are the arguments on each side?",
+      "How might sharing knowledge openly change the way companies compete in the coming decades?"
+    ],
+    "source": "argsme",
+    "sourceId": "9c96cdf7:not-fund-any-work-that-is-not-released-under-a-creative-comm",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:d1269cc8",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-f9f87c6a-public-health-concerns-justify-compulsor",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Compulsory vaccination",
+    "questions": [
+      "How do you usually decide whether to follow health advice from a doctor or an official source?",
+      "Describe a time when you had to follow a rule that you did not fully agree with.",
+      "During an outbreak, some places require vaccines for schools or workplaces. What is your view of that approach?",
+      "How will societies deal with future health crises if people trust public institutions less?"
+    ],
+    "source": "argsme",
+    "sourceId": "f9f87c6a:public-health-concerns-justify-compulsory-immunization",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:fee4a581",
+    "origin": "generated",
+    "topics": [
+      "health",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-426b8860-chapter-11-style-bankruptcy-provisions",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Business bankruptcy and rescue",
+    "questions": [
+      "Have you ever seen a business you liked close down, and what do you think caused it?",
+      "Describe a time when a company or team you worked with faced a serious financial or supply problem.",
+      "Some countries let struggling companies reorganize instead of closing. What are the benefits and risks of giving a business a second chance?",
+      "How should society share the cost when a large company fails, affecting workers, suppliers and customers?"
+    ],
+    "source": "argsme",
+    "sourceId": "426b8860:chapter-11-style-bankruptcy-provisions",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:0682db8d",
+    "origin": "generated",
+    "topics": [
+      "economy",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-11798790-school-attendance-should-be-voluntary",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Voluntary school attendance",
+    "questions": [
+      "What did you enjoy most about school, and what did you find hardest to stay motivated for?",
+      "Tell me about a time when you kept learning something without being required to.",
+      "If attending school were optional, how do you think students, parents and teachers would behave differently?",
+      "How might the purpose of formal schooling change over the next few decades?"
+    ],
+    "source": "argsme",
+    "sourceId": "11798790:school-attendance-should-be-voluntary",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:ad7b3f8a",
+    "origin": "generated",
+    "topics": [
+      "education"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-413eb840-deregulation-and-tax-cuts-should-be-embr",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Tax cuts and regulation",
+    "questions": [
+      "How do rules or regulations affect your daily work, and which ones do you find most useful?",
+      "Describe a time when a regulation or approval process slowed down a project you were part of.",
+      "During economic downturns, some governments cut taxes while others add rules to stabilize markets. Which approach seems more convincing to you?",
+      "What role should governments play in protecting jobs when the economy changes quickly in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "413eb840:deregulation-and-tax-cuts-should-be-embraced-to-lead-the-wor",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:740c1d2e",
+    "origin": "generated",
+    "topics": [
+      "economy",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-dccfa15-abolish-collective-bargaining-rights-for",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Unions and bargaining",
+    "questions": [
+      "How do you and your colleagues usually raise concerns about pay or working conditions?",
+      "Describe a time when you had to negotiate something important with a manager or a client.",
+      "Should workers negotiate collectively through unions, or is it better for each person to negotiate alone? Why?",
+      "How might the relationship between employers and employees change as more work becomes flexible or automated?"
+    ],
+    "source": "argsme",
+    "sourceId": "dccfa15:abolish-collective-bargaining-rights-for-unions",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:a6c21489",
+    "origin": "generated",
+    "topics": [
+      "workplace",
+      "economy"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-dd3e0a35-in-a-national-minimum-wage",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Minimum wage",
+    "questions": [
+      "What was your first paid job, and how did you feel about the pay?",
+      "Tell me about a time when you felt you were paid fairly or unfairly for your work.",
+      "Some countries set a national minimum wage, while others leave pay to the market. What effects do you expect from each system?",
+      "How should societies make sure people can live decently as automation changes the kinds of jobs available?"
+    ],
+    "source": "argsme",
+    "sourceId": "dd3e0a35:in-a-national-minimum-wage",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:5c5b150b",
+    "origin": "generated",
+    "topics": [
+      "economy",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-7b7fb0f6-part-time-work-for-high-school-students",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Students working part-time",
+    "questions": [
+      "Did you have any job or paid task while you were a student, and what did you learn from it?",
+      "Describe a time when you had to balance study or work with other responsibilities.",
+      "How do part-time jobs affect teenagers' studies and their preparation for adult life, in your view?",
+      "How might the way young people start their careers change as work becomes more digital and flexible?"
+    ],
+    "source": "argsme",
+    "sourceId": "7b7fb0f6:part-time-work-for-high-school-students",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:380bb0a7",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-e208df6-international-students-are-charged-unfai",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Tuition fees for foreigners",
+    "questions": [
+      "Have you ever studied or trained in another country, or thought about doing so? What attracted you?",
+      "Describe a time when you had to pay more for something than someone else, and how you reacted.",
+      "Some universities charge international students much higher fees than local students. How can that be justified or criticized?",
+      "How will universities and countries compete to attract talented students in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "e208df6:international-students-are-charged-unfairly-high-tuition-fee",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:5921bf49",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "economy"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-1e44a13d-encourage-the-creation-of-private-univer",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Private universities",
+    "questions": [
+      "How did you choose your university or training program, and what mattered most in your decision?",
+      "Tell me about a time when the quality of a course or a teacher made a clear difference to you.",
+      "Some countries are encouraging private universities to open more places. What could go well or badly with that approach?",
+      "How should societies decide who has access to higher education as degrees become more expensive?"
+    ],
+    "source": "argsme",
+    "sourceId": "1e44a13d:encourage-the-creation-of-private-universities-in-the-uk",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:4cfa920e",
+    "origin": "generated",
+    "topics": [
+      "education"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-5b27cc87-anti-bribery-laws-on-corporations-should",
+    "type": "interview",
+    "cefr": "C1",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Bribery and business",
+    "questions": [
+      "How does your company make sure that suppliers and partners follow ethical rules?",
+      "Describe a situation when you saw someone face pressure to bend a rule at work.",
+      "Some people say strict anti-bribery laws make it harder for firms to operate in certain markets. How would you respond?",
+      "What would it take to reduce corruption in international business over the coming decades?"
+    ],
+    "source": "argsme",
+    "sourceId": "5b27cc87:anti-bribery-laws-on-corporations-should-be-abolished",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:99da4aad",
+    "origin": "generated",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-3be27173-use-and-misuse-of-internet",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Internet use and misuse",
+    "questions": [
+      "How much of your day do you spend online, and what do you mostly use it for?",
+      "Tell me about a time when you found misleading information online and how you dealt with it.",
+      "Students often use the internet for research, but it can also distract them. How should schools handle this?",
+      "How will the internet change the way young people learn and make friends in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "3be27173:use-and-misuse-of-internet",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:23814119",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "education"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-61e00511-should-the-cell-phones-be-allowed-in-sch",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Phones in school",
+    "questions": [
+      "How do you usually use your phone during a typical working day?",
+      "Tell me about a time when your phone was very useful in a learning or work situation.",
+      "What do you think about schools letting students use phones as research tools during lessons?",
+      "How might the way people use personal devices to learn change over the next twenty years?"
+    ],
+    "source": "argsme",
+    "sourceId": "61e00511:should-the-cell-phones-be-allowed-in-schools",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:7b0a70bc",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "technology"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-58b3474e-it-s-dangerous-to-teach-history-in-schoo",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Value of history lessons",
+    "questions": [
+      "What do you remember most from the history lessons you had at school?",
+      "Describe a moment when knowing about the past helped you understand a current situation.",
+      "How useful is knowledge of history for someone who works in a global company?",
+      "How should schools balance traditional subjects like history with practical skills in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "58b3474e:it-s-dangerous-to-teach-history-in-schools",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:19bd98aa",
+    "origin": "generated",
+    "topics": [
+      "education"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-217e4b71-the-welfare-system-should-be-replaced-wi",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Support for people without work",
+    "questions": [
+      "What helps you stay financially organised when your expenses change from month to month?",
+      "Tell me about a time when you or someone you know needed extra support during a difficult period.",
+      "How can governments design financial help so that it encourages people to keep working?",
+      "What kind of safety net should societies offer as automation changes the jobs people do?"
+    ],
+    "source": "argsme",
+    "sourceId": "217e4b71:the-welfare-system-should-be-replaced-with-a-negative-income",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:1464561f",
+    "origin": "generated",
+    "topics": [
+      "economy",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-e13904f4-people-on-job-seekers-allowance-who-refu",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Unemployment benefits and jobs",
+    "questions": [
+      "How did you find the job you have now, and what was the process like?",
+      "Describe a time when you had to learn a new skill quickly to do your job.",
+      "What do you think about requiring people who receive unemployment benefits to accept a suitable job offer?",
+      "How should societies prepare workers whose skills become outdated in the coming decades?"
+    ],
+    "source": "argsme",
+    "sourceId": "e13904f4:people-on-job-seekers-allowance-who-refuse-a-job-should-lose",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:86dc1de5",
+    "origin": "generated",
+    "topics": [
+      "workplace",
+      "economy"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-47553c48-fast-food-advertising-should-be-banned",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Fast food advertising",
+    "questions": [
+      "What usually influences your choice when you decide where to eat out?",
+      "Tell me about an advertisement that once convinced you to buy something you did not need.",
+      "How much responsibility should companies take for the health effects of the products they advertise?",
+      "How might advertising rules for food products change as societies become more concerned about health?"
+    ],
+    "source": "argsme",
+    "sourceId": "47553c48:fast-food-advertising-should-be-banned",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:5369f6c5",
+    "origin": "generated",
+    "topics": [
+      "health",
+      "economy"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-a866bd1e-children-should-not-be-allowed-to-inheri",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Inherited wealth",
+    "questions": [
+      "How did your family influence the way you think about money when you were growing up?",
+      "Describe a time when you had to work hard to achieve something that others seemed to get easily.",
+      "How fair is it that some professionals start their careers with financial support from their families?",
+      "What could societies do to give young people from different backgrounds more equal opportunities in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "a866bd1e:children-should-not-be-allowed-to-inherit-vast-wealth-as-thi",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:1882b8d3",
+    "origin": "generated",
+    "topics": [
+      "society",
+      "economy"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-59f8e74-there-should-be-a-legally-mandated-ceili",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Limits on working hours",
+    "questions": [
+      "What does a typical working week look like for you in terms of hours and breaks?",
+      "Tell me about a time when you had to work much longer than usual to meet a deadline.",
+      "How effective is it for a government to set a maximum number of working hours per week?",
+      "How might working hours and the idea of a full-time job change as technology advances?"
+    ],
+    "source": "argsme",
+    "sourceId": "59f8e74:there-should-be-a-legally-mandated-ceiling-on-weekly-working",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:fa046537",
+    "origin": "generated",
+    "topics": [
+      "workplace",
+      "economy"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-a05ea446-should-children-be-allowed-to-have-faceb",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Children and social media",
+    "questions": [
+      "How did you first start using social media, and who showed you how?",
+      "Describe an online experience that taught you something about privacy or safety.",
+      "What role should parents play in supervising how their children use social media?",
+      "How might growing up with social media shape the next generation's relationships and attitudes?"
+    ],
+    "source": "argsme",
+    "sourceId": "a05ea446:should-children-be-allowed-to-have-facebook-accounts",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:d6d7dbf7",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "family"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-ff33548-social-media-should-be-part-of-the-curri",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Social media in classrooms",
+    "questions": [
+      "How do you use online platforms to learn new things or keep up with your field?",
+      "Tell me about a time when you learned something useful from a post, video or online discussion.",
+      "How helpful could social media be for teachers who want to share homework reminders and class resources?",
+      "What digital skills will young people need most in the workplaces of the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "ff33548:social-media-should-be-part-of-the-curriculum",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:4e3b8d4d",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "technology"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-1fdda57c-every-child-should-have-a-mobile-phone-j",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Children and mobile phones",
+    "questions": [
+      "How do you manage distractions from your phone when you need to concentrate on a task?",
+      "Describe a time when your phone made a difficult situation easier to handle.",
+      "What are your thoughts on children carrying their own mobile phones to school?",
+      "How could constant access to technology change the way young people learn to focus in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "1fdda57c:every-child-should-have-a-mobile-phone-junior",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:f2f10807",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "education"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-85d7d633-corporations-are-a-threat-to-democracy-a",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Corporate power and society",
+    "questions": [
+      "What do you like most about the company or organisation you work for?",
+      "Tell me about a time when a company's decision, good or bad, affected you as a customer or employee.",
+      "How well do large companies balance profit with their responsibility towards society and the environment?",
+      "What influence should big corporations have on laws and public policy in the years ahead?"
+    ],
+    "source": "argsme",
+    "sourceId": "85d7d633:corporations-are-a-threat-to-democracy-and-society",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:ec173c72",
+    "origin": "generated",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-b84774d-physical-education-in-schools-should-be",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Compulsory physical education",
+    "questions": [
+      "How do you keep physically active during a busy week?",
+      "Tell me about a sports or fitness experience from school that you still remember clearly.",
+      "How valuable is it for schools to require every student to take physical education classes?",
+      "How might schools and workplaces encourage healthier lifestyles as people spend more time sitting at screens?"
+    ],
+    "source": "argsme",
+    "sourceId": "b84774d:physical-education-in-schools-should-be-compulsory",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:0c6fcda5",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "health"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-cb73bace-provide-breakfast-for-all-school-student",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Free school breakfasts",
+    "questions": [
+      "How does your breakfast routine affect the rest of your day?",
+      "Describe a day when you had to work or study without eating properly, and how it felt.",
+      "How should governments decide which students should receive free meals at school?",
+      "What role should public services play in helping children from poorer families succeed in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "cb73bace:provide-breakfast-for-all-school-students",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:de30f47e",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-e3f93a3a-fund-the-provision-of-higher-education-b",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Paying for university",
+    "questions": [
+      "How did you finance your own education, or how do people around you usually do it?",
+      "Tell me about a decision you made about your education that you would approach differently now.",
+      "How fair is it to ask university graduates to repay part of their education costs through higher taxes?",
+      "How might higher education be funded in a future where online learning becomes more common?"
+    ],
+    "source": "argsme",
+    "sourceId": "e3f93a3a:fund-the-provision-of-higher-education-by-taxing-graduates",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:7963d9fa",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "economy"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-fa347c12-internet-governance-must-be-multinationa",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Governing the internet",
+    "questions": [
+      "Which online services or tools do you depend on most in your daily routine?",
+      "Describe a time when a website, app or online service was blocked or stopped working for you.",
+      "Who should make the rules for how the internet is used across different countries?",
+      "How could the internet be managed in the future so that it stays open but still protects users?"
+    ],
+    "source": "argsme",
+    "sourceId": "fa347c12:internet-governance-must-be-multinational",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:d2877510",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-319205df-regulating-the-internet-is-a-means-for-g",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Internet rules and privacy",
+    "questions": [
+      "What do you do to protect your personal information when you use the internet?",
+      "Tell me about a time when you were worried about your privacy or security online.",
+      "How should governments deal with illegal copying of films, music and games on the internet?",
+      "How can societies balance online security with personal freedom as technology develops?"
+    ],
+    "source": "argsme",
+    "sourceId": "319205df:regulating-the-internet-is-a-means-for-governments-to-spy-on",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:6f1d89b4",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "privacy"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-37bfee71-european-governments-should-impose-auste",
+    "type": "interview",
+    "cefr": "C1",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Government debt and spending",
+    "questions": [
+      "How do you usually plan your spending when you want to save for something important?",
+      "Tell me about a time when you had to cut your costs to stay within a budget.",
+      "How should a government decide between cutting spending and raising taxes when debt becomes too high?",
+      "What responsibility do today's governments have towards future generations when they borrow money?"
+    ],
+    "source": "argsme",
+    "sourceId": "37bfee71:european-governments-should-impose-austerity-to-eliminate-th",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:5321c5ed",
+    "origin": "generated",
+    "topics": [
+      "economy",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-4a800986-are-sports-really-good-for-us",
+    "type": "interview",
+    "cefr": "B1+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Sports and health",
+    "questions": [
+      "How often do you do some kind of physical activity, and what do you usually choose?",
+      "Tell me about a time when playing a sport or exercising taught you something useful.",
+      "Some people say school sport can hurt the confidence of less talented children. How could schools avoid that?",
+      "How do you think the role of sport in society will change over the next twenty years?"
+    ],
+    "source": "argsme",
+    "sourceId": "4a800986:are-sports-really-good-for-us",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:ae3c738a",
+    "origin": "generated",
+    "topics": [
+      "sport",
+      "health"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-3045b026-we-should-make-education-compulsory-to-d",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Education up to degree level",
+    "questions": [
+      "Tell me about the studies or training that have helped you most in your career so far.",
+      "Describe a situation when a course or qualification gave you a real advantage at work.",
+      "Should companies value practical experience more than university degrees when they hire people? Why?",
+      "If everyone had a university degree, how might society and the job market change in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "3045b026:we-should-make-education-compulsory-to-degree-level",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:1900dfbf",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-9181be42-limitations-on-foreign-investments",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Foreign investment rules",
+    "questions": [
+      "How often does your work involve suppliers or partners from other countries, and how do you deal with that?",
+      "Tell me about a time when a decision from another country affected your work or plans.",
+      "When a big foreign company opens a factory in a small country, who benefits most, in your opinion?",
+      "How might countries balance protecting local businesses with attracting investment from abroad in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "9181be42:limitations-on-foreign-investments",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:b9942ddc",
+    "origin": "generated",
+    "topics": [
+      "workplace",
+      "economy"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-f52ae2a6-cramming-before-exams-is-a-bad-idea",
+    "type": "interview",
+    "cefr": "B1+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Studying for exams",
+    "questions": [
+      "How do you usually prepare when you have an important exam or a big presentation?",
+      "Tell me about a time when you left your preparation until the last minute and how it went.",
+      "Is it fair for schools to judge students mainly through exams, or are there better ways to assess them?",
+      "How might technology change the way students are tested in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "f52ae2a6:cramming-before-exams-is-a-bad-idea",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:ac07eaac",
+    "origin": "generated",
+    "topics": [
+      "education"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-88308cf4-raise-the-school-leaving-age-to-18",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "The school leaving age",
+    "questions": [
+      "What did you enjoy most about your last years at school, and what did you enjoy least?",
+      "Describe a classmate or friend who left education early and what happened to them afterwards.",
+      "Do you think young people learn more in school or in a first job? Explain your view.",
+      "What should governments do to keep teenagers motivated to continue learning in the long term?"
+    ],
+    "source": "argsme",
+    "sourceId": "88308cf4:raise-the-school-leaving-age-to-18",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:672e9b64",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-1442c94a-hosting-the-olympics-is-a-good-investmen",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Hosting big events",
+    "questions": [
+      "Have you ever attended a large public event, such as a concert or festival, and what was it like?",
+      "Describe a time when a big event in your city caused problems or brought benefits to people there.",
+      "Should a city spend public money to host a major international event? Give reasons for your answer.",
+      "How can cities make sure that large events leave something useful for residents in the long term?"
+    ],
+    "source": "argsme",
+    "sourceId": "1442c94a:hosting-the-olympics-is-a-good-investment",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:2c3745f1",
+    "origin": "generated",
+    "topics": [
+      "economy",
+      "sport"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-6b50fd3c-new-technologies-will-make-entrepreneurs",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Technology and young entrepreneurs",
+    "questions": [
+      "Which apps or digital tools do you use most often to organise your work or your day?",
+      "Tell me about a time when a new technology made a task easier for you or your team.",
+      "How can a young person with a good idea but little money start a business using technology?",
+      "In the future, which skills will young people need most to succeed as entrepreneurs, and why?"
+    ],
+    "source": "argsme",
+    "sourceId": "6b50fd3c:new-technologies-will-make-entrepreneurs-of-africa-s-youth",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:9d10b2c8",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-3b69f0a8-the-european-union-should-adopt-a-single",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "A shared working language",
+    "questions": [
+      "Which languages do you use at work, and in which situations do you use each one?",
+      "Describe a meeting where people had difficulty understanding each other because of language and how it was solved.",
+      "Would an international organisation work better if everyone were required to use a single language? Explain why or why not.",
+      "How might translation technology change the way people from different countries communicate in the next decade?"
+    ],
+    "source": "argsme",
+    "sourceId": "3b69f0a8:the-european-union-should-adopt-a-single-working-language-th",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:aed1559a",
+    "origin": "generated",
+    "topics": [
+      "communication",
+      "workplace",
+      "meetings"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-5023cb9c-ban-online-gambling-junior",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Online gambling",
+    "questions": [
+      "How do you usually decide whether to spend money on something that is only for entertainment?",
+      "Tell me about a time when you or someone you know spent more money on a game or a bet than planned.",
+      "What responsibility should websites and apps have towards people who may lose control of their spending?",
+      "How can societies protect young people from risky online habits as technology keeps developing?"
+    ],
+    "source": "argsme",
+    "sourceId": "5023cb9c:ban-online-gambling-junior",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:80985bd0",
+    "origin": "generated",
+    "topics": [
+      "society",
+      "technology"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-c08244da-african-cities-need-to-invest-more-in-ho",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Housing in growing cities",
+    "questions": [
+      "What is the neighbourhood where you live like, and what would you change about it?",
+      "Describe a time when you visited a place where people lived in difficult housing conditions.",
+      "What is the best way for a city to improve housing for its poorest residents, in your opinion?",
+      "How should rapidly growing cities plan their housing and transport over the next thirty years?"
+    ],
+    "source": "argsme",
+    "sourceId": "c08244da:african-cities-need-to-invest-more-in-housing-to-replace-slu",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:bafa1062",
+    "origin": "generated",
+    "topics": [
+      "society",
+      "cities"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-2e50d9b1-you-have-nothing-to-worry-about-surveill",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Surveillance and privacy",
+    "questions": [
+      "How careful are you with your personal information online, and what habits do you have?",
+      "Tell me about a time when you felt your privacy was not respected, at work or online.",
+      "Should companies be allowed to monitor their employees' emails and computers? Give your reasons.",
+      "How should societies balance security and privacy as monitoring technology becomes more powerful?"
+    ],
+    "source": "argsme",
+    "sourceId": "2e50d9b1:you-have-nothing-to-worry-about-surveillance-if-you-have-don",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:5d1225c0",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-864accb3-co-curricular-activities-in-schools",
+    "type": "interview",
+    "cefr": "B1+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Activities beyond classes",
+    "questions": [
+      "What clubs, sports or hobbies did you take part in outside class when you were a student?",
+      "Describe an activity from your school or university days that taught you something important.",
+      "Do extracurricular activities help students more than extra hours of classes? Explain your opinion.",
+      "How could schools in the future make activities outside class available to every student, whatever their background?"
+    ],
+    "source": "argsme",
+    "sourceId": "864accb3:co-curricular-activities-in-schools",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:0806f3fc",
+    "origin": "generated",
+    "topics": [
+      "education"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-a3f5ef80-introduce-goal-line-technology-in-footba",
+    "type": "interview",
+    "cefr": "B1+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Technology in sport",
+    "questions": [
+      "Do you follow any sports, and how do you usually watch them?",
+      "Tell me about a time when a referee's decision caused an argument among you and your friends.",
+      "Is it a good idea to use video and sensors to help referees decide difficult situations? Why?",
+      "How might technology change the way sports are played and judged in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "a3f5ef80:introduce-goal-line-technology-in-football",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:e789dc20",
+    "origin": "generated",
+    "topics": [
+      "sport",
+      "technology"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-9cbc6ad4-we-should-have-a-quota-for-women-on-corp",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Women on company boards",
+    "questions": [
+      "Think about the managers or leaders you have worked with. How much does their background shape the way your team works?",
+      "Tell me about a time when a team you were in benefited from having very different points of view.",
+      "Some companies set targets for how many women sit on their boards. What do you think are the benefits and risks of that approach?",
+      "How do you imagine leadership in large companies changing over the next twenty years, and what should drive that change?"
+    ],
+    "source": "argsme",
+    "sourceId": "9cbc6ad4:we-should-have-a-quota-for-women-on-corporate-boards",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:9d4c25c9",
+    "origin": "generated",
+    "topics": [
+      "workplace",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-9ca295b7-force-the-media-to-display-promote-and-r",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Women's sport in the media",
+    "questions": [
+      "How often do you watch or follow sport, and where do you usually get your sports news?",
+      "Describe a sporting event you watched that left a strong impression on you. What made it memorable?",
+      "Some people say television should show women's and men's sport equally. How realistic is that, and who should decide?",
+      "How might the way media chooses its stories change what young people think is important in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "9ca295b7:force-the-media-to-display-promote-and-report-women-s-sport-",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:8f9d8968",
+    "origin": "generated",
+    "topics": [
+      "media",
+      "sport"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-848388f4-public-high-school-students-in-the-unite",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Final school exams",
+    "questions": [
+      "What do you remember about the exams you took at the end of school, and how did you prepare?",
+      "Tell me about a time when a test or exam did not show what you really knew.",
+      "Some countries make students pass a final exam before they can graduate. What are the strengths and weaknesses of that system?",
+      "If you could redesign how schools measure what students have learned, what would you change and why?"
+    ],
+    "source": "argsme",
+    "sourceId": "848388f4:public-high-school-students-in-the-united-states-ought-not-b",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:2dbd47c2",
+    "origin": "generated",
+    "topics": [
+      "education"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-8c35ffbd-homework-should-be-banned",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Homework and learning",
+    "questions": [
+      "How did you usually manage your homework when you were at school, and what helped you stay on track?",
+      "Describe a time when a piece of homework or a study task taught you something truly useful.",
+      "Some schools are reducing homework because of student stress. Do you think this is a good idea, and why?",
+      "How do you think technology will change the way children learn outside the classroom in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "8c35ffbd:homework-should-be-banned",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:6b15b013",
+    "origin": "generated",
+    "topics": [
+      "education"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-efbdcc9f-tthw-prohibit-the-sale-of-children-s-toy",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Toys in kids' meals",
+    "questions": [
+      "Tell me about your own eating habits as a child. How did your family influence what you ate?",
+      "Describe a time when advertising or a free gift made you want to buy something you did not need.",
+      "Some cities have restricted free toys in fast food meals for children. How effective do you think this kind of rule is?",
+      "Who should be responsible for children's diets in the future: parents, schools, companies or governments, and why?"
+    ],
+    "source": "argsme",
+    "sourceId": "efbdcc9f:tthw-prohibit-the-sale-of-children-s-toys-as-part-of-fast-fo",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:e8b1d009",
+    "origin": "generated",
+    "topics": [
+      "health",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-cafa7193-a-lack-of-investment-in-teachers-is-the",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Investing in teachers",
+    "questions": [
+      "Tell me about a teacher who had a strong influence on you, and explain what made them effective.",
+      "Describe a time when you learned something in a place where resources were limited.",
+      "Governments often have to choose between building schools, buying equipment and paying teachers. Which should come first, and why?",
+      "What do you think would make more talented people choose teaching as a career in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "cafa7193:a-lack-of-investment-in-teachers-is-the-greatest-barrier-to-",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:f42251d3",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-4595ce6e-get-a-master-s-degree",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Postgraduate study",
+    "questions": [
+      "What did you study, and how has it been useful in your working life so far?",
+      "Tell me about a time when you had to learn a difficult new skill to do your job.",
+      "Do you think a master's degree is worth the time and money for someone starting a career? Explain your view.",
+      "How might the value of university degrees compared with practical experience change in the coming years?"
+    ],
+    "source": "argsme",
+    "sourceId": "4595ce6e:get-a-master-s-degree",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:68d0ffdd",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-1d8d4ff1-encourage-fewer-people-to-go-to-universi",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Who should attend university",
+    "questions": [
+      "How did you decide what to study after finishing school, and who helped you choose?",
+      "Describe a time when you had to choose between two options for your education or career. What did you decide?",
+      "Some people say too many young people go to university when training or work might suit them better. What is your opinion?",
+      "How could societies make sure that career paths outside university are respected and well paid in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "1d8d4ff1:encourage-fewer-people-to-go-to-university",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:d569be20",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-6de4c111-housewives-should-be-paid-for-their-work",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Paying for housework",
+    "questions": [
+      "How are household tasks shared in your home, and are you happy with that arrangement?",
+      "Tell me about a time when you realised how much work goes into running a home.",
+      "Some people argue that unpaid household work should receive a wage or a pension credit. What are the strengths and weaknesses of that idea?",
+      "How do you think the way we value unpaid work, such as caring for family, will change in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "6de4c111:housewives-should-be-paid-for-their-work",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:a00f3b76",
+    "origin": "generated",
+    "topics": [
+      "society",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-1cdf7bf1-cars-should-be-banned-from-city-centres",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Cars in city centres",
+    "questions": [
+      "How do you usually get around your city, and what do you like or dislike about it?",
+      "Describe a time when traffic or a transport problem seriously affected your plans.",
+      "Several cities restrict cars in their centres. What are the possible benefits and drawbacks for residents and local businesses?",
+      "What do you think the typical city centre will look like in thirty years, and how will people move around?"
+    ],
+    "source": "argsme",
+    "sourceId": "1cdf7bf1:cars-should-be-banned-from-city-centres",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:ab115cf8",
+    "origin": "generated",
+    "topics": [
+      "cities",
+      "environment"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-170bfcc4-harmonisation-of-taxation-within-the-eur",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Taxes across countries",
+    "questions": [
+      "How do you usually keep track of your personal expenses and the taxes that you pay during the year?",
+      "Tell me about a time when a difference in prices or rules between two places affected your decision.",
+      "Some countries compete by offering lower taxes to attract companies. What are the risks and benefits of that approach?",
+      "How might countries cooperate on taxes in the future, and what might get in the way?"
+    ],
+    "source": "argsme",
+    "sourceId": "170bfcc4:harmonisation-of-taxation-within-the-european-union",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:cb94c6c0",
+    "origin": "generated",
+    "topics": [
+      "economy",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-a6f085b0-condition-state-funding-to-universities",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Open access to research",
+    "questions": [
+      "How do you normally find reliable information when you want to learn something new for your studies or work?",
+      "Describe a time when you could not access a report or article you needed. What did you do?",
+      "Researchers often use public money. Should the results of their work be free for everyone to read? Why?",
+      "How could sharing knowledge more openly change universities and companies over the next twenty years?"
+    ],
+    "source": "argsme",
+    "sourceId": "a6f085b0:condition-state-funding-to-universities-upon-all-academic-wo",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:332af994",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "technology"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-9f6ecaf2-internet-access-is-a-human-right",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Internet access and rights",
+    "questions": [
+      "How much of your day depends on being online, and what would you miss most without a connection?",
+      "Tell me about a time when you lost internet access at an important moment. What happened?",
+      "Some governments now treat internet access as a basic service, like water. How do you feel about that approach?",
+      "How will access to the internet shape opportunities for people in different parts of the world in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "9f6ecaf2:internet-access-is-a-human-right",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:fe657aa4",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-ff4caa4e-all-taxes-on-inherited-wealth-should-be",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Taxing inherited wealth",
+    "questions": [
+      "How do people in your family or circle usually talk about money, savings and passing things on to the next generation?",
+      "Tell me about someone you know who built success mostly through their own effort. What helped them?",
+      "Some countries tax large inheritances to reduce inequality. What are the strengths and weaknesses of that policy?",
+      "How might society balance rewarding effort with giving everyone a fair start in life in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "ff4caa4e:all-taxes-on-inherited-wealth-should-be-abolished",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:13e0c88b",
+    "origin": "generated",
+    "topics": [
+      "economy",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-f7e1a5d0-retirement-age-should-be-raised",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Working later in life",
+    "questions": [
+      "How do you imagine your life at sixty-five, and how long would you like to keep working?",
+      "Tell me about a colleague or relative who kept working after the usual retirement age. How did it go?",
+      "Many countries are raising the retirement age because people live longer. What do you think about that decision?",
+      "How might jobs and workplaces change if people work for much longer during their lives?"
+    ],
+    "source": "argsme",
+    "sourceId": "f7e1a5d0:retirement-age-should-be-raised",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:87627140",
+    "origin": "generated",
+    "topics": [
+      "workplace",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-f0f0bce-universities-should-support-graduates-in",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "University and careers",
+    "questions": [
+      "What did you expect your studies to do for your career when you chose them?",
+      "Describe a skill that you learned outside the classroom which later turned out to be useful at work.",
+      "Should universities be responsible for helping graduates find jobs, or is that up to the graduates themselves? Why?",
+      "How might the relationship between universities and employers change as technology transforms the job market?"
+    ],
+    "source": "argsme",
+    "sourceId": "f0f0bce:universities-should-support-graduates-in-getting-a-job",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:9b25fcc8",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-d2aea094-rupert-murdoch-is-not-a-fit-person-to-ru",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Media ownership and power",
+    "questions": [
+      "Where do you usually get your news, and how much do you trust those sources in your daily life?",
+      "Tell me about a time when you noticed that two news outlets told the same story very differently.",
+      "Large companies often own many newspapers and channels. What are the advantages and risks of that kind of ownership?",
+      "How can societies protect independent journalism as media becomes more concentrated and more digital?"
+    ],
+    "source": "argsme",
+    "sourceId": "d2aea094:rupert-murdoch-is-not-a-fit-person-to-run-an-international-m",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:219fd7c6",
+    "origin": "generated",
+    "topics": [
+      "media",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-16837731-universities-should-make-all-academic-wo",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Sharing university knowledge",
+    "questions": [
+      "How do you usually learn new things, for example through courses, videos, articles or colleagues at work?",
+      "Describe a time when a free online lecture or resource really helped you understand something difficult.",
+      "If universities put all their lectures and papers online for free, what could they gain and lose?",
+      "How might open access to knowledge change who gets a good education in the next decade?"
+    ],
+    "source": "argsme",
+    "sourceId": "16837731:universities-should-make-all-academic-work-they-produce-incl",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:38455873",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "technology"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-5c22eb90-politicians-have-no-right-to-privacy",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Privacy for public figures",
+    "questions": [
+      "How careful are you about what you share online about your personal life, and why?",
+      "Tell me about a time when personal information about someone was shared in a way that caused problems.",
+      "Public figures are often followed closely by the media. How much of their private life should people be able to know?",
+      "How might social media change what we expect from leaders and celebrities about their private lives?"
+    ],
+    "source": "argsme",
+    "sourceId": "5c22eb90:politicians-have-no-right-to-privacy",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:0e329af9",
+    "origin": "generated",
+    "topics": [
+      "society",
+      "technology"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-5978c15d-schools-has-the-right-to-search-student",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Privacy in schools",
+    "questions": [
+      "What was your school like when you were a teenager, and what rules did you find the most strict?",
+      "Tell me about a time when you felt your privacy was not respected, at school or at work.",
+      "Schools say they must keep students safe, and students want privacy. How should schools balance these needs?",
+      "How might technology such as cameras and scanners change the balance between safety and privacy in schools?"
+    ],
+    "source": "argsme",
+    "sourceId": "5978c15d:schools-has-the-right-to-search-student-s-lockers",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:feae549b",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-1daa5d74-boarding-schools-are-beneficial-to-child",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Boarding school life",
+    "questions": [
+      "How did you spend your time after school as a child, and who did you spend it with?",
+      "Describe a period of your life when you lived away from your family. What was it like?",
+      "Some parents send children to boarding schools for better facilities. What are the benefits and drawbacks of that choice?",
+      "How might education change if children spent more time learning in specialist environments away from home?"
+    ],
+    "source": "argsme",
+    "sourceId": "1daa5d74:boarding-schools-are-beneficial-to-children",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:2f883b40",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "family"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-ed52489a-university-education-needs-to-be-capped",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Selective university admission",
+    "questions": [
+      "How did you decide what to study after school, and who influenced that choice the most?",
+      "Tell me about a time when you had to compete for a place, a project or a job.",
+      "Some countries limit how many students can enter university. What effects might this have on the job market?",
+      "How should societies decide who gets access to higher education in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "ed52489a:university-education-needs-to-be-capped-and-more-selective",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:461bb42b",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-665a55a3-physical-fitness-is-better-than-mental-f",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Physical and mental fitness",
+    "questions": [
+      "How do you usually keep your body and mind in good shape during a busy week?",
+      "Describe a period when you felt very stressed and explain what helped you recover.",
+      "Companies increasingly offer gym memberships and mental health days. Which one benefits employees more, in your view?",
+      "How might our understanding of a healthy life change over the next twenty years?"
+    ],
+    "source": "argsme",
+    "sourceId": "665a55a3:physical-fitness-is-better-than-mental-fitness",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:2bef2200",
+    "origin": "generated",
+    "topics": [
+      "health",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-947cde9c-allow-parents-to-monitor-their-children",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Children's online privacy",
+    "questions": [
+      "What did you use the internet for when you were a teenager, and who knew about it?",
+      "Tell me about a time when you saw something online that you wish you had not seen.",
+      "Some apps let parents read their children's messages. What problems could this create for families?",
+      "How should society balance children's privacy with their safety as technology keeps advancing?"
+    ],
+    "source": "argsme",
+    "sourceId": "947cde9c:allow-parents-to-monitor-their-children-s-online-and-mobile-",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:22ecc68d",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-c9ac87dd-the-internet-encourages-democracy",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "The internet and democracy",
+    "questions": [
+      "How often do you read or share news online, and which sources do you trust most?",
+      "Describe a situation when you changed your mind about something because of information you found online.",
+      "Social media lets ordinary people comment directly on public decisions. What effect does this have on how decisions are made?",
+      "How do you think online platforms will shape the way communities make collective decisions in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "c9ac87dd:the-internet-encourages-democracy",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:1557380b",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-db654555-mind-sports-such-as-chess-quizzing-and-d",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Mind sports and the Olympics",
+    "questions": [
+      "Which games that require thinking, such as chess or quizzes, do you enjoy, and how often do you play?",
+      "Tell me about a time when you competed in a game or contest and felt very nervous.",
+      "Some people say competitive quizzing should count as a real sport. Where would you draw the line between a sport and a game?",
+      "How might major sporting events change in the future as digital and mental competitions become more popular?"
+    ],
+    "source": "argsme",
+    "sourceId": "db654555:mind-sports-such-as-chess-quizzing-and-debating-should-be-ol",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:148c9258",
+    "origin": "generated",
+    "topics": [
+      "sport",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-a2ea9045-ban-teachers-from-interacting-with-stude",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Teachers and social media",
+    "questions": [
+      "Which social media platforms do you use most, and how do you separate your work life from your personal life online?",
+      "Describe a time when something you posted online was misunderstood by other people.",
+      "A teacher or a manager wants to follow you on social media. How should professionals handle contact like this?",
+      "How should societies set boundaries between professional roles and private online life as platforms keep changing?"
+    ],
+    "source": "argsme",
+    "sourceId": "a2ea9045:ban-teachers-from-interacting-with-students-via-social-netwo",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:821ce12b",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "education",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-9f823ae-tax-on-foreign-exchange-dealings-tobin-t",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Taxing currency trading",
+    "questions": [
+      "How do you handle exchange rates when you travel or buy things from abroad?",
+      "Tell me about a time when a change in currency values affected a price, a budget or a plan of yours.",
+      "Some governments consider a small tax on currency trading to reduce speculation. What impact might that have on international companies?",
+      "How should the global economy be managed to make financial markets more stable in the long term?"
+    ],
+    "source": "argsme",
+    "sourceId": "9f823ae:tax-on-foreign-exchange-dealings-tobin-tax",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:8466a3ad",
+    "origin": "generated",
+    "topics": [
+      "economy",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-c55873e2-alternative-medicine-poses-a-threat-to-p",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Alternative medicine and health",
+    "questions": [
+      "When you feel unwell, what do you usually do first, and where do you look for advice?",
+      "Describe a time when you or someone close to you tried a home remedy or a traditional treatment.",
+      "Many people use herbal products or other alternative treatments. How should health authorities regulate them?",
+      "How will people decide which health information to trust in the future, given so many sources online?"
+    ],
+    "source": "argsme",
+    "sourceId": "c55873e2:alternative-medicine-poses-a-threat-to-public-health",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:5f75f055",
+    "origin": "generated",
+    "topics": [
+      "health",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-4b51d325-school-uniforms-should-be-mandatory",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "School uniforms and dress codes",
+    "questions": [
+      "What did you wear to school or to your first job, and how did you feel about it?",
+      "Tell me about a time when you had to follow a dress code that you did not like.",
+      "Many companies have relaxed their dress codes in recent years. How does clothing affect professional behaviour in meetings?",
+      "What role should rules about appearance play in schools and workplaces in the coming decades?"
+    ],
+    "source": "argsme",
+    "sourceId": "4b51d325:school-uniforms-should-be-mandatory",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:d92938fa",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-5c0fd41b-european-union-end-the-free-movement-of",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Free movement of workers",
+    "questions": [
+      "Have you ever worked or studied with people from other countries? What was that like for you?",
+      "Tell me about a time when you had to communicate with a colleague from a different cultural background.",
+      "Some regions let workers move freely between countries to take jobs. What are the effects on local companies and employees?",
+      "How might global labour markets change over the next few decades as remote work becomes common?"
+    ],
+    "source": "argsme",
+    "sourceId": "5c0fd41b:european-union-end-the-free-movement-of-labour",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:0984773f",
+    "origin": "generated",
+    "topics": [
+      "workplace",
+      "economy",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-ff2be4dc-build-a-third-heathrow-runway-to-maintai",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Airport expansion",
+    "questions": [
+      "How often do you travel by plane, and what do you usually find most stressful about airports?",
+      "Describe a trip when your journey was delayed or disrupted, and how you handled it.",
+      "Cities sometimes expand airports to attract business, despite noise and pollution. How should they weigh these factors?",
+      "How will the way we travel for business change in the coming years?"
+    ],
+    "source": "argsme",
+    "sourceId": "ff2be4dc:build-a-third-heathrow-runway-to-maintain-its-position-as-a-",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:dd1833f9",
+    "origin": "generated",
+    "topics": [
+      "travel",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-6c105795-allow-the-patenting-of-genes",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Patents on genes",
+    "questions": [
+      "Do you follow news about science or medicine? Tell me about something recent that interested you.",
+      "Describe a time when you had to understand a complicated scientific or technical topic for work or study.",
+      "Companies spend huge amounts on research and want to protect their discoveries. How far should intellectual property protection go?",
+      "Who should own the benefits of future medical breakthroughs, and how can societies decide this fairly?"
+    ],
+    "source": "argsme",
+    "sourceId": "6c105795:allow-the-patenting-of-genes",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:96b2ec7d",
+    "origin": "generated",
+    "topics": [
+      "science",
+      "economy"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-3fb6ba05-legalise-the-use-of-cell-phones-in-cars",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Phones while driving",
+    "questions": [
+      "How often do you use your phone while travelling by car or public transport, and for what?",
+      "Tell me about a time when a phone call or message distracted you at a bad moment.",
+      "Many companies expect employees to answer calls even when they are commuting. What limits should employers set?",
+      "How can technology help reduce distractions on the road in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "3fb6ba05:legalise-the-use-of-cell-phones-in-cars",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:987da55d",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "society",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-fae0ed1b-make-the-raising-of-business-and-labour",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Aid and labour standards",
+    "questions": [
+      "Have you ever bought a product and wondered how well the workers who made it were treated?",
+      "Describe a time when you had to check that a supplier or partner was following certain rules.",
+      "Wealthy countries sometimes tie development aid to better working conditions. What are the strengths and weaknesses of this approach?",
+      "How can the global supply chains of the future become fairer for workers in poorer countries?"
+    ],
+    "source": "argsme",
+    "sourceId": "fae0ed1b:make-the-raising-of-business-and-labour-standards-a-prerequi",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:94f8acf4",
+    "origin": "generated",
+    "topics": [
+      "economy",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-6f7be0d8-should-people-lose-their-jobs-for-saying",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Speech and job security",
+    "questions": [
+      "Do you use social media much, and do you ever think twice before posting something about your work?",
+      "Tell me about a time when something someone said at work caused a problem for them or for the team.",
+      "Imagine an employee jokes online about their company and customers see it. How should the company respond?",
+      "How far should employers be able to control what people say in their private lives in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "6f7be0d8:should-people-lose-their-jobs-for-saying-the-wrong-thing",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:d449b30b",
+    "origin": "generated",
+    "topics": [
+      "workplace",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-147b910f-does-it-matter-where-you-go-to-universit",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Choosing a university",
+    "questions": [
+      "How did you choose where to study, and what mattered most to you at that time?",
+      "Describe a person you know whose university or degree helped, or did not help, their career.",
+      "Some employers prefer graduates from well-known universities. Do you think that is fair when they hire people?",
+      "In the future, will the skills you can show matter more than the name of your university?"
+    ],
+    "source": "argsme",
+    "sourceId": "147b910f:does-it-matter-where-you-go-to-university-or-college",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:c8a69c10",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-f1a654d1-affirmative-action-in-education",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Diversity in universities",
+    "questions": [
+      "What was your own university or school like in terms of the variety of people you met?",
+      "Tell me about a time when you worked with someone from a very different background and learned something.",
+      "Some universities try to admit students from different social backgrounds on purpose. What do you think of that idea?",
+      "How might education systems in the future help young people meet a wider range of viewpoints?"
+    ],
+    "source": "argsme",
+    "sourceId": "f1a654d1:affirmative-action-in-education",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:9c518cf2",
+    "origin": "generated",
+    "topics": [
+      "education",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-297e4788-incentivise-western-companies-to-build-s",
+    "type": "interview",
+    "cefr": "B2+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Technology and online privacy",
+    "questions": [
+      "How much do you think about your privacy when you use apps and websites in your daily life?",
+      "Tell me about a time when you decided not to share personal information online, and why.",
+      "Some tools help people communicate without being identified. In what situations do you think these tools are most valuable?",
+      "How can companies balance their business interests with their responsibility to protect people in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "297e4788:incentivise-western-companies-to-build-software-that-provide",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:eda9b469",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "society"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-15aaf549-any-job-is-better-than-no-job",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Taking any job",
+    "questions": [
+      "What was your first job, and what did you learn from it that you still use today?",
+      "Tell me about a time when you did a job that you did not enjoy but still learned from.",
+      "Some people say it is better to accept any job than to stay unemployed. What do you think about that?",
+      "How might the meaning of a good job change for young people over the next few decades?"
+    ],
+    "source": "argsme",
+    "sourceId": "15aaf549:any-job-is-better-than-no-job",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:c5918663",
+    "origin": "generated",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-522c7c3b-mobile-phones-used-by-children",
+    "type": "interview",
+    "cefr": "B1+",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Children and mobile phones",
+    "questions": [
+      "At what age did you get your first mobile phone, and how did you use it back then?",
+      "Describe a situation when you saw a child or a young person using a phone in a good or bad way.",
+      "Some parents give children a fixed amount of credit to control phone use. Do you think that approach works well?",
+      "How do you think technology will change the way children grow up and learn to talk with others?"
+    ],
+    "source": "argsme",
+    "sourceId": "522c7c3b:mobile-phones-used-by-children",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:470a4763",
+    "origin": "generated",
+    "topics": [
+      "technology",
+      "family"
+    ]
+  },
+  {
+    "id": "iv-argsme-interview-e2925fe3-we-should-dramatically-increase-the-rate",
+    "type": "interview",
+    "cefr": "B2",
+    "skill": "speaking",
+    "kind": "interview",
+    "topic": "Taxing high earners",
+    "questions": [
+      "How much do you think about taxes when you consider your salary or your future career?",
+      "Tell me about a time when you had to make a financial decision that was affected by taxes or costs.",
+      "Some countries ask people with very high incomes to pay a larger share in tax. What are your thoughts on that?",
+      "How should governments encourage investment and innovation while still sharing the costs of public services in the future?"
+    ],
+    "source": "argsme",
+    "sourceId": "e2925fe3:we-should-dramatically-increase-the-rate-of-income-tax-paid-",
+    "license": "CC BY 4.0",
+    "tier": "permissive",
+    "group": "argsme:6e92ce50",
+    "origin": "generated",
+    "topics": [
+      "economy",
+      "society"
+    ]
+  }
+]

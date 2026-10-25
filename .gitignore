@@ -1,0 +1,20 @@
+.DS_Store
+build/
+.build/
+.derived/
+DerivedData/
+*.xcodeproj/
+.swiftpm/
+data/raw/
+.claude/worktrees/
+
+# ingest pipeline data
+.ingest/
+scripts/ingest/.venv/
+__pycache__/
+.derived-release/
+
+# Personal notes (kept on this Mac, never published)
+private/
+# Non-commercial / unclear-licence content: bundled in local builds, never redistributed
+Content/**/*.nc.json

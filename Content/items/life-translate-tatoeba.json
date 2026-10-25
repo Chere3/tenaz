@@ -1,0 +1,3506 @@
+[
+  {
+    "id": "lp-tatoeba-tr-542858",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No dejes para mañana lo que puedas hacer hoy.",
+    "reference": [
+      "Never put off until tomorrow what you can do today.",
+      "Don't put off till tomorrow what you can do today.",
+      "Never put off till tomorrow what you can do today.",
+      "Don't put off until tomorrow what you can do today.",
+      "Don't delay today's work until tomorrow."
+    ],
+    "mustUse": [
+      "tomorrow"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "542858/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-542858"
+  },
+  {
+    "id": "lp-tatoeba-tr-10185084",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "El equipo de más de quinientos lexicógrafos logró terminar el diccionario en algo menos de siete años de dedicación continua.",
+    "reference": [
+      "The team of more than five hundred lexicographers managed to finish the dictionary in just less than seven years of non-stop dedication.",
+      "The team of more than five hundred lexicographers managed to finish the dictionary in just under seven years of persistent dedicated work."
+    ],
+    "mustUse": [
+      "lexicographers"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "10185084/Seael",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-10185084"
+  },
+  {
+    "id": "lp-tatoeba-tr-867094",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Lo siento, pero estoy en contra de este proyecto.",
+    "reference": [
+      "I'm sorry, but I'm against this project.",
+      "I'm sorry, but I am opposed to this project."
+    ],
+    "mustUse": [
+      "sorry"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "867094/ildefonk",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-867094"
+  },
+  {
+    "id": "lp-tatoeba-tr-10504347",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Lo mejor de trabajar en equipo es que, si algo sale mal, siempre puedes echarle la culpa a otro.",
+    "reference": [
+      "The best part of working as a team is that if something goes wrong, you can always blame someone else for it."
+    ],
+    "mustUse": [
+      "blame"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "10504347/arh",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-10504347"
+  },
+  {
+    "id": "lp-tatoeba-tr-10547396",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No importa cuántas cláusulas tenga ese contrato, ese hombre es insolvente y no puede pagarte.",
+    "reference": [
+      "It doesn't matter how many clauses that contract may have, that man is bankrupt and he can't pay you."
+    ],
+    "mustUse": [
+      "bankrupt"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "10547396/saverius",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-10547396"
+  },
+  {
+    "id": "lp-tatoeba-tr-4441508",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Te será imposible llegar a buen puerto con este proyecto.",
+    "reference": [
+      "You won't finish this project."
+    ],
+    "mustUse": [
+      "finish"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "4441508/leoruilova",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-4441508"
+  },
+  {
+    "id": "lp-tatoeba-tr-1721255",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "La reunión se llevó a cabo la semana pasada.",
+    "reference": [
+      "The meeting took place last week."
+    ],
+    "mustUse": [
+      "meeting"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1721255/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1721255"
+  },
+  {
+    "id": "lp-tatoeba-tr-2859969",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "¿Y tú llamas a eso una sala de reunión?",
+    "reference": [
+      "And you call this a meeting room?"
+    ],
+    "mustUse": [
+      "meeting"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2859969/wallebot",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2859969"
+  },
+  {
+    "id": "lp-tatoeba-tr-6680970",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No me gustan las reuniones por la mañana temprano.",
+    "reference": [
+      "I don't like early morning meetings."
+    ],
+    "mustUse": [
+      "meetings"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "6680970/diegohn",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-6680970"
+  },
+  {
+    "id": "lp-tatoeba-tr-1916814",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "¿Estás a favor o en contra de la propuesta?",
+    "reference": [
+      "Are you for or against the proposal?"
+    ],
+    "mustUse": [
+      "proposal"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1916814/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1916814"
+  },
+  {
+    "id": "lp-tatoeba-tr-1627538",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "El pago de esta factura queda pendiente por hoy.",
+    "reference": [
+      "Payment of this bill is due today."
+    ],
+    "mustUse": [
+      "payment"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1627538/wallebot",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1627538"
+  },
+  {
+    "id": "lp-tatoeba-tr-8390227",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "La reunión se prolongó hasta bien entrada la noche.",
+    "reference": [
+      "The meeting extended well into the night."
+    ],
+    "mustUse": [
+      "extended"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "8390227/ManuelML",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-8390227"
+  },
+  {
+    "id": "lp-tatoeba-tr-2267892",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Se ha retrasado mucho el despacho de esa mercancía.",
+    "reference": [
+      "That shipment's been very much delayed."
+    ],
+    "mustUse": [
+      "shipment"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2267892/cueyayotl",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2267892"
+  },
+  {
+    "id": "lp-tatoeba-tr-5117233",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "La reunión se lleva a cabo dos veces al mes.",
+    "reference": [
+      "The meeting is held twice a month."
+    ],
+    "mustUse": [
+      "meeting"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "5117233/don_ramon",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-5117233"
+  },
+  {
+    "id": "lp-tatoeba-tr-1276154",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Inesperadamente, el pronóstico del tiempo de ayer se cumplió.",
+    "reference": [
+      "Unexpectedly the weather forecast came true yesterday."
+    ],
+    "mustUse": [
+      "unexpectedly"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1276154/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1276154"
+  },
+  {
+    "id": "lp-tatoeba-tr-2087329",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Toda la escuela estuvo de acuerdo con la propuesta.",
+    "reference": [
+      "The whole school agreed to the proposal."
+    ],
+    "mustUse": [
+      "proposal"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2087329/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2087329"
+  },
+  {
+    "id": "lp-tatoeba-tr-1591019",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Tenías que haber asistido a la reunión de hoy.",
+    "reference": [
+      "You should have attended today's meeting."
+    ],
+    "mustUse": [
+      "attended"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1591019/teskmon",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1591019"
+  },
+  {
+    "id": "lp-tatoeba-tr-13370551",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Nos reuniremos en la estación mañana por la mañana.",
+    "reference": [
+      "We're meeting at the station tomorrow morning."
+    ],
+    "mustUse": [
+      "tomorrow"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "13370551/Lernema",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-13370551"
+  },
+  {
+    "id": "lp-tatoeba-tr-1324674",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Es imposible que él se olvidara de nuestra reunión.",
+    "reference": [
+      "It's impossible that he forgot our meeting."
+    ],
+    "mustUse": [
+      "impossible"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1324674/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1324674"
+  },
+  {
+    "id": "lp-tatoeba-tr-1198278",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Me temo que tú tendrás que trabajar horas extra.",
+    "reference": [
+      "I'm afraid you have to work overtime."
+    ],
+    "mustUse": [
+      "overtime"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1198278/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1198278"
+  },
+  {
+    "id": "lp-tatoeba-tr-1522927",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Tengo mucho trabajo que terminar para el fin de semana.",
+    "reference": [
+      "I have a lot of work to finish up before the end of the week.",
+      "I have lots of work to clear up by the weekend.",
+      "I have a lot of work to clear up by the weekend."
+    ],
+    "mustUse": [
+      "work"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1522927/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1522927"
+  },
+  {
+    "id": "lp-tatoeba-tr-3083676",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No hay peor ciego que el que no quiere ver.",
+    "reference": [
+      "There are none so blind as those who will not see.",
+      "No one is as blind as someone who does not want to see.",
+      "The worst blind man is the one who does not want to see."
+    ],
+    "mustUse": [
+      "blind"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "3083676/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-3083676"
+  },
+  {
+    "id": "lp-tatoeba-tr-10333864",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Algunos meses tienen treinta y un días, otros tienen treinta y un mes tiene menos de treinta.",
+    "reference": [
+      "Some months have thirty-one days, others have thirty days, and one month has less than thirty.",
+      "Some months have thirty-one days, others have thirty days, and one month has less than thirty days.",
+      "Some months have thirty-one days, others have thirty and one month has less than thirty."
+    ],
+    "mustUse": [
+      "thirty-one"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "10333864/Seael",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-10333864"
+  },
+  {
+    "id": "lp-tatoeba-tr-672975",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Si yo hubiera sido un pájaro, podría haber volado hasta ti.",
+    "reference": [
+      "If I had been a bird, I could have flown to you.",
+      "If I'd been a bird, I could've flown to you.",
+      "Had I been a bird, I could have flown to you."
+    ],
+    "mustUse": [
+      "flown"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "672975/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-672975"
+  },
+  {
+    "id": "lp-tatoeba-tr-1503288",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "¿Encontraste el paraguas que dijiste que habías perdido el otro día?",
+    "reference": [
+      "Did you find the umbrella you said you'd lost the other day?",
+      "Have you found the umbrella you said you'd lost the other day?",
+      "Have you found the umbrella which you said you had lost the other day?",
+      "Have you found the umbrella you said you had lost the other day?"
+    ],
+    "mustUse": [
+      "umbrella"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1503288/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1503288"
+  },
+  {
+    "id": "lp-tatoeba-tr-3302177",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Todavía no he encontrado a nadie con quien quisiera pasar el resto de mi vida.",
+    "reference": [
+      "I haven't yet met anyone I'd want to spend the rest of my life with.",
+      "I have not yet met anyone with whom I should like to spend the rest of my life.",
+      "I haven't yet met anyone that I'd want to spend the rest of my life with.",
+      "I haven't yet met anyone with whom I'd want to spend the rest of my life."
+    ],
+    "mustUse": [
+      "spend"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "3302177/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-3302177"
+  },
+  {
+    "id": "lp-tatoeba-tr-1427239",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Se ha quedado en ese hotel desde hace cinco días.",
+    "reference": [
+      "He's been staying at that hotel for the past five days.",
+      "He's been staying at that hotel since five days ago.",
+      "He has stayed at the hotel for five days."
+    ],
+    "mustUse": [
+      "hotel"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1427239/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1427239"
+  },
+  {
+    "id": "lp-tatoeba-tr-6695023",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No es previsible que me despidan por hacer eso.",
+    "reference": [
+      "I can't imagine that they'll fire me for doing that.",
+      "I can't imagine they'll fire me for doing that.",
+      "I can't imagine I'll be fired for doing so."
+    ],
+    "mustUse": [
+      "imagine"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "6695023/arh",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-6695023"
+  },
+  {
+    "id": "lp-tatoeba-tr-1343063",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Puedes venir a visitarme, siempre y cuando me prometas que te vas a portar bien.",
+    "reference": [
+      "You can come to visit me, but only if you promise to behave well.",
+      "You can come to visit me, as long as you promise to behave well.",
+      "You can come to visit me, provided that you promise me you'll behave."
+    ],
+    "mustUse": [
+      "promise"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1343063/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1343063"
+  },
+  {
+    "id": "lp-tatoeba-tr-1503333",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Tomándolo todo en cuenta, la vida de mi padre fue feliz.",
+    "reference": [
+      "All things taken into consideration, my father's life was a happy one.",
+      "All things considered, my father's life was a happy one.",
+      "Considering everything, my father's life was a happy one."
+    ],
+    "mustUse": [
+      "father"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1503333/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1503333"
+  },
+  {
+    "id": "lp-tatoeba-tr-1474099",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Me levanté más pronto de lo normal para coger el primer tren.",
+    "reference": [
+      "I got up earlier than usual in order to catch the first train.",
+      "I got up earlier than usual so that I might catch the first train.",
+      "I got up earlier than usual to get the first train.",
+      "I got up earlier than usual to catch the first train."
+    ],
+    "mustUse": [
+      "earlier"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1474099/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1474099"
+  },
+  {
+    "id": "lp-tatoeba-tr-1658937",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Cuando ellos estaban de vacaciones, sus vecinos cuidaron al perro.",
+    "reference": [
+      "While they were away on vacation, their neighbors looked after the dog.",
+      "While they were on vacation, their neighbors cared for their dog.",
+      "While they were away on holiday, their neighbours looked after the dog."
+    ],
+    "mustUse": [
+      "while"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1658937/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1658937"
+  },
+  {
+    "id": "lp-tatoeba-tr-2487166",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Todo saldrá bien en la medida que me mantenga despierto por unos minutos más.",
+    "reference": [
+      "It'll all work out as long as you keep me awake a few more minutes.",
+      "Everything will be fine as long as she keeps me awake a few more minutes.",
+      "Everything will be okay as long as he keeps me awake a few more minutes."
+    ],
+    "mustUse": [
+      "awake"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2487166/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2487166"
+  },
+  {
+    "id": "lp-tatoeba-tr-10014974",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Hace tiempo que no te digo que te quiero.",
+    "reference": [
+      "I haven't told you that I love you for a while.",
+      "It's been a while since I've told you I love you.",
+      "It's been a while since I've told you that I love you."
+    ],
+    "mustUse": [
+      "love"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "10014974/arh",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-10014974"
+  },
+  {
+    "id": "lp-tatoeba-tr-9439521",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "¿Cuál te gusta más, el té con limón o el té con leche?",
+    "reference": [
+      "Do you prefer tea with lemon or with milk?",
+      "Do you prefer tea with lemon or milk?",
+      "Which do you like more, tea with lemon or tea with milk?"
+    ],
+    "mustUse": [
+      "lemon"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "9439521/ignacio",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-9439521"
+  },
+  {
+    "id": "lp-tatoeba-tr-1233133",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "En mi lengua las notas musicales son do, re, mi, fa, sol, la y si.",
+    "reference": [
+      "In my language, the musical notes are c, d, e, f, g, a, and b.",
+      "In my language, the notes of the scale are do, re, mi, fa, sol, la, ti, do.",
+      "In my language, the notes of the scale are do, re, mi, fa, sol, la, si, do."
+    ],
+    "mustUse": [
+      "language"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1233133/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1233133"
+  },
+  {
+    "id": "lp-tatoeba-tr-11835283",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Me intenté convencer de que estaba haciendo lo correcto.",
+    "reference": [
+      "I tried to convince myself that I was doing the right thing.",
+      "I tried to convince myself that she was doing the right thing.",
+      "I tried to convince myself that he was doing the right thing."
+    ],
+    "mustUse": [
+      "convince"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "11835283/Seael",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-11835283"
+  },
+  {
+    "id": "lp-tatoeba-tr-2505884",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "La explosión fue tan fuerte que el techo salió volando.",
+    "reference": [
+      "Such was the explosion that the roof was blown off.",
+      "It was such a powerful explosion that the roof was blown off.",
+      "The explosion was so powerful that the roof was blown away."
+    ],
+    "mustUse": [
+      "explosion"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2505884/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2505884"
+  },
+  {
+    "id": "lp-tatoeba-tr-1306023",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Anoche me quedé en casa para poder recibir tu llamada.",
+    "reference": [
+      "I stayed home last night to be able to receive your call.",
+      "Last night I stayed home to be able to receive your phone call.",
+      "Last night I stayed home to be able to receive your call."
+    ],
+    "mustUse": [
+      "receive"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1306023/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1306023"
+  },
+  {
+    "id": "lp-tatoeba-tr-2253274",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "¿Crees que el lago esté suficientemente congelado como para patinar?",
+    "reference": [
+      "Do you think the lake is frozen solid enough to skate on?",
+      "Do you think this lake is frozen enough for skating?",
+      "Do you really think this lake is frozen enough for skating?"
+    ],
+    "mustUse": [
+      "frozen"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2253274/cueyayotl",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2253274"
+  },
+  {
+    "id": "lp-tatoeba-tr-8729967",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No volveremos a la normalidad porque la normalidad era el problema.",
+    "reference": [
+      "We won't return to normalcy because normalcy was the problem.",
+      "We won't go back to normal because normal was the problem.",
+      "We won't go back to normality because normality was the problem."
+    ],
+    "mustUse": [
+      "because"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "8729967/SemperAutumnus",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-8729967"
+  },
+  {
+    "id": "lp-tatoeba-tr-1590192",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No era consciente de que alguien me estaba vigilando.",
+    "reference": [
+      "I wasn't aware someone was watching me.",
+      "I wasn't aware that somebody was watching me.",
+      "I wasn't aware somebody was watching me.",
+      "I wasn't aware that someone was watching me."
+    ],
+    "mustUse": [
+      "watching"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1590192/teskmon",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1590192"
+  },
+  {
+    "id": "lp-tatoeba-tr-1939744",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Invité a doce personas a mi fiesta, pero una no pudo venir.",
+    "reference": [
+      "I invited twelve people to my party, but one could not come.",
+      "I invited twelve people to my party, but one of them couldn't come.",
+      "I invited twelve people to my party, but one person could not come."
+    ],
+    "mustUse": [
+      "invited"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1939744/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1939744"
+  },
+  {
+    "id": "lp-tatoeba-tr-1428265",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "El hombre del tiempo dice que tendremos lluvia por la tarde.",
+    "reference": [
+      "The weatherman says we'll have rain in the afternoon.",
+      "The weatherman says that it will rain in the afternoon.",
+      "The weatherman says that it'll rain in the afternoon."
+    ],
+    "mustUse": [
+      "weatherman"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1428265/peibolvig",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1428265"
+  },
+  {
+    "id": "lp-tatoeba-tr-1123596",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "A causa de la densa neblina, el camino era difícil de ver.",
+    "reference": [
+      "Because of the thick fog, the road was hard to see.",
+      "Because of the dense haze, the road was hard to see.",
+      "Due to the thick fog, the road was difficult to see."
+    ],
+    "mustUse": [
+      "road"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1123596/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1123596"
+  },
+  {
+    "id": "lp-tatoeba-tr-1629726",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Parece que no estás pasando un buen rato aquí.",
+    "reference": [
+      "It seems that you're not having a good time here.",
+      "It seems that you aren't having a good time here.",
+      "It seems that you are not having a good time here."
+    ],
+    "mustUse": [
+      "good"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1629726/teskmon",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1629726"
+  },
+  {
+    "id": "lp-tatoeba-tr-9834416",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Necesitas tener buena puntería para dar en el centro de la diana.",
+    "reference": [
+      "You need to have good aim to land in the center of the dartboard.",
+      "You need to have good aim to hit the center of the target.",
+      "You need to have good aim to hit the bullseye."
+    ],
+    "mustUse": [
+      "good"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "9834416/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-9834416"
+  },
+  {
+    "id": "lp-tatoeba-tr-1435569",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No me di cuenta que te sentías tan mal.",
+    "reference": [
+      "I wasn't aware that you were feeling that bad.",
+      "I wasn't aware that you were feeling so bad.",
+      "I didn't realize that you were feeling so bad."
+    ],
+    "mustUse": [
+      "feeling"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1435569/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1435569"
+  },
+  {
+    "id": "lp-tatoeba-tr-10728156",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Tu rival de esta noche en el ring es muy corpulento, pero tú eres más fuerte.",
+    "reference": [
+      "Your opponent tonight in the ring is very heavyset, but you're stronger.",
+      "Your opponent tonight in the ring is very corpulent, but you're stronger.",
+      "Your opponent tonight in the ring is very large, but you're stronger."
+    ],
+    "mustUse": [
+      "opponent"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "10728156/saverius",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-10728156"
+  },
+  {
+    "id": "lp-tatoeba-tr-1498821",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Esta es una de las peores películas que haya visto.",
+    "reference": [
+      "This is one of the worst movies I have ever seen.",
+      "This is one of the worst movies I've ever seen.",
+      "This is one of the worst movies that I've ever seen.",
+      "This is one of the worst movies that I have ever seen."
+    ],
+    "mustUse": [
+      "movies"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1498821/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1498821"
+  },
+  {
+    "id": "lp-tatoeba-tr-13475443",
+    "type": "lifeParagraph",
+    "cefr": "C1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Su saxofón no es tan viejo como el mío.",
+    "reference": [
+      "Your saxophone isn't as old as mine.",
+      "Her saxophone isn't as old as mine.",
+      "His saxophone isn't as old as mine.",
+      "Their saxophone isn't as old as mine."
+    ],
+    "mustUse": [
+      "saxophone"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "13475443/Seael",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-13475443"
+  },
+  {
+    "id": "lp-tatoeba-tr-1600210",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Mañana llevaré a mi madre a dar una vuelta en mi auto nuevo.",
+    "reference": [
+      "I'll take my mother out in my new car tomorrow.",
+      "I will take my mother out in my new car tomorrow.",
+      "Tomorrow, I'm going to take my mother out in the new car."
+    ],
+    "mustUse": [
+      "tomorrow"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1600210/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1600210"
+  },
+  {
+    "id": "lp-tatoeba-tr-10160675",
+    "type": "lifeParagraph",
+    "cefr": "B1+",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "¿Por qué te metes en la vida de los demás?",
+    "reference": [
+      "Why do you interfere with other people's lives?",
+      "Why do you meddle in other people's lives?",
+      "Why do you stick your nose into other people's lives?"
+    ],
+    "mustUse": [
+      "lives"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "10160675/arh",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-10160675"
+  },
+  {
+    "id": "lp-tatoeba-tr-2036579",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Me alegro mucho de que tú estuvieras con nosotros hoy.",
+    "reference": [
+      "I am so glad that you were with us today.",
+      "I'm so glad you were with us today.",
+      "I am very happy that you have been with us today."
+    ],
+    "mustUse": [
+      "today"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2036579/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2036579"
+  },
+  {
+    "id": "lp-tatoeba-tr-6592089",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "En la piscina no se puede usar calzado de calle.",
+    "reference": [
+      "Street shoes aren't allowed in the pool.",
+      "You can't wear street shoes in the pool.",
+      "Street shoes cannot be worn in the pool."
+    ],
+    "mustUse": [
+      "shoes"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "6592089/arh",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-6592089"
+  },
+  {
+    "id": "lp-tatoeba-tr-521269",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Pase lo que pase no se lo diré a nadie.",
+    "reference": [
+      "Whatever happens, I won't tell anybody about it.",
+      "Whatever happens, I ain't telling nobody about it.",
+      "Whatever happens, I'll not tell anybody about it."
+    ],
+    "mustUse": [
+      "whatever"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "521269/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-521269"
+  },
+  {
+    "id": "lp-tatoeba-tr-1600175",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No es posible hacer dos cosas a la vez.",
+    "reference": [
+      "You can't do two things at once.",
+      "It's not possible to do two things at once.",
+      "It isn't possible to do two things at once."
+    ],
+    "mustUse": [
+      "once"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1600175/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1600175"
+  },
+  {
+    "id": "lp-tatoeba-tr-1294445",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "La montaña está cubierta con nieve el año entero.",
+    "reference": [
+      "The mountain is covered with snow all the year round.",
+      "This mountain is snow-covered the entire year.",
+      "This mountain is covered with snow all year round."
+    ],
+    "mustUse": [
+      "mountain"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1294445/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1294445"
+  },
+  {
+    "id": "lp-tatoeba-tr-1781132",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "El parque se encuentra en el centro de la ciudad.",
+    "reference": [
+      "The park is located in the center of the city.",
+      "The park is in the center of the city.",
+      "The park lies in the center of the city."
+    ],
+    "mustUse": [
+      "center"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1781132/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1781132"
+  },
+  {
+    "id": "lp-tatoeba-tr-1338676",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Estaba a punto de salir cuando sonó el teléfono.",
+    "reference": [
+      "I was about to go out when the phone rang.",
+      "I was about to leave when the phone rang.",
+      "I was about to go out when the telephone rang.",
+      "He was about to go out when the telephone rang."
+    ],
+    "mustUse": [
+      "rang"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1338676/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1338676"
+  },
+  {
+    "id": "lp-tatoeba-tr-1421669",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Estoy seguro de que voy a ganar el partido de tenis.",
+    "reference": [
+      "I am sure of winning the tennis match.",
+      "I'm sure I'll win the tennis match.",
+      "I'm certain that I'll win the tennis match."
+    ],
+    "mustUse": [
+      "tennis"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1421669/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1421669"
+  },
+  {
+    "id": "lp-tatoeba-tr-6583212",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "El profesor vio a alguien copiando en el examen.",
+    "reference": [
+      "The professor saw someone copying on the test.",
+      "The teacher saw someone copying on the test.",
+      "The teacher saw somebody copying on the test."
+    ],
+    "mustUse": [
+      "copying"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "6583212/arh",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-6583212"
+  },
+  {
+    "id": "lp-tatoeba-tr-2253306",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Hice todo lo que pude para hacerme amigo suyo.",
+    "reference": [
+      "I did my best to make friends with him.",
+      "I did everything I could to become his friend.",
+      "I did everything I could to become her friend."
+    ],
+    "mustUse": [
+      "best"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2253306/hayastan",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2253306"
+  },
+  {
+    "id": "lp-tatoeba-tr-1123429",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Él es orgulloso de ser bueno en las matemáticas.",
+    "reference": [
+      "He is proud of being good at mathematics.",
+      "He's proud of being good at mathematics.",
+      "He's proud of his math skills."
+    ],
+    "mustUse": [
+      "proud"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1123429/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1123429"
+  },
+  {
+    "id": "lp-tatoeba-tr-1425846",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Ten cuidado de no romper esta jarra, por favor.",
+    "reference": [
+      "Please take care not to break this vase.",
+      "Please be careful not to break this vase.",
+      "Please be careful that you don't break this vase."
+    ],
+    "mustUse": [
+      "break"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1425846/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1425846"
+  },
+  {
+    "id": "lp-tatoeba-tr-10067449",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Quítate los zapatos antes de entrar a un templo.",
+    "reference": [
+      "Take your shoes off before entering a temple.",
+      "Take your shoes off before going into a temple.",
+      "Take off your shoes before entering a temple.",
+      "Take off your shoes before going into a temple."
+    ],
+    "mustUse": [
+      "temple"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "10067449/manufrutos",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-10067449"
+  },
+  {
+    "id": "lp-tatoeba-tr-571822",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Él se corta el pelo una vez al mes.",
+    "reference": [
+      "He has his hair cut once a month.",
+      "He gets his hair cut once a month.",
+      "He gets a haircut once a month."
+    ],
+    "mustUse": [
+      "month"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "571822/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-571822"
+  },
+  {
+    "id": "lp-tatoeba-tr-1517597",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Ella está desde hace un mes en el hospital.",
+    "reference": [
+      "She has been in hospital for a month.",
+      "She's been in the hospital for a month.",
+      "She's been in hospital for a month."
+    ],
+    "mustUse": [
+      "hospital"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1517597/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1517597"
+  },
+  {
+    "id": "lp-tatoeba-tr-1599573",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Siempre se me olvida mi paraguas en el tren.",
+    "reference": [
+      "I'm always leaving my umbrella on the train.",
+      "I am always leaving my umbrella on the train.",
+      "I always leave my umbrella on the train."
+    ],
+    "mustUse": [
+      "umbrella"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1599573/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1599573"
+  },
+  {
+    "id": "lp-tatoeba-tr-2853209",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "El barco no pudo dejar el puerto debido a la tormenta.",
+    "reference": [
+      "Owing to the storm, the ship could not leave port.",
+      "Because of the storm, the ship couldn't leave port.",
+      "The ship couldn't leave the harbor because of the storm."
+    ],
+    "mustUse": [
+      "storm"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2853209/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2853209"
+  },
+  {
+    "id": "lp-tatoeba-tr-2768",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Aquellos que viven en casas de cristal no deberían tirar piedras.",
+    "reference": [
+      "Those who live in glass houses should not throw stones.",
+      "People who live in glass houses shouldn't throw stones.",
+      "Those who live in glass houses shouldn't throw stones."
+    ],
+    "mustUse": [
+      "houses"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2768/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2768"
+  },
+  {
+    "id": "lp-tatoeba-tr-1810798",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "El policía sopló su silbato para hacer parar al auto.",
+    "reference": [
+      "The policeman blew his whistle for the car to stop.",
+      "The policeman whistled for the car to stop.",
+      "The policeman whistled the car to stop."
+    ],
+    "mustUse": [
+      "policeman"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1810798/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1810798"
+  },
+  {
+    "id": "lp-tatoeba-tr-602803",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "¿Dónde se encuentra la estación del metro más cercana?",
+    "reference": [
+      "Where is the nearest subway station?",
+      "Where's the nearest subway station?",
+      "Where's the closest metro station?"
+    ],
+    "mustUse": [
+      "station"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "602803/Leono",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-602803"
+  },
+  {
+    "id": "lp-tatoeba-tr-1627543",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Como había trabajado más de lo usual, se sentía cansado.",
+    "reference": [
+      "Since he had worked longer than usual, he felt tired.",
+      "He felt tired because he had worked longer than usual.",
+      "As he had worked longer than usual, he felt tired."
+    ],
+    "mustUse": [
+      "longer"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1627543/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1627543"
+  },
+  {
+    "id": "lp-tatoeba-tr-1718189",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No había taxis, así que tuve que ir caminando a casa.",
+    "reference": [
+      "There was no taxi, so I had to walk home.",
+      "Since there was no taxi, I had to walk home.",
+      "As there was no taxi, I had to walk home."
+    ],
+    "mustUse": [
+      "taxi"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1718189/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1718189"
+  },
+  {
+    "id": "lp-tatoeba-tr-721844",
+    "type": "lifeParagraph",
+    "cefr": "B1",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Dime con quién andas y te diré quién eres.",
+    "reference": [
+      "One is often judged by the company one keeps.",
+      "A man is known by the company he keeps.",
+      "You can judge people by the company they keep.",
+      "People can be judged by the company they keep.",
+      "Tell me who your friends are, and I'll tell you who you are.",
+      "Tell me who your friends are, and I will tell you who you are.",
+      "Tell me your friends, and I will tell you who you are."
+    ],
+    "mustUse": [
+      "judged"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "721844/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-721844"
+  },
+  {
+    "id": "lp-tatoeba-tr-7815699",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Siendo sincero, tengo la sensación de que esto no va a llevar a nada.",
+    "reference": [
+      "To be honest, I have a feeling this won't lead to anything.",
+      "To be honest, I have a feeling this won't lead anywhere."
+    ],
+    "mustUse": [
+      "feeling"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "7815699/User83002",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-7815699"
+  },
+  {
+    "id": "lp-tatoeba-tr-1334917",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No pensamos que el plan saldría a la luz tan pronto.",
+    "reference": [
+      "We didn't expect an unveiling of the plan this soon.",
+      "We didn't think the plan would come to light so soon."
+    ],
+    "mustUse": [
+      "didn"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1334917/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1334917"
+  },
+  {
+    "id": "lp-tatoeba-tr-8016305",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Vosotras sois un poco más altas que yo ¿verdad?",
+    "reference": [
+      "You're a bit taller than I am, aren't you?",
+      "You're a little taller than I am, aren't you?"
+    ],
+    "mustUse": [
+      "taller"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "8016305/Seael",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-8016305"
+  },
+  {
+    "id": "lp-tatoeba-tr-501942",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Ella parece joven, pero de hecho es mayor que tú.",
+    "reference": [
+      "She looks young, but as a matter of fact she is older than you are.",
+      "She looks young, but she's actually older than you are."
+    ],
+    "mustUse": [
+      "older"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "501942/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-501942"
+  },
+  {
+    "id": "lp-tatoeba-tr-1546569",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "A pesar de que ella es rica, dice que es pobre.",
+    "reference": [
+      "In spite of the fact that she's rich, she says she's poor.",
+      "Even though she's rich, she says she's poor."
+    ],
+    "mustUse": [
+      "poor"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1546569/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1546569"
+  },
+  {
+    "id": "lp-tatoeba-tr-10044450",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "La democracia es cuando a una vaca se le permite elegir quién la ordeñará.",
+    "reference": [
+      "Democracy is when a cow is allowed to choose who will milk it.",
+      "Democracy is when a cow is allowed to choose who will milk her."
+    ],
+    "mustUse": [
+      "democracy"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "10044450/manufrutos",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-10044450"
+  },
+  {
+    "id": "lp-tatoeba-tr-2857821",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Estos días los motivos para casarse no son necesariamente puros.",
+    "reference": [
+      "These days, the motive for marriage is not necessarily pure.",
+      "These days, people's reasons for getting married are not always pure."
+    ],
+    "mustUse": [
+      "pure"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2857821/Besatnias",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2857821"
+  },
+  {
+    "id": "lp-tatoeba-tr-1061384",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "La película cuenta la historia de una vaca que cae del cielo.",
+    "reference": [
+      "The movie tells the story of a cow who fell from heaven.",
+      "The movie tells the story of a cow who fell out of the sky."
+    ],
+    "mustUse": [
+      "movie"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1061384/hayastan",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1061384"
+  },
+  {
+    "id": "lp-tatoeba-tr-11750516",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Las balas rebotaron en el costado del coche acorazado.",
+    "reference": [
+      "The bullets bounced off the side of the armoured car.",
+      "The bullets bounced off the side of the armored car."
+    ],
+    "mustUse": [
+      "bounced"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "11750516/Seael",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-11750516"
+  },
+  {
+    "id": "lp-tatoeba-tr-2679201",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No hay nada que alguien pueda hacer para evitar lo inevitable.",
+    "reference": [
+      "There isn't anything anybody can do to avoid the inevitable.",
+      "There isn't anything that anybody can do to avoid the inevitable."
+    ],
+    "mustUse": [
+      "inevitable"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2679201/migeels",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2679201"
+  },
+  {
+    "id": "lp-tatoeba-tr-5905213",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "En lugar de solucionar los temas, acostumbra a embrollarlos.",
+    "reference": [
+      "Instead of solving issues, he's in the habit of complicating them.",
+      "Instead of fixing problems, she usually makes them worse."
+    ],
+    "mustUse": [
+      "instead"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "5905213/arh",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-5905213"
+  },
+  {
+    "id": "lp-tatoeba-tr-2248588",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Supuse que no querrías beber café tan tarde por la noche.",
+    "reference": [
+      "I figured you wouldn't want to drink coffee so late at night.",
+      "I figured that you wouldn't want to drink coffee so late at night."
+    ],
+    "mustUse": [
+      "figured"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2248588/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2248588"
+  },
+  {
+    "id": "lp-tatoeba-tr-1346699",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Yo solía pensar que no importaba qué le diera de comer a mi perro.",
+    "reference": [
+      "I used to think it didn't really matter what I fed my dog.",
+      "I used to think that it didn't really matter what I fed my dog."
+    ],
+    "mustUse": [
+      "didn"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1346699/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1346699"
+  },
+  {
+    "id": "lp-tatoeba-tr-1208742",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "¡Haz el favor de vestirte que vamos a llegar tarde!",
+    "reference": [
+      "Do me a favour and get dressed, we're going to be late!",
+      "Do me the favor of dressing up because we're going to get there late!"
+    ],
+    "mustUse": [
+      "going"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1208742/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1208742"
+  },
+  {
+    "id": "lp-tatoeba-tr-2620",
+    "type": "lifeParagraph",
+    "cefr": "B2+",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No me gusta cuando matemáticos que saben mucho más que yo no pueden expresarse con claridad.",
+    "reference": [
+      "I don't like it when mathematicians who know much more than I do can't express themselves explicitly.",
+      "I don't like it when mathematicians who know much more than I do can't express themselves clearly."
+    ],
+    "mustUse": [
+      "mathematicians"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2620/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2620"
+  },
+  {
+    "id": "lp-tatoeba-tr-1545065",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Tenemos que usar la escalera, porque el ascensor está en reparación.",
+    "reference": [
+      "We have to use the stairs, because the elevator is being repaired.",
+      "We have to take the stairs, because the elevator is being repaired."
+    ],
+    "mustUse": [
+      "elevator"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1545065/hayastan",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1545065"
+  },
+  {
+    "id": "lp-tatoeba-tr-1203493",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Ciertas personas piensan que hay demasiados abogados en este país.",
+    "reference": [
+      "Some people think that there are way too many lawyers in this country.",
+      "Some people think that there are too many lawyers in this country."
+    ],
+    "mustUse": [
+      "lawyers"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1203493/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1203493"
+  },
+  {
+    "id": "lp-tatoeba-tr-2867738",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "El tiempo va empeorando a medida que avanza el día.",
+    "reference": [
+      "The weather was getting worse and worse as the day went on.",
+      "The weather is getting worse as the day draws on."
+    ],
+    "mustUse": [
+      "weather"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2867738/teskmon",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2867738"
+  },
+  {
+    "id": "lp-tatoeba-tr-1182478",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "La gente ciega a veces desarrolla una habilidad compensatoria de percibir la proximidad de los objetos alrededor de ellos.",
+    "reference": [
+      "Blind people sometimes develop a compensatory ability to sense the proximity of objects around them.",
+      "Blind people sometimes develop a compensatory ability to sense how close objects are around them."
+    ],
+    "mustUse": [
+      "compensatory"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1182478/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1182478"
+  },
+  {
+    "id": "lp-tatoeba-tr-8950394",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No creo que esto vaya a ser muy divertido.",
+    "reference": [
+      "I don't think this is going to be much fun.",
+      "I don't think that this is going to be much fun."
+    ],
+    "mustUse": [
+      "going"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "8950394/diegohn",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-8950394"
+  },
+  {
+    "id": "lp-tatoeba-tr-1678293",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Estoy sorprendido de oír que los precios han subido a tan altos niveles.",
+    "reference": [
+      "I'm surprised to hear that prices have gone up so high.",
+      "I am surprised to hear that prices have gone up so high."
+    ],
+    "mustUse": [
+      "surprised"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1678293/teskmon",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1678293"
+  },
+  {
+    "id": "lp-tatoeba-tr-3395271",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Solo porque a él le gusta pintar no significa que sea bueno para ello.",
+    "reference": [
+      "Just because he likes painting doesn't mean he's good at painting.",
+      "Just because he likes painting doesn't mean he's good at it."
+    ],
+    "mustUse": [
+      "painting"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "3395271/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-3395271"
+  },
+  {
+    "id": "lp-tatoeba-tr-618513",
+    "type": "lifeParagraph",
+    "cefr": "B2+",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Existe, pero visto que es tabú y que no se habla de ello, no hay necesidad de palabras para ello.",
+    "reference": [
+      "It exists, but seeing as it is taboo and that nobody talks about it, there's no need to have words for it.",
+      "It exists, but since it's taboo and nobody talks about it, there's no need to give it a name."
+    ],
+    "mustUse": [
+      "exists"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "618513/Leono",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-618513"
+  },
+  {
+    "id": "lp-tatoeba-tr-1441593",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Se lo habría dicho antes, pero no pesaba que lo entendería.",
+    "reference": [
+      "I would have told him earlier, but I didn't think he would understand.",
+      "I would have told her earlier, but I didn't think she would understand."
+    ],
+    "mustUse": [
+      "earlier"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1441593/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1441593"
+  },
+  {
+    "id": "lp-tatoeba-tr-7996441",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Mi hermana no es buena cocinera y yo tampoco.",
+    "reference": [
+      "My sister isn't a good cook, and neither am I.",
+      "My sister is not a good cook, and neither am I."
+    ],
+    "mustUse": [
+      "neither"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "7996441/Seael",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-7996441"
+  },
+  {
+    "id": "lp-tatoeba-tr-1365954",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No es sino hasta que pierdes la salud que te das cuenta de su valor.",
+    "reference": [
+      "You don't realize its value until you have lost your health.",
+      "It is not until you lose your health that you realize its value."
+    ],
+    "mustUse": [
+      "realize"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1365954/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1365954"
+  },
+  {
+    "id": "lp-tatoeba-tr-1594500",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Toda la habilidad de los marineros sucumbió ante la violencia de la tormenta.",
+    "reference": [
+      "All the skill of the sailors gave way to the violence of the storm.",
+      "All the skill of the sailors fell before the violence of the storm."
+    ],
+    "mustUse": [
+      "violence"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1594500/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1594500"
+  },
+  {
+    "id": "lp-tatoeba-tr-10182389",
+    "type": "lifeParagraph",
+    "cefr": "B2+",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Los pandas no son tan peligrosos como los leones.",
+    "reference": [
+      "Pandas are not as dangerous as lions.",
+      "Pandas aren't as dangerous as lions."
+    ],
+    "mustUse": [
+      "dangerous"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "10182389/Seael",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-10182389"
+  },
+  {
+    "id": "lp-tatoeba-tr-2746903",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Cuando nieva en la montaña, hace frío en el valle.",
+    "reference": [
+      "If it snows on the mountain, it's cold in the valley.",
+      "If it snows on the mountain, it is cold in the valley."
+    ],
+    "mustUse": [
+      "mountain"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2746903/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2746903"
+  },
+  {
+    "id": "lp-tatoeba-tr-757981",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Necesito a alguien que me abrace y que me diga que todo irá bien.",
+    "reference": [
+      "I need someone to hold me and tell me everything will be all right.",
+      "I need someone to hold me and tell me everything will be alright."
+    ],
+    "mustUse": [
+      "hold"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "757981/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-757981"
+  },
+  {
+    "id": "lp-tatoeba-tr-9939075",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Prefiero vivir en un mundo lleno de secretos antes que en uno que sea tan pequeño que yo sea capaz de comprenderlo.",
+    "reference": [
+      "I'd rather live in a world full of secrets than one so small that I'm able to understand it.",
+      "I'd rather live in a world full of secrets than one that's so small that I'm able to understand it."
+    ],
+    "mustUse": [
+      "secrets"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "9939075/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-9939075"
+  },
+  {
+    "id": "lp-tatoeba-tr-1569356",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No hay nada que hacer, así que mejor me voy a la cama.",
+    "reference": [
+      "There's nothing to do, so I may as well go to bed.",
+      "There is nothing to do, so I may as well go to bed."
+    ],
+    "mustUse": [
+      "nothing"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1569356/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1569356"
+  },
+  {
+    "id": "lp-tatoeba-tr-10065172",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "¡Admirad qué bueno y qué agradable es para los hermanos vivir juntos en unidad!",
+    "reference": [
+      "See how good and how pleasant it is for brothers to live together in unity!",
+      "Behold, how good and how pleasant it is for brethren to dwell together in unity!"
+    ],
+    "mustUse": [
+      "pleasant"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "10065172/manufrutos",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-10065172"
+  },
+  {
+    "id": "lp-tatoeba-tr-3169900",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Estoy tan decepcionado que mi árbol no me haya dado fruto este año.",
+    "reference": [
+      "I'm very disappointed that my tree didn't bear any fruit this year.",
+      "I'm very disappointed that my tree didn't give me any fruit this year."
+    ],
+    "mustUse": [
+      "disappointed"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "3169900/cueyayotl",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-3169900"
+  },
+  {
+    "id": "lp-tatoeba-tr-2717955",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Ella quedó inconsciente, pero recuperó la consciencia algunos minutos después.",
+    "reference": [
+      "She fainted, but came to after a few minutes.",
+      "She fainted but came to after a few minutes."
+    ],
+    "mustUse": [
+      "fainted"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2717955/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2717955"
+  },
+  {
+    "id": "lp-tatoeba-tr-8807645",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "El origen del problema radica en la falta de comunicación entre departamentos.",
+    "reference": [
+      "The root of the problem is a lack of communication between departments.",
+      "The origin of the problem lies in the lack of communication between departments."
+    ],
+    "mustUse": [
+      "communication"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "8807645/adaycito",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-8807645"
+  },
+  {
+    "id": "lp-tatoeba-tr-674330",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Su único deseo era volver a ver a su hijo una vez más.",
+    "reference": [
+      "Her one wish was to see her son again.",
+      "His only wish was to see his son again one more time."
+    ],
+    "mustUse": [
+      "wish"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "674330/Leono",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-674330"
+  },
+  {
+    "id": "lp-tatoeba-tr-1247888",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Mi sobrino fue perdonado en vista de su edad.",
+    "reference": [
+      "My nephew was excused because of his youth.",
+      "My nephew was excused on the grounds of his youth."
+    ],
+    "mustUse": [
+      "excused"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1247888/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1247888"
+  },
+  {
+    "id": "lp-tatoeba-tr-1785400",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Uno puede aprenderse palabras mucho mejor en un contexto, por ejemplo en frases o cuentos.",
+    "reference": [
+      "One can learn words much better in context, for example in sentences or stories.",
+      "You can learn words much better in context, for example in sentences or stories."
+    ],
+    "mustUse": [
+      "sentences"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1785400/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1785400"
+  },
+  {
+    "id": "lp-tatoeba-tr-10094969",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Estoy bastante seguro de que deberíamos haber dado un giro a la derecha allí.",
+    "reference": [
+      "I'm pretty sure we should've taken a right back there.",
+      "I'm pretty sure that we should've taken a right back there."
+    ],
+    "mustUse": [
+      "back"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "10094969/manufrutos",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-10094969"
+  },
+  {
+    "id": "lp-tatoeba-tr-539413",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Aprendí a montar en bicicleta cuando tenía seis años.",
+    "reference": [
+      "I learned how to ride a bike when I was six years old.",
+      "I learned how to ride a bicycle when I was six years old."
+    ],
+    "mustUse": [
+      "learned"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "539413/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-539413"
+  },
+  {
+    "id": "lp-tatoeba-tr-832056",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Un buen libro es el mejor amigo, ahora y siempre.",
+    "reference": [
+      "A good book is the best of friends, the same today and forever.",
+      "A good book is the best friend, now and forever."
+    ],
+    "mustUse": [
+      "forever"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "832056/LugoIlmer",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-832056"
+  },
+  {
+    "id": "lp-tatoeba-tr-800733",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Habría escrito una carta más larga si hubiera tenido más tiempo.",
+    "reference": [
+      "I would've written a longer letter if I'd had more time.",
+      "I would have written a longer letter if I'd had more time."
+    ],
+    "mustUse": [
+      "written"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "800733/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-800733"
+  },
+  {
+    "id": "lp-tatoeba-tr-1503457",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Abrió la boca como si fuera a hablar, pero no dijo nada.",
+    "reference": [
+      "He opened his mouth as if to speak, but didn't say anything.",
+      "She opened her mouth as if to speak, but didn't say anything."
+    ],
+    "mustUse": [
+      "opened"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1503457/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1503457"
+  },
+  {
+    "id": "lp-tatoeba-tr-2314596",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Asumí que tendrían hambre, así que traje unos sándwiches.",
+    "reference": [
+      "I assumed you might be hungry so I brought some sandwiches.",
+      "I assumed that you might be hungry so I brought some sandwiches."
+    ],
+    "mustUse": [
+      "sandwiches"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2314596/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2314596"
+  },
+  {
+    "id": "lp-tatoeba-tr-2194903",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No tenés que hacer nada que no quieras hacer.",
+    "reference": [
+      "You don't have to do anything you don't want to do.",
+      "You don't have to do anything that you don't want to do."
+    ],
+    "mustUse": [
+      "anything"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2194903/hayastan",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2194903"
+  },
+  {
+    "id": "lp-tatoeba-tr-11671368",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Muchísimas de mis oraciones están todavía sin traducir a otros idiomas.",
+    "reference": [
+      "Very many of my sentences are still untranslated into other languages.",
+      "Very many of my sentences are still without a translation into another language."
+    ],
+    "mustUse": [
+      "sentences"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "11671368/Seael",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-11671368"
+  },
+  {
+    "id": "lp-tatoeba-tr-4546548",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Me gustaría comprar este reloj, pero desafortunadamente es demasiado caro.",
+    "reference": [
+      "I would like to buy this watch, but unfortunately it's just too expensive.",
+      "I'd like to buy this watch, but unfortunately it's just too expensive."
+    ],
+    "mustUse": [
+      "unfortunately"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "4546548/DarkHollow",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-4546548"
+  },
+  {
+    "id": "lp-tatoeba-tr-1866189",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Un bebé no es capaz de hablar, así que tan solo grita hasta conseguir lo que quiere.",
+    "reference": [
+      "An infant isn't capable of speaking, so it just screams until it gets what it wants.",
+      "An infant is not capable of speaking, so it just screams until it gets what it wants."
+    ],
+    "mustUse": [
+      "speaking"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1866189/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1866189"
+  },
+  {
+    "id": "lp-tatoeba-tr-10619508",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No es posible concretar cuándo comenzó a existir el ser humano.",
+    "reference": [
+      "It isn't possible to say when exactly human beings started existing.",
+      "It's not possible to pinpoint when human beings began to exist."
+    ],
+    "mustUse": [
+      "beings"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "10619508/saverius",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-10619508"
+  },
+  {
+    "id": "lp-tatoeba-tr-818659",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Debe de haberte sorprendido encontrarte con tu maestro en un lugar como ése.",
+    "reference": [
+      "You must've been surprised to meet your teacher in such a place.",
+      "You must have been surprised to meet your teacher in such a place."
+    ],
+    "mustUse": [
+      "surprised"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "818659/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-818659"
+  },
+  {
+    "id": "lp-tatoeba-tr-1695551",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "He visto varias veces la película, pero me gustaría verla de nuevo.",
+    "reference": [
+      "I've seen that movie many times, but I'd like to see it again.",
+      "I've seen the film many times, but I'd like to see it again."
+    ],
+    "mustUse": [
+      "again"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1695551/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1695551"
+  },
+  {
+    "id": "lp-tatoeba-tr-2334435",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Decidí esperar en la estación a que llegara mi esposa.",
+    "reference": [
+      "I decided to wait at the station until my wife arrived.",
+      "I decided to wait at the station for my wife to arrive."
+    ],
+    "mustUse": [
+      "decided"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2334435/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2334435"
+  },
+  {
+    "id": "lp-tatoeba-tr-2707609",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "La gente estaba impresionada por la soltura con la que ejecutaba todos sus movimientos.",
+    "reference": [
+      "People were impressed by the fluidity with which he executed each of his movements.",
+      "People were impressed by the fluidity with which she executed each of her movements."
+    ],
+    "mustUse": [
+      "impressed"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2707609/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2707609"
+  },
+  {
+    "id": "lp-tatoeba-tr-1426331",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "La gente tiende a hablar fuerte cuando están emocionados.",
+    "reference": [
+      "People tend to raise their voices when they get excited.",
+      "People have the tendency to speak more loudly when they get excited."
+    ],
+    "mustUse": [
+      "excited"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1426331/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1426331"
+  },
+  {
+    "id": "lp-tatoeba-tr-13669124",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No nos van a pagar hasta fin de mes.",
+    "reference": [
+      "They're not going to pay us till the end of the month.",
+      "We're not going to get paid till the end of the month."
+    ],
+    "mustUse": [
+      "till"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "13669124/Seael",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-13669124"
+  },
+  {
+    "id": "lp-tatoeba-tr-2178852",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No des propina si no estás satisfecho con el servicio.",
+    "reference": [
+      "Don't leave a tip if you're not satisfied with the service.",
+      "Don't tip if you're not satisfied with the service."
+    ],
+    "mustUse": [
+      "satisfied"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2178852/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2178852"
+  },
+  {
+    "id": "lp-tatoeba-tr-733776",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Ella me pidió que no se lo contara a nadie. Así que no lo hice.",
+    "reference": [
+      "She asked me not to tell anyone, so I didn't.",
+      "She told me not to tell anyone, so I didn't."
+    ],
+    "mustUse": [
+      "didn"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "733776/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-733776"
+  },
+  {
+    "id": "lp-tatoeba-tr-980340",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "¿Alguna vez pensó en encontrar una gallina que ponga huevos de oro?",
+    "reference": [
+      "Have you ever thought about finding a hen that can lay golden eggs?",
+      "Have you ever thought about finding a chicken that can lay golden eggs?"
+    ],
+    "mustUse": [
+      "finding"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "980340/hayastan",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-980340"
+  },
+  {
+    "id": "lp-tatoeba-tr-1539900",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Se dice que el tiempo sana todas las heridas.",
+    "reference": [
+      "It is said that time heals all the wounds.",
+      "They say time heals all wounds."
+    ],
+    "mustUse": [
+      "wounds"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1539900/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1539900"
+  },
+  {
+    "id": "lp-tatoeba-tr-1258231",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "La compañía les provee a sus trabajadores sus uniformes, pero se espera que ellos los laven regularmente.",
+    "reference": [
+      "The firm provides its workers with their uniforms, but they are expected to have them regularly cleaned.",
+      "The company provides workers uniforms, but it's expected they will wash them regularly."
+    ],
+    "mustUse": [
+      "regularly"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1258231/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1258231"
+  },
+  {
+    "id": "lp-tatoeba-tr-5781372",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Hemos hecho varias mejoras a nuestra casa desde que la compramos.",
+    "reference": [
+      "We've made numerous improvements to our house since we bought it.",
+      "We have made numerous improvements to our house since we bought it."
+    ],
+    "mustUse": [
+      "improvements"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "5781372/MrMultilingual",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-5781372"
+  },
+  {
+    "id": "lp-tatoeba-tr-2721",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Depende de ti decidir si vamos allí o no.",
+    "reference": [
+      "It is up to you to decide whether we will go there or not.",
+      "It's up to you to decide whether we'll go there or not."
+    ],
+    "mustUse": [
+      "decide"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "2721/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-2721"
+  },
+  {
+    "id": "lp-tatoeba-tr-1137154",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Yo solo pude sentir cómo se hundía el cuchillo por mi espalda.",
+    "reference": [
+      "I could feel nothing but the knife as it plunged into my back.",
+      "I could only feel how the knife buried itself in my back."
+    ],
+    "mustUse": [
+      "knife"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1137154/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1137154"
+  },
+  {
+    "id": "lp-tatoeba-tr-1807502",
+    "type": "lifeParagraph",
+    "cefr": "B2+",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "A esta pieza no le llega mucha luz del sol.",
+    "reference": [
+      "This room doesn't get much sun.",
+      "This room doesn't get much sunlight."
+    ],
+    "mustUse": [
+      "doesn"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1807502/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1807502"
+  },
+  {
+    "id": "lp-tatoeba-tr-399406",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Le di al mendigo todo el dinero que tenía.",
+    "reference": [
+      "I gave the beggar all the money I had.",
+      "I gave the beggar all the money I had on me."
+    ],
+    "mustUse": [
+      "beggar"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "399406/catakaoe",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-399406"
+  },
+  {
+    "id": "lp-tatoeba-tr-1874138",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Cuanto más viejo te vuelves, más difícil se hace aprender un idioma nuevo.",
+    "reference": [
+      "The older you are, the more difficult it is to learn a language.",
+      "The older you get, the more difficult it becomes to learn a new language."
+    ],
+    "mustUse": [
+      "difficult"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1874138/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1874138"
+  },
+  {
+    "id": "lp-tatoeba-tr-1391542",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Creo que es hora de que hable de este problema con el jefe.",
+    "reference": [
+      "I think it's time for me to talk to the boss about this problem.",
+      "I think it's time she talk about the problem with the boss."
+    ],
+    "mustUse": [
+      "boss"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1391542/Shishir",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1391542"
+  },
+  {
+    "id": "lp-tatoeba-tr-6451189",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Me ha dicho que tu primo es simpatiquísimo y que quiere volver a verlo.",
+    "reference": [
+      "He said that your cousin is very nice, and that he wants to see him again.",
+      "She said that your cousin is very nice, and that she wants to see him again."
+    ],
+    "mustUse": [
+      "cousin"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "6451189/diegohn",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-6451189"
+  },
+  {
+    "id": "lp-tatoeba-tr-6140246",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Sus ojos azul zarco eran los más bellos que había visto nunca.",
+    "reference": [
+      "His light blue eyes were the most beautiful I had ever seen.",
+      "Her light blue eyes were the most beautiful I had ever seen."
+    ],
+    "mustUse": [
+      "blue"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "6140246/RafaelDiaz",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-6140246"
+  },
+  {
+    "id": "lp-tatoeba-tr-1147891",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "En ninguna parte existe ortografía que pueda decirse de absolutamente correcta.",
+    "reference": [
+      "There is no existing grammar that can be said to be absolutely correct.",
+      "Things like grammars that can be called absolutely correct do not exist anywhere."
+    ],
+    "mustUse": [
+      "absolutely"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1147891/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1147891"
+  },
+  {
+    "id": "lp-tatoeba-tr-1808332",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "No creas nada de lo que oigas, y solo la mitad de lo que veas.",
+    "reference": [
+      "Believe none of what you hear and only half of what you see.",
+      "Believe none of what you hear and half of what you see."
+    ],
+    "mustUse": [
+      "none"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "1808332/marcelostockle",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-1808332"
+  },
+  {
+    "id": "lp-tatoeba-tr-5902436",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Siempre habla a borbotones y no termina ninguna frase.",
+    "reference": [
+      "He always gushes and doesn't finish his sentences.",
+      "He always talks too fast and doesn't finish his sentences."
+    ],
+    "mustUse": [
+      "sentences"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "5902436/arh",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-5902436"
+  },
+  {
+    "id": "lp-tatoeba-tr-7141683",
+    "type": "lifeParagraph",
+    "cefr": "B2",
+    "skill": "writing",
+    "kind": "translate",
+    "prompt": "Translate into natural English.",
+    "text": "Por el momento, eso no es lo más importante.",
+    "reference": [
+      "That isn't what's most important at the moment.",
+      "That's not what's most important at the moment."
+    ],
+    "mustUse": [
+      "important"
+    ],
+    "minWords": 40,
+    "source": "tatoeba",
+    "sourceId": "7141683/arh",
+    "license": "CC BY 2.0 FR",
+    "origin": "verbatim",
+    "tier": "permissive",
+    "group": "tatoeba-es-7141683"
+  }
+]

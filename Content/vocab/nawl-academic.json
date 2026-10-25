@@ -1,0 +1,2618 @@
+[
+  {
+    "id": "v-abdominal-adjective",
+    "headword": "abdominal",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "abdominal",
+    "definition": "relating to the area of the body around the stomach",
+    "example": "Diet and floor exercises, such as abdominal crunches, can help to get rid of a pot belly.",
+    "exampleEs": "La dieta y los ejercicios en el suelo, como los abdominales, pueden ayudar a deshacerse de una barriga prominente.",
+    "cloze": "Diet and floor exercises, such as ____ crunches, can help to get rid of a pot belly.",
+    "answer": "abdominal",
+    "distractors": [
+      "democratic",
+      "renewable",
+      "hybrid"
+    ],
+    "collocations": [
+      "abdominal pain",
+      "abdominal muscles"
+    ],
+    "note": "Stress falls on the second syllable: ab-DOM-i-nal.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:abdominal|tatoeba:eng3116523(patgfisher)/spa7585666(Eremon)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-acceleration-noun",
+    "headword": "acceleration",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "aceleración",
+    "definition": "the rate at which a vehicle increases its speed",
+    "example": "My only critique for my car was its acceleration.",
+    "exampleEs": "La única crítica para mi coche fue su aceleración.",
+    "cloze": "My only critique for my car was its ____.",
+    "answer": "acceleration",
+    "distractors": [
+      "suburb",
+      "formula",
+      "journalist"
+    ],
+    "collocations": [
+      "rapid acceleration",
+      "acceleration of growth"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:acceleration|tatoeba:eng9499077(jayrod84)/spa11853707(Eremon)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-acute-adjective",
+    "headword": "acute",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "agudo, fino",
+    "definition": "very strong or well developed, as a sense",
+    "example": "A blind person's hearing is often very acute.",
+    "exampleEs": "El oído de un ciego a menudo es muy agudo.",
+    "cloze": "A blind person's hearing is often very ____.",
+    "answer": "acute",
+    "distractors": [
+      "digital",
+      "parental",
+      "verbal"
+    ],
+    "collocations": [
+      "acute pain",
+      "acute shortage"
+    ],
+    "note": "Acute can also mean severe: an acute shortage is a very serious one.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:acute|tatoeba:eng323722(CM)/spa3809759(Seael)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-aesthetic-adjective",
+    "headword": "aesthetic",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "estético",
+    "definition": "relating to beauty and the way something looks",
+    "example": "I look at it from an aesthetic point of view.",
+    "exampleEs": "Yo lo veo desde una perspectiva estética.",
+    "cloze": "I look at it from an ____ point of view.",
+    "answer": "aesthetic",
+    "distractors": [
+      "urgent",
+      "annual",
+      "unable"
+    ],
+    "collocations": [
+      "aesthetic appeal",
+      "aesthetic value"
+    ],
+    "note": "Pronounced es-THET-ik; British spelling is also 'aesthetic', not 'estetic'.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:aesthetic|tatoeba:eng251597(Dejo)/spa1272555(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-alien-noun",
+    "headword": "alien",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "extraterrestres",
+    "definition": "creatures from another planet, as in science fiction",
+    "example": "I dreamed I had been abducted by aliens.",
+    "exampleEs": "Soñé que era abducido por los extraterrestres.",
+    "cloze": "I dreamed I had been abducted by ____.",
+    "answer": "aliens",
+    "distractors": [
+      "theorems",
+      "strains",
+      "debts"
+    ],
+    "collocations": [
+      "alien invasion",
+      "alien life"
+    ],
+    "note": "Alien can also mean a foreign resident, but here it means extraterrestre.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:alien|tatoeba:eng2640911(CK)/spa7779168(Eremon)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-altitude-noun",
+    "headword": "altitude",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "altitudes, altura",
+    "definition": "the height of a place above sea level",
+    "example": "In high altitudes, people find it hard to breathe.",
+    "exampleEs": "En grandes altitudes la gente encuentra difícil respirar.",
+    "cloze": "In high ____, people find it hard to breathe.",
+    "answer": "altitudes",
+    "distractors": [
+      "vows",
+      "harms",
+      "mixtures"
+    ],
+    "collocations": [
+      "high altitude",
+      "altitude sickness"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:altitude|tatoeba:eng318303(CM)/spa5782666(albrusgher)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-applause-noun",
+    "headword": "applause",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "aplausos",
+    "definition": "the sound of people clapping to show approval",
+    "example": "The astronauts were greeted with cheers and applause of an enthusiastic crowd.",
+    "exampleEs": "Los astronautas fueron recibidos con aclamaciones y aplausos de una entusiasmada multitud.",
+    "cloze": "The astronauts were greeted with cheers and ____ of an enthusiastic crowd.",
+    "answer": "applause",
+    "distractors": [
+      "treaty",
+      "vitamin",
+      "pest"
+    ],
+    "collocations": [
+      "round of applause",
+      "thunderous applause"
+    ],
+    "note": "Applause is uncountable: say 'applause', not 'applauses'.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:applause|tatoeba:eng27018(CK)/spa1346646(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-bang-noun",
+    "headword": "bang",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "portazo, estruendo",
+    "definition": "a sudden loud noise or dramatic ending",
+    "example": "Quitting one's job with a bang is cathartic but is it the right thing to do?",
+    "exampleEs": "Dimitir del trabajo con un portazo es catárquico pero ¿es lo más adecuado?",
+    "cloze": "Quitting one's job with a ____ is cathartic but is it the right thing to do?",
+    "answer": "bang",
+    "distractors": [
+      "cabinet",
+      "deposit",
+      "ocean"
+    ],
+    "collocations": [
+      "with a bang",
+      "loud bang"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:bang|tatoeba:eng460526(frpzzd)/spa13652911(Seael)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-bang-verb",
+    "headword": "bang",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "golpear",
+    "definition": "to hit something hard so that it makes a loud noise",
+    "example": "I banged on the door, but nobody answered.",
+    "exampleEs": "Golpeé la puerta, pero nadie respondió.",
+    "cloze": "I ____ on the door, but nobody answered.",
+    "answer": "banged",
+    "distractors": [
+      "restored",
+      "extracted",
+      "updated"
+    ],
+    "collocations": [
+      "bang on the door",
+      "bang the table"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:bang|tatoeba:eng2293488(CK)/spa2314642(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-bilingual-adjective",
+    "headword": "bilingual",
+    "pos": "adjective",
+    "cefr": "B1",
+    "es": "bilingüe",
+    "definition": "able to speak two languages equally well",
+    "example": "Am I seriously the only one who isn't bilingual here?",
+    "exampleEs": "¿En serio soy el único que no es bilingüe aquí?",
+    "cloze": "Am I seriously the only one who isn't ____ here?",
+    "answer": "bilingual",
+    "distractors": [
+      "electronic",
+      "historical",
+      "lateral"
+    ],
+    "collocations": [
+      "bilingual speaker",
+      "bilingual education"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:bilingual|tatoeba:eng4843026(Ishao)/spa10913639(Eremon)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-bleed-verb",
+    "headword": "bleed",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "sangrar",
+    "definition": "to lose blood from the body",
+    "example": "Do your gums bleed when you brush your teeth?",
+    "exampleEs": "¿Te sangran las encías cuando te cepillas los dientes?",
+    "cloze": "Do your gums ____ when you brush your teeth?",
+    "answer": "bleed",
+    "distractors": [
+      "divorce",
+      "specialize",
+      "prosper"
+    ],
+    "collocations": [
+      "bleed heavily",
+      "bleed easily"
+    ],
+    "note": "The past form is 'bled', not 'bleeded'.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:bleed|tatoeba:eng9851490(NurseMeeks)/spa10111058(manufrutos)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-colony-noun",
+    "headword": "colony",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "colonias",
+    "definition": "areas ruled and settled by people from another country",
+    "example": "The colonies became independent states over the course of time.",
+    "exampleEs": "Las colonias devinieron estados independientes con el curso del tiempo.",
+    "cloze": "The ____ became independent states over the course of time.",
+    "answer": "colonies",
+    "distractors": [
+      "citizenships",
+      "dictators",
+      "minerals"
+    ],
+    "collocations": [
+      "former colony",
+      "British colonies"
+    ],
+    "note": "A colony is a territory ruled by another country; the Mexican 'colonia' (neighborhood) is 'neighborhood'.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:colony|tatoeba:eng12223180(Miktsoanit)/spa8682211(arh)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-complication-noun",
+    "headword": "complication",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "complicaciones",
+    "definition": "new problems that make an illness or situation worse",
+    "example": "Have you ever had any complications during past pregnancies?",
+    "exampleEs": "¿Has tenido alguna vez alguna complicación en anteriores embarazos?",
+    "cloze": "Have you ever had any ____ during past pregnancies?",
+    "answer": "complications",
+    "distractors": [
+      "slogans",
+      "gazes",
+      "clips"
+    ],
+    "collocations": [
+      "serious complications",
+      "medical complication"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:complication|tatoeba:eng9853798(NurseMeeks)/spa10111047(manufrutos)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-contour-noun",
+    "headword": "contour",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "contorno, perfil",
+    "definition": "the outline or shape of something such as land or a coast",
+    "example": "The lava flow has already reached the sea and is changing the contours of the coastline.",
+    "exampleEs": "El caudal de lava ya ha llegado al mar y está cambiando el contorno de la costa.",
+    "cloze": "The lava flow has already reached the sea and is changing the ____ of the coastline.",
+    "answer": "contours",
+    "distractors": [
+      "signatures",
+      "bullets",
+      "departures"
+    ],
+    "collocations": [
+      "coastal contours",
+      "contour of the land",
+      "contour map"
+    ],
+    "note": "Stress is on the first syllable: CON-tour.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:contour|tatoeba:eng10612160(sangelo)/spa10328078(Seael)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-contradict-verb",
+    "headword": "contradict",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "contradecir, contradecirse",
+    "definition": "to say the opposite of what you said before",
+    "example": "He contradicted himself several times in his testimony.",
+    "exampleEs": "Se contradijo varias veces en su declaración.",
+    "cloze": "He ____ himself several times in his testimony.",
+    "answer": "contradicted",
+    "distractors": [
+      "blocked",
+      "suspended",
+      "advertised"
+    ],
+    "collocations": [
+      "contradict yourself",
+      "contradict a statement",
+      "contradict the evidence"
+    ],
+    "note": "Followed by a direct object, no preposition: contradict someone, not contradict with someone.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:contradict|tatoeba:eng2266125(_undertoad)/spa2266126(hayastan)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-contradiction-noun",
+    "headword": "contradiction",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "contradicción",
+    "definition": "a difference between two statements or facts that cannot both be true",
+    "example": "It's best not to try to reconcile the contradictions.",
+    "exampleEs": "Es mejor no intentar reconciliar las contradicciones.",
+    "cloze": "It's best not to try to reconcile the ____.",
+    "answer": "contradictions",
+    "distractors": [
+      "hawks",
+      "gears",
+      "empires"
+    ],
+    "collocations": [
+      "a clear contradiction",
+      "resolve a contradiction",
+      "in contradiction to"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:contradiction|tatoeba:eng10020643(shekitten)/spa10031591(manufrutos)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-contradictory-adjective",
+    "headword": "contradictory",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "contradictorio",
+    "definition": "saying or showing opposite things that cannot both be true",
+    "example": "With so much contradictory information, one no longer knows what type of oils should be used for cooking.",
+    "exampleEs": "Con tanta información contradictoria, uno ya no sabe qué tipo de aceites debe usar para cocinar.",
+    "cloze": "With so much ____ information, one no longer knows what type of oils should be used for cooking.",
+    "answer": "contradictory",
+    "distractors": [
+      "thermal",
+      "mechanical",
+      "rapid"
+    ],
+    "collocations": [
+      "contradictory information",
+      "contradictory statements",
+      "contradictory results"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:contradictory|tatoeba:eng4364541(LB)/spa4364309(umano)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-cortex-noun",
+    "headword": "cortex",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "corteza",
+    "definition": "the outer layer of the brain",
+    "example": "The cerebral cortex is made up of gray matter.",
+    "exampleEs": "La corteza cerebral está compuesta por materia gris.",
+    "cloze": "The cerebral ____ is made up of gray matter.",
+    "answer": "cortex",
+    "distractors": [
+      "incentive",
+      "curriculum",
+      "politician"
+    ],
+    "collocations": [
+      "cerebral cortex",
+      "prefrontal cortex",
+      "visual cortex"
+    ],
+    "note": "Plural is cortices or cortexes.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:cortex|tatoeba:eng5250633(Hybrid)/spa5250778(wcharpentier)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-curriculum-noun",
+    "headword": "curriculum",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "plan de estudios, currículo",
+    "definition": "the set of subjects and courses taught at a school or university",
+    "example": "They have a very good curriculum at that university.",
+    "exampleEs": "Tienen un muy buen currículo en esa universidad.",
+    "cloze": "They have a very good ____ at that university.",
+    "answer": "curriculum",
+    "distractors": [
+      "declaration",
+      "rail",
+      "sediment"
+    ],
+    "collocations": [
+      "school curriculum",
+      "core curriculum",
+      "curriculum design"
+    ],
+    "note": "Not a CV: in English a CV is a résumé; curriculum means a study program.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:curriculum|tatoeba:eng45508(CK)/spa1953476(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-damp-adjective",
+    "headword": "damp",
+    "pos": "adjective",
+    "cefr": "B1",
+    "es": "húmedo, ligeramente mojado",
+    "definition": "slightly wet",
+    "example": "After it rains and the ground is damp, it's easier to pull weeds.",
+    "exampleEs": "Después de llover y estando el suelo húmedo, es más sencillo quitar la maleza.",
+    "cloze": "After it rains and the ground is ____, it's easier to pull weeds.",
+    "answer": "damp",
+    "distractors": [
+      "pharmaceutical",
+      "immune",
+      "communicative"
+    ],
+    "collocations": [
+      "damp ground",
+      "damp cloth",
+      "damp and cold"
+    ],
+    "note": "Damp is only a little wet; wet means soaked.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:damp|tatoeba:eng937598(CK)/spa1606358(teskmon)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-deceive-verb",
+    "headword": "deceive",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "engañar",
+    "definition": "to make someone believe something that is not true",
+    "example": "He deceived her, but even now she loves him.",
+    "exampleEs": "Él le engañó a ella, pero incluso ahora ella le sigue queriendo.",
+    "cloze": "He ____ her, but even now she loves him.",
+    "answer": "deceived",
+    "distractors": [
+      "composed",
+      "enriched",
+      "decreased"
+    ],
+    "collocations": [
+      "deceive the public",
+      "deceive yourself",
+      "deceive customers"
+    ],
+    "note": "Deceive is not 'decepcionar'; that is disappoint.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:deceive|tatoeba:eng302915(CM)/spa2916272(teskmon)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-dense-adjective",
+    "headword": "dense",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "denso",
+    "definition": "heavy and thick because its parts are packed closely together",
+    "example": "Lead is a soft, dense, malleable and fusible metal.",
+    "exampleEs": "El plomo es un metal blando, denso, maleable y fusible.",
+    "cloze": "Lead is a soft, ____, malleable and fusible metal.",
+    "answer": "dense",
+    "distractors": [
+      "wealthy",
+      "urban",
+      "governmental"
+    ],
+    "collocations": [
+      "dense material",
+      "dense fog",
+      "dense population"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:dense|tatoeba:eng10086854(AlanF_US)/spa10086980(arh)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-diagnose-verb",
+    "headword": "diagnose",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "diagnosticar",
+    "definition": "to identify an illness or problem by looking at the signs",
+    "example": "Have you ever been diagnosed with thyroid issues?",
+    "exampleEs": "¿Te han diagnosticado de problemas tiroideos alguna vez?",
+    "cloze": "Have you ever been ____ with thyroid issues?",
+    "answer": "diagnosed",
+    "distractors": [
+      "sprayed",
+      "fulfilled",
+      "compensated"
+    ],
+    "collocations": [
+      "diagnosed with",
+      "diagnose a problem",
+      "diagnose the cause"
+    ],
+    "note": "Use 'diagnosed with' an illness, not 'diagnosed of'.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:diagnose|tatoeba:eng9849588(NurseMeeks)/spa10111261(manufrutos)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-dialect-noun",
+    "headword": "dialect",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "dialecto, habla regional",
+    "definition": "a form of a language used in one region or group",
+    "example": "A dialect is a specific form of a language, spoken in a certain region.",
+    "exampleEs": "Un dialecto es una forma específica de un idioma, que se habla en una cierta región.",
+    "cloze": "A ____ is a specific form of a language, spoken in a certain region.",
+    "answer": "dialect",
+    "distractors": [
+      "therapy",
+      "cable",
+      "proof"
+    ],
+    "collocations": [
+      "regional dialect",
+      "local dialect",
+      "dialect of English"
+    ],
+    "note": "Stress is on the first syllable: DI-a-lect.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:dialect|tatoeba:eng3345601(_undertoad)/spa1754903(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-electron-noun",
+    "headword": "electron",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "electrón",
+    "definition": "a tiny particle with a negative charge found in atoms",
+    "example": "Atoms are composed of protons, neutrons, and electrons.",
+    "exampleEs": "Los átomos están compuestos de protones, neutrones y electrones.",
+    "cloze": "Atoms are composed of protons, neutrons, and ____.",
+    "answer": "electrons",
+    "distractors": [
+      "regimes",
+      "foundations",
+      "civilizations"
+    ],
+    "collocations": [
+      "free electron",
+      "electron microscope",
+      "electron beam"
+    ],
+    "note": "Stress is on the second syllable: e-LEC-tron.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:electron|tatoeba:eng2334885(orcrist)/spa2334910(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-erase-verb",
+    "headword": "erase",
+    "pos": "verb",
+    "cefr": "C1",
+    "es": "borrar",
+    "definition": "to remove writing or marks so they cannot be seen",
+    "example": "It's written in pencil, so you can erase it.",
+    "exampleEs": "Está escrito con lápiz, así que se puede borrar.",
+    "cloze": "It's written in pencil, so you can ____ it.",
+    "answer": "erase",
+    "distractors": [
+      "fulfill",
+      "appoint",
+      "amaze"
+    ],
+    "collocations": [
+      "erase a file",
+      "erase the data",
+      "erase a mistake"
+    ],
+    "note": "Pronounced ih-RAYSS, with stress on the second syllable.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:erase|tatoeba:eng1341458(CK)/spa7921118(Seael)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-exponential-adjective",
+    "headword": "exponential",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "exponencial",
+    "definition": "describing growth that becomes faster and faster over time",
+    "example": "The greatest shortcoming of the human race is our inability to understand the exponential function.",
+    "exampleEs": "El mayor defecto de la raza humana es nuestra incapacidad para entender la función exponencial.",
+    "cloze": "The greatest shortcoming of the human race is our inability to understand the ____ function.",
+    "answer": "exponential",
+    "distractors": [
+      "fetal",
+      "criminal",
+      "forthcoming"
+    ],
+    "collocations": [
+      "exponential growth",
+      "exponential function",
+      "exponential increase"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:exponential|tatoeba:eng5434766(Hybrid)/spa5699968(albrusgher)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-fatigue-noun",
+    "headword": "fatigue",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "fatiga, cansancio extremo",
+    "definition": "extreme tiredness",
+    "example": "He fainted with hunger and fatigue, but came to after a while.",
+    "exampleEs": "Se desmayó de hambre y fatiga, pero volvió en si un rato después.",
+    "cloze": "He fainted with hunger and ____, but came to after a while.",
+    "answer": "fatigue",
+    "distractors": [
+      "biography",
+      "recession",
+      "applause"
+    ],
+    "collocations": [
+      "chronic fatigue",
+      "muscle fatigue",
+      "fatigue and stress"
+    ],
+    "note": "Stress is on the second syllable: fa-TEEG; the -gue is pronounced /g/.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:fatigue|tatoeba:eng295599(CM)/spa1923557(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-footnote-noun",
+    "headword": "footnote",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "nota al pie",
+    "definition": "a note printed at the bottom of a page",
+    "example": "The footnotes are at the bottom of the page.",
+    "exampleEs": "Las anotaciones están al pie de la página.",
+    "cloze": "The ____ are at the bottom of the page.",
+    "answer": "footnotes",
+    "distractors": [
+      "poisons",
+      "fuels",
+      "signals"
+    ],
+    "collocations": [
+      "add a footnote",
+      "see the footnote",
+      "footnote reference"
+    ],
+    "note": "Written as one word: footnote.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:footnote|tatoeba:eng19894(CK)/spa1634618(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-friction-noun",
+    "headword": "friction",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "fricción, roces",
+    "definition": "disagreement or conflict between people or groups",
+    "example": "Trade friction might arise between the two nations at any moment.",
+    "exampleEs": "En cualquier momento pueden producirse fricciones comerciales entre los dos países.",
+    "cloze": "Trade ____ might arise between the two nations at any moment.",
+    "answer": "friction",
+    "distractors": [
+      "segment",
+      "army",
+      "scan"
+    ],
+    "collocations": [
+      "trade friction",
+      "friction between teams",
+      "reduce friction"
+    ],
+    "note": "In this sense friction means conflict; the physical sense is rubbing between surfaces.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:friction|tatoeba:eng241718(CM)/spa1702334(teskmon)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-genetically-adverb",
+    "headword": "genetically",
+    "pos": "adverb",
+    "cefr": "B1",
+    "es": "genéticamente",
+    "definition": "in a way that involves genes or DNA",
+    "example": "Do you think it's dangerous to eat genetically modified food?",
+    "exampleEs": "¿Tú crees que es peligroso comer comida modificada genéticamente?",
+    "cloze": "Do you think it's dangerous to eat ____ modified food?",
+    "answer": "genetically",
+    "distractors": [
+      "financially",
+      "collectively",
+      "separately"
+    ],
+    "collocations": [
+      "genetically modified",
+      "genetically identical",
+      "genetically engineered"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:genetically|tatoeba:eng953232(CK)/spa1242687(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-grammatical-adjective",
+    "headword": "grammatical",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "gramatical",
+    "definition": "relating to the rules of how words are used in a language",
+    "example": "That isn't a grammatical error, but a spelling one.",
+    "exampleEs": "Eso no es un error de gramática, sino de ortografía.",
+    "cloze": "That isn't a ____ error, but a spelling one.",
+    "answer": "grammatical",
+    "distractors": [
+      "productive",
+      "annual",
+      "lateral"
+    ],
+    "collocations": [
+      "grammatical error",
+      "grammatical structure",
+      "grammatical rule"
+    ],
+    "note": "Spelled with double m: grammatical, grammar.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:grammatical|tatoeba:eng12327479(Miktsoanit)/spa12325980(Serrot)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-habitat-noun",
+    "headword": "habitat",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "hábitat",
+    "definition": "the natural place where an animal or plant lives",
+    "example": "Wild animal attacks on the human population increase when their habitat is encroached upon and invaded.",
+    "exampleEs": "Los ataques de animales salvajes a la población humana aumentan cuando esta se extiende e invade el hábitat de aquellos.",
+    "cloze": "Wild animal attacks on the human population increase when their ____ is encroached upon and invaded.",
+    "answer": "habitat",
+    "distractors": [
+      "tide",
+      "absence",
+      "dialog"
+    ],
+    "collocations": [
+      "natural habitat",
+      "wildlife habitat",
+      "habitat loss"
+    ],
+    "note": "Stress is on the first syllable: HAB-i-tat.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:habitat|tatoeba:eng4364558(LB)/spa4364266(umano)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-illusion-noun",
+    "headword": "illusion",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "ilusión (engaño), espejismo",
+    "definition": "something that seems real but is not",
+    "example": "I've crossed the seas of eternity to understand that the notion of time is nothing but an illusion.",
+    "exampleEs": "He cruzado los mares de la eternidad para entender que la noción de tiempo no es nada sino una ilusión.",
+    "cloze": "I've crossed the seas of eternity to understand that the notion of time is nothing but an ____.",
+    "answer": "illusion",
+    "distractors": [
+      "invoice",
+      "ounce",
+      "ally"
+    ],
+    "collocations": [
+      "optical illusion",
+      "create the illusion",
+      "an illusion of control"
+    ],
+    "note": "False friend: illusion is a false impression, not excitement or hope (that is 'ilusión' in Spanish).",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:illusion|tatoeba:eng542394(FeuDRenais)/spa1593067(teskmon)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-impulse-noun",
+    "headword": "impulse",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "impulso, arrebato",
+    "definition": "a sudden strong wish to do something without thinking",
+    "example": "On a sudden impulse, I returned to my home town.",
+    "exampleEs": "En un arranque me volví a mi pueblo.",
+    "cloze": "On a sudden ____, I returned to my home town.",
+    "answer": "impulse",
+    "distractors": [
+      "classification",
+      "nationalism",
+      "thickness"
+    ],
+    "collocations": [
+      "on impulse",
+      "impulse buy",
+      "resist an impulse"
+    ],
+    "note": "Say 'on impulse' or 'on a sudden impulse'.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:impulse|tatoeba:eng2259074(_undertoad)/spa2259075(cueyayotl)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-incredible-adjective",
+    "headword": "incredible",
+    "pos": "adjective",
+    "cefr": "B1",
+    "es": "increíble, extraordinario",
+    "definition": "so good, big or extraordinary that it is hard to believe",
+    "example": "It was one of the most incredible experiences of my life.",
+    "exampleEs": "Fue una de las experiencias más increíbles de mi vida.",
+    "cloze": "It was one of the most ____ experiences of my life.",
+    "answer": "incredible",
+    "distractors": [
+      "mechanical",
+      "coronary",
+      "downward"
+    ],
+    "collocations": [
+      "incredible results",
+      "incredible experience",
+      "incredible value"
+    ],
+    "note": "Incredible (not believable) differs from incredulous (not believing).",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:incredible|tatoeba:eng2149113(Hybrid)/spa2216954(Shishir)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-inferior-adjective",
+    "headword": "inferior",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "inferior",
+    "definition": "lower in quality or rank than something else",
+    "example": "I think this one is inferior to that in quality.",
+    "exampleEs": "Yo pienso que éste es inferior a ése en calidad.",
+    "cloze": "I think this one is ____ to that in quality.",
+    "answer": "inferior",
+    "distractors": [
+      "adjacent",
+      "corporate",
+      "wealthy"
+    ],
+    "collocations": [
+      "inferior quality",
+      "inferior to",
+      "inferior product"
+    ],
+    "note": "Use 'inferior to', not 'inferior than' or 'inferior that'.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:inferior|tatoeba:eng33534(CM)/spa1220358(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-inject-verb",
+    "headword": "inject",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "inyectar",
+    "definition": "to push a liquid into the body using a needle",
+    "example": "I have to use a needle to inject this under your skin.",
+    "exampleEs": "Tengo que usar esta aguja para inyectarte esto bajo la piel.",
+    "cloze": "I have to use a needle to ____ this under your skin.",
+    "answer": "inject",
+    "distractors": [
+      "knock",
+      "scatter",
+      "elect"
+    ],
+    "collocations": [
+      "inject a vaccine",
+      "inject medication",
+      "inject under the skin"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:inject|tatoeba:eng9849509(NurseMeeks)/spa10111160(manufrutos)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-interrupt-verb",
+    "headword": "interrupt",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "interrumpir",
+    "definition": "to stop someone while they are speaking",
+    "example": "Why do you interrupt me all the time?",
+    "exampleEs": "¿Por qué me interrumpes todo el tiempo?",
+    "cloze": "Why do you ____ me all the time?",
+    "answer": "interrupt",
+    "distractors": [
+      "cure",
+      "sue",
+      "shell"
+    ],
+    "collocations": [
+      "interrupt a meeting",
+      "interrupt me",
+      "rudely interrupt"
+    ],
+    "note": "Polite phrase in meetings: 'Sorry to interrupt, but...'.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:interrupt|tatoeba:eng3758687(Lindoula)/spa4325400(gianich73)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-legend-noun",
+    "headword": "legend",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "leyenda",
+    "definition": "a traditional story from the past that may not be true",
+    "example": "The legend says he was abandoned in the woods.",
+    "exampleEs": "Cuenta la leyenda que él fue abandonado en el bosque.",
+    "cloze": "The ____ says he was abandoned in the woods.",
+    "answer": "legend",
+    "distractors": [
+      "outbreak",
+      "pub",
+      "bunch"
+    ],
+    "collocations": [
+      "local legend",
+      "urban legend",
+      "according to legend"
+    ],
+    "note": "False friend: legend is a story; a map legend is also called a key.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:legend|tatoeba:eng1169746(CM)/spa1169743(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-manuscript-noun",
+    "headword": "manuscript",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "manuscrito",
+    "definition": "an author's text before it is printed as a book",
+    "example": "He showed me the manuscript of his new play.",
+    "exampleEs": "Él me enseñó el manuscrito de su nueva obra.",
+    "cloze": "He showed me the ____ of his new play.",
+    "answer": "manuscript",
+    "distractors": [
+      "arrest",
+      "hormone",
+      "blast"
+    ],
+    "collocations": [
+      "submit a manuscript",
+      "manuscript draft",
+      "original manuscript"
+    ],
+    "note": "Stress is on the first syllable: MAN-yoo-script.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:manuscript|tatoeba:eng302502(CK)/spa1781303(Shishir)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-mechanic-noun",
+    "headword": "mechanic",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "mecánico",
+    "definition": "a person whose job is to repair vehicles and machines",
+    "example": "Take it to a mechanic, and get it fixed.",
+    "exampleEs": "Llévalo a un mecánico a arreglar.",
+    "cloze": "Take it to a ____, and get it fixed.",
+    "answer": "mechanic",
+    "distractors": [
+      "tunnel",
+      "consumer",
+      "retreat"
+    ],
+    "collocations": [
+      "car mechanic",
+      "auto mechanic",
+      "skilled mechanic"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:mechanic|tatoeba:eng266334(CM)/spa1192304(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-memorize-verb",
+    "headword": "memorize",
+    "pos": "verb",
+    "cefr": "B1",
+    "es": "memorizar",
+    "definition": "to learn something so you can remember it exactly",
+    "example": "This is the first time I've ever memorized a dialog.",
+    "exampleEs": "Es la primera vez que me memorizo un diálogo.",
+    "cloze": "This is the first time I've ever ____ a dialog.",
+    "answer": "memorized",
+    "distractors": [
+      "harvested",
+      "knocked",
+      "impaired"
+    ],
+    "collocations": [
+      "memorize a list",
+      "memorize a speech",
+      "memorize by heart"
+    ],
+    "note": "British spelling is memorise. Say 'learn by heart', not 'learn of heart'.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:memorize|tatoeba:eng1686473(Amastan)/spa1687247(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-metaphor-noun",
+    "headword": "metaphor",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "metáfora",
+    "definition": "a way of describing something by saying it is something else",
+    "example": "It's difficult to understand that author's texts, he uses a lot of metaphors.",
+    "exampleEs": "Es difícil entender los textos de aquel autor, él utiliza muchas metáforas.",
+    "cloze": "It's difficult to understand that author's texts, he uses a lot of ____.",
+    "answer": "metaphors",
+    "distractors": [
+      "labs",
+      "stakes",
+      "copyrights"
+    ],
+    "collocations": [
+      "use a metaphor",
+      "extended metaphor",
+      "a powerful metaphor"
+    ],
+    "note": "Stress is on the first syllable: MET-uh-for; the ph is pronounced /f/.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:metaphor|tatoeba:eng12897855(araneo)/spa1277755(hayastan)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-mole-noun",
+    "headword": "mole",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "topo",
+    "definition": "a small animal with dark fur that lives underground and sees very badly",
+    "example": "You can't talk to a mole about the stars, they can't see them.",
+    "exampleEs": "Con un topo no se puede hablar sobre las estrellas, no las puede ver.",
+    "cloze": "You can't talk to a ____ about the stars, they can't see them.",
+    "answer": "mole",
+    "distractors": [
+      "warranty",
+      "verdict",
+      "surgeon"
+    ],
+    "collocations": [
+      "blind as a mole",
+      "garden mole"
+    ],
+    "note": "Mole has other meanings: a spot on the skin, or a spy inside an organization.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:mole|tatoeba:eng12949824(araneo)/spa10201771(Shishir)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-morphology-noun",
+    "headword": "morphology",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "morfología",
+    "definition": "the study of how words are formed from smaller parts",
+    "example": "Grammar is divided into phonology, morphology, syntax and semantics.",
+    "exampleEs": "La gramática está dividida en fonología, morfología, sintaxis y semántica.",
+    "cloze": "Grammar is divided into phonology, ____, syntax and semantics.",
+    "answer": "morphology",
+    "distractors": [
+      "presence",
+      "margin",
+      "employer"
+    ],
+    "collocations": [
+      "word morphology",
+      "morphology and syntax"
+    ],
+    "note": "Stress is on the second syllable: mor-FOL-o-gy.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:morphology|tatoeba:eng9716781(Nylez)/spa1279535(hayastan)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-neat-adjective",
+    "headword": "neat",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "ordenado, limpio",
+    "definition": "tidy and well organized",
+    "example": "She always keeps her room neat and tidy.",
+    "exampleEs": "Ella siempre tiene ordenada su pieza.",
+    "cloze": "She always keeps her room ____ and tidy.",
+    "answer": "neat",
+    "distractors": [
+      "abdominal",
+      "prime",
+      "oral"
+    ],
+    "collocations": [
+      "neat and tidy",
+      "neat handwriting",
+      "neat desk"
+    ],
+    "note": "In casual US English, neat can also mean 'cool' or 'great'.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:neat|tatoeba:eng316839(CK)/spa1540121(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-nest-noun",
+    "headword": "nest",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "nido, avispero",
+    "definition": "a place built by birds or insects to live in and lay eggs",
+    "example": "Now is not the time to agitate the hornet's nest.",
+    "exampleEs": "No es el momento de azuzar el avispero.",
+    "cloze": "Now is not the time to agitate the hornet's ____.",
+    "answer": "nest",
+    "distractors": [
+      "peer",
+      "cabinet",
+      "theorem"
+    ],
+    "collocations": [
+      "bird's nest",
+      "hornet's nest",
+      "build a nest"
+    ],
+    "note": "'Stir up a hornet's nest' means to cause a lot of trouble.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:nest|tatoeba:eng13271058(frpzzd)/spa11719465(Seael)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-nitrogen-noun",
+    "headword": "nitrogen",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "nitrógeno",
+    "definition": "a gas with no color or smell that makes up most of the air",
+    "example": "The atmosphere mostly consists of nitrogen and oxygen.",
+    "exampleEs": "La atmósfera se compone en su mayor parte de nitrógeno y oxígeno.",
+    "cloze": "The atmosphere mostly consists of ____ and oxygen.",
+    "answer": "nitrogen",
+    "distractors": [
+      "ballot",
+      "criticism",
+      "barrier"
+    ],
+    "collocations": [
+      "liquid nitrogen",
+      "nitrogen and oxygen",
+      "nitrogen gas"
+    ],
+    "note": "Pronounced NY-truh-jen; the stress is on the first syllable.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:nitrogen|tatoeba:eng1578594(CM)/spa1707596(teskmon)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-noble-adjective",
+    "headword": "noble",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "noble, honorable",
+    "definition": "kind, generous and morally good in a way people admire",
+    "example": "What a noble heart that good man has!",
+    "exampleEs": "¡Qué corazón noble que tiene ese buen hombre!",
+    "cloze": "What a ____ heart that good man has!",
+    "answer": "noble",
+    "distractors": [
+      "strategic",
+      "applicable",
+      "adaptive"
+    ],
+    "collocations": [
+      "noble cause",
+      "noble gesture",
+      "noble heart"
+    ],
+    "note": "Noble also means 'of high social rank'; here it describes good character.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:noble|tatoeba:eng2740421(Hybrid)/spa2740736(emanuel81)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-nucleus-noun",
+    "headword": "nucleus",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "núcleo",
+    "definition": "the central part of an atom",
+    "example": "The atom's nucleus is surrounded by an electron cloud.",
+    "exampleEs": "El núcleo del átomo está rodeado de una nube de electrones.",
+    "cloze": "The atom's ____ is surrounded by an electron cloud.",
+    "answer": "nucleus",
+    "distractors": [
+      "documentation",
+      "ideology",
+      "symptom"
+    ],
+    "collocations": [
+      "atomic nucleus",
+      "cell nucleus",
+      "nucleus of the atom"
+    ],
+    "note": "Plural is nuclei (NOO-klee-eye).",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:nucleus|tatoeba:eng3958360(Hybrid)/spa11096974(Curro)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-organism-noun",
+    "headword": "organism",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "organismo, ser vivo",
+    "definition": "a living thing, such as a plant, an animal, or a tiny life form",
+    "example": "This protein is crucial for the organism to function properly.",
+    "exampleEs": "Esta proteína es importantísima para el buen funcionamiento del organismo.",
+    "cloze": "This protein is crucial for the ____ to function properly.",
+    "answer": "organism",
+    "distractors": [
+      "invoice",
+      "budget",
+      "signature"
+    ],
+    "collocations": [
+      "living organism",
+      "single-celled organism"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:organism|tatoeba:eng1123547(AlanF_US)/spa1121833(hayastan)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-outer-adjective",
+    "headword": "outer",
+    "pos": "adjective",
+    "cefr": "B1",
+    "es": "exterior, externo",
+    "definition": "farthest from the center; on the outside part",
+    "example": "How do you find food in outer space?",
+    "exampleEs": "¿Cómo encuentras comida en el espacio?",
+    "cloze": "How do you find food in ____ space?",
+    "answer": "outer",
+    "distractors": [
+      "inner",
+      "annual",
+      "urgent"
+    ],
+    "collocations": [
+      "outer space",
+      "outer layer",
+      "outer edge"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:outer|tatoeba:eng1466(Zifre)/spa2671(Shishir)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-oxygen-noun",
+    "headword": "oxygen",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "oxígeno",
+    "definition": "a gas in the air that people and animals need to breathe",
+    "example": "Trees give off oxygen and absorb carbon dioxide.",
+    "exampleEs": "Los árboles entregan oxígeno y absorben dióxido de carbono.",
+    "cloze": "Trees give off ____ and absorb carbon dioxide.",
+    "answer": "oxygen",
+    "distractors": [
+      "plastic",
+      "salt",
+      "steel"
+    ],
+    "collocations": [
+      "oxygen level",
+      "oxygen supply",
+      "lack of oxygen"
+    ],
+    "note": "Stress the first syllable: OK-si-jen.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:oxygen|tatoeba:eng266244(CK)/spa2399100(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-parcel-noun",
+    "headword": "parcel",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "paquete, paquete postal",
+    "definition": "a wrapped package that is sent by mail",
+    "example": "Put a stamp on the parcel and post it.",
+    "exampleEs": "Pon un sello en el paquete y mándalo por correo.",
+    "cloze": "Put a stamp on the ____ and post it.",
+    "answer": "parcel",
+    "distractors": [
+      "meeting",
+      "salary",
+      "opinion"
+    ],
+    "collocations": [
+      "parcel delivery",
+      "parcel post",
+      "parcel tracking"
+    ],
+    "note": "False friend: parcela is a plot of land. Here parcel is a package; US English often says package.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:parcel|tatoeba:eng1527893(Cainntear)/spa1946170(teskmon)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-pesticide-noun",
+    "headword": "pesticide",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "pesticidas, plaguicidas",
+    "definition": "chemicals used to kill insects and other animals that harm crops",
+    "example": "Through genetic engineering, corn can produce its own pesticides.",
+    "exampleEs": "Mediante la ingeniería genética, el maíz puede producir sus propios pesticidas.",
+    "cloze": "Through genetic engineering, corn can produce its own ____.",
+    "answer": "pesticides",
+    "distractors": [
+      "tractors",
+      "engines",
+      "fences"
+    ],
+    "collocations": [
+      "apply pesticides",
+      "pesticide residue"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:pesticide|tatoeba:eng681069(Source_VOA)/spa978839(hayastan)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-phenomenal-adjective",
+    "headword": "phenomenal",
+    "pos": "adjective",
+    "cefr": "C1",
+    "es": "extraordinario, excepcional",
+    "definition": "very unusual and impressive; extremely good",
+    "example": "He lifted the car with his phenomenal strength.",
+    "exampleEs": "Él levantó el automóvil gracias a su fuerza excepcional.",
+    "cloze": "He lifted the car with his ____ strength.",
+    "answer": "phenomenal",
+    "distractors": [
+      "occasional",
+      "vulnerable",
+      "ethnic"
+    ],
+    "collocations": [
+      "phenomenal growth",
+      "phenomenal results",
+      "phenomenal success"
+    ],
+    "note": "Stress the second syllable: fuh-NOM-uh-nul.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:phenomenal|tatoeba:eng295388(Zifre)/spa683407(humbertovs)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-philosopher-noun",
+    "headword": "philosopher",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "filósofo",
+    "definition": "a person who studies ideas about life, truth, and knowledge",
+    "example": "An immense monument was erected in honor of the eminent philosopher.",
+    "exampleEs": "Se erigió un inmenso monumento en honor al eminente filósofo.",
+    "cloze": "An immense monument was erected in honor of the eminent ____.",
+    "answer": "philosopher",
+    "distractors": [
+      "drain",
+      "triumph",
+      "reference"
+    ],
+    "collocations": [
+      "Greek philosopher",
+      "moral philosopher"
+    ],
+    "note": "Spelling: ph, not f.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:philosopher|tatoeba:eng45088(CM)/spa1775146(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-polar-adjective",
+    "headword": "polar",
+    "pos": "adjective",
+    "cefr": "B2",
+    "es": "polar",
+    "definition": "of the cold areas near the North or South Pole",
+    "example": "The seal is an animal from the polar region.",
+    "exampleEs": "La foca es un animal de las regiones polares.",
+    "cloze": "The seal is an animal from the ____ region.",
+    "answer": "polar",
+    "distractors": [
+      "modest",
+      "awkward",
+      "fetal"
+    ],
+    "collocations": [
+      "polar bear",
+      "polar region",
+      "polar ice"
+    ],
+    "note": "Pronounced POH-ler.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:polar|tatoeba:eng12253226(opalandwoof)/spa1976129(Shishir)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-powder-noun",
+    "headword": "powder",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "polvo",
+    "definition": "a dry substance made of very small pieces",
+    "example": "The powder is light enough to float on water.",
+    "exampleEs": "El polvo es suficientemente ligero como para flotar en el agua.",
+    "cloze": "The ____ is light enough to float on water.",
+    "answer": "powder",
+    "distractors": [
+      "cabinet",
+      "passport",
+      "kidney"
+    ],
+    "collocations": [
+      "baking powder",
+      "powder form",
+      "washing powder"
+    ],
+    "note": "Powder is a fine dry substance; dust is the dirt that settles on surfaces.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:powder|tatoeba:eng11607543(abburns)/spa1676608(termito2nd)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-precipitation-noun",
+    "headword": "precipitation",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "precipitación, lluvia",
+    "definition": "rain, snow, or hail that falls from the sky",
+    "example": "Tomorrow we expect variable weather with a likely chance of precipitation.",
+    "exampleEs": "Mañana esperamos intervalos nubosos con posibilidad de chubascos.",
+    "cloze": "Tomorrow we expect variable weather with a likely chance of ____.",
+    "answer": "precipitation",
+    "distractors": [
+      "legislation",
+      "vehicle",
+      "server"
+    ],
+    "collocations": [
+      "annual precipitation",
+      "heavy precipitation",
+      "precipitation levels"
+    ],
+    "note": "It means rain or snow, not 'rushing'. Stress: pre-sip-i-TAY-shun.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:precipitation|tatoeba:eng4541189(mailohilohi)/spa4553994(swyter)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-predator-noun",
+    "headword": "predator",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "depredadores, predadores",
+    "definition": "animals that hunt and eat other animals",
+    "example": "Birds are dangerous predators for tortoises and their eggs.",
+    "exampleEs": "Las aves son peligrosos predadores para las tortugas y sus huevos.",
+    "cloze": "Birds are dangerous ____ for tortoises and their eggs.",
+    "answer": "predators",
+    "distractors": [
+      "gallons",
+      "fuels",
+      "outlooks"
+    ],
+    "collocations": [
+      "natural predator",
+      "top predator",
+      "predator and prey"
+    ],
+    "note": "Spanish says depredador; English has no 'de-'.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:predator|tatoeba:eng12893627(araneo)/spa974980(hayastan)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-primitive-adjective",
+    "headword": "primitive",
+    "pos": "adjective",
+    "cefr": "B1",
+    "es": "primitivo",
+    "definition": "from a very early time in history",
+    "example": "The mastery of fire was fundamental to the survival of primitive man.",
+    "exampleEs": "El dominio del fuego fue fundamental para la supervivencia del hombre primitivo.",
+    "cloze": "The mastery of fire was fundamental to the survival of ____ man.",
+    "answer": "primitive",
+    "distractors": [
+      "curious",
+      "honest",
+      "flexible"
+    ],
+    "collocations": [
+      "primitive tools",
+      "primitive society",
+      "primitive life"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:primitive|tatoeba:eng13623553(rul)/spa1545097(hayastan)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-proton-noun",
+    "headword": "proton",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "protones",
+    "definition": "tiny parts of an atom that have a positive charge",
+    "example": "Atoms are made up of protons, electrons and neutrons.",
+    "exampleEs": "Los átomos están hechos de protones, electrones y neutrones.",
+    "cloze": "Atoms are made up of ____, electrons and neutrons.",
+    "answer": "protons",
+    "distractors": [
+      "tribes",
+      "pegs",
+      "ambassadors"
+    ],
+    "collocations": [
+      "protons and neutrons",
+      "number of protons"
+    ],
+    "note": "Pronounced PROH-ton, with stress on the first syllable.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:proton|tatoeba:eng5008812(Hybrid)/spa5025155(don_ramon)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-pulse-noun",
+    "headword": "pulse",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "pulso, latido",
+    "definition": "the regular beat of the heart that you can feel in your wrist",
+    "example": "The doctor thought the patient's pulse was rather rapid.",
+    "exampleEs": "El doctor pensó que el pulso del paciente era bastante rápido.",
+    "cloze": "The doctor thought the patient's ____ was rather rapid.",
+    "answer": "pulse",
+    "distractors": [
+      "climate",
+      "signature",
+      "distributor"
+    ],
+    "collocations": [
+      "take a pulse",
+      "rapid pulse",
+      "pulse rate"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:pulse|tatoeba:eng28009(frpzzd)/spa2870775(cueyayotl)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-rack-noun",
+    "headword": "rack",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "estante, soporte, toallero",
+    "definition": "a frame or stand with bars or hooks for holding things",
+    "example": "Fold the towel and place it on the towel rack.",
+    "exampleEs": "Dobla la toalla y ponla en el toallero.",
+    "cloze": "Fold the towel and place it on the towel ____.",
+    "answer": "rack",
+    "distractors": [
+      "blog",
+      "molecule",
+      "contour"
+    ],
+    "collocations": [
+      "towel rack",
+      "luggage rack",
+      "storage rack"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:rack|tatoeba:eng7774430(shekitten)/spa6565550(arh)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-radius-noun",
+    "headword": "radius",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "radio",
+    "definition": "the distance from the center of a circle to its edge",
+    "example": "How do you calculate the radius from the circumference?",
+    "exampleEs": "¿Cómo calcular el radio de una circunferencia?",
+    "cloze": "How do you calculate the ____ from the circumference?",
+    "answer": "radius",
+    "distractors": [
+      "gut",
+      "fate",
+      "insight"
+    ],
+    "collocations": [
+      "radius of a circle",
+      "within a radius"
+    ],
+    "note": "Pronounced RAY-dee-us; the plural is radii.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:radius|tatoeba:eng5930324(mailohilohi)/spa1063047(Shishir)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-ridiculous-adjective",
+    "headword": "ridiculous",
+    "pos": "adjective",
+    "cefr": "B1",
+    "es": "ridículo, absurdo",
+    "definition": "so silly or unreasonable that it makes people laugh",
+    "example": "Who would come up with such a ridiculous name?",
+    "exampleEs": "¿A quién se le ocurriría un nombre tan ridículo?",
+    "cloze": "Who would come up with such a ____ name?",
+    "answer": "ridiculous",
+    "distractors": [
+      "guilty",
+      "acidic",
+      "parliamentary"
+    ],
+    "collocations": [
+      "ridiculous price",
+      "ridiculous idea",
+      "absolutely ridiculous"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:ridiculous|tatoeba:eng8053174(Amastan)/spa8769605(SemperAutumnus)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-rub-verb",
+    "headword": "rub",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "frotó, restregó",
+    "definition": "pressed and moved something back and forth against a surface",
+    "example": "My cat rubbed her head against my shoulder.",
+    "exampleEs": "Mi gato frotó su cabeza contra mi hombro.",
+    "cloze": "My cat ____ her head against my shoulder.",
+    "answer": "rubbed",
+    "distractors": [
+      "activated",
+      "adapted",
+      "assembled"
+    ],
+    "collocations": [
+      "rub your hands",
+      "rub against",
+      "rub gently"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:rub|tatoeba:eng681972(Source_VOA)/spa1811521(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-scholarship-noun",
+    "headword": "scholarship",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "beca",
+    "definition": "money given to a student to help pay for studies",
+    "example": "He was awarded a scholarship to do research for the foundation.",
+    "exampleEs": "Se le otorgó una beca para hacer investigación para la fundación.",
+    "cloze": "He was awarded a ____ to do research for the foundation.",
+    "answer": "scholarship",
+    "distractors": [
+      "diagram",
+      "aircraft",
+      "criticism"
+    ],
+    "collocations": [
+      "apply for a scholarship",
+      "full scholarship",
+      "scholarship program"
+    ],
+    "note": "It means beca (a financial award), not escolaridad.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:scholarship|tatoeba:eng2253226(_undertoad)/spa2253227(cueyayotl)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-sensation-noun",
+    "headword": "sensation",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "sensación",
+    "definition": "a feeling in the body or mind",
+    "example": "One who listens to one's recorded voice has the sensation of listening to a stranger.",
+    "exampleEs": "El que escucha por primera vez su voz grabada, tiene la sensación de estar escuchando a un extraño.",
+    "cloze": "One who listens to one's recorded voice has the ____ of listening to a stranger.",
+    "answer": "sensation",
+    "distractors": [
+      "hierarchy",
+      "governor",
+      "resort"
+    ],
+    "collocations": [
+      "burning sensation",
+      "strange sensation",
+      "sensation of"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:sensation|tatoeba:eng1123544(AlanF_US)/spa1123041(hayastan)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-shuttle-noun",
+    "headword": "shuttle",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "transbordador, lanzadera",
+    "definition": "a spacecraft that flies into space and returns to Earth",
+    "example": "The astronaut had to conduct many experiments in the space shuttle.",
+    "exampleEs": "El astronauta debió llevar a cabo muchos experimentos en el transbordador espacial.",
+    "cloze": "The astronaut had to conduct many experiments in the space ____.",
+    "answer": "shuttle",
+    "distractors": [
+      "pupil",
+      "bracket",
+      "sleep"
+    ],
+    "collocations": [
+      "space shuttle",
+      "airport shuttle",
+      "shuttle bus"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:shuttle|tatoeba:eng49602(CM)/spa1346647(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-skip-verb",
+    "headword": "skip",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "saltarse, omitir",
+    "definition": "to not do or have something that you normally would",
+    "example": "In order to lose weight some people skip meals.",
+    "exampleEs": "Algunas personas se saltan comidas para perder peso.",
+    "cloze": "In order to lose weight some people ____ meals.",
+    "answer": "skip",
+    "distractors": [
+      "rotate",
+      "convict",
+      "tempt"
+    ],
+    "collocations": [
+      "skip a meal",
+      "skip a meeting",
+      "skip the details"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:skip|tatoeba:eng30266(orcrist)/spa1265401(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-socialize-verb",
+    "headword": "socialize",
+    "pos": "verb",
+    "cefr": "B2",
+    "es": "socializar, convivir",
+    "definition": "to spend time with other people in a friendly way",
+    "example": "We have to consume less and socialize more.",
+    "exampleEs": "Hay que consumir menos y socializar más.",
+    "cloze": "We have to consume less and ____ more.",
+    "answer": "socialize",
+    "distractors": [
+      "collapse",
+      "maneuver",
+      "load"
+    ],
+    "collocations": [
+      "socialize with colleagues",
+      "socialize after work"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:socialize|tatoeba:eng14019905(frpzzd)/spa14019899(Seael)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-sodium-noun",
+    "headword": "sodium",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "sodio",
+    "definition": "a soft, silver-white chemical element found in salt",
+    "example": "Table salt is composed of sodium and chlorine atoms.",
+    "exampleEs": "La sal comúnde cocina está compuesta de átomos de sodio y cloro.",
+    "cloze": "Table salt is composed of ____ and chlorine atoms.",
+    "answer": "sodium",
+    "distractors": [
+      "philosophy",
+      "millimeter",
+      "tolerance"
+    ],
+    "collocations": [
+      "sodium chloride",
+      "sodium intake",
+      "low in sodium"
+    ],
+    "note": "Pronounced SOH-dee-um.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:sodium|tatoeba:eng3957928(Hybrid)/spa10361821(Seael)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-strand-noun",
+    "headword": "strand",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "mechón, hebra",
+    "definition": "a single thin piece of hair, thread, or wire",
+    "example": "She twisted a strand of hair around her finger.",
+    "exampleEs": "Ella retorció un mechón de pelo alrededor de su dedo.",
+    "cloze": "She twisted a ____ of hair around her finger.",
+    "answer": "strand",
+    "distractors": [
+      "gaze",
+      "taste",
+      "tournament"
+    ],
+    "collocations": [
+      "strand of hair",
+      "strand of DNA",
+      "single strand"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:strand|tatoeba:eng2486561(Hybrid)/spa4980287(albrusgher)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-stripe-noun",
+    "headword": "stripe",
+    "pos": "noun",
+    "cefr": "B1",
+    "es": "rayas, franjas",
+    "definition": "long thin lines of a different color from the area around them",
+    "example": "Decorated with blue and yellow stripes, the tie was very unfashionable.",
+    "exampleEs": "Decorada por franjas azules y amarillas, la corbata no estaba muy a la moda.",
+    "cloze": "Decorated with blue and yellow ____, the tie was very unfashionable.",
+    "answer": "stripes",
+    "distractors": [
+      "balances",
+      "instincts",
+      "prescriptions"
+    ],
+    "collocations": [
+      "white stripe",
+      "stripe pattern"
+    ],
+    "note": "Pronounced STRYP, rhyming with 'type'.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:stripe|tatoeba:eng448737(shekitten)/spa1465158(marcelostockle)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-syllable-noun",
+    "headword": "syllable",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "sílabas",
+    "definition": "the parts of a word, each with one vowel sound",
+    "example": "Try to come up with a sentence that has fifteen syllables.",
+    "exampleEs": "Intenta dar con una frase de quince sílabas.",
+    "cloze": "Try to come up with a sentence that has fifteen ____.",
+    "answer": "syllables",
+    "distractors": [
+      "mentors",
+      "prisons",
+      "donors"
+    ],
+    "collocations": [
+      "three syllables",
+      "stressed syllable",
+      "number of syllables"
+    ],
+    "note": "Spelling: syl-la-ble, with a y and double l.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:syllable|tatoeba:eng10112592(espamatics)/spa10203420(Seael)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-terribly-adverb",
+    "headword": "terribly",
+    "pos": "adverb",
+    "cefr": "B1",
+    "es": "terriblemente, extremadamente",
+    "definition": "to a very great degree",
+    "example": "This was a terribly hot afternoon and I feel like my brain is empty.",
+    "exampleEs": "Ésta fue una tarde terriblemente calurosa y yo tengo la sensación de que mi cerebro está vacío.",
+    "cloze": "This was a ____ hot afternoon and I feel like my brain is empty.",
+    "answer": "terribly",
+    "distractors": [
+      "nowhere",
+      "overnight",
+      "alike"
+    ],
+    "collocations": [
+      "terribly sorry",
+      "terribly wrong",
+      "terribly important"
+    ],
+    "note": "It often just means 'very', as in 'terribly sorry', not only 'badly'.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:terribly|tatoeba:eng8160435(magnificentgoddess)/spa4934709(Leono)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-theorem-noun",
+    "headword": "theorem",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "teorema",
+    "definition": "a statement in mathematics that has been proved",
+    "example": "The final value theorem does not apply if the system is not stable.",
+    "exampleEs": "El último teorema del valor no se aplica si el sistema no es estable.",
+    "cloze": "The final value ____ does not apply if the system is not stable.",
+    "answer": "theorem",
+    "distractors": [
+      "railway",
+      "infection",
+      "battle"
+    ],
+    "collocations": [
+      "prove a theorem",
+      "Pythagorean theorem"
+    ],
+    "note": "Pronounced THEE-uh-rum, stress on the first syllable.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:theorem|tatoeba:eng824248(FeuDRenais2)/spa1601106(teskmon)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-thesis-noun",
+    "headword": "thesis",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "tesis",
+    "definition": "a long piece of writing for a university degree",
+    "example": "I'll need at least three days to translate that thesis.",
+    "exampleEs": "Necesitaré al menos tres días para traducir esa tesis.",
+    "cloze": "I'll need at least three days to translate that ____.",
+    "answer": "thesis",
+    "distractors": [
+      "helicopter",
+      "deficit",
+      "elevation"
+    ],
+    "collocations": [
+      "master's thesis",
+      "thesis statement",
+      "defend a thesis"
+    ],
+    "note": "The plural is theses, pronounced THEE-seez.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:thesis|tatoeba:eng43312(CK)/spa483062(Eckhardtgabriel)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-thickness-noun",
+    "headword": "thickness",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "grosor, espesor",
+    "definition": "the distance between the two opposite surfaces of something",
+    "example": "Gauges are used to measure the thickness of wire.",
+    "exampleEs": "Para medir el grosor de los alambres hay que usar calibradores.",
+    "cloze": "Gauges are used to measure the ____ of wire.",
+    "answer": "thickness",
+    "distractors": [
+      "religion",
+      "destruction",
+      "hardware"
+    ],
+    "collocations": [
+      "wall thickness",
+      "measure thickness",
+      "thickness of"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:thickness|tatoeba:eng2253663(_undertoad)/spa2253665(hayastan)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-thread-noun",
+    "headword": "thread",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "hilo",
+    "definition": "a long, very thin piece of cotton or silk used for sewing",
+    "example": "Once a thread is tied, it's hard to untie.",
+    "exampleEs": "Una vez que se ata un hilo, es difícil desatarlo.",
+    "cloze": "Once a ____ is tied, it's hard to untie.",
+    "answer": "thread",
+    "distractors": [
+      "puzzle",
+      "studio",
+      "attraction"
+    ],
+    "collocations": [
+      "needle and thread",
+      "hang by a thread",
+      "thread count"
+    ],
+    "note": "Thread also means a chain of messages in an online conversation.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:thread|tatoeba:eng13363294(brightblackhole)/spa13364506(Lernema)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-tract-noun",
+    "headword": "tract",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "tracto, vías",
+    "definition": "a long passage in the body, such as for air or food",
+    "example": "Have you ever been treated for a urinary tract infection?",
+    "exampleEs": "¿Te han tratado alguna vez de una infección en el tracto urinario?",
+    "cloze": "Have you ever been treated for a urinary ____ infection?",
+    "answer": "tract",
+    "distractors": [
+      "bracket",
+      "schedule",
+      "dictionary"
+    ],
+    "collocations": [
+      "urinary tract",
+      "respiratory tract",
+      "digestive tract"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:tract|tatoeba:eng9853792(NurseMeeks)/spa10108920(manufrutos)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-triangle-noun",
+    "headword": "triangle",
+    "pos": "noun",
+    "cefr": "B2",
+    "es": "triángulos",
+    "definition": "shapes with three straight sides and three corners",
+    "example": "Plato thought that the universe was made up of triangles.",
+    "exampleEs": "Platón creía que el universo estaba hecho de triángulos.",
+    "cloze": "Plato thought that the universe was made up of ____.",
+    "answer": "triangles",
+    "distractors": [
+      "fins",
+      "drafts",
+      "elites"
+    ],
+    "collocations": [
+      "right triangle",
+      "triangle shape"
+    ],
+    "note": "Stress the first syllable: TRY-ang-gul.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:triangle|tatoeba:eng3556894(Hybrid)/spa6109340(Shishir)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-tropical-adjective",
+    "headword": "tropical",
+    "pos": "adjective",
+    "cefr": "B1",
+    "es": "tropical",
+    "definition": "from the hot, wet parts of the world near the equator",
+    "example": "Mangrove forests only grow at tropical and subtropical latitudes near the equator because they cannot withstand freezing temperatures.",
+    "exampleEs": "Los bosques de manglares solo crecen en latitudes tropicales y subtropicales cerca del ecuador porque no pueden soportar temperaturas bajo cero.",
+    "cloze": "Mangrove forests only grow at ____ and subtropical latitudes near the equator because they cannot withstand freezing temperatures.",
+    "answer": "tropical",
+    "distractors": [
+      "dismal",
+      "thorough",
+      "mental"
+    ],
+    "collocations": [
+      "tropical storm",
+      "tropical climate",
+      "tropical fruit"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:tropical|tatoeba:eng6675773(Hybrid)/spa6881863(albrusgher)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-vegetation-noun",
+    "headword": "vegetation",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "vegetación",
+    "definition": "plants and trees growing in a place",
+    "example": "There were only a few patches of vegetation near the river.",
+    "exampleEs": "Sólo había algunas manchas de vegetación cerca del río.",
+    "cloze": "There were only a few patches of ____ near the river.",
+    "answer": "vegetation",
+    "distractors": [
+      "algebra",
+      "wavelength",
+      "commerce"
+    ],
+    "collocations": [
+      "dense vegetation",
+      "lush vegetation",
+      "natural vegetation"
+    ],
+    "note": "",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:vegetation|tatoeba:eng2268698(_undertoad)/spa2268699(cueyayotl)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  },
+  {
+    "id": "v-wavelength-noun",
+    "headword": "wavelength",
+    "pos": "noun",
+    "cefr": "C1",
+    "es": "longitud de onda, sintonía",
+    "definition": "a shared way of thinking that makes two people understand each other",
+    "example": "I guess we're not on the same wavelength.",
+    "exampleEs": "Imagino que no estamos en la misma longitud de onda.",
+    "cloze": "I guess we're not on the same ____.",
+    "answer": "wavelength",
+    "distractors": [
+      "wheat",
+      "doom",
+      "separation"
+    ],
+    "collocations": [
+      "on the same wavelength",
+      "radio wavelength",
+      "wavelength of light"
+    ],
+    "note": "Idiom: 'on the same wavelength' means you understand each other well.",
+    "tags": [
+      "academic"
+    ],
+    "source": "NAWL 1.2 (New Academic Word List)",
+    "sourceId": "nawl:wavelength|tatoeba:eng3724245(CM)/spa6704529(arh)",
+    "license": "CC BY-SA 4.0",
+    "_list": "nawl"
+  }
+]

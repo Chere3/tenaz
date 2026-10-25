@@ -1,0 +1,212 @@
+[
+  {
+    "id": "kn-technical-debt", "title": "Technical debt", "topic": "TECH", "cefr": "B1+",
+    "body": "Technical debt is the extra work you create when you choose a fast solution today instead of a clean one. It works like a loan. The quick fix lets you ship on time, but you pay interest later: every new feature takes a little longer, and bugs hide in code that nobody wants to touch. Over the years, this code becomes legacy code, and the team is afraid to change it. Some debt is fine. A startup that needs to test an idea this week should take the shortcut. The trade-off only becomes dangerous when nobody writes it down. Good teams keep a short list of their debt, explain the cost to managers in simple words, and plan time to refactor the worst parts a little in every sprint, before the interest grows too big to pay.",
+    "targetNoteIds": ["tech-english-refactor", "tech-english-legacy", "c1-advanced-trade-off"],
+    "question": "Where is the biggest technical debt in a project you know? Use 'refactor' in your answer.",
+    "goDeeper": "book-pragmatic-programmer", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-flaky-tests", "title": "Why tests become flaky", "topic": "TECH", "cefr": "B2",
+    "body": "A flaky test passes on one run and fails on the next, with no change in the code. It is one of the most tiring problems in software, because people stop trusting the test suite. When a red build is probably 'just the flaky one', real bugs get ignored too. Most flaky tests have a few common causes. Some depend on time, like a test that breaks at midnight. Some depend on order, because one test leaves data that another test reads. Many have a hidden dependency on the network, a slow database or another service. The first step is always to reproduce the failure: run the test a hundred times in a loop and save the logs. Once you can make it fail on purpose, the fix is usually small. Deleting the test is the last option, not the first.",
+    "targetNoteIds": ["tech-english-flaky", "tech-english-reproduce", "tech-english-dependency"],
+    "question": "Describe a flaky test or a strange bug you had. How did you reproduce it?",
+    "goDeeper": "book-pragmatic-programmer", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-latency", "title": "Latency: why fast matters", "topic": "TECH", "cefr": "B2",
+    "body": "Latency is the time one request waits before it gets an answer. Throughput is how many requests a system can handle per second. They are different: a highway can have high throughput and still make every single car wait in traffic. Users feel latency, not throughput. Studies at large web companies have shown that even a few hundred extra milliseconds can make people use a product less. To improve latency, engineers first measure where the time goes. Very often one step is the bottleneck: a slow database query, a call to another region, or a large image. Making everything else faster will not help until you fix that one step. A good habit is to look at the slowest one percent of requests, not only the average, because the average hides the people who are having the worst experience.",
+    "targetNoteIds": ["tech-english-latency", "tech-english-throughput", "tech-english-bottleneck"],
+    "question": "What is a bottleneck in your work or your team right now? Explain it in two sentences.",
+    "goDeeper": "yt-computerphile", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-blameless-postmortems", "title": "Blameless postmortems", "topic": "TECH", "cefr": "B2",
+    "body": "After an outage, many teams write a postmortem: a short document that explains what happened, why it happened and what will change. The best ones are 'blameless'. This does not mean that nobody made a mistake. It means the team asks why the system made the mistake easy, instead of asking who to punish. If people are afraid of blame, they hide information, and the same problem comes back. A typical postmortem has a timeline, the impact on users, the root causes and a few action items, each with one owner and a date. It is written in plain language, so people from other teams can learn from it. Reading old postmortems is also one of the fastest ways to understand how a system really works, because they show the places where it breaks.",
+    "targetNoteIds": ["tech-english-postmortem", "tech-english-outage", "b1p-core-mistake"],
+    "question": "Think of a problem at work. What would you write in its postmortem as the main lesson?",
+    "goDeeper": "book-phoenix-project", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-feature-flags", "title": "Feature flags and safe rollouts", "topic": "TECH", "cefr": "B2",
+    "body": "A feature flag is a switch in the code that turns a feature on or off without a new deploy. Teams use flags to separate two things that used to happen together: putting code on the servers, and showing it to users. With a flag, a new feature can reach one percent of users first, then ten percent, then everyone. This slow rollout lets the team watch errors and speed at each step. If something goes wrong, they turn the flag off in seconds instead of trying to revert a release in a hurry. A good flag also needs a fallback: the old behaviour that users see when the flag is off. Flags have a cost, though. Old flags that nobody removes make the code hard to read, so many teams give every flag an end date.",
+    "targetNoteIds": ["tech-english-rollout", "tech-english-revert", "tech-english-fallback"],
+    "question": "How does your team release new features today? Would a slow rollout help? Why?",
+    "goDeeper": "pod-changelog", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-legacy-migration", "title": "Moving an old system", "topic": "TECH", "cefr": "B2",
+    "body": "Sooner or later, every company needs to migrate an old system to a new one. The dangerous plan is the 'big bang': build the new system for a year, then switch everything in one night. It often fails, because the old system does many small things that nobody wrote down. A safer plan moves one piece at a time. The new system starts by handling a small part of the work, while the old one does the rest. Each step is a milestone that users can actually feel, and each step can be undone. The goal is to avoid long downtime and to learn early. Teams also run both systems side by side for a while and compare the results. When the numbers match for weeks, they finally switch the old system off, usually with a small celebration.",
+    "targetNoteIds": ["tech-english-migrate", "tech-english-downtime", "workplace-meetings-milestone"],
+    "question": "If you had to migrate a system you know, what would be your first small milestone?",
+    "goDeeper": "pod-software-engineering-daily", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-how-llms-write", "title": "How language models write", "topic": "AI", "cefr": "B2",
+    "body": "A large language model like Claude or ChatGPT learns from a huge amount of text. During training it plays one game billions of times: read some words, then predict the next one. To get good at this game, the model has to learn grammar, facts, styles and even some reasoning, because all of these help it guess better. When you ask a question, the model does not search a database for an answer. It looks at the context, which is your message and the conversation so far, and it generates a reply one small piece at a time. Each new piece depends on everything before it. This is why the same question can get slightly different answers, and why a clear, detailed prompt usually gives a better result than a short one.",
+    "targetNoteIds": ["b2-academic-predict", "b2-academic-context", "b2-academic-generate"],
+    "question": "Explain to a colleague, in your own words, why a detailed prompt works better. Use 'context'.",
+    "goDeeper": "book-co-intelligence", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-ai-hallucinations", "title": "Why AI makes things up", "topic": "AI", "cefr": "B2",
+    "body": "Sometimes an AI model gives an answer that sounds perfect and is completely wrong. People call this a hallucination. It happens because the model is trained to produce text that is plausible, not text that is checked. If it does not know a fact, the most likely next words can still look like a confident answer, with a real-looking name, date or link. Models have improved a lot, but the risk has not disappeared. The practical rule is simple: the more an answer matters, the more you need evidence. Ask the model for its source, open the link yourself, and compare with a second source. For code, the evidence is easy: run it and write a test. Using AI well is less about trusting it and more about knowing when to check.",
+    "targetNoteIds": ["c1-advanced-plausible", "b2-academic-evidence", "b2-academic-source"],
+    "question": "When did an AI tool give you a wrong answer? How did you notice?",
+    "goDeeper": "book-co-intelligence", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-bias-in-data", "title": "Bias in training data", "topic": "AI", "cefr": "B2",
+    "body": "A machine learning model can only learn from the examples it sees. If the examples are unbalanced, the model will be too. This is called bias in the data. A famous kind of problem appears in hiring tools: if a company trained a model on ten years of its past hires, and most of those hires were men, the model could learn that being a man is a sign of a good candidate. Nobody wrote that rule; it came from the data. To identify this kind of problem, teams test the model on different groups and compare the outcome for each one. If one group gets worse results, they fix the data, change the model or add human review. Bias is not only a technical issue. It is a question about which errors a company is willing to accept.",
+    "targetNoteIds": ["b2-academic-bias", "b2-academic-identify", "b2-academic-outcome"],
+    "question": "Can you think of a tool at work that could be unfair to some users? How would you identify it?",
+    "goDeeper": "book-alignment-problem", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-alignment", "title": "The alignment problem", "topic": "AI", "cefr": "B2",
+    "body": "The alignment problem is the challenge of making an AI system do what people really want, not just what they literally asked for. Imagine you train a cleaning robot and reward it for not seeing any mess. A clever robot could learn to close its eyes. It reaches the goal on paper and fails in real life. Real AI systems show smaller versions of this all the time: a model that learns to please the person grading it instead of being correct. Researchers try to prevent this in several ways. They give feedback from many people, they test models in strange situations, and they try to look inside the model to understand its reasons. A robust system should behave well even in situations its designers did not imagine, and that is the hard part.",
+    "targetNoteIds": ["b1p-core-goal", "b1p-core-prevent", "c1-advanced-robust"],
+    "question": "Describe a goal at work that people 'hit on paper' but miss in real life.",
+    "goDeeper": "book-alignment-problem", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-ai-coworker", "title": "Working with AI as a coworker", "topic": "AI", "cefr": "B2",
+    "body": "Many people now use AI every day at work, but they use it in very different ways. Some only ask it to fix their grammar. Others delegate whole tasks: a first draft of a report, a list of test cases, a summary of a long meeting. Research with consultants and developers has found that AI often helps most with tasks people already understand, because they can quickly see when the answer is wrong. A useful way to think about it is as a fast, tireless junior colleague. You can leverage it for speed, but you still own the result. You need to give it clear instructions, check its work and ensure that private company data stays where it should. The skill that matters is no longer typing faster; it is deciding what to ask and judging the answer.",
+    "targetNoteIds": ["workplace-meetings-delegate", "c1-advanced-leverage", "b2-academic-ensure"],
+    "question": "Which part of your job could you delegate to an AI tool, and which part never? Explain why.",
+    "goDeeper": "book-co-intelligence", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-ai-benchmarks", "title": "What AI benchmarks measure", "topic": "AI", "cefr": "B2",
+    "body": "When a new AI model is released, companies show a table of scores on famous benchmarks: maths problems, coding tasks, exam questions. A benchmark is useful because everyone runs the same test, so models can be compared. But a score is only valid if the test still measures what we think it measures. Benchmark questions are often published on the internet, so they can end up in the training data. Then a model may remember answers instead of solving problems. This is why researchers keep creating new, harder tests, and why companies also use their own criteria, like how a model handles their real documents. For your own work, the best benchmark is simple: take ten real tasks you do every week and see which tool does them best.",
+    "targetNoteIds": ["tech-english-benchmark", "b2-academic-valid", "b2-academic-criteria"],
+    "question": "What criteria would you use to choose an AI tool for your team?",
+    "goDeeper": "pod-lex-fridman", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-spaced-repetition", "title": "How spaced repetition works", "topic": "PSY", "cefr": "B1+",
+    "body": "In the 1880s, the German psychologist Hermann Ebbinghaus tested his own memory and found that we forget new information fast, in a curve that drops steeply in the first days. He also found that each review makes the curve flatter. Spaced repetition uses this idea. Instead of studying a word ten times in one evening, you review it just before you are likely to forget it: after one day, then a few days, then weeks, then months. Each successful review makes the memory stronger, so the next gap can be longer. The effort of remembering is what makes it work, which is why reviews that feel a little hard are good reviews. Tenaz uses an algorithm called FSRS to predict when you will forget each card, so you can maintain thousands of words with a few minutes a day.",
+    "targetNoteIds": ["b1p-core-effort", "b2-academic-maintain", "b2-academic-predict"],
+    "question": "What is one thing you learned years ago and still remember well? Why do you think it stayed?",
+    "goDeeper": "book-atomic-habits", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-dunning-kruger", "title": "The Dunning-Kruger effect", "topic": "PSY", "cefr": "B2",
+    "body": "In 1999, the psychologists David Dunning and Justin Kruger published a study with a surprising result. People who did badly on tests of logic and grammar tended to estimate their own score much too high. The people who did best often guessed a little too low. One explanation is that the skills you need to do something well are the same skills you need to notice your mistakes. When you are a beginner, you cannot yet see what you overlook. Later researchers have argued that part of the effect is a statistical pattern, so the popular version on the internet is exaggerated. Still, the practical lesson is useful: you often realize how much there is to learn only after you start learning it. Feeling less sure as you improve can be a good sign.",
+    "targetNoteIds": ["b2-academic-estimate", "b1p-core-realize", "c1-advanced-overlook"],
+    "question": "Describe a skill you thought was easy until you started learning it.",
+    "goDeeper": "book-thinking-fast-slow", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-if-then-plans", "title": "If-then plans", "topic": "PSY", "cefr": "B1+",
+    "body": "Deciding to do something is easy. Doing it at the right moment is the hard part, especially with ADHD. The psychologist Peter Gollwitzer studied a simple tool called implementation intentions, or if-then plans. Instead of 'I will practise English more', you write: 'If I open my laptop after lunch, then I will review five words.' The 'if' is a trigger: a clear situation you will meet anyway. The 'then' is a small action. Many studies have found a significant effect: people who make if-then plans reach their goals more often than people who only set the goal. The plan works because the decision is already made. When the situation appears, the action starts almost automatically, and over time it can become a habit. The smaller and more concrete the action, the better it works.",
+    "targetNoteIds": ["b2-academic-trigger", "b2-academic-significant", "b1p-core-habit"],
+    "question": "Write one if-then plan for your English practice this week.",
+    "goDeeper": "book-atomic-habits", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-confirmation-bias", "title": "Confirmation bias", "topic": "PSY", "cefr": "B2",
+    "body": "Confirmation bias is our habit of noticing information that agrees with what we already believe, and ignoring the rest. If you assume a new library is slow, you will remember the one slow request and forget the hundred fast ones. Two people can look at the same chart and interpret it in opposite ways, each sure that the data is on their side. It is not a sign of low intelligence; smart people are often better at finding arguments for what they want to believe. The useful question is not 'Is there evidence for my idea?' but 'What would show that I am wrong?' Good engineers and scientists try to refute their own ideas first. In a meeting, asking 'What are we missing?' is a simple way to make the whole team less blind.",
+    "targetNoteIds": ["b2-academic-assume", "b2-academic-interpret", "c1-advanced-refute"],
+    "question": "Tell about a time you assumed something at work and the data showed you were wrong.",
+    "goDeeper": "book-superforecasting", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-time-blindness", "title": "ADHD and time blindness", "topic": "PSY", "cefr": "B2",
+    "body": "Many people with ADHD describe 'time blindness': a weak sense of how much time has passed and how much is left. A deadline next week can feel unreal, almost like it does not exist, until it is suddenly tomorrow. Then the brain switches into panic mode and works very hard. This is not laziness. It is linked to differences in the brain systems that plan and estimate time. People who struggle with this often find that tools help more than willpower. Making time visible works well: a clock you can see, a timer that shows a shrinking bar, or a calendar with real blocks instead of a to-do list. Breaking a big task into short steps with their own small deadlines can also alleviate the stress, because the finish line is always close enough to feel real.",
+    "targetNoteIds": ["b1p-core-deadline", "b1p-core-struggle", "c1-advanced-alleviate"],
+    "question": "Which tool helps you most to see time during your work day? Describe how you use it.",
+    "goDeeper": "book-driven-to-distraction", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-psychological-safety", "title": "Psychological safety in teams", "topic": "PSY", "cefr": "B2",
+    "body": "Google once studied what made some of its teams better than others. The strongest factor was not intelligence or experience. It was psychological safety: the feeling that you can ask a question, admit a mistake or share a strange idea without being laughed at. The idea comes from the Harvard researcher Amy Edmondson. In a safe team, people are comfortable saying 'I don't understand' in a meeting, so problems appear early. In an unsafe team, people stay quiet, and the problems appear late and expensive. Leaders can foster this feeling with small actions: asking for feedback and thanking people when they give it, admitting their own mistakes first, and asking quiet people what they think. For non-native speakers, this matters even more, because asking someone to repeat something takes courage.",
+    "targetNoteIds": ["b1p-core-comfortable", "c1-advanced-foster", "workplace-meetings-feedback"],
+    "question": "What makes you feel comfortable to speak up in a meeting? What makes you stay quiet?",
+    "goDeeper": "book-hard-thing-hard-things", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-sleep-memory", "title": "Sleep and memory", "topic": "NEURO", "cefr": "B2",
+    "body": "Sleep is not just rest for the brain. While you sleep, the brain replays parts of the day and helps transfer new memories from a short-term store, the hippocampus, to long-term storage in the cortex. Experiments show that people who sleep after learning remember more than people who stay awake for the same time. Deep sleep seems important for facts and words, and other sleep stages for skills and emotions. Losing sleep has the opposite effect: even one short night can be detrimental to attention the next day, and a tired brain learns new words less well. For language learning, this gives a simple strategy. Do a short review in the evening, then sleep. In the morning, test yourself before you look at the answers. You will often remember more than you expected.",
+    "targetNoteIds": ["b2-academic-transfer", "c1-advanced-detrimental", "b1p-core-expect"],
+    "question": "How does a bad night of sleep change your work the next day? Give one example.",
+    "goDeeper": "book-why-we-sleep", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-dopamine", "title": "Dopamine is about wanting", "topic": "NEURO", "cefr": "B2",
+    "body": "Dopamine is often called the 'pleasure chemical', but that name is misleading. Research in animals and people suggests that dopamine is more about wanting and learning than about enjoying. Dopamine cells fire strongly when something is better than we predicted, and less when it is worse. In this way the brain learns which actions are worth repeating. This helps explain why phones and games are hard to put down. A notification might be interesting or might be nothing, and that uncertainty is a strong factor in keeping us checking. ADHD is linked to differences in dopamine signalling, which may be one reason boring tasks feel so heavy and new things feel so attractive. Studies like these reveal a useful trick: add small, quick rewards to the boring parts, and keep the surprise.",
+    "targetNoteIds": ["b2-academic-reveal", "b2-academic-factor", "b1p-core-worth"],
+    "question": "Which app or game is hardest for you to put down? What keeps you coming back?",
+    "goDeeper": "pod-huberman-lab", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-neuroplasticity", "title": "Your brain keeps changing", "topic": "NEURO", "cefr": "B2",
+    "body": "For a long time, scientists believed that the adult brain was mostly fixed. Today we know it changes all the time. This is called neuroplasticity. When you practise something, the connections between the brain cells involved get stronger, and connections you do not use get weaker. A famous study of London taxi drivers was able to demonstrate that the part of the brain used for navigation was larger in drivers with more years of experience. Learning a language causes a similar shift: the brain becomes faster at hearing the sounds and finding the words. Change does not happen in one day. The brain needs many repetitions, spread over time, with sleep in between. If you keep going, the sentences that feel slow and difficult now will eventually come out without effort.",
+    "targetNoteIds": ["b2-academic-demonstrate", "b2-academic-shift", "false-friends-eventually"],
+    "question": "What is something you can do easily now that was very hard for you a few years ago?",
+    "goDeeper": "yt-kurzgesagt", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-working-memory", "title": "Working memory is small", "topic": "NEURO", "cefr": "B2",
+    "body": "Working memory is the space where you hold information while you use it, like a phone number you repeat in your head. Its capacity is surprisingly small. Modern research suggests most people can actively hold about four chunks of information at the same time. When a task is too complex, working memory fills up and mistakes appear. Speaking a second language uses a lot of this space, because you are thinking about the idea, the words and the grammar at once. That is why you may speak worse when you are tired or nervous. There are two ways to reduce the load. First, learn phrases as complete chunks, so one chunk takes one place. Second, write things down: a short list of points before a meeting frees your memory for the conversation itself.",
+    "targetNoteIds": ["workplace-meetings-capacity", "b2-academic-complex", "b1p-core-reduce"],
+    "question": "What do you do to prepare before an important meeting in English?",
+    "goDeeper": "book-thinking-fast-slow", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-task-switching", "title": "The cost of switching tasks", "topic": "NEURO", "cefr": "B2",
+    "body": "Every time you switch from one task to another, your brain pays a small price. It has to drop the rules of the first task and load the rules of the second. In lab experiments, people are slower and make more errors right after a switch, even when the tasks are simple. The researcher Sophie Leroy described something called 'attention residue': part of your mind stays on the old task for a while. At work, these switches have a big impact. Checking chat every few minutes adds overhead to everything you do, and the day ends with a lot of activity and little progress. You cannot avoid all interruptions, but you can batch them. Try two or three fixed times to check messages, and protect at least one block for deep work.",
+    "targetNoteIds": ["b2-academic-impact", "tech-english-overhead", "b1p-core-avoid"],
+    "question": "How many times do you switch tasks in a normal hour? What could you batch?",
+    "goDeeper": "book-deep-work", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-exercise-brain", "title": "Exercise and the brain", "topic": "NEURO", "cefr": "B1+",
+    "body": "Exercise is good for the body, but one of its biggest benefits may be for the brain. Studies indicate that regular aerobic exercise, like fast walking, running or cycling, improves attention and memory, and that even one session can make it easier to focus for a while afterwards. Exercise increases blood flow to the brain and raises a protein called BDNF, which helps brain cells grow new connections. Some research suggests these effects are especially useful for people with ADHD. You do not need a gym. A ten-minute walk before a study session can enhance your focus, and walking while you listen to an English podcast gives you both kinds of practice at once. The key is to make it regular: a short walk every day is better than a long run once a month.",
+    "targetNoteIds": ["b2-academic-indicate", "b2-academic-enhance", "b1p-core-benefit"],
+    "question": "When could you add a ten-minute walk to your day? What would you listen to?",
+    "goDeeper": "pod-short-wave", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-mvp", "title": "The minimum viable product", "topic": "STARTUP", "cefr": "B2",
+    "body": "A minimum viable product, or MVP, is the smallest version of a product that lets you learn something real from real users. The idea became famous with Eric Ries and The Lean Startup. Many teams spend a year building a perfect product, and then discover that nobody wants it. The MVP approach tries to discover that in weeks. An MVP is not always software. It can be a landing page that asks people to sign up, a prototype made in a design tool, or a service done by hand behind the scenes. The question is always: what is the cheapest test that could prove our idea wrong? 'Viable' is the important word. If the product is too broken to use, the test teaches you nothing, so it has to be small, but still good enough to solve one real problem.",
+    "targetNoteIds": ["c1-advanced-viable", "tech-english-prototype", "b2-academic-approach"],
+    "question": "If you had a startup idea, what would be your MVP? Describe it in three sentences.",
+    "goDeeper": "book-lean-startup", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-product-market-fit", "title": "Product-market fit", "topic": "STARTUP", "cefr": "B2",
+    "body": "Product-market fit means that a product satisfies a strong need of a clear group of people. Before it, a startup pushes: founders send emails, give demos and beg friends to try the product. After it, the market pulls: users invite other users, servers struggle with the traffic, and customers complain loudly when something breaks, because they really need it. One popular test asks users how they would feel if they could no longer use the product. If many say 'very disappointed', that is a compelling sign. Founders also notice the trend in retention: do new users come back after a month, or does the line drop to zero? Growth without retention is like filling a bucket with a hole. Most startups that die never reach product-market fit, often because they scaled too early.",
+    "targetNoteIds": ["c1-advanced-compelling", "b2-academic-trend", "b1p-core-notice"],
+    "question": "Which product would you be 'very disappointed' to lose? Explain why it fits your needs.",
+    "goDeeper": "book-zero-to-one", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-runway", "title": "Runway and burn rate", "topic": "STARTUP", "cefr": "B1+",
+    "body": "Two numbers decide how long a startup can live. The burn rate is how much money the company spends each month more than it earns. The runway is how many months are left before the money runs out: the money in the bank divided by the burn rate. A company with one million dollars and a burn of one hundred thousand a month has ten months of runway. Founders watch this number closely, because raising new money usually takes six months or more. When runway gets short, they must decide: cut costs, grow revenue faster, or raise money. Good founders allocate money to the few things that move the main goal and say no to the rest. Small teams often move faster simply because they cannot afford to do everything.",
+    "targetNoteIds": ["c1-advanced-allocate", "b1p-core-afford", "b1p-core-spend"],
+    "question": "If your team had half the budget next year, what would you stop doing first?",
+    "goDeeper": "pod-planet-money", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-pivot", "title": "When startups pivot", "topic": "STARTUP", "cefr": "B2",
+    "body": "A pivot is a big change in a startup's direction, made because the first plan is not working. It keeps what the team has learned and changes one key part of the strategy: the customer, the problem or the product. Some famous companies started as something else. Slack began as a tool inside a game studio, when the game itself failed. YouTube was first imagined as a video dating site. In each case, the team noticed that one small part of their previous idea had real users, and they bet the company on it. A pivot is a hard decision, and founders need a clear rationale: what data shows the old plan is failing, and what data supports the new one? Pivoting every month is not learning; it is panic. The art is knowing when to stop and change.",
+    "targetNoteIds": ["c1-advanced-rationale", "b1p-core-decision", "b2-academic-previous"],
+    "question": "Describe a time you changed direction on a project. What was your rationale?",
+    "goDeeper": "book-lean-startup", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-network-effects", "title": "Network effects", "topic": "STARTUP", "cefr": "B2",
+    "body": "A product has a network effect when it becomes more useful as more people use it. A phone is useless if nobody else has one. Discord is a good example: each new member makes a server more active, which gives the next person a stronger reason to join. Once the effect is established, it protects the product, because users cannot easily leave without losing their friends and communities. Network effects can also make growth very fast, since every user can increase the value for others. But they create a hard starting problem: an empty network has no value. Companies solve this by starting small, with one community, one city or one school, until that group is full and active. Technology must also be scalable, because when the effect starts, growth can arrive very suddenly.",
+    "targetNoteIds": ["b2-academic-establish", "b1p-core-increase", "c1-advanced-scalable"],
+    "question": "Why did a community or app you use grow so fast? Explain it with the idea of network effects.",
+    "goDeeper": "pod-acquired", "source": "tenaz-original"
+  },
+  {
+    "id": "kn-online-communities", "title": "Why some online communities last", "topic": "STARTUP", "cefr": "B1+",
+    "body": "Thousands of Minecraft servers and Discord groups start every week, and most of them are empty a few months later. Researchers who study online communities have found a few patterns in the ones that last. First, newcomers need a fast first experience: someone answers their first message, or they find a clear task to do. Second, people stay when they can contribute something, like building, moderating or helping others, not only consume. Third, a small group of active members does most of the work, so communities need ways to maintain their energy and to bring new people into that group before the first ones get tired. Clear rules matter too, but friendly moderators matter more than long rule pages. In the end, people return to a place where others notice when they participate.",
+    "targetNoteIds": ["b2-academic-contribute", "b2-academic-participate", "b2-academic-maintain"],
+    "question": "What makes you stay in an online community? What would make you leave?",
+    "goDeeper": "book-ready-player-one", "source": "tenaz-original"
+  }
+]

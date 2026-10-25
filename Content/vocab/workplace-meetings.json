@@ -1,0 +1,1906 @@
+[
+ {
+  "id": "workplace-meetings-agenda",
+  "headword": "agenda",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "orden del día, temario",
+  "definition": "a list of the topics to be discussed in a meeting",
+  "example": "Please send the agenda before the meeting so everyone can prepare.",
+  "exampleEs": "Por favor envía el orden del día antes de la reunión para que todos puedan prepararse.",
+  "cloze": "Please send the ____ before the meeting so everyone can prepare.",
+  "answer": "agenda",
+  "distractors": [
+   "window",
+   "bridge",
+   "kitchen"
+  ],
+  "collocations": [
+   "set the agenda",
+   "on the agenda",
+   "a full agenda"
+  ],
+  "note": "Not a personal planner: in English, agenda is mostly the list of topics for a meeting.",
+  "tags": [
+   "meetings",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-follow-up",
+  "headword": "follow up",
+  "pos": "phrasal verb",
+  "cefr": "B2",
+  "es": "dar seguimiento, retomar",
+  "definition": "to take more action on something after an earlier conversation or message",
+  "example": "I will follow up with the vendor about the missing invoice tomorrow.",
+  "exampleEs": "Le daré seguimiento al proveedor sobre la factura faltante mañana.",
+  "cloze": "I will ____ with the vendor about the missing invoice tomorrow.",
+  "answer": "follow up",
+  "distractors": [
+   "give up",
+   "wake up",
+   "break down"
+  ],
+  "collocations": [
+   "follow up with someone",
+   "follow up on an email",
+   "a follow-up call"
+  ],
+  "note": "The noun is written with a hyphen: a follow-up. Use 'follow up on' a topic, 'follow up with' a person.",
+  "tags": [
+   "meetings",
+   "workplace",
+   "phrasal"
+  ]
+ },
+ {
+  "id": "workplace-meetings-align",
+  "headword": "align",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "alinear, ponerse de acuerdo",
+  "definition": "to arrange things or opinions so that they agree or work well together",
+  "example": "We need to align our priorities with the goals of the whole department.",
+  "exampleEs": "Necesitamos alinear nuestras prioridades con los objetivos de todo el departamento.",
+  "cloze": "We need to ____ our priorities with the goals of the whole department.",
+  "answer": "align",
+  "distractors": [
+   "delay",
+   "refuse",
+   "borrow"
+  ],
+  "collocations": [
+   "align with",
+   "align priorities",
+   "align expectations"
+  ],
+  "note": "Say 'align with' something, not 'align to' in most work contexts.",
+  "tags": [
+   "meetings",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-stakeholder",
+  "headword": "stakeholder",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "parte interesada",
+  "definition": "a person or group that has an interest in a project or is affected by it",
+  "example": "Every key stakeholder should review the plan before we start.",
+  "exampleEs": "Cada parte interesada clave debería revisar el plan antes de empezar.",
+  "cloze": "Every key ____ should review the plan before we start.",
+  "answer": "stakeholder",
+  "distractors": [
+   "keyboard",
+   "neighborhood",
+   "sandwich"
+  ],
+  "collocations": [
+   "key stakeholder",
+   "engage stakeholders",
+   "stakeholder meeting"
+  ],
+  "note": "Not the same as shareholder (someone who owns shares in a company).",
+  "tags": [
+   "meetings",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-deadline",
+  "headword": "deadline",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "fecha límite",
+  "definition": "the latest time or date by which something must be finished",
+  "example": "The deadline for the report is Friday at five o'clock.",
+  "exampleEs": "La fecha límite del informe es el viernes a las cinco.",
+  "cloze": "The ____ for the report is Friday at five o'clock.",
+  "answer": "deadline",
+  "distractors": [
+   "bedroom",
+   "skyline",
+   "sunshine"
+  ],
+  "collocations": [
+   "meet a deadline",
+   "miss a deadline",
+   "a tight deadline"
+  ],
+  "note": "Use 'meet' or 'miss' a deadline, not 'complete' or 'lose' it.",
+  "tags": [
+   "workplace",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-wrap-up",
+  "headword": "wrap up",
+  "pos": "phrasal verb",
+  "cefr": "B2",
+  "es": "concluir, ir cerrando",
+  "definition": "to finish a meeting or a task, often with a short summary",
+  "example": "Let's wrap up and review the action items before we leave.",
+  "exampleEs": "Vamos cerrando y revisemos los pendientes antes de irnos.",
+  "cloze": "Let's ____ and review the action items before we leave.",
+  "answer": "wrap up",
+  "distractors": [
+   "show up",
+   "dress up",
+   "break in"
+  ],
+  "collocations": [
+   "wrap up a meeting",
+   "wrap up quickly",
+   "to wrap up"
+  ],
+  "note": "'To wrap up' also works as a signal near the end: 'To wrap up, here are our next steps.'",
+  "tags": [
+   "meetings",
+   "phrasal"
+  ]
+ },
+ {
+  "id": "workplace-meetings-action-item",
+  "headword": "action item",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "tarea pendiente, punto de acción",
+  "definition": "a specific task that someone agrees to do after a meeting",
+  "example": "My action item is to send the updated budget by Monday.",
+  "exampleEs": "Mi tarea pendiente es enviar el presupuesto actualizado el lunes.",
+  "cloze": "My ____ is to send the updated budget by Monday.",
+  "answer": "action item",
+  "distractors": [
+   "bank account",
+   "sports team",
+   "coffee break"
+  ],
+  "collocations": [
+   "assign an action item",
+   "review action items",
+   "open action items"
+  ],
+  "note": "Usually plural in meetings: 'the action items'. Action here is a noun used like an adjective.",
+  "tags": [
+   "meetings",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-bottleneck",
+  "headword": "bottleneck",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "cuello de botella",
+  "definition": "a point in a process where work slows down because capacity is limited",
+  "example": "The approval step is the main bottleneck in our release process.",
+  "exampleEs": "El paso de aprobación es el principal cuello de botella en nuestro proceso de lanzamiento.",
+  "cloze": "The approval step is the main ____ in our release process.",
+  "answer": "bottleneck",
+  "distractors": [
+   "background",
+   "sunrise",
+   "handshake"
+  ],
+  "collocations": [
+   "identify a bottleneck",
+   "remove a bottleneck",
+   "a major bottleneck"
+  ],
+  "note": "Spanish uses the same image: cuello de botella.",
+  "tags": [
+   "workplace",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-escalate",
+  "headword": "escalate",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "escalar, elevar a un nivel superior",
+  "definition": "to pass a problem to someone with more authority",
+  "example": "If the vendor does not reply today, I will escalate the issue to my manager.",
+  "exampleEs": "Si el proveedor no responde hoy, escalaré el problema a mi gerente.",
+  "cloze": "If the vendor does not reply today, I will ____ the issue to my manager.",
+  "answer": "escalate",
+  "distractors": [
+   "decorate",
+   "hesitate",
+   "celebrate"
+  ],
+  "collocations": [
+   "escalate an issue",
+   "escalate to a manager",
+   "escalate quickly"
+  ],
+  "note": "Say 'escalate an issue to someone'. It is formal and neutral, not aggressive.",
+  "tags": [
+   "workplace",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-sync",
+  "headword": "sync",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "reunión de sincronización, reunión corta",
+  "definition": "a short meeting to share updates and stay coordinated",
+  "example": "Let's have a quick sync tomorrow morning to check our progress.",
+  "exampleEs": "Hagamos una sincronización rápida mañana en la mañana para revisar nuestro avance.",
+  "cloze": "Let's have a quick ____ tomorrow morning to check our progress.",
+  "answer": "sync",
+  "distractors": [
+   "fence",
+   "salary",
+   "poster"
+  ],
+  "collocations": [
+   "a quick sync",
+   "weekly sync",
+   "sync call"
+  ],
+  "note": "Pronounced /sɪŋk/, like 'sink'. It is also a verb: 'We sync every Monday.'",
+  "tags": [
+   "meetings",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-touch-base",
+  "headword": "touch base",
+  "pos": "idiom",
+  "cefr": "B2",
+  "es": "ponerse en contacto, ponerse al día brevemente",
+  "definition": "to contact someone briefly to share news or check how things are going",
+  "example": "I just wanted to touch base before the client call on Thursday.",
+  "exampleEs": "Solo quería ponerme en contacto antes de la llamada con el cliente el jueves.",
+  "cloze": "I just wanted to ____ before the client call on Thursday.",
+  "answer": "touch base",
+  "distractors": [
+   "lose weight",
+   "break even",
+   "cut corners"
+  ],
+  "collocations": [
+   "touch base with someone",
+   "touch base briefly",
+   "touch base next week"
+  ],
+  "note": "Always 'touch base with' a person. It comes from baseball.",
+  "tags": [
+   "meetings",
+   "idiom",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-same-page",
+  "headword": "on the same page",
+  "pos": "idiom",
+  "cefr": "B2",
+  "es": "estar de acuerdo, tener el mismo entendimiento",
+  "definition": "sharing the same understanding of a situation or plan",
+  "example": "Before we start, let's make sure we are all on the same page.",
+  "exampleEs": "Antes de empezar, asegurémonos de que todos estamos en la misma sintonía.",
+  "cloze": "Before we start, let's make sure we are all ____.",
+  "answer": "on the same page",
+  "distractors": [
+   "in the same room",
+   "at the same time",
+   "by the same author"
+  ],
+  "collocations": [
+   "get on the same page",
+   "be on the same page",
+   "make sure we're on the same page"
+  ],
+  "note": "Do not say 'in the same page'. The preposition is on.",
+  "tags": [
+   "meetings",
+   "idiom",
+   "preposition"
+  ]
+ },
+ {
+  "id": "workplace-meetings-take-ownership",
+  "headword": "take ownership",
+  "pos": "idiom",
+  "cefr": "B2",
+  "es": "hacerse responsable, adueñarse de una tarea",
+  "definition": "to accept full responsibility for a task or problem",
+  "example": "Maria took ownership of the migration and finished it on time.",
+  "exampleEs": "Maria se hizo responsable de la migración y la terminó a tiempo.",
+  "cloze": "Maria ____ of the migration and finished it on time.",
+  "answer": "took ownership",
+  "distractors": [
+   "gave ownership",
+   "lost ownership",
+   "sold ownership"
+  ],
+  "collocations": [
+   "take ownership of",
+   "show ownership",
+   "a sense of ownership"
+  ],
+  "note": "The structure is 'take ownership of' something. It is a positive thing to say about a colleague.",
+  "tags": [
+   "workplace",
+   "meetings",
+   "collocation"
+  ]
+ },
+ {
+  "id": "workplace-meetings-push-back",
+  "headword": "push back",
+  "pos": "phrasal verb",
+  "cefr": "B2",
+  "es": "oponerse, poner objeciones",
+  "definition": "to disagree with or resist a request or idea, politely or firmly",
+  "example": "The team had to push back on the unrealistic deadline.",
+  "exampleEs": "El equipo tuvo que oponerse a la fecha límite poco realista.",
+  "cloze": "The team had to ____ on the unrealistic deadline.",
+  "answer": "push back",
+  "distractors": [
+   "speed up",
+   "hand in",
+   "show off"
+  ],
+  "collocations": [
+   "push back on",
+   "push back against a request",
+   "get pushback"
+  ],
+  "note": "Careful: 'push back' can also mean 'delay' (push back the meeting to Friday). Context shows which meaning.",
+  "tags": [
+   "meetings",
+   "phrasal",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-ballpark",
+  "headword": "ballpark",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "cálculo aproximado",
+  "definition": "a rough estimate that is close enough to be useful",
+  "example": "Can you give me a ballpark figure for the cloud costs?",
+  "exampleEs": "¿Me puedes dar una cifra aproximada de los costos de la nube?",
+  "cloze": "Can you give me a ____ figure for the cloud costs?",
+  "answer": "ballpark",
+  "distractors": [
+   "doorstep",
+   "wildlife",
+   "mailbox"
+  ],
+  "collocations": [
+   "a ballpark figure",
+   "a ballpark estimate",
+   "in the ballpark"
+  ],
+  "note": "Informal. 'What's the ballpark?' means 'roughly how much?'",
+  "tags": [
+   "meetings",
+   "idiom",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-deliverable",
+  "headword": "deliverable",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "entregable",
+  "definition": "a product or document that must be delivered as part of a project",
+  "example": "The main deliverable for this phase is a working prototype.",
+  "exampleEs": "El entregable principal de esta fase es un prototipo funcional.",
+  "cloze": "The main ____ for this phase is a working prototype.",
+  "answer": "deliverable",
+  "distractors": [
+   "landscape",
+   "warehouse",
+   "bracelet"
+  ],
+  "collocations": [
+   "project deliverable",
+   "key deliverables",
+   "track deliverables"
+  ],
+  "note": "Usually used in the plural in project plans: 'the deliverables'.",
+  "tags": [
+   "workplace",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-milestone",
+  "headword": "milestone",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "hito",
+  "definition": "an important point or event in the progress of a project",
+  "example": "Finishing the pilot was a major milestone for the whole team.",
+  "exampleEs": "Terminar el piloto fue un hito importante para todo el equipo.",
+  "cloze": "Finishing the pilot was a major ____ for the whole team.",
+  "answer": "milestone",
+  "distractors": [
+   "birthday cake",
+   "handrail",
+   "sidewalk"
+  ],
+  "collocations": [
+   "reach a milestone",
+   "a key milestone",
+   "project milestones"
+  ],
+  "note": "Spanish 'hito' is the best match. Do not translate it as 'landmark' in a project context.",
+  "tags": [
+   "workplace",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-bandwidth",
+  "headword": "bandwidth",
+  "pos": "noun",
+  "cefr": "B2+",
+  "es": "capacidad, disponibilidad de tiempo",
+  "definition": "the time and energy a person or team has available to take on more work",
+  "example": "I don't have the bandwidth to take on another project this month.",
+  "exampleEs": "No tengo la capacidad para tomar otro proyecto este mes.",
+  "cloze": "I don't have the ____ to take on another project this month.",
+  "answer": "bandwidth",
+  "distractors": [
+   "wardrobe",
+   "neighbor",
+   "mountain"
+  ],
+  "collocations": [
+   "have the bandwidth",
+   "limited bandwidth",
+   "free up bandwidth"
+  ],
+  "note": "In tech it means network capacity, but at work it is a polite way to say you are too busy.",
+  "tags": [
+   "workplace",
+   "meetings",
+   "tech"
+  ]
+ },
+ {
+  "id": "workplace-meetings-loop-in",
+  "headword": "loop in",
+  "pos": "phrasal verb",
+  "cefr": "B2",
+  "es": "incluir, poner en copia",
+  "definition": "to include someone in a conversation or email so they stay informed",
+  "example": "I'll loop in the legal team so they can review the contract.",
+  "exampleEs": "Voy a incluir al equipo legal para que revisen el contrato.",
+  "cloze": "I'll ____ the legal team so they can review the contract.",
+  "answer": "loop in",
+  "distractors": [
+   "cut off",
+   "drop by",
+   "rule out"
+  ],
+  "collocations": [
+   "loop in a colleague",
+   "loop someone in",
+   "keep someone in the loop"
+  ],
+  "note": "Both orders work: 'loop in Ana' and 'loop Ana in'.",
+  "tags": [
+   "workplace",
+   "phrasal",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-circle-back",
+  "headword": "circle back",
+  "pos": "phrasal verb",
+  "cefr": "B2+",
+  "es": "retomar más tarde",
+  "definition": "to return to a topic or person later, after dealing with something else",
+  "example": "We don't have the data yet, so let's circle back next week.",
+  "exampleEs": "Todavía no tenemos los datos, así que retomemos esto la próxima semana.",
+  "cloze": "We don't have the data yet, so let's ____ next week.",
+  "answer": "circle back",
+  "distractors": [
+   "dress up",
+   "hand in",
+   "stand out"
+  ],
+  "collocations": [
+   "circle back to",
+   "circle back later",
+   "circle back on this"
+  ],
+  "note": "Say 'circle back to' a topic. It sounds natural but a little corporate.",
+  "tags": [
+   "meetings",
+   "phrasal",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-heads-up",
+  "headword": "heads-up",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "aviso previo",
+  "definition": "an early warning about something that is going to happen",
+  "example": "Thanks for the heads-up about the schedule change.",
+  "exampleEs": "Gracias por el aviso sobre el cambio de horario.",
+  "cloze": "Thanks for the ____ about the schedule change.",
+  "answer": "heads-up",
+  "distractors": [
+   "feet-down",
+   "hands-on",
+   "back-end"
+  ],
+  "collocations": [
+   "give someone a heads-up",
+   "a quick heads-up",
+   "thanks for the heads-up"
+  ],
+  "note": "Say 'give someone a heads-up' or 'thanks for the heads-up'. It is not a verb.",
+  "tags": [
+   "workplace",
+   "meetings",
+   "idiom"
+  ]
+ },
+ {
+  "id": "workplace-meetings-roadmap",
+  "headword": "roadmap",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "hoja de ruta",
+  "definition": "a plan that shows what a team will do and in what order",
+  "example": "The product roadmap includes three major features for next year.",
+  "exampleEs": "La hoja de ruta del producto incluye tres funciones importantes para el próximo año.",
+  "cloze": "The product ____ includes three major features for next year.",
+  "answer": "roadmap",
+  "distractors": [
+   "pavement",
+   "taxi",
+   "mileage"
+  ],
+  "collocations": [
+   "product roadmap",
+   "on the roadmap",
+   "roadmap for the year"
+  ],
+  "note": "One word, no space. Spanish: hoja de ruta.",
+  "tags": [
+   "workplace",
+   "tech",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-scope",
+  "headword": "scope",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "alcance",
+  "definition": "the range of work or topics that a project includes",
+  "example": "That request is outside the scope of this project.",
+  "exampleEs": "Esa solicitud está fuera del alcance de este proyecto.",
+  "cloze": "That request is outside the ____ of this project.",
+  "answer": "scope",
+  "distractors": [
+   "salary",
+   "shelf",
+   "sleeve"
+  ],
+  "collocations": [
+   "outside the scope",
+   "scope creep",
+   "define the scope"
+  ],
+  "note": "'Scope creep' means the slow, unplanned growth of a project's work.",
+  "tags": [
+   "workplace",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-kick-off",
+  "headword": "kick off",
+  "pos": "phrasal verb",
+  "cefr": "B2",
+  "es": "dar inicio, arrancar",
+  "definition": "to start a meeting, project or event",
+  "example": "We will kick off the project with a short meeting on Monday.",
+  "exampleEs": "Vamos a arrancar el proyecto con una reunión corta el lunes.",
+  "cloze": "We will ____ the project with a short meeting on Monday.",
+  "answer": "kick off",
+  "distractors": [
+   "give up",
+   "take off",
+   "turn off"
+  ],
+  "collocations": [
+   "kick off a project",
+   "kick off the meeting",
+   "a kickoff meeting"
+  ],
+  "note": "The noun is 'kickoff' or 'kick-off': a kickoff meeting.",
+  "tags": [
+   "meetings",
+   "phrasal",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-onboard",
+  "headword": "onboard",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "incorporar, dar la inducción a",
+  "definition": "to help a new employee or customer get started and learn how things work",
+  "example": "We will onboard the new engineer during her first week.",
+  "exampleEs": "Vamos a incorporar a la nueva ingeniera durante su primera semana.",
+  "cloze": "We will ____ the new engineer during her first week.",
+  "answer": "onboard",
+  "distractors": [
+   "overlook",
+   "outline",
+   "outsource"
+  ],
+  "collocations": [
+   "onboard new hires",
+   "onboarding process",
+   "onboard a client"
+  ],
+  "note": "The noun is 'onboarding'. The verb is often used for new hires.",
+  "tags": [
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-prioritize",
+  "headword": "prioritize",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "priorizar",
+  "definition": "to decide which things are most important and do them first",
+  "example": "We need to prioritize the bugs that affect customers.",
+  "exampleEs": "Necesitamos priorizar los errores que afectan a los clientes.",
+  "cloze": "We need to ____ the bugs that affect customers.",
+  "answer": "prioritize",
+  "distractors": [
+   "authorize",
+   "apologize",
+   "hypnotize"
+  ],
+  "collocations": [
+   "prioritize tasks",
+   "prioritize work",
+   "prioritize carefully"
+  ],
+  "note": "Spelled with a z in US English (prioritize) and usually s in British English.",
+  "tags": [
+   "workplace",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-delegate",
+  "headword": "delegate",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "delegar",
+  "definition": "to give part of your work or authority to another person",
+  "example": "A good manager knows when to delegate tasks to the team.",
+  "exampleEs": "Un buen gerente sabe cuándo delegar tareas al equipo.",
+  "cloze": "A good manager knows when to ____ tasks to the team.",
+  "answer": "delegate",
+  "distractors": [
+   "isolate",
+   "donate",
+   "hesitate"
+  ],
+  "collocations": [
+   "delegate tasks",
+   "delegate to someone",
+   "delegate responsibility"
+  ],
+  "note": "As a verb it ends in /eɪt/ (del-uh-gate); as a noun it ends in /ət/.",
+  "tags": [
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-clarify",
+  "headword": "clarify",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "aclarar",
+  "definition": "to make something easier to understand by giving more details",
+  "example": "Could you clarify what you mean by the second requirement?",
+  "exampleEs": "¿Podrías aclarar qué quieres decir con el segundo requisito?",
+  "cloze": "Could you ____ what you mean by the second requirement?",
+  "answer": "clarify",
+  "distractors": [
+   "magnify",
+   "purify",
+   "terrify"
+  ],
+  "collocations": [
+   "clarify a point",
+   "clarify expectations",
+   "clarify the requirements"
+  ],
+  "note": "Use it to ask politely for more detail: 'Could you clarify...?'",
+  "tags": [
+   "meetings",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-postpone",
+  "headword": "postpone",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "posponer",
+  "definition": "to move an event to a later time",
+  "example": "We had to postpone the demo because the server was down.",
+  "exampleEs": "Tuvimos que posponer la demostración porque el servidor estaba caído.",
+  "cloze": "We had to ____ the demo because the server was down.",
+  "answer": "postpone",
+  "distractors": [
+   "pronounce",
+   "propose",
+   "provoke"
+  ],
+  "collocations": [
+   "postpone a meeting",
+   "postpone until next week",
+   "postpone indefinitely"
+  ],
+  "note": "The verb takes a direct object: 'postpone the meeting', not 'postpone for the meeting'.",
+  "tags": [
+   "meetings",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-reschedule",
+  "headword": "reschedule",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "reprogramar",
+  "definition": "to change the time or date of a planned event",
+  "example": "Can we reschedule our one-on-one to Thursday afternoon?",
+  "exampleEs": "¿Podemos reprogramar nuestra reunión individual para el jueves en la tarde?",
+  "cloze": "Can we ____ our one-on-one to Thursday afternoon?",
+  "answer": "reschedule",
+  "distractors": [
+   "remember",
+   "resemble",
+   "reimburse"
+  ],
+  "collocations": [
+   "reschedule a meeting",
+   "reschedule for tomorrow",
+   "reschedule to Friday"
+  ],
+  "note": "Use 'reschedule to' a new time. In US English it sounds like 're-SKED-jool'.",
+  "tags": [
+   "meetings",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-attendee",
+  "headword": "attendee",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "asistente, participante",
+  "definition": "a person who goes to a meeting or event",
+  "example": "Each attendee will receive a link to the recording.",
+  "exampleEs": "Cada asistente recibirá un enlace a la grabación.",
+  "cloze": "Each ____ will receive a link to the recording.",
+  "answer": "attendee",
+  "distractors": [
+   "elevator",
+   "umbrella",
+   "sandwich"
+  ],
+  "collocations": [
+   "meeting attendee",
+   "list of attendees",
+   "required attendee"
+  ],
+  "note": "False friend risk: 'assist' means 'help' in English, not 'attend'. Use attendee or participant.",
+  "tags": [
+   "meetings",
+   "false-friend"
+  ]
+ },
+ {
+  "id": "workplace-meetings-recap",
+  "headword": "recap",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "resumen",
+  "definition": "a short summary of the main points that were discussed",
+  "example": "Thanks for the recap, it helped me understand what I missed.",
+  "exampleEs": "Gracias por el resumen, me ayudó a entender lo que me perdí.",
+  "cloze": "Thanks for the ____, it helped me understand what I missed.",
+  "answer": "recap",
+  "distractors": [
+   "carpet",
+   "retail",
+   "parking"
+  ],
+  "collocations": [
+   "a quick recap",
+   "give a recap",
+   "recap email"
+  ],
+  "note": "It is also a verb: 'Let me recap.' The noun is stressed on the first syllable, the verb on the second.",
+  "tags": [
+   "meetings",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-takeaway",
+  "headword": "takeaway",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "conclusión clave, idea principal",
+  "definition": "the most important point to remember from a meeting or presentation",
+  "example": "The main takeaway from the call is that we need more testing.",
+  "exampleEs": "La conclusión principal de la llamada es que necesitamos más pruebas.",
+  "cloze": "The main ____ from the call is that we need more testing.",
+  "answer": "takeaway",
+  "distractors": [
+   "breakfast",
+   "clipboard",
+   "doorbell"
+  ],
+  "collocations": [
+   "key takeaway",
+   "main takeaway",
+   "a takeaway from the meeting"
+  ],
+  "note": "In British English a takeaway is also takeout food, but in meetings it means a key lesson.",
+  "tags": [
+   "meetings",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-buy-in",
+  "headword": "buy-in",
+  "pos": "noun",
+  "cefr": "B2+",
+  "es": "apoyo, aceptación",
+  "definition": "agreement and support from people who are needed to make a plan work",
+  "example": "We need buy-in from leadership before we change the process.",
+  "exampleEs": "Necesitamos el apoyo de la dirección antes de cambiar el proceso.",
+  "cloze": "We need ____ from leadership before we change the process.",
+  "answer": "buy-in",
+  "distractors": [
+   "give-out",
+   "sell-off",
+   "pay-back"
+  ],
+  "collocations": [
+   "get buy-in",
+   "stakeholder buy-in",
+   "lack of buy-in"
+  ],
+  "note": "Uncountable: say 'we need buy-in', not 'we need a buy-in'.",
+  "tags": [
+   "workplace",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-blocker",
+  "headword": "blocker",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "impedimento, bloqueo",
+  "definition": "a problem that stops you from continuing your work",
+  "example": "My only blocker is that I still don't have access to the database.",
+  "exampleEs": "Mi único impedimento es que todavía no tengo acceso a la base de datos.",
+  "cloze": "My only ____ is that I still don't have access to the database.",
+  "answer": "blocker",
+  "distractors": [
+   "speaker",
+   "reader",
+   "teacher"
+  ],
+  "collocations": [
+   "a major blocker",
+   "remove a blocker",
+   "any blockers?"
+  ],
+  "note": "In daily stand-ups people ask, 'Do you have any blockers?'",
+  "tags": [
+   "tech",
+   "workplace",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-turnaround",
+  "headword": "turnaround",
+  "pos": "noun",
+  "cefr": "B2+",
+  "es": "tiempo de entrega, tiempo de respuesta",
+  "definition": "the time it takes to finish a piece of work after receiving it",
+  "example": "The vendor promises a turnaround of two business days.",
+  "exampleEs": "El proveedor promete un tiempo de entrega de dos días hábiles.",
+  "cloze": "The vendor promises a ____ of two business days.",
+  "answer": "turnaround",
+  "distractors": [
+   "roundabout",
+   "downturn",
+   "overhead"
+  ],
+  "collocations": [
+   "quick turnaround",
+   "turnaround time",
+   "a tight turnaround"
+  ],
+  "note": "'Quick turnaround' means the work gets done fast.",
+  "tags": [
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-streamline",
+  "headword": "streamline",
+  "pos": "verb",
+  "cefr": "B2+",
+  "es": "agilizar, simplificar",
+  "definition": "to make a process simpler and more efficient",
+  "example": "We want to streamline the approval process to save time.",
+  "exampleEs": "Queremos agilizar el proceso de aprobación para ahorrar tiempo.",
+  "cloze": "We want to ____ the approval process to save time.",
+  "answer": "streamline",
+  "distractors": [
+   "complicate",
+   "decorate",
+   "whisper"
+  ],
+  "collocations": [
+   "streamline a process",
+   "streamline operations",
+   "streamline workflows"
+  ],
+  "note": "A positive word. The opposite idea is 'complicate'.",
+  "tags": [
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-workload",
+  "headword": "workload",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "carga de trabajo",
+  "definition": "the amount of work that a person or team has to do",
+  "example": "My workload has doubled since two colleagues left.",
+  "exampleEs": "Mi carga de trabajo se duplicó desde que se fueron dos compañeros.",
+  "cloze": "My ____ has doubled since two colleagues left.",
+  "answer": "workload",
+  "distractors": [
+   "workshop",
+   "weekend",
+   "sunrise"
+  ],
+  "collocations": [
+   "heavy workload",
+   "manage your workload",
+   "reduce the workload"
+  ],
+  "note": "Singular and uncountable: 'a heavy workload', not 'many workloads' (unless talking about servers).",
+  "tags": [
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-feedback",
+  "headword": "feedback",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "retroalimentación, comentarios",
+  "definition": "comments about someone's work that help them improve",
+  "example": "I'd really appreciate your feedback on this draft.",
+  "exampleEs": "Realmente agradecería tus comentarios sobre este borrador.",
+  "cloze": "I'd really appreciate your ____ on this draft.",
+  "answer": "feedback",
+  "distractors": [
+   "fashion",
+   "feature",
+   "fixture"
+  ],
+  "collocations": [
+   "give feedback",
+   "get feedback",
+   "constructive feedback"
+  ],
+  "note": "Uncountable: say 'some feedback', not 'a feedback' or 'feedbacks'. Use 'feedback on' something.",
+  "tags": [
+   "workplace",
+   "meetings",
+   "error-pattern"
+  ]
+ },
+ {
+  "id": "workplace-meetings-timeline",
+  "headword": "timeline",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "cronograma, plazo previsto",
+  "definition": "a plan showing when things will happen",
+  "example": "What is the timeline for the clinical data review?",
+  "exampleEs": "¿Cuál es el cronograma para la revisión de los datos clínicos?",
+  "cloze": "What is the ____ for the clinical data review?",
+  "answer": "timeline",
+  "distractors": [
+   "hairline",
+   "coastline",
+   "skyline"
+  ],
+  "collocations": [
+   "project timeline",
+   "tight timeline",
+   "timeline for"
+  ],
+  "note": "Say 'timeline for' a project. A timeline is a plan, a deadline is one final date.",
+  "tags": [
+   "workplace",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-constraint",
+  "headword": "constraint",
+  "pos": "noun",
+  "cefr": "B2+",
+  "es": "restricción, limitación",
+  "definition": "something that limits what you can do",
+  "example": "Budget is the biggest constraint for this project.",
+  "exampleEs": "El presupuesto es la mayor restricción de este proyecto.",
+  "cloze": "Budget is the biggest ____ for this project.",
+  "answer": "constraint",
+  "distractors": [
+   "contrast",
+   "contest",
+   "contact"
+  ],
+  "collocations": [
+   "budget constraint",
+   "time constraints",
+   "work within constraints"
+  ],
+  "note": "Often plural: 'time constraints' or 'resource constraints'.",
+  "tags": [
+   "workplace",
+   "academic"
+  ]
+ },
+ {
+  "id": "workplace-meetings-trade-off",
+  "headword": "trade-off",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "compromiso, equilibrio entre dos opciones",
+  "definition": "a situation where you must give up one thing to get another",
+  "example": "There is always a trade-off between speed and quality.",
+  "exampleEs": "Siempre hay un equilibrio que sacrificar entre velocidad y calidad.",
+  "cloze": "There is always a ____ between speed and quality.",
+  "answer": "trade-off",
+  "distractors": [
+   "walk-in",
+   "check-up",
+   "hand-out"
+  ],
+  "collocations": [
+   "a trade-off between",
+   "weigh the trade-offs",
+   "make a trade-off"
+  ],
+  "note": "Say 'a trade-off between A and B'. It is a noun, so the verb form is 'trade off'.",
+  "tags": [
+   "workplace",
+   "meetings",
+   "collocation"
+  ]
+ },
+ {
+  "id": "workplace-meetings-mitigate",
+  "headword": "mitigate",
+  "pos": "verb",
+  "cefr": "B2+",
+  "es": "mitigar, reducir",
+  "definition": "to make something bad less serious or less harmful",
+  "example": "We can mitigate the risk by testing the system first.",
+  "exampleEs": "Podemos mitigar el riesgo probando primero el sistema.",
+  "cloze": "We can ____ the risk by testing the system first.",
+  "answer": "mitigate",
+  "distractors": [
+   "imitate",
+   "motivate",
+   "migrate"
+  ],
+  "collocations": [
+   "mitigate risk",
+   "mitigate the impact",
+   "mitigate the effects"
+  ],
+  "note": "Do not confuse with 'militate'. Mitigate works with risks, damage and problems.",
+  "tags": [
+   "workplace",
+   "academic"
+  ]
+ },
+ {
+  "id": "workplace-meetings-compliance",
+  "headword": "compliance",
+  "pos": "noun",
+  "cefr": "B2+",
+  "es": "cumplimiento normativo",
+  "definition": "following the rules, laws and standards that apply to your work",
+  "example": "The compliance team must approve every document before we share it.",
+  "exampleEs": "El equipo de cumplimiento debe aprobar cada documento antes de compartirlo.",
+  "cloze": "The ____ team must approve every document before we share it.",
+  "answer": "compliance",
+  "distractors": [
+   "compliment",
+   "compromise",
+   "comfort"
+  ],
+  "collocations": [
+   "ensure compliance",
+   "compliance with regulations",
+   "compliance officer"
+  ],
+  "note": "Say 'compliance with' a rule. It is very common in pharma and finance.",
+  "tags": [
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-audit",
+  "headword": "audit",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "auditoría",
+  "definition": "an official check of records or processes to see if they are correct",
+  "example": "We are preparing for the quality audit next month.",
+  "exampleEs": "Nos estamos preparando para la auditoría de calidad del próximo mes.",
+  "cloze": "We are preparing for the quality ____ next month.",
+  "answer": "audit",
+  "distractors": [
+   "audio",
+   "author",
+   "autumn"
+  ],
+  "collocations": [
+   "pass an audit",
+   "an internal audit",
+   "audit trail"
+  ],
+  "note": "Pronounced /ˈɔːdɪt/. It is also a verb: 'They audit our records every year.'",
+  "tags": [
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-pipeline",
+  "headword": "pipeline",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "cartera de proyectos, flujo de trabajo",
+  "definition": "a set of projects or tasks that are planned or in progress",
+  "example": "We have three new drugs in the pipeline.",
+  "exampleEs": "Tenemos tres medicamentos nuevos en desarrollo.",
+  "cloze": "We have three new drugs in the ____.",
+  "answer": "pipeline",
+  "distractors": [
+   "bathroom",
+   "pocket",
+   "staircase"
+  ],
+  "collocations": [
+   "in the pipeline",
+   "sales pipeline",
+   "a full pipeline"
+  ],
+  "note": "'In the pipeline' means something is being prepared. In pharma it means products under development.",
+  "tags": [
+   "workplace",
+   "idiom"
+  ]
+ },
+ {
+  "id": "workplace-meetings-benchmark",
+  "headword": "benchmark",
+  "pos": "noun",
+  "cefr": "B2+",
+  "es": "punto de referencia",
+  "definition": "a standard used to compare how well something is performing",
+  "example": "We use last year's results as a benchmark for this quarter.",
+  "exampleEs": "Usamos los resultados del año pasado como punto de referencia para este trimestre.",
+  "cloze": "We use last year's results as a ____ for this quarter.",
+  "answer": "benchmark",
+  "distractors": [
+   "bookmark",
+   "backpack",
+   "bathtub"
+  ],
+  "collocations": [
+   "set a benchmark",
+   "industry benchmark",
+   "benchmark against"
+  ],
+  "note": "It is also a verb: 'benchmark against competitors'.",
+  "tags": [
+   "workplace",
+   "tech"
+  ]
+ },
+ {
+  "id": "workplace-meetings-consensus",
+  "headword": "consensus",
+  "pos": "noun",
+  "cefr": "B2+",
+  "es": "consenso",
+  "definition": "general agreement among a group of people",
+  "example": "After a long discussion, we finally reached a consensus.",
+  "exampleEs": "Después de una larga discusión, por fin llegamos a un consenso.",
+  "cloze": "After a long discussion, we finally reached a ____.",
+  "answer": "consensus",
+  "distractors": [
+   "census",
+   "conscience",
+   "sentence"
+  ],
+  "collocations": [
+   "reach a consensus",
+   "build consensus",
+   "general consensus"
+  ],
+  "note": "Spelling: consensus, not 'concensus'. It already means general agreement, so 'consensus of opinion' is redundant.",
+  "tags": [
+   "meetings",
+   "academic"
+  ]
+ },
+ {
+  "id": "workplace-meetings-reach-out",
+  "headword": "reach out",
+  "pos": "phrasal verb",
+  "cefr": "B2",
+  "es": "contactar, acercarse a alguien",
+  "definition": "to contact someone, usually to ask for help or share information",
+  "example": "Please reach out to me if you have any questions.",
+  "exampleEs": "Por favor contáctame si tienes alguna pregunta.",
+  "cloze": "Please ____ to me if you have any questions.",
+  "answer": "reach out",
+  "distractors": [
+   "hold on",
+   "pick up",
+   "carry on"
+  ],
+  "collocations": [
+   "reach out to someone",
+   "feel free to reach out",
+   "reach out for help"
+  ],
+  "note": "Always 'reach out to' a person, not 'reach out a person'.",
+  "tags": [
+   "workplace",
+   "phrasal",
+   "preposition"
+  ]
+ },
+ {
+  "id": "workplace-meetings-hand-over",
+  "headword": "hand over",
+  "pos": "phrasal verb",
+  "cefr": "B2",
+  "es": "transferir, entregar la responsabilidad",
+  "definition": "to give responsibility for a task or project to someone else",
+  "example": "Before my vacation, I will hand over the project to Carlos.",
+  "exampleEs": "Antes de mis vacaciones, voy a transferirle el proyecto a Carlos.",
+  "cloze": "Before my vacation, I will ____ the project to Carlos.",
+  "answer": "hand over",
+  "distractors": [
+   "pull out",
+   "look after",
+   "back up"
+  ],
+  "collocations": [
+   "hand over a project",
+   "hand over to",
+   "a handover document"
+  ],
+  "note": "The noun is 'handover' (one word): a handover document.",
+  "tags": [
+   "workplace",
+   "phrasal"
+  ]
+ },
+ {
+  "id": "workplace-meetings-run-through",
+  "headword": "run through",
+  "pos": "phrasal verb",
+  "cefr": "B2",
+  "es": "repasar, explicar paso a paso",
+  "definition": "to go over something quickly from beginning to end",
+  "example": "Let me run through the main points before we take questions.",
+  "exampleEs": "Déjame repasar los puntos principales antes de recibir preguntas.",
+  "cloze": "Let me ____ the main points before we take questions.",
+  "answer": "run through",
+  "distractors": [
+   "run away",
+   "run into",
+   "run out"
+  ],
+  "collocations": [
+   "run through the slides",
+   "run through a plan",
+   "a quick run-through"
+  ],
+  "note": "The noun is 'run-through': a quick run-through of the slides.",
+  "tags": [
+   "meetings",
+   "phrasal"
+  ]
+ },
+ {
+  "id": "workplace-meetings-chime-in",
+  "headword": "chime in",
+  "pos": "phrasal verb",
+  "cefr": "B2+",
+  "es": "intervenir, opinar",
+  "definition": "to join a discussion by adding a comment",
+  "example": "Feel free to chime in if you disagree with anything.",
+  "exampleEs": "Siéntete libre de intervenir si no estás de acuerdo con algo.",
+  "cloze": "Feel free to ____ if you disagree with anything.",
+  "answer": "chime in",
+  "distractors": [
+   "show off",
+   "warm up",
+   "dress up"
+  ],
+  "collocations": [
+   "chime in with an idea",
+   "feel free to chime in",
+   "chime in on a discussion"
+  ],
+  "note": "Friendly and informal. Say 'chime in on' a topic.",
+  "tags": [
+   "meetings",
+   "phrasal"
+  ]
+ },
+ {
+  "id": "workplace-meetings-weigh-in",
+  "headword": "weigh in",
+  "pos": "phrasal verb",
+  "cefr": "B2+",
+  "es": "dar su opinión, opinar",
+  "definition": "to give your opinion in a discussion, especially on an important matter",
+  "example": "I would like the security team to weigh in before we decide.",
+  "exampleEs": "Me gustaría que el equipo de seguridad opine antes de decidir.",
+  "cloze": "I would like the security team to ____ before we decide.",
+  "answer": "weigh in",
+  "distractors": [
+   "tune out",
+   "speak down",
+   "log off"
+  ],
+  "collocations": [
+   "weigh in on",
+   "weigh in with an opinion",
+   "ask someone to weigh in"
+  ],
+  "note": "Use 'weigh in on' a topic. It suggests that the opinion carries weight.",
+  "tags": [
+   "meetings",
+   "phrasal"
+  ]
+ },
+ {
+  "id": "workplace-meetings-drill-down",
+  "headword": "drill down",
+  "pos": "phrasal verb",
+  "cefr": "B2+",
+  "es": "profundizar, analizar en detalle",
+  "definition": "to look at the details of a topic or data more closely",
+  "example": "Let's drill down into the numbers to see why sales dropped.",
+  "exampleEs": "Profundicemos en los números para ver por qué bajaron las ventas.",
+  "cloze": "Let's ____ into the numbers to see why sales dropped.",
+  "answer": "drill down",
+  "distractors": [
+   "tidy up",
+   "stand by",
+   "water down"
+  ],
+  "collocations": [
+   "drill down into",
+   "drill down to the cause",
+   "drill-down report"
+  ],
+  "note": "Say 'drill down into' or 'drill down on' a topic.",
+  "tags": [
+   "meetings",
+   "phrasal",
+   "tech"
+  ]
+ },
+ {
+  "id": "workplace-meetings-ramp-up",
+  "headword": "ramp up",
+  "pos": "phrasal verb",
+  "cefr": "B2+",
+  "es": "aumentar gradualmente, acelerar",
+  "definition": "to increase the amount or speed of something gradually",
+  "example": "We plan to ramp up production in the second quarter.",
+  "exampleEs": "Planeamos aumentar gradualmente la producción en el segundo trimestre.",
+  "cloze": "We plan to ____ production in the second quarter.",
+  "answer": "ramp up",
+  "distractors": [
+   "sit down",
+   "give in",
+   "hang out"
+  ],
+  "collocations": [
+   "ramp up production",
+   "ramp up quickly",
+   "a ramp-up period"
+  ],
+  "note": "The noun 'ramp-up' means the period when something grows.",
+  "tags": [
+   "workplace",
+   "phrasal"
+  ]
+ },
+ {
+  "id": "workplace-meetings-sign-off",
+  "headword": "sign off",
+  "pos": "phrasal verb",
+  "cefr": "B2",
+  "es": "dar aprobación final, firmar de conformidad",
+  "definition": "to give final official approval of something",
+  "example": "The director needs to sign off on the budget before we spend anything.",
+  "exampleEs": "El director necesita dar su aprobación final al presupuesto antes de que gastemos algo.",
+  "cloze": "The director needs to ____ on the budget before we spend anything.",
+  "answer": "sign off",
+  "distractors": [
+   "sign up",
+   "log out",
+   "turn out"
+  ],
+  "collocations": [
+   "sign off on",
+   "get sign-off",
+   "final sign-off"
+  ],
+  "note": "Say 'sign off on' something. The noun is 'sign-off': we need your sign-off.",
+  "tags": [
+   "workplace",
+   "phrasal",
+   "preposition"
+  ]
+ },
+ {
+  "id": "workplace-meetings-look-into",
+  "headword": "look into",
+  "pos": "phrasal verb",
+  "cefr": "B2",
+  "es": "investigar, revisar",
+  "definition": "to examine a problem or question to find out more",
+  "example": "I'll look into the error and let you know what I find.",
+  "exampleEs": "Voy a investigar el error y te aviso qué encuentro.",
+  "cloze": "I'll ____ the error and let you know what I find.",
+  "answer": "look into",
+  "distractors": [
+   "look away",
+   "look forward",
+   "look like"
+  ],
+  "collocations": [
+   "look into an issue",
+   "look into the matter",
+   "look into it"
+  ],
+  "note": "A useful promise in meetings: 'I'll look into it.'",
+  "tags": [
+   "workplace",
+   "phrasal"
+  ]
+ },
+ {
+  "id": "workplace-meetings-on-track",
+  "headword": "on track",
+  "pos": "idiom",
+  "cefr": "B2",
+  "es": "según lo planeado, en buen camino",
+  "definition": "progressing as planned and likely to succeed",
+  "example": "The project is on track to finish before the deadline.",
+  "exampleEs": "El proyecto va por buen camino para terminar antes de la fecha límite.",
+  "cloze": "The project is ____ to finish before the deadline.",
+  "answer": "on track",
+  "distractors": [
+   "on foot",
+   "on edge",
+   "off hand"
+  ],
+  "collocations": [
+   "on track to",
+   "stay on track",
+   "get back on track"
+  ],
+  "note": "Say 'on track to' plus a verb. The opposite is 'off track' or 'behind schedule'.",
+  "tags": [
+   "workplace",
+   "meetings",
+   "idiom"
+  ]
+ },
+ {
+  "id": "workplace-meetings-fall-behind",
+  "headword": "fall behind",
+  "pos": "phrasal verb",
+  "cefr": "B2",
+  "es": "retrasarse",
+  "definition": "to progress more slowly than planned or than other people",
+  "example": "We fell behind schedule because the tests took longer than expected.",
+  "exampleEs": "Nos retrasamos porque las pruebas tomaron más tiempo de lo esperado.",
+  "cloze": "We ____ schedule because the tests took longer than expected.",
+  "answer": "fell behind",
+  "distractors": [
+   "fell over",
+   "fell apart",
+   "fell asleep"
+  ],
+  "collocations": [
+   "fall behind schedule",
+   "fall behind on work",
+   "fall behind the competition"
+  ],
+  "note": "Say 'behind schedule' or 'fall behind on' a task. Past tense is 'fell behind'.",
+  "tags": [
+   "workplace",
+   "phrasal"
+  ]
+ },
+ {
+  "id": "workplace-meetings-on-hold",
+  "headword": "on hold",
+  "pos": "idiom",
+  "cefr": "B2",
+  "es": "en pausa, suspendido",
+  "definition": "temporarily stopped, but expected to continue later",
+  "example": "The launch is on hold until legal approves the contract.",
+  "exampleEs": "El lanzamiento está en pausa hasta que legal apruebe el contrato.",
+  "cloze": "The launch is ____ until legal approves the contract.",
+  "answer": "on hold",
+  "distractors": [
+   "on top",
+   "at ease",
+   "in half"
+  ],
+  "collocations": [
+   "put on hold",
+   "on hold until",
+   "keep on hold"
+  ],
+  "note": "Also used on the phone: 'Please stay on hold.'",
+  "tags": [
+   "workplace",
+   "idiom",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-in-the-loop",
+  "headword": "in the loop",
+  "pos": "idiom",
+  "cefr": "B2",
+  "es": "al tanto, informado",
+  "definition": "informed about what is happening in a project or discussion",
+  "example": "Please keep me in the loop as the plan changes.",
+  "exampleEs": "Por favor mantenme al tanto mientras el plan cambia.",
+  "cloze": "Please keep me ____ as the plan changes.",
+  "answer": "in the loop",
+  "distractors": [
+   "in the way",
+   "on the line",
+   "at the end"
+  ],
+  "collocations": [
+   "keep someone in the loop",
+   "stay in the loop",
+   "out of the loop"
+  ],
+  "note": "'Out of the loop' is the opposite: not informed.",
+  "tags": [
+   "workplace",
+   "idiom",
+   "meetings"
+  ]
+ },
+ {
+  "id": "workplace-meetings-moving-forward",
+  "headword": "moving forward",
+  "pos": "phrase",
+  "cefr": "B2",
+  "es": "de ahora en adelante",
+  "definition": "from now on, or in the future",
+  "example": "Moving forward, we will send a written summary after every meeting.",
+  "exampleEs": "De ahora en adelante, enviaremos un resumen escrito después de cada reunión.",
+  "cloze": "____, we will send a written summary after every meeting.",
+  "answer": "Moving forward",
+  "distractors": [
+   "Going backward",
+   "Turning around",
+   "Standing still"
+  ],
+  "collocations": [
+   "moving forward, we will",
+   "going forward",
+   "next steps moving forward"
+  ],
+  "note": "Often used at the start of a sentence followed by a comma. 'Going forward' means the same.",
+  "tags": [
+   "meetings",
+   "workplace",
+   "linker"
+  ]
+ },
+ {
+  "id": "workplace-meetings-pending",
+  "headword": "pending",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "pendiente",
+  "definition": "waiting to be decided or finished",
+  "example": "The approval is still pending, so we cannot start yet.",
+  "exampleEs": "La aprobación sigue pendiente, así que todavía no podemos empezar.",
+  "cloze": "The approval is still ____, so we cannot start yet.",
+  "answer": "pending",
+  "distractors": [
+   "empty",
+   "broken",
+   "famous"
+  ],
+  "collocations": [
+   "pending approval",
+   "pending review",
+   "still pending"
+  ],
+  "note": "Common in forms: 'pending approval'. Spanish 'estar pendiente de' (to keep an eye on something) is not 'be pending'.",
+  "tags": [
+   "workplace",
+   "false-friend"
+  ]
+ },
+ {
+  "id": "workplace-meetings-overdue",
+  "headword": "overdue",
+  "pos": "adjective",
+  "cefr": "B2",
+  "es": "vencido, atrasado",
+  "definition": "not done or paid by the required time",
+  "example": "This report is two weeks overdue and the client is asking about it.",
+  "exampleEs": "Este informe lleva dos semanas de atraso y el cliente está preguntando por él.",
+  "cloze": "This report is two weeks ____ and the client is asking about it.",
+  "answer": "overdue",
+  "distractors": [
+   "overseas",
+   "overtime",
+   "overhead"
+  ],
+  "collocations": [
+   "overdue payment",
+   "long overdue",
+   "overdue task"
+  ],
+  "note": "Say 'two weeks overdue' after the verb. 'Long overdue' means something should have happened much earlier.",
+  "tags": [
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-outcome",
+  "headword": "outcome",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "resultado",
+  "definition": "the final result of a meeting, process or action",
+  "example": "What is the desired outcome of this meeting?",
+  "exampleEs": "¿Cuál es el resultado deseado de esta reunión?",
+  "cloze": "What is the desired ____ of this meeting?",
+  "answer": "outcome",
+  "distractors": [
+   "outlet",
+   "outfit",
+   "outpost"
+  ],
+  "collocations": [
+   "desired outcome",
+   "positive outcome",
+   "clinical outcome"
+  ],
+  "note": "Outcome is the result of an action; output is what is produced.",
+  "tags": [
+   "workplace",
+   "meetings",
+   "academic"
+  ]
+ },
+ {
+  "id": "workplace-meetings-bring-up",
+  "headword": "bring up",
+  "pos": "phrasal verb",
+  "cefr": "B2",
+  "es": "mencionar, sacar un tema",
+  "definition": "to start talking about a subject",
+  "example": "I didn't want to bring up the budget in front of the client.",
+  "exampleEs": "No quería sacar el tema del presupuesto delante del cliente.",
+  "cloze": "I didn't want to ____ the budget in front of the client.",
+  "answer": "bring up",
+  "distractors": [
+   "wake up",
+   "run away",
+   "log out"
+  ],
+  "collocations": [
+   "bring up an issue",
+   "bring up a topic",
+   "bring it up in the meeting"
+  ],
+  "note": "Do not confuse with 'raise a child' (also bring up). In meetings it means mention.",
+  "tags": [
+   "meetings",
+   "phrasal"
+  ]
+ },
+ {
+  "id": "workplace-meetings-table",
+  "headword": "table",
+  "pos": "verb",
+  "cefr": "B2+",
+  "es": "posponer, dejar para más tarde",
+  "definition": "to postpone discussion of something until later (US usage)",
+  "example": "Let's table this discussion until we have the final numbers.",
+  "exampleEs": "Dejemos esta discusión para más tarde hasta tener las cifras finales.",
+  "cloze": "Let's ____ this discussion until we have the final numbers.",
+  "answer": "table",
+  "distractors": [
+   "ladder",
+   "shelf",
+   "carpet"
+  ],
+  "collocations": [
+   "table a discussion",
+   "table the motion",
+   "table it for now"
+  ],
+  "note": "Careful: in US English 'table' means postpone; in British English it means put forward for discussion.",
+  "tags": [
+   "meetings",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-brainstorm",
+  "headword": "brainstorm",
+  "pos": "verb",
+  "cefr": "B2",
+  "es": "hacer una lluvia de ideas",
+  "definition": "to think of many ideas quickly as a group",
+  "example": "Let's brainstorm a few ways to reduce customer wait times.",
+  "exampleEs": "Hagamos una lluvia de ideas sobre algunas formas de reducir los tiempos de espera de los clientes.",
+  "cloze": "Let's ____ a few ways to reduce customer wait times.",
+  "answer": "brainstorm",
+  "distractors": [
+   "hesitate",
+   "decorate",
+   "vanish"
+  ],
+  "collocations": [
+   "brainstorm ideas",
+   "a brainstorming session",
+   "brainstorm solutions"
+  ],
+  "note": "It is a regular verb: brainstormed, brainstorming. Do not say 'make a brainstorm'.",
+  "tags": [
+   "meetings",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-next-steps",
+  "headword": "next steps",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "siguientes pasos",
+  "definition": "the actions that will be taken after a meeting or decision",
+  "example": "Before we hang up, let's confirm the next steps.",
+  "exampleEs": "Antes de colgar, confirmemos los siguientes pasos.",
+  "cloze": "Before we hang up, let's confirm the ____.",
+  "answer": "next steps",
+  "distractors": [
+   "last floors",
+   "old stairs",
+   "far doors"
+  ],
+  "collocations": [
+   "agree on next steps",
+   "outline the next steps",
+   "what are the next steps?"
+  ],
+  "note": "Normally plural: 'the next steps'.",
+  "tags": [
+   "meetings",
+   "workplace"
+  ]
+ },
+ {
+  "id": "workplace-meetings-capacity",
+  "headword": "capacity",
+  "pos": "noun",
+  "cefr": "B2",
+  "es": "capacidad, margen de trabajo",
+  "definition": "the amount of work that a team or system can handle",
+  "example": "We are at full capacity, so we cannot accept new requests.",
+  "exampleEs": "Estamos a plena capacidad, así que no podemos aceptar solicitudes nuevas.",
+  "cloze": "We are at full ____, so we cannot accept new requests.",
+  "answer": "capacity",
+  "distractors": [
+   "curiosity",
+   "community",
+   "opportunity"
+  ],
+  "collocations": [
+   "at full capacity",
+   "have the capacity",
+   "capacity planning"
+  ],
+  "note": "Use 'at capacity' when nothing more fits. It is similar to bandwidth for people.",
+  "tags": [
+   "workplace"
+  ]
+ }
+]

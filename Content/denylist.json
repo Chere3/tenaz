@@ -1,0 +1,39 @@
+{
+  "bundles": [
+    { "id": "com.anthropic.claudefordesktop", "label": "Claude", "tier": "ai", "appName": "Claude" },
+    { "id": "com.openai.codex", "label": "ChatGPT", "tier": "ai", "appName": "ChatGPT" },
+    { "id": "com.google.GeminiMacOS", "label": "Gemini", "tier": "ai", "appName": "Gemini" },
+    { "id": "ai.perplexity.mac", "label": "Perplexity", "tier": "ai", "appName": "Perplexity" },
+    { "id": "com.apple.Translate", "label": "Apple Translate", "tier": "translator", "appName": "Translate" },
+    { "id": "com.deepl.macos.DeepLCopyTranslator", "label": "DeepL", "tier": "translator", "appName": "DeepL" }
+  ],
+  "domains": [
+    { "host": "chatgpt.com", "label": "ChatGPT", "tier": "ai" },
+    { "host": "chat.openai.com", "label": "ChatGPT", "tier": "ai" },
+    { "host": "claude.ai", "label": "Claude", "tier": "ai" },
+    { "host": "gemini.google.com", "label": "Gemini", "tier": "ai" },
+    { "host": "bard.google.com", "label": "Gemini", "tier": "ai" },
+    { "host": "copilot.microsoft.com", "label": "Copilot", "tier": "ai" },
+    { "host": "perplexity.ai", "label": "Perplexity", "tier": "ai" },
+    { "host": "poe.com", "label": "Poe", "tier": "ai" },
+    { "host": "grok.com", "label": "Grok", "tier": "ai" },
+    { "host": "x.com/i/grok", "label": "Grok", "tier": "ai" },
+    { "host": "you.com", "label": "You.com", "tier": "ai" },
+    { "host": "character.ai", "label": "Character.AI", "tier": "ai" },
+    { "host": "huggingface.co/chat", "label": "HuggingChat", "tier": "ai" },
+    { "host": "deepl.com", "label": "DeepL", "tier": "translator" },
+    { "host": "translate.google.com", "label": "Google Translate", "tier": "translator" },
+    { "host": "translate.google.com.mx", "label": "Google Translate", "tier": "translator" },
+    { "host": "bing.com/translator", "label": "Bing Translator", "tier": "translator" },
+    { "host": "reverso.net", "label": "Reverso", "tier": "dictionary" },
+    { "host": "linguee.com", "label": "Linguee", "tier": "dictionary" },
+    { "host": "wordreference.com", "label": "WordReference", "tier": "dictionary" }
+  ],
+  "androidPackages": [
+    { "id": "com.anthropic.claude", "label": "Claude", "tier": "ai" },
+    { "id": "com.openai.chatgpt", "label": "ChatGPT", "tier": "ai" },
+    { "id": "com.google.android.apps.bard", "label": "Gemini", "tier": "ai" },
+    { "id": "com.deepl.mobiletranslator", "label": "DeepL", "tier": "translator" },
+    { "id": "com.google.android.apps.translate", "label": "Google Translate", "tier": "translator" }
+  ]
+}

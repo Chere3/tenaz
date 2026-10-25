@@ -1,0 +1,658 @@
+[
+  {
+    "id": "build-sentence-01",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "Are you free tomorrow afternoon?",
+    "chunks": [
+      "o'clock.",
+      "I think",
+      "three",
+      "I'm free",
+      "after"
+    ],
+    "answer": "I think I'm free after three o'clock.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-02",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "I can't find the meeting link.",
+    "chunks": [
+      "the link",
+      "again,",
+      "send me",
+      "please?",
+      "Could you"
+    ],
+    "answer": "Could you send me the link again, please?",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-03",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "How long have you worked here?",
+    "chunks": [
+      "here",
+      "two years.",
+      "for",
+      "I've",
+      "worked",
+      "about"
+    ],
+    "answer": "I've worked here for about two years.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-04",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "Why was the build late?",
+    "chunks": [
+      "the tests",
+      "failed",
+      "and nobody noticed.",
+      "Because",
+      "last night"
+    ],
+    "answer": "Because the tests failed last night and nobody noticed.",
+    "accepted": [
+      "Because last night the tests failed and nobody noticed."
+    ]
+  },
+  {
+    "id": "build-sentence-05",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "What do you think about the new design?",
+    "chunks": [
+      "you to",
+      "change",
+      "I'd like",
+      "the color",
+      "of the button."
+    ],
+    "answer": "I'd like you to change the color of the button.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-06",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "Do you know where the meeting is?",
+    "chunks": [
+      "is",
+      "today.",
+      "the meeting",
+      "I'm not sure",
+      "where"
+    ],
+    "answer": "I'm not sure where the meeting is today.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-07",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "Did Sara send the report?",
+    "chunks": [
+      "to the client",
+      "sent it",
+      "this morning.",
+      "already",
+      "She has"
+    ],
+    "answer": "She has already sent it to the client this morning.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-08",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "Can you explain the problem?",
+    "chunks": [
+      "I upload",
+      "The app",
+      "a large file.",
+      "keeps",
+      "when",
+      "crashing"
+    ],
+    "answer": "The app keeps crashing when I upload a large file.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-09",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Could you tell me about the delay?",
+    "chunks": [
+      "why",
+      "I can tell you",
+      "was delayed",
+      "the release",
+      "until Friday."
+    ],
+    "answer": "I can tell you why the release was delayed until Friday.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-10",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "What should we do about the bug?",
+    "chunks": [
+      "it",
+      "the update.",
+      "before",
+      "fix",
+      "we ship",
+      "We should"
+    ],
+    "answer": "We should fix it before we ship the update.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-11",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Is the client happy?",
+    "chunks": [
+      "they",
+      "us to",
+      "would like",
+      "one more feature.",
+      "They said",
+      "add"
+    ],
+    "answer": "They said they would like us to add one more feature.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-12",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Have you been to the new office?",
+    "chunks": [
+      "Not yet,",
+      "I've been",
+      "but",
+      "since March.",
+      "from home",
+      "working"
+    ],
+    "answer": "Not yet, but I've been working from home since March.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-13",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Do you mind if I join the call late?",
+    "chunks": [
+      "Not at all,",
+      "just let us know",
+      "when",
+      "you're",
+      "ready."
+    ],
+    "answer": "Not at all, just let us know when you're ready.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-14",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I need help with the dashboard.",
+    "chunks": [
+      "the error",
+      "Do you know",
+      "is causing",
+      "on that page?",
+      "what"
+    ],
+    "answer": "Do you know what is causing the error on that page?",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-15",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Our client wants a demo next week.",
+    "chunks": [
+      "the prototype?",
+      "we'll have",
+      "to finish",
+      "enough time",
+      "Do you think"
+    ],
+    "answer": "Do you think we'll have enough time to finish the prototype?",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-16",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I'm worried about the deadline.",
+    "chunks": [
+      "ask",
+      "Let's",
+      "they can",
+      "help us.",
+      "if",
+      "the team"
+    ],
+    "answer": "Let's ask the team if they can help us.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-17",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Why did you leave your last job?",
+    "chunks": [
+      "on projects",
+      "to work",
+      "a real impact.",
+      "that have",
+      "I wanted"
+    ],
+    "answer": "I wanted to work on projects that have a real impact.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-18",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "What was the meeting about?",
+    "chunks": [
+      "how",
+      "We talked",
+      "our onboarding process.",
+      "to improve",
+      "about"
+    ],
+    "answer": "We talked about how to improve our onboarding process.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-19",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Who's responsible for the release?",
+    "chunks": [
+      "but I'll find out.",
+      "for it,",
+      "who",
+      "is responsible",
+      "I'm not sure"
+    ],
+    "answer": "I'm not sure who is responsible for it, but I'll find out.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-20",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Can I borrow your charger?",
+    "chunks": [
+      "but",
+      "please",
+      "Of course,",
+      "before you leave.",
+      "give it",
+      "back"
+    ],
+    "answer": "Of course, but please give it back before you leave.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-21",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Where did you learn English?",
+    "chunks": [
+      "most of it",
+      "I learned",
+      "and videos.",
+      "games",
+      "from"
+    ],
+    "answer": "I learned most of it from games and videos.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-22",
+    "type": "buildSentence",
+    "cefr": "C1",
+    "skill": "grammar",
+    "context": "Why did the launch fail?",
+    "chunks": [
+      "the traffic.",
+      "that",
+      "underestimated",
+      "we had",
+      "It turns out"
+    ],
+    "answer": "It turns out that we had underestimated the traffic.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-23",
+    "type": "buildSentence",
+    "cefr": "C1",
+    "skill": "grammar",
+    "context": "Should we hire another developer?",
+    "chunks": [
+      "I'd hold off",
+      "until",
+      "budget we have.",
+      "how much",
+      "we know"
+    ],
+    "answer": "I'd hold off until we know how much budget we have.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-24",
+    "type": "buildSentence",
+    "cefr": "C1",
+    "skill": "grammar",
+    "context": "The stakeholders disagree.",
+    "chunks": [
+      "to align",
+      "before",
+      "the kickoff.",
+      "on",
+      "priorities",
+      "We need"
+    ],
+    "answer": "We need to align on priorities before the kickoff.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-25",
+    "type": "buildSentence",
+    "cefr": "C1",
+    "skill": "grammar",
+    "context": "Do you have any concerns about the plan?",
+    "chunks": [
+      "whether",
+      "is",
+      "deliver on time.",
+      "My only concern",
+      "we can"
+    ],
+    "answer": "My only concern is whether we can deliver on time.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-26",
+    "type": "buildSentence",
+    "cefr": "C1",
+    "skill": "grammar",
+    "context": "It's hard to say if the model is reliable.",
+    "chunks": [
+      "That's why",
+      "run",
+      "more tests",
+      "before relying on it.",
+      "we should"
+    ],
+    "answer": "That's why we should run more tests before relying on it.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-27",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "What are you doing this weekend?",
+    "chunks": [
+      "Minecraft",
+      "play",
+      "my friends.",
+      "I'm going to",
+      "with"
+    ],
+    "answer": "I'm going to play Minecraft with my friends.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-28",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "What's your favorite genre?",
+    "chunks": [
+      "think.",
+      "science fiction",
+      "I really enjoy",
+      "because",
+      "it makes me"
+    ],
+    "answer": "I really enjoy science fiction because it makes me think.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-29",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Do you ever feel stressed at work?",
+    "chunks": [
+      "Sometimes,",
+      "especially",
+      "I have",
+      "when",
+      "back-to-back meetings."
+    ],
+    "answer": "Sometimes, especially when I have back-to-back meetings.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-30",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "How's your English going?",
+    "chunks": [
+      "make mistakes",
+      "with prepositions.",
+      "It's getting",
+      "better,",
+      "I still",
+      "but"
+    ],
+    "answer": "It's getting better, but I still make mistakes with prepositions.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-31",
+    "type": "buildSentence",
+    "cefr": "B1",
+    "skill": "grammar",
+    "context": "What time does the call start?",
+    "chunks": [
+      "Mexico City",
+      "ten",
+      "It starts",
+      "time.",
+      "at"
+    ],
+    "answer": "It starts at ten Mexico City time.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-32",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Can you review my pull request?",
+    "chunks": [
+      "this task.",
+      "at it",
+      "I finish",
+      "take a look",
+      "as soon as",
+      "I'll"
+    ],
+    "answer": "I'll take a look at it as soon as I finish this task.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-33",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I missed the meeting yesterday.",
+    "chunks": [
+      "and the recording.",
+      "send you",
+      "the notes",
+      "I'll",
+      "Don't worry,"
+    ],
+    "answer": "Don't worry, I'll send you the notes and the recording.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-34",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Would you like to present the results?",
+    "chunks": [
+      "but",
+      "finished",
+      "I'd be happy to,",
+      "I haven't",
+      "yet.",
+      "the slides"
+    ],
+    "answer": "I'd be happy to, but I haven't finished the slides yet.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-35",
+    "type": "buildSentence",
+    "cefr": "C1",
+    "skill": "grammar",
+    "context": "How did the customers react?",
+    "chunks": [
+      "Most of them",
+      "surprised",
+      "were",
+      "the new version is.",
+      "how fast",
+      "by"
+    ],
+    "answer": "Most of them were surprised by how fast the new version is.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-36",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "Do you want to ask something?",
+    "chunks": [
+      "the training",
+      "could you",
+      "tell me",
+      "will take?",
+      "Yes,",
+      "how long"
+    ],
+    "answer": "Yes, could you tell me how long the training will take?",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-37",
+    "type": "buildSentence",
+    "cefr": "B2",
+    "skill": "grammar",
+    "context": "I'm not sure this is a good idea.",
+    "chunks": [
+      "it won't",
+      "that",
+      "work?",
+      "think",
+      "What makes you"
+    ],
+    "answer": "What makes you think that it won't work?",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-38",
+    "type": "buildSentence",
+    "cefr": "C1",
+    "skill": "grammar",
+    "context": "We lost a key customer this month.",
+    "chunks": [
+      "they decided",
+      "their subscription?",
+      "Do we know",
+      "why",
+      "to cancel"
+    ],
+    "answer": "Do we know why they decided to cancel their subscription?",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-39",
+    "type": "buildSentence",
+    "cefr": "B1+",
+    "skill": "grammar",
+    "context": "Tell me about your day.",
+    "chunks": [
+      "debugging",
+      "the same issue",
+      "since",
+      "I've been",
+      "this morning."
+    ],
+    "answer": "I've been debugging the same issue since this morning.",
+    "accepted": []
+  },
+  {
+    "id": "build-sentence-40",
+    "type": "buildSentence",
+    "cefr": "C1",
+    "skill": "grammar",
+    "context": "What's your take on AI at work?",
+    "chunks": [
+      "how",
+      "we write code,",
+      "we write it.",
+      "I think",
+      "it will change",
+      "not why"
+    ],
+    "answer": "I think it will change how we write code, not why we write it.",
+    "accepted": []
+  }
+]

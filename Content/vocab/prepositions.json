@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "prepositions-based-on",
+    "headword": "based on",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "basado en",
+    "definition": "using something as the starting point or evidence",
+    "example": "Our forecast is based on last quarter's data.",
+    "exampleEs": "Nuestro pronóstico se basa en los datos del trimestre pasado.",
+    "cloze": "Our forecast is based ____ last quarter's data.",
+    "answer": "on",
+    "distractors": [
+      "at",
+      "with",
+      "by"
+    ],
+    "collocations": [
+      "based on data",
+      "based on feedback",
+      "based on a true story"
+    ],
+    "note": "You said 'based in this paragraph' before. Use 'on'. 'Based in' is only for a place: 'a company based in Austin'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-depend-on",
+    "headword": "depend on",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "depender de",
+    "definition": "to be decided or affected by something",
+    "example": "Whether we ship on Friday depends on the QA results.",
+    "exampleEs": "Que lancemos el viernes depende de los resultados de QA.",
+    "cloze": "Whether we ship on Friday depends ____ the QA results.",
+    "answer": "on",
+    "distractors": [
+      "of",
+      "in",
+      "from"
+    ],
+    "collocations": [
+      "depends on the weather",
+      "it depends on you",
+      "depend on someone"
+    ],
+    "note": "Spanish 'depender de' tempts you to say 'depend of'. In English it is always 'on'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-interested-in",
+    "headword": "interested in",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "interesado en",
+    "definition": "wanting to learn more about something",
+    "example": "I'm really interested in how language models handle long context.",
+    "exampleEs": "Me interesa mucho cómo los modelos de lenguaje manejan el contexto largo.",
+    "cloze": "I'm really interested ____ how language models handle long context.",
+    "answer": "in",
+    "distractors": [
+      "on",
+      "about",
+      "for"
+    ],
+    "collocations": [
+      "interested in learning",
+      "interested in a job",
+      "get interested in"
+    ],
+    "note": "'Interested about' is a common mistake. Use 'in'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-good-at",
+    "headword": "good at",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "bueno para / bueno en",
+    "definition": "skilled when doing something",
+    "example": "She is really good at debugging race conditions.",
+    "exampleEs": "Ella es muy buena depurando condiciones de carrera.",
+    "cloze": "She is really good ____ debugging race conditions.",
+    "answer": "at",
+    "distractors": [
+      "to",
+      "of",
+      "from"
+    ],
+    "collocations": [
+      "good at math",
+      "good at communicating",
+      "not very good at"
+    ],
+    "note": "Use 'good at' for skills. 'Good with' is for handling people or tools: 'good with kids'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-responsible-for",
+    "headword": "responsible for",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "responsable de",
+    "definition": "having the duty to take care of something",
+    "example": "Who is responsible for the deployment pipeline?",
+    "exampleEs": "¿Quién es responsable del pipeline de despliegue?",
+    "cloze": "Who is responsible ____ the deployment pipeline?",
+    "answer": "for",
+    "distractors": [
+      "of",
+      "in",
+      "at"
+    ],
+    "collocations": [
+      "responsible for the project",
+      "responsible for the delay",
+      "take responsibility for"
+    ],
+    "note": "Spanish 'responsable de' becomes 'responsible for', not 'of'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-in-charge-of",
+    "headword": "in charge of",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "a cargo de",
+    "definition": "being the person who controls or manages something",
+    "example": "Maria is in charge of the onboarding project.",
+    "exampleEs": "María está a cargo del proyecto de incorporación.",
+    "cloze": "Maria is in charge ____ the onboarding project.",
+    "answer": "of",
+    "distractors": [
+      "for",
+      "on",
+      "at"
+    ],
+    "collocations": [
+      "in charge of a team",
+      "put someone in charge of",
+      "who's in charge"
+    ],
+    "note": "Say 'in charge of', not 'in charge for'. Compare: 'responsible for'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-at-the-moment",
+    "headword": "at the moment",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "en este momento",
+    "definition": "right now",
+    "example": "I can't talk because I'm in a meeting at the moment.",
+    "exampleEs": "No puedo hablar porque estoy en una reunión en este momento.",
+    "cloze": "I can't talk because I'm in a meeting ____ the moment.",
+    "answer": "at",
+    "distractors": [
+      "in",
+      "on",
+      "by"
+    ],
+    "collocations": [
+      "at the moment",
+      "at this time",
+      "at the present time"
+    ],
+    "note": "You said 'in this time'. Use 'at the moment' or 'at this time' for right now.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-on-time",
+    "headword": "on time",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "a tiempo (puntual)",
+    "definition": "at exactly the planned time, not late",
+    "example": "The train left on time, so we arrived early.",
+    "exampleEs": "El tren salió a tiempo, así que llegamos temprano.",
+    "cloze": "The train left ____ time, so we arrived early.",
+    "answer": "on",
+    "distractors": [
+      "for",
+      "at",
+      "by"
+    ],
+    "collocations": [
+      "arrive on time",
+      "finish on time",
+      "right on time"
+    ],
+    "note": "'On time' means punctual. 'In time' means early enough to do something.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-in-time",
+    "headword": "in time",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "a tiempo (con tiempo suficiente)",
+    "definition": "early enough to do something before it is too late",
+    "example": "We finished the patch just in time for the release.",
+    "exampleEs": "Terminamos el parche justo a tiempo para el lanzamiento.",
+    "cloze": "We finished the patch just ____ time for the release.",
+    "answer": "in",
+    "distractors": [
+      "at",
+      "by",
+      "with"
+    ],
+    "collocations": [
+      "just in time",
+      "in time for dinner",
+      "in time to catch the bus"
+    ],
+    "note": "'In time for' + event: early enough for it. 'On time': exactly at the scheduled moment.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-arrive-at",
+    "headword": "arrive at",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "llegar a (un lugar específico)",
+    "definition": "to reach a specific place or event",
+    "example": "We arrived at the venue ten minutes early.",
+    "exampleEs": "Llegamos al lugar diez minutos antes.",
+    "cloze": "We arrived ____ the venue ten minutes early.",
+    "answer": "at",
+    "distractors": [
+      "for",
+      "to",
+      "on"
+    ],
+    "collocations": [
+      "arrive at the airport",
+      "arrive at a conclusion",
+      "arrive at the meeting"
+    ],
+    "note": "Never 'arrive to'. Use 'at' for a specific point (airport, hotel, office).",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-arrive-in",
+    "headword": "arrive in",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "llegar a (una ciudad o país)",
+    "definition": "to reach a city, country or large area",
+    "example": "Our flight arrives in Boston at noon.",
+    "exampleEs": "Nuestro vuelo llega a Boston al mediodía.",
+    "cloze": "Our flight arrives ____ Boston at noon.",
+    "answer": "in",
+    "distractors": [
+      "to",
+      "on",
+      "for"
+    ],
+    "collocations": [
+      "arrive in Mexico",
+      "arrive in London",
+      "arrive in town"
+    ],
+    "note": "Use 'in' for cities and countries, 'at' for specific places like an airport.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-talk-about",
+    "headword": "talk about",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "hablar de / sobre",
+    "definition": "to discuss a topic",
+    "example": "Let's talk about the roadmap before the call ends.",
+    "exampleEs": "Hablemos del roadmap antes de que termine la llamada.",
+    "cloze": "Let's talk ____ the roadmap before the call ends.",
+    "answer": "about",
+    "distractors": [
+      "to",
+      "at",
+      "for"
+    ],
+    "collocations": [
+      "talk about work",
+      "talk about the plan",
+      "talk about it later"
+    ],
+    "note": "The verb 'discuss' takes no preposition ('discuss the plan'), but 'talk' needs 'about'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-listen-to",
+    "headword": "listen to",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "escuchar",
+    "definition": "to pay attention to a sound or a person",
+    "example": "I listen to podcasts while I code.",
+    "exampleEs": "Escucho podcasts mientras programo.",
+    "cloze": "I listen ____ podcasts while I code.",
+    "answer": "to",
+    "distractors": [
+      "at",
+      "in",
+      "about"
+    ],
+    "collocations": [
+      "listen to music",
+      "listen to feedback",
+      "listen carefully to"
+    ],
+    "note": "Spanish 'escuchar' has no preposition, but English 'listen' always needs 'to'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-married-to",
+    "headword": "married to",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "casado con",
+    "definition": "having someone as your husband or wife",
+    "example": "My manager has been married to her college friend for ten years.",
+    "exampleEs": "Mi jefa lleva diez años casada con su amiga de la universidad.",
+    "cloze": "My manager has been married ____ her college friend for ten years.",
+    "answer": "to",
+    "distractors": [
+      "at",
+      "by",
+      "for"
+    ],
+    "collocations": [
+      "married to",
+      "get married to",
+      "happily married"
+    ],
+    "note": "Spanish says 'casado con', but English uses 'married to'. 'Married with' only appears with children: 'married with two kids'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-consist-of",
+    "headword": "consist of",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "consistir en / estar compuesto de",
+    "definition": "to be made up of certain parts",
+    "example": "The team consists of six engineers and two designers.",
+    "exampleEs": "El equipo está formado por seis ingenieros y dos diseñadores.",
+    "cloze": "The team consists ____ six engineers and two designers.",
+    "answer": "of",
+    "distractors": [
+      "from",
+      "by",
+      "with"
+    ],
+    "collocations": [
+      "consist of parts",
+      "consist mainly of",
+      "consists of three stages"
+    ],
+    "note": "Not used in the continuous form: say 'consists of', not 'is consisting of'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-in-terms-of",
+    "headword": "in terms of",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "en cuanto a, en términos de",
+    "definition": "used to say which aspect you are talking about",
+    "example": "In terms of cost, option B is much cheaper.",
+    "exampleEs": "En términos de costo, la opción B es mucho más barata.",
+    "cloze": "In terms ____ cost, option B is much cheaper.",
+    "answer": "of",
+    "distractors": [
+      "for",
+      "to",
+      "on"
+    ],
+    "collocations": [
+      "in terms of cost",
+      "in terms of quality",
+      "in terms of time"
+    ],
+    "note": "A useful linker for meetings. The whole phrase is fixed: 'in terms of'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-by-the-end-of",
+    "headword": "by the end of",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "para finales de",
+    "definition": "not later than the end of a period",
+    "example": "I'll send the report by the end of the week.",
+    "exampleEs": "Enviaré el informe a más tardar a fin de semana.",
+    "cloze": "I'll send the report by the end ____ the week.",
+    "answer": "of",
+    "distractors": [
+      "from",
+      "in",
+      "for"
+    ],
+    "collocations": [
+      "by the end of the day",
+      "by the end of the year",
+      "by the end of the meeting"
+    ],
+    "note": "'By' means 'not later than'. 'At the end of' means exactly at that point.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-look-forward-to",
+    "headword": "look forward to",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "esperar con ganas",
+    "definition": "to feel happy about something that will happen",
+    "example": "I look forward to working with your team.",
+    "exampleEs": "Espero con ganas trabajar con tu equipo.",
+    "cloze": "I look forward ____ working with your team.",
+    "answer": "to",
+    "distractors": [
+      "for",
+      "at",
+      "in"
+    ],
+    "collocations": [
+      "look forward to meeting",
+      "look forward to the weekend",
+      "looking forward to it"
+    ],
+    "note": "After 'to' here comes an -ing form: 'look forward to hearing from you', not 'to hear'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-worried-about",
+    "headword": "worried about",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "preocupado por",
+    "definition": "feeling anxious about a problem",
+    "example": "I'm worried about the deadline for the demo.",
+    "exampleEs": "Me preocupa la fecha límite de la demostración.",
+    "cloze": "I'm worried ____ the deadline for the demo.",
+    "answer": "about",
+    "distractors": [
+      "of",
+      "at",
+      "to"
+    ],
+    "collocations": [
+      "worried about the future",
+      "worried about money",
+      "nothing to worry about"
+    ],
+    "note": "Use 'worried about' for the cause of worry.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-afraid-of",
+    "headword": "afraid of",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "tener miedo de",
+    "definition": "feeling fear because of something",
+    "example": "Many people are afraid of losing their jobs to AI.",
+    "exampleEs": "Mucha gente tiene miedo de perder su trabajo por la IA.",
+    "cloze": "Many people are afraid ____ losing their jobs to AI.",
+    "answer": "of",
+    "distractors": [
+      "from",
+      "at",
+      "with"
+    ],
+    "collocations": [
+      "afraid of the dark",
+      "afraid of failing",
+      "afraid of heights"
+    ],
+    "note": "Spanish 'miedo de' maps directly to 'afraid of'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-different-from",
+    "headword": "different from",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "diferente de",
+    "definition": "not the same as something else",
+    "example": "Version 2 is very different from version 1.",
+    "exampleEs": "La versión 2 es muy diferente de la versión 1.",
+    "cloze": "Version 2 is very different ____ version 1.",
+    "answer": "from",
+    "distractors": [
+      "of",
+      "at",
+      "in"
+    ],
+    "collocations": [
+      "different from the original",
+      "very different from",
+      "different from what I expected"
+    ],
+    "note": "American English also accepts 'different than'. Avoid 'different of'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-similar-to",
+    "headword": "similar to",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "similar a",
+    "definition": "almost the same as something",
+    "example": "Our approach is similar to what the paper describes.",
+    "exampleEs": "Nuestro enfoque es similar al que describe el artículo.",
+    "cloze": "Our approach is similar ____ what the paper describes.",
+    "answer": "to",
+    "distractors": [
+      "with",
+      "from",
+      "as"
+    ],
+    "collocations": [
+      "similar to this one",
+      "very similar to",
+      "similar to what we saw"
+    ],
+    "note": "Not 'similar with'. Use 'similar to'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-look-at",
+    "headword": "look at",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "mirar",
+    "definition": "to direct your eyes or attention to something",
+    "example": "Can you look at this pull request when you have a minute?",
+    "exampleEs": "¿Puedes mirar este pull request cuando tengas un minuto?",
+    "cloze": "Can you look ____ this pull request when you have a minute?",
+    "answer": "at",
+    "distractors": [
+      "to",
+      "of",
+      "with"
+    ],
+    "collocations": [
+      "look at the screen",
+      "take a look at",
+      "look at the numbers"
+    ],
+    "note": "'Look at' is to direct your eyes; 'look for' is to search.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-look-for",
+    "headword": "look for",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "buscar",
+    "definition": "to try to find something",
+    "example": "I'm looking for a good Minecraft server to join.",
+    "exampleEs": "Estoy buscando un buen servidor de Minecraft al cual unirme.",
+    "cloze": "I'm looking ____ a good Minecraft server to join.",
+    "answer": "for",
+    "distractors": [
+      "of",
+      "with",
+      "from"
+    ],
+    "collocations": [
+      "look for a job",
+      "look for an answer",
+      "looking for work"
+    ],
+    "note": "Spanish 'buscar' has no preposition, but English 'look' needs 'for'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-wait-for",
+    "headword": "wait for",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "esperar",
+    "definition": "to stay until something happens or someone arrives",
+    "example": "We're waiting for approval from the legal team.",
+    "exampleEs": "Estamos esperando la aprobación del equipo legal.",
+    "cloze": "We're waiting ____ approval from the legal team.",
+    "answer": "for",
+    "distractors": [
+      "to",
+      "of",
+      "from"
+    ],
+    "collocations": [
+      "wait for a reply",
+      "wait for the results",
+      "wait for someone"
+    ],
+    "note": "'Wait for' takes the thing or person you expect. Don't say 'wait to' + noun.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-pay-for",
+    "headword": "pay for",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "pagar por",
+    "definition": "to give money in exchange for something",
+    "example": "Who's paying for the new server?",
+    "exampleEs": "¿Quién paga el servidor nuevo?",
+    "cloze": "Who's paying ____ the new server?",
+    "answer": "for",
+    "distractors": [
+      "of",
+      "at",
+      "on"
+    ],
+    "collocations": [
+      "pay for lunch",
+      "pay for a subscription",
+      "pay for it"
+    ],
+    "note": "You pay a person ('pay him') but pay for a thing ('pay for the licence').",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-spend-on",
+    "headword": "spend on",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "gastar en",
+    "definition": "to use money or time for something",
+    "example": "We spent two weeks on the migration.",
+    "exampleEs": "Dedicamos dos semanas a la migración.",
+    "cloze": "We spent two weeks ____ the migration.",
+    "answer": "on",
+    "distractors": [
+      "at",
+      "of",
+      "to"
+    ],
+    "collocations": [
+      "spend money on",
+      "spend time on",
+      "spend hours on"
+    ],
+    "note": "Also correct: 'spend two weeks migrating' with an -ing form and no preposition.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-agree-with",
+    "headword": "agree with",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "estar de acuerdo con",
+    "definition": "to have the same opinion as someone",
+    "example": "I agree with you on that point.",
+    "exampleEs": "Estoy de acuerdo contigo en ese punto.",
+    "cloze": "I agree ____ you on that point.",
+    "answer": "with",
+    "distractors": [
+      "to",
+      "of",
+      "in"
+    ],
+    "collocations": [
+      "agree with someone",
+      "strongly agree with",
+      "I couldn't agree more"
+    ],
+    "note": "Don't say 'I am agree'. It is 'I agree', with no 'am'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-agree-on",
+    "headword": "agree on",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "ponerse de acuerdo en",
+    "definition": "to decide something together",
+    "example": "The team agreed on a release date after a long discussion.",
+    "exampleEs": "El equipo acordó una fecha de lanzamiento tras una larga discusión.",
+    "cloze": "The team agreed ____ a release date after a long discussion.",
+    "answer": "on",
+    "distractors": [
+      "for",
+      "at",
+      "from"
+    ],
+    "collocations": [
+      "agree on a price",
+      "agree on a plan",
+      "agree on the details"
+    ],
+    "note": "'Agree with' is for a person or opinion; 'agree on' is for a decision.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-apply-for",
+    "headword": "apply for",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "solicitar (un puesto)",
+    "definition": "to formally ask for a job or position",
+    "example": "She applied for a position at a startup in Berlin.",
+    "exampleEs": "Ella solicitó un puesto en una startup en Berlín.",
+    "cloze": "She applied ____ a position at a startup in Berlin.",
+    "answer": "for",
+    "distractors": [
+      "of",
+      "at",
+      "in"
+    ],
+    "collocations": [
+      "apply for a job",
+      "apply for a visa",
+      "apply for funding"
+    ],
+    "note": "You apply FOR the job and TO the company.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-belong-to",
+    "headword": "belong to",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "pertenecer a",
+    "definition": "to be owned by or a member of something",
+    "example": "This server belongs to a community of Minecraft fans.",
+    "exampleEs": "Este servidor pertenece a una comunidad de fans de Minecraft.",
+    "cloze": "This server belongs ____ a community of Minecraft fans.",
+    "answer": "to",
+    "distractors": [
+      "at",
+      "for",
+      "of"
+    ],
+    "collocations": [
+      "belong to a group",
+      "belong to someone",
+      "belongs to me"
+    ],
+    "note": "'Belong' is never used in the continuous form.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-suffer-from",
+    "headword": "suffer from",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "sufrir de",
+    "definition": "to have an illness or a problem",
+    "example": "Many developers suffer from burnout.",
+    "exampleEs": "Muchos desarrolladores sufren de agotamiento.",
+    "cloze": "Many developers suffer ____ burnout.",
+    "answer": "from",
+    "distractors": [
+      "of",
+      "at",
+      "by"
+    ],
+    "collocations": [
+      "suffer from stress",
+      "suffer from headaches",
+      "suffer from a lack of"
+    ],
+    "note": "Spanish 'sufrir de' becomes 'suffer from'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-focus-on",
+    "headword": "focus on",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "enfocarse en",
+    "definition": "to give your attention to one thing",
+    "example": "Let's focus on the user's problem first.",
+    "exampleEs": "Enfoquémonos primero en el problema del usuario.",
+    "cloze": "Let's focus ____ the user's problem first.",
+    "answer": "on",
+    "distractors": [
+      "in",
+      "to",
+      "with"
+    ],
+    "collocations": [
+      "focus on the goal",
+      "focus on one task",
+      "focus on quality"
+    ],
+    "note": "Useful for ADHD-friendly goals: 'focus on one thing at a time'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-rely-on",
+    "headword": "rely on",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "depender de, confiar en",
+    "definition": "to need or trust someone or something",
+    "example": "We rely on automated tests to catch regressions.",
+    "exampleEs": "Dependemos de pruebas automatizadas para detectar regresiones.",
+    "cloze": "We rely ____ automated tests to catch regressions.",
+    "answer": "on",
+    "distractors": [
+      "of",
+      "at",
+      "from"
+    ],
+    "collocations": [
+      "rely on someone",
+      "rely heavily on",
+      "can't rely on"
+    ],
+    "note": "Similar to 'depend on'; both always take 'on'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-insist-on",
+    "headword": "insist on",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "insistir en",
+    "definition": "to demand something firmly",
+    "example": "He insisted on reviewing every change himself.",
+    "exampleEs": "Insistió en revisar cada cambio él mismo.",
+    "cloze": "He insisted ____ reviewing every change himself.",
+    "answer": "on",
+    "distractors": [
+      "to",
+      "for",
+      "in"
+    ],
+    "collocations": [
+      "insist on doing",
+      "insist on a refund",
+      "insist on quality"
+    ],
+    "note": "Spanish 'insistir en' maps directly to 'insist on'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-succeed-in",
+    "headword": "succeed in",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "lograr, tener éxito en",
+    "definition": "to achieve what you were trying to do",
+    "example": "We succeeded in reducing the latency by half.",
+    "exampleEs": "Logramos reducir la latencia a la mitad.",
+    "cloze": "We succeeded ____ reducing the latency by half.",
+    "answer": "in",
+    "distractors": [
+      "on",
+      "to",
+      "with"
+    ],
+    "collocations": [
+      "succeed in doing",
+      "succeed in business",
+      "succeed in persuading"
+    ],
+    "note": "Followed by an -ing form: 'succeeded in finishing', not 'succeeded to finish'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-proud-of",
+    "headword": "proud of",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "orgulloso de",
+    "definition": "feeling pleased about an achievement",
+    "example": "I'm proud of what the team shipped this month.",
+    "exampleEs": "Estoy orgulloso de lo que el equipo entregó este mes.",
+    "cloze": "I'm proud ____ what the team shipped this month.",
+    "answer": "of",
+    "distractors": [
+      "for",
+      "at",
+      "with"
+    ],
+    "collocations": [
+      "proud of yourself",
+      "proud of the team",
+      "so proud of"
+    ],
+    "note": "Spanish 'orgulloso de' maps directly to 'proud of'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-excited-about",
+    "headword": "excited about",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "emocionado por",
+    "definition": "happy and eager about something",
+    "example": "I'm excited about the new feature we're building.",
+    "exampleEs": "Estoy emocionado por la nueva función que estamos construyendo.",
+    "cloze": "I'm excited ____ the new feature we're building.",
+    "answer": "about",
+    "distractors": [
+      "of",
+      "in",
+      "at"
+    ],
+    "collocations": [
+      "excited about the launch",
+      "excited about working",
+      "get excited about"
+    ],
+    "note": "'Excited about' is the safe choice for work conversations.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-tired-of",
+    "headword": "tired of",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "harto de / cansado de",
+    "definition": "bored or annoyed by something that repeats",
+    "example": "I'm tired of fixing the same bug every week.",
+    "exampleEs": "Estoy harto de arreglar el mismo bug cada semana.",
+    "cloze": "I'm tired ____ fixing the same bug every week.",
+    "answer": "of",
+    "distractors": [
+      "at",
+      "in",
+      "with"
+    ],
+    "collocations": [
+      "tired of waiting",
+      "tired of hearing",
+      "sick and tired of"
+    ],
+    "note": "'Tired of' = annoyed by. 'Tired from' = physically tired because of an activity.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-on-purpose",
+    "headword": "on purpose",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "a propósito",
+    "definition": "deliberately, not by accident",
+    "example": "He didn't break it on purpose; it was an accident.",
+    "exampleEs": "No lo rompió a propósito; fue un accidente.",
+    "cloze": "He didn't break it ____ purpose; it was an accident.",
+    "answer": "on",
+    "distractors": [
+      "in",
+      "at",
+      "for"
+    ],
+    "collocations": [
+      "do it on purpose",
+      "on purpose",
+      "not on purpose"
+    ],
+    "note": "The opposite is 'by accident' or 'by mistake'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-by-mistake",
+    "headword": "by mistake",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "por error",
+    "definition": "without meaning to, because of an error",
+    "example": "I deleted the file by mistake and had to restore it.",
+    "exampleEs": "Borré el archivo por error y tuve que restaurarlo.",
+    "cloze": "I deleted the file ____ mistake and had to restore it.",
+    "answer": "by",
+    "distractors": [
+      "in",
+      "on",
+      "with"
+    ],
+    "collocations": [
+      "sent by mistake",
+      "opened by mistake",
+      "by accident"
+    ],
+    "note": "Equivalent: 'by accident'. Don't say 'in mistake'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-in-a-hurry",
+    "headword": "in a hurry",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "con prisa",
+    "definition": "needing to do something quickly",
+    "example": "Sorry, I can't chat now because I'm in a hurry.",
+    "exampleEs": "Perdón, no puedo platicar ahora porque tengo prisa.",
+    "cloze": "Sorry, I can't chat now because I'm ____ a hurry.",
+    "answer": "in",
+    "distractors": [
+      "on",
+      "at",
+      "with"
+    ],
+    "collocations": [
+      "be in a hurry",
+      "in a hurry to",
+      "no hurry"
+    ],
+    "note": "Spanish says 'tener prisa', but English uses the structure 'be in a hurry'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-in-advance",
+    "headword": "in advance",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "con anticipación",
+    "definition": "before something happens",
+    "example": "Please send the agenda in advance so we can prepare.",
+    "exampleEs": "Por favor envía la agenda con anticipación para que podamos prepararnos.",
+    "cloze": "Please send the agenda ____ advance so we can prepare.",
+    "answer": "in",
+    "distractors": [
+      "on",
+      "at",
+      "by"
+    ],
+    "collocations": [
+      "book in advance",
+      "thank you in advance",
+      "in advance of"
+    ],
+    "note": "Not 'with anticipation'. Say 'in advance'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-on-the-phone",
+    "headword": "on the phone",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "al teléfono",
+    "definition": "using a phone call to talk",
+    "example": "He's on the phone with the vendor right now.",
+    "exampleEs": "Está al teléfono con el proveedor ahora mismo.",
+    "cloze": "He's ____ the phone with the vendor right now.",
+    "answer": "on",
+    "distractors": [
+      "in",
+      "to",
+      "with"
+    ],
+    "collocations": [
+      "on the phone",
+      "on a call",
+      "talk on the phone"
+    ],
+    "note": "Also 'on a call', 'on a video call', 'on Zoom'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-at-least",
+    "headword": "at least",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "al menos",
+    "definition": "not less than",
+    "example": "We need at least three reviewers for this pull request.",
+    "exampleEs": "Necesitamos al menos tres revisores para este pull request.",
+    "cloze": "We need ____ least three reviewers for this pull request.",
+    "answer": "at",
+    "distractors": [
+      "in",
+      "on",
+      "by"
+    ],
+    "collocations": [
+      "at least once",
+      "at least a week",
+      "at least five people"
+    ],
+    "note": "'At least' is also a discourse marker: 'At least it works'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-in-my-opinion",
+    "headword": "in my opinion",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "en mi opinión",
+    "definition": "used to say what you personally think",
+    "example": "In my opinion, the old design was cleaner.",
+    "exampleEs": "En mi opinión, el diseño anterior era más limpio.",
+    "cloze": "____ my opinion, the old design was cleaner.",
+    "answer": "In",
+    "distractors": [
+      "At",
+      "On",
+      "By"
+    ],
+    "collocations": [
+      "in my opinion",
+      "in my view",
+      "in my experience"
+    ],
+    "note": "Not 'for my opinion' or 'on my opinion'. Use 'in my opinion' or 'in my view'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-on-the-other-hand",
+    "headword": "on the other hand",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "por otro lado",
+    "definition": "used to introduce a contrasting point",
+    "example": "The cloud option is faster. On the other hand, it costs more.",
+    "exampleEs": "La opción en la nube es más rápida. Por otro lado, cuesta más.",
+    "cloze": "The cloud option is faster. ____ the other hand, it costs more.",
+    "answer": "On",
+    "distractors": [
+      "In",
+      "At",
+      "By"
+    ],
+    "collocations": [
+      "on the one hand",
+      "on the other hand",
+      "on the whole"
+    ],
+    "note": "Often paired with 'on the one hand' at the start.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-at-first",
+    "headword": "at first",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "al principio",
+    "definition": "in the beginning, before things changed",
+    "example": "At first I didn't understand the question.",
+    "exampleEs": "Al principio no entendí la pregunta.",
+    "cloze": "____ first I didn't understand the question.",
+    "answer": "At",
+    "distractors": [
+      "In",
+      "On",
+      "By"
+    ],
+    "collocations": [
+      "at first",
+      "at first glance",
+      "at first sight"
+    ],
+    "note": "'At first' implies that things changed later. Don't confuse with 'first' as in 'first of all'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-in-the-end",
+    "headword": "in the end",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "al final (finalmente)",
+    "definition": "after a long process, finally",
+    "example": "We tried three tools, and in the end we built our own.",
+    "exampleEs": "Probamos tres herramientas y al final construimos la nuestra.",
+    "cloze": "We tried three tools, and ____ the end we built our own.",
+    "answer": "in",
+    "distractors": [
+      "on",
+      "for",
+      "to"
+    ],
+    "collocations": [
+      "in the end",
+      "in the end it worked",
+      "and in the end"
+    ],
+    "note": "'In the end' = finally. 'At the end of' needs an 'of' phrase.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-at-the-end-of",
+    "headword": "at the end of",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "al final de",
+    "definition": "at the last part or point of something",
+    "example": "The bug appeared at the end of the sprint.",
+    "exampleEs": "El bug apareció al final del sprint.",
+    "cloze": "The bug appeared ____ the end of the sprint.",
+    "answer": "at",
+    "distractors": [
+      "in",
+      "from",
+      "for"
+    ],
+    "collocations": [
+      "at the end of the day",
+      "at the end of the call",
+      "at the end of the month"
+    ],
+    "note": "'At the end of' is a point in time. 'By the end of' means 'not later than'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-at-night",
+    "headword": "at night",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "de noche",
+    "definition": "during the night",
+    "example": "I do my best coding at night when it's quiet.",
+    "exampleEs": "Programo mejor de noche, cuando hay silencio.",
+    "cloze": "I do my best coding ____ night when it's quiet.",
+    "answer": "at",
+    "distractors": [
+      "in",
+      "on",
+      "to"
+    ],
+    "collocations": [
+      "at night",
+      "at noon",
+      "at the weekend"
+    ],
+    "note": "We say 'in the morning/afternoon/evening' but 'at night'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-get-along-with",
+    "headword": "get along with",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "llevarse bien con",
+    "definition": "to have a friendly relationship with someone",
+    "example": "I get along really well with my teammates.",
+    "exampleEs": "Me llevo muy bien con mis compañeros.",
+    "cloze": "I get along really well ____ my teammates.",
+    "answer": "with",
+    "distractors": [
+      "to",
+      "for",
+      "at"
+    ],
+    "collocations": [
+      "get along with",
+      "get along well",
+      "get on with"
+    ],
+    "note": "British English often uses 'get on with'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-take-part-in",
+    "headword": "take part in",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "participar en",
+    "definition": "to be involved in an activity",
+    "example": "Everyone can take part in the discussion.",
+    "exampleEs": "Todos pueden participar en la discusión.",
+    "cloze": "Everyone can take part ____ the discussion.",
+    "answer": "in",
+    "distractors": [
+      "on",
+      "at",
+      "to"
+    ],
+    "collocations": [
+      "take part in a project",
+      "take part in a meeting",
+      "take part in an event"
+    ],
+    "note": "'Participate in' means the same and also takes 'in'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-accuse-of",
+    "headword": "accuse of",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "acusar de",
+    "definition": "to say someone did something wrong",
+    "example": "They accused him of cheating in the tournament.",
+    "exampleEs": "Lo acusaron de hacer trampa en el torneo.",
+    "cloze": "They accused him ____ cheating in the tournament.",
+    "answer": "of",
+    "distractors": [
+      "for",
+      "with",
+      "about"
+    ],
+    "collocations": [
+      "accuse someone of",
+      "accused of fraud",
+      "accused of lying"
+    ],
+    "note": "Spanish 'acusar de' maps directly to 'accuse of'. Followed by an -ing form.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-thanks-for",
+    "headword": "thanks for",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "gracias por",
+    "definition": "used to thank someone for something",
+    "example": "Thanks for joining the call on short notice.",
+    "exampleEs": "Gracias por unirte a la llamada con tan poca anticipación.",
+    "cloze": "Thanks ____ joining the call on short notice.",
+    "answer": "for",
+    "distractors": [
+      "to",
+      "of",
+      "at"
+    ],
+    "collocations": [
+      "thanks for your help",
+      "thank you for coming",
+      "thanks for sharing"
+    ],
+    "note": "After 'for' use a noun or an -ing form: 'thanks for helping'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-explain-to",
+    "headword": "explain to",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "explicar a",
+    "definition": "to make something clear to someone",
+    "example": "Can you explain this to me in simpler words?",
+    "exampleEs": "¿Me lo puedes explicar con palabras más simples?",
+    "cloze": "Can you explain this ____ me in simpler words?",
+    "answer": "to",
+    "distractors": [
+      "at",
+      "of",
+      "with"
+    ],
+    "collocations": [
+      "explain to someone",
+      "explain it to me",
+      "explain something to"
+    ],
+    "note": "Don't say 'explain me'. The person comes after 'to': 'explain it to me'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-reply-to",
+    "headword": "reply to",
+    "pos": "phrase",
+    "cefr": "B1",
+    "es": "responder a",
+    "definition": "to answer a message",
+    "example": "I need to reply to his email before lunch.",
+    "exampleEs": "Necesito responder su correo antes de almorzar.",
+    "cloze": "I need to reply ____ his email before lunch.",
+    "answer": "to",
+    "distractors": [
+      "at",
+      "for",
+      "of"
+    ],
+    "collocations": [
+      "reply to an email",
+      "reply to a message",
+      "reply to a question"
+    ],
+    "note": "As a noun: 'a reply to your message'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-result-in",
+    "headword": "result in",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "tener como resultado",
+    "definition": "to cause a particular outcome",
+    "example": "That change could result in a few minutes of downtime.",
+    "exampleEs": "Ese cambio podría provocar unos minutos de inactividad.",
+    "cloze": "That change could result ____ a few minutes of downtime.",
+    "answer": "in",
+    "distractors": [
+      "to",
+      "with",
+      "at"
+    ],
+    "collocations": [
+      "result in failure",
+      "result in delays",
+      "results in a loss of"
+    ],
+    "note": "'Result from' is the reverse: the cause. 'Delays result from bugs'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-prevent-from",
+    "headword": "prevent from",
+    "pos": "phrase",
+    "cefr": "B2",
+    "es": "impedir que",
+    "definition": "to stop something from happening",
+    "example": "The rules prevent bots from spamming the channel.",
+    "exampleEs": "Las reglas impiden que los bots hagan spam en el canal.",
+    "cloze": "The rules prevent bots ____ spamming the channel.",
+    "answer": "from",
+    "distractors": [
+      "to",
+      "of",
+      "at"
+    ],
+    "collocations": [
+      "prevent from happening",
+      "prevent someone from",
+      "nothing prevents you from"
+    ],
+    "note": "Pattern: prevent + person + from + -ing.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "prepositions-laugh-at",
+    "headword": "laugh at",
+    "pos": "phrase",
+    "cefr": "B1+",
+    "es": "reírse de",
+    "definition": "to laugh in order to make fun of someone",
+    "example": "Don't laugh at my pronunciation, please.",
+    "exampleEs": "No te rías de mi pronunciación, por favor.",
+    "cloze": "Don't laugh ____ my pronunciation, please.",
+    "answer": "at",
+    "distractors": [
+      "of",
+      "on",
+      "for"
+    ],
+    "collocations": [
+      "laugh at a joke",
+      "laugh at someone",
+      "laugh at yourself"
+    ],
+    "note": "Spanish 'reírse de' becomes 'laugh at'.",
+    "tags": [
+      "preposition"
+    ]
+  }
+]

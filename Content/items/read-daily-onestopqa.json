@@ -1,0 +1,3558 @@
+[
+  {
+    "id": "rd-onestopqa-101-year-old-bottle-message-adv-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "101-Year-Old Bottle Message",
+    "text": "The brown beer bottle, which had been in the water for 101 years, was found in the catch of Konrad Fischer, a fisherman, who had been out in the Baltic Sea off the northern city of Kiel. Holger von Neuhoff, curator for ocean and science at the museum, said this bottled message was the oldest he had come across. \"There are documents that have been found without the bottle that are older and are in the museum,\" he said. \"But, with the bottle and the document, this is certainly the oldest at the moment. It is in extremely good condition.\"",
+    "questions": [
+      {
+        "q": "How was the bottle discovered?",
+        "options": [
+          "Holger von Neuhoff discovered it",
+          "It washed up on the shore of Kiel",
+          "A boy discovered it while playing in the sea",
+          "A fisherman discovered it"
+        ],
+        "answer": 3,
+        "explanation": "The text says the bottle was found in the catch of Konrad Fischer, a fisherman out in the Baltic Sea."
+      },
+      {
+        "q": "What does Holger von Neuhoff say about the bottled message?",
+        "options": [
+          "It is the oldest message found along with the bottle he has ever encountered",
+          "It is a beer bottle that was in the water for 101 years",
+          "It is the most recent addition to the museum's collection",
+          "It is the oldest message in the museum"
+        ],
+        "answer": 0,
+        "explanation": "Von Neuhoff said that with both the bottle and the document, this is certainly the oldest he had come across."
+      },
+      {
+        "q": "Does the museum have older messages than the one recently discovered?",
+        "options": [
+          "Yes, but not from the Baltic Sea",
+          "Yes, but without the bottle",
+          "No, it is the oldest message",
+          "No, it displays mostly personal relics"
+        ],
+        "answer": 1,
+        "explanation": "Von Neuhoff said older documents have been found without the bottle and are in the museum."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "101-year-old-bottle-message-adv-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:101-year-old-bottle-message:p2",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-101-year-old-bottle-message-adv-p3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "101-Year-Old Bottle Message",
+    "text": "Researchers believe Erdmann's grandfather, Richard Platz, threw the bottle in the sea while on a hike with a nature appreciation group in 1913. He was 20 years old at the time. Much of the postcard was indecipherable, although the address in Berlin on the front of the card was legible, as was the author's polite request that the note be sent by the finder to his home address. \"He also included two stamps from that time that were also in the bottle, so the finder would not incur a cost,\" Erdmann said. \"But he did not think it would take 101 years.\" She said she was moved by the arrival of the message, although she had not known her grandfather because he died, at the age of 54, six years before she was born.",
+    "questions": [
+      {
+        "q": "According to researchers, when did Richard Platz throw the bottle into the sea?",
+        "options": [
+          "At the age of 20",
+          "At the age of 54",
+          "Before 1913",
+          "Before 1901"
+        ],
+        "answer": 0,
+        "explanation": "The text says Platz threw the bottle in 1913 when he was 20 years old."
+      },
+      {
+        "q": "What did Richard Platz request from the person who finds the bottle?",
+        "options": [
+          "To rescue him from the island he was stranded on",
+          "To buy two stamps and sent the letter to Platz",
+          "To use the stamps in the bottle to send the letter to Platz",
+          "To give the bottle to Angela after his death"
+        ],
+        "answer": 2,
+        "explanation": "The text says he asked the finder to send the note to his home address and included two stamps so the finder would not pay."
+      },
+      {
+        "q": "Where did Richard Platz want the postcard to end up?",
+        "options": [
+          "At a museum",
+          "In the hands of whomever found it",
+          "His home",
+          "Floating in the sea"
+        ],
+        "answer": 2,
+        "explanation": "The text says the author politely requested that the note be sent by the finder to his home address."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "101-year-old-bottle-message-adv-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:101-year-old-bottle-message:p3",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-101-year-old-bottle-message-adv-p5",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "101-Year-Old Bottle Message",
+    "text": "The message and the bottle will be on display at Hamburg's Maritime Museum until the beginning of May 2014, after which experts will attempt to decipher the rest of the text. It is not clear what will then happen to the bottle, but Erdmann hopes it will stay at the museum. \"We want to make a few photos available to put with the bottle and give it a face, so visitors can see the young man who threw the bottle into the water,\" she said.",
+    "questions": [
+      {
+        "q": "What will happen to the bottle after the experts finish examining the text?",
+        "options": [
+          "Its fate is not known",
+          "It will stay at the Maritime Museum",
+          "It will be given to Erdmann",
+          "Photos of it will be put on display"
+        ],
+        "answer": 0,
+        "explanation": "The text says it is not clear what will happen to the bottle after the experts try to decipher the text."
+      },
+      {
+        "q": "What does Erdmann want to add to the bottle exhibit?",
+        "options": [
+          "A deciphered copy of the text",
+          "Pictures of the bottled message's author",
+          "A photo that depicts a young man throwing a bottle into the sea",
+          "Excerpts from a book written by her grandfather"
+        ],
+        "answer": 1,
+        "explanation": "Erdmann wants to add a few photos to give the bottle a face, so visitors can see the young man who threw it."
+      },
+      {
+        "q": "What does Erdmann want to happen to the bottle after the exhibit?",
+        "options": [
+          "She does not make it clear what she wants to happen to the bottle",
+          "She wants museum visitors to be able to take photos with it",
+          "She wants to move it to her apartment and keep it for herself",
+          "She wants it to remain at the Hamburg Maritime Museum"
+        ],
+        "answer": 3,
+        "explanation": "The text says Erdmann hopes the bottle will stay at the museum, which is Hamburg's Maritime Museum."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "101-year-old-bottle-message-adv-p5",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:101-year-old-bottle-message:p5",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-101-year-old-bottle-message-int-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "101-Year-Old Bottle Message",
+    "text": "The brown beer bottle, which had been in the water for 101 years, was found by a fisherman, who had been out in the Baltic Sea off the northern city of Kiel. Holger von Neuhoff, a curator at the museum, said this bottled message was the oldest he had come across. \"There are documents that have been found without the bottle that are older and are in the museum,\" he said. \"But, with the bottle and the document, this is certainly the oldest at the moment. It is in extremely good condition.\"",
+    "questions": [
+      {
+        "q": "How was the bottle discovered?",
+        "options": [
+          "It washed up on the shore of Kiel",
+          "Holger von Neuhoff discovered it",
+          "A boy discovered it while playing in the sea",
+          "A fisherman discovered it"
+        ],
+        "answer": 3,
+        "explanation": "The text says the bottle was found by a fisherman who had been out in the Baltic Sea."
+      },
+      {
+        "q": "What does Holger von Neuhoff say about the bottled message?",
+        "options": [
+          "It is the most recent addition to the museum's collection",
+          "It is the oldest message found along with the bottle he has ever encountered",
+          "It is a beer bottle that was in the water for 101 years",
+          "It is the oldest message in the museum"
+        ],
+        "answer": 1,
+        "explanation": "Von Neuhoff said that with both the bottle and the document, this is certainly the oldest he had come across."
+      },
+      {
+        "q": "Does the museum have older messages than the one recently discovered?",
+        "options": [
+          "Yes, but not from the Baltic Sea",
+          "No, it displays mostly personal relics",
+          "Yes, but without the bottle",
+          "No, it is the oldest message"
+        ],
+        "answer": 2,
+        "explanation": "Von Neuhoff said older documents have been found without the bottle and are in the museum."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "101-year-old-bottle-message-int-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:101-year-old-bottle-message:p2",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-101-year-old-bottle-message-int-p3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "101-Year-Old Bottle Message",
+    "text": "Researchers believe Erdmann's grandfather, Richard Platz, threw the bottle in the sea while on a hike in 1913. He was 20 years old at the time. A lot of the message on the postcard was impossible to read, although the address in Berlin on the front of the card was legible. Also legible was the author's polite request that the person finding it should send it to his home address. \"He also included two stamps from that time that were in the bottle, so the finder would not have to pay for postage,\" Erdmann said. \"But he did not think it would take 101 years.\" She said she was moved by the arrival of the message, although she had not known her grandfather because he died, at the age of 54, six years before she was born.",
+    "questions": [
+      {
+        "q": "According to researchers, when did Richard Platz throw the bottle into the sea?",
+        "options": [
+          "At the age of 20",
+          "At the age of 54",
+          "Before 1913",
+          "Before 1901"
+        ],
+        "answer": 0,
+        "explanation": "The text says Platz threw the bottle in 1913 when he was 20 years old."
+      },
+      {
+        "q": "What did Richard Platz request from the person who finds the bottle?",
+        "options": [
+          "To buy two stamps and sent the letter to Platz",
+          "To give the bottle to Angela after his death",
+          "To rescue him from the island he was stranded on",
+          "To use the stamps in the bottle to send the letter to Platz"
+        ],
+        "answer": 3,
+        "explanation": "The text says he asked the finder to send the note to his home address and included two stamps so the finder would not pay postage."
+      },
+      {
+        "q": "Where did Richard Platz want the postcard to end up?",
+        "options": [
+          "In the hands of whomever found it",
+          "Floating in the sea",
+          "His home",
+          "At a museum"
+        ],
+        "answer": 2,
+        "explanation": "The text says the author politely requested that the finder send the note to his home address."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "101-year-old-bottle-message-int-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:101-year-old-bottle-message:p3",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-101-year-old-bottle-message-int-p5",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "101-Year-Old Bottle Message",
+    "text": "The message and the bottle will be on display at Hamburg's Maritime Museum until the beginning of May 2014, after which experts will attempt to decipher the rest of the text. It is not clear what will then happen to the bottle, but Erdmann hopes it will stay at the museum. \"We want to make a few photos available to put with the bottle and give it a face, so visitors can see the young man who threw the bottle into the water,\" she said.",
+    "questions": [
+      {
+        "q": "What will happen to the bottle after the experts finish examining the text?",
+        "options": [
+          "Its fate is not known",
+          "It will stay at the Maritime Museum",
+          "Photos of it will be put on display",
+          "It will be given to Erdmann"
+        ],
+        "answer": 0,
+        "explanation": "The text says it is not clear what will happen to the bottle after the experts try to decipher the text."
+      },
+      {
+        "q": "What does Erdmann want to add to the bottle exhibit?",
+        "options": [
+          "A deciphered copy of the text",
+          "A photo that depicts a young man throwing a bottle into the sea",
+          "Pictures of the bottled message's author",
+          "Excerpts from a book written by her grandfather"
+        ],
+        "answer": 2,
+        "explanation": "Erdmann wants to add a few photos to give the bottle a face, so visitors can see the young man who threw it."
+      },
+      {
+        "q": "What does Erdmann want to happen to the bottle after the exhibit?",
+        "options": [
+          "She wants to move it to her apartment and keep it for herself",
+          "She wants it to remain at the Hamburg Maritime Museum",
+          "She wants museum visitors to be able to take photos with it",
+          "She does not make it clear what she wants to happen to the bottle"
+        ],
+        "answer": 1,
+        "explanation": "The text says Erdmann hopes the bottle will stay at the museum, which is Hamburg's Maritime Museum."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "101-year-old-bottle-message-int-p5",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:101-year-old-bottle-message:p5",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-a-new-form-of-lie-detector-test-adv-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "A New Form of Lie Detector Test",
+    "text": "Police and intelligence agencies around the world have, for almost 100 years, relied on polygraphs as lie detectors to help convict criminals or unearth spies and traitors. The polygraph is beloved of the movies, with countless dramatic moments showing the guilty sweating profusely as they are hooked up. But the invention could soon be defunct. Researchers in Britain and the Netherlands have made a breakthrough, developing a method with a success rate in tests of over 70% that could be in use in police stations around the world within a decade. Rather than relying on facial tics, talking too much or waving of arms - all seen as tell-tale signs of lying - the new method involves monitoring full-body motions to provide an indicator of signs of guilty feelings.",
+    "questions": [
+      {
+        "q": "When is the new lie detection method expected to work with over 70% accuracy?",
+        "options": [
+          "Once it is modified to monitor movements of the entire body",
+          "Within ten years",
+          "It is currently not known",
+          "It has already achieved this accuracy level in tests"
+        ],
+        "answer": 3,
+        "explanation": "The text says the new method already has a success rate of over 70% in tests, while police use could come within a decade."
+      },
+      {
+        "q": "What does the new method of lie detection monitor that the polygraph does not?",
+        "options": [
+          "Body responses to statements about events within a period of ten years",
+          "Body temperature",
+          "Talking too much and arm waving",
+          "Motions in the entire body"
+        ],
+        "answer": 3,
+        "explanation": "The text says the new method monitors full-body motions rather than relying on facial tics, talking too much or waving of arms."
+      },
+      {
+        "q": "When are police stations expected to start using the new lie detection method?",
+        "options": [
+          "Once it is able to track the movements of the entire body",
+          "Once it reaches an accuracy of at least 70%",
+          "Within 10 years",
+          "It is already in use in many police stations"
+        ],
+        "answer": 2,
+        "explanation": "The text says the method could be in use in police stations around the world within a decade."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "a-new-form-of-lie-detector-test-adv-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:a-new-form-of-lie-detector-test:p0",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-a-new-form-of-lie-detector-test-int-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "A New Form of Lie Detector Test",
+    "text": "Police and intelligence agencies around the world have, for almost 100 years, used polygraphs as lie detectors to help convict criminals or find spies and traitors. But the polygraph could soon be defunct. Researchers in Britain and the Netherlands have developed a new method that has a success rate, in tests, of over 70%. This new method could be in use in police stations around the world within a decade. It doesn't monitor facial tics, talking too much or waving of arms, which are all signs that someone is lying. The new method monitors full-body motion, which can show that the person is feeling guilty.",
+    "questions": [
+      {
+        "q": "When is the new lie detection method expected to work with over 70% accuracy?",
+        "options": [
+          "Within ten years",
+          "Once it is modified to monitor movements of the entire body",
+          "It is currently not known",
+          "It has already achieved this accuracy level in tests"
+        ],
+        "answer": 3,
+        "explanation": "The text says the new method already has a success rate of over 70% in tests, while police use could come within a decade."
+      },
+      {
+        "q": "What does the new method of lie detection monitor that the polygraph does not?",
+        "options": [
+          "Body responses to statements about events within a period of ten years",
+          "Body temperature",
+          "Talking too much and arm waving",
+          "Motions in the entire body"
+        ],
+        "answer": 3,
+        "explanation": "The text says the new method monitors full-body motion rather than facial tics, talking too much or waving of arms."
+      },
+      {
+        "q": "When are police stations expected to start using the new lie detection method?",
+        "options": [
+          "It is already in use in many police stations",
+          "Once it is able to track the movements of the entire body",
+          "Once it reaches an accuracy of at least 70%",
+          "Within 10 years"
+        ],
+        "answer": 3,
+        "explanation": "The text says the method could be in use in police stations around the world within a decade."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "a-new-form-of-lie-detector-test-int-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:a-new-form-of-lie-detector-test:p0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-autumn-born-children-better-at-sports-says-study-adv-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Autumn-Born Children Better at Sports Says Study",
+    "text": "Do you want your child to be good at sports, make the school team and, maybe one day, even compete on the world stage? Well, try to ensure that your would-be Olympian or World Cup winner is born in November or, failing that, in October. A study has found that school pupils born in those months are fitter than everyone else in their class. November- and October-born children emerged as fitter, stronger and more powerful than their peers born in the other ten months of the year, especially those whose birthdays fell in April or June. Dr. Gavin Sandercock, who is from the Center for Sports and Exercise Science at Essex University and led the study, found that autumn-born children enjoyed \"a clear physical advantage\" over their classmates.",
+    "questions": [
+      {
+        "q": "What does the study say about the fitness of children born in April or June?",
+        "options": [
+          "They are weaker than children born in November and October",
+          "They tend to be particularly good at sports",
+          "They are stronger than all children, except those born in November and October",
+          "They tend to perform well on math and science exams when compared to other children"
+        ],
+        "answer": 0,
+        "explanation": "The text says October and November children were stronger and fitter than those born in the other months, especially April or June."
+      },
+      {
+        "q": "Who is Gavin Sandercock?",
+        "options": [
+          "A professional athlete who was born in the fall",
+          "A parent of children who were born in November and October",
+          "The dean of Essex University",
+          "A researcher who conducted the study"
+        ],
+        "answer": 3,
+        "explanation": "The text says Sandercock is from Essex University's Center for Sports and Exercise Science and led the study."
+      },
+      {
+        "q": "Who does the article suggest to be the weakest in comparison with children born in October and November?",
+        "options": [
+          "All children not born in October and November are equally weak",
+          "Children whose parents are not good at sports",
+          "Children whose parents did not encourage them to be good at sports",
+          "Children born in April and June"
+        ],
+        "answer": 3,
+        "explanation": "The text says October and November children outperformed everyone else, especially those whose birthdays fell in April or June."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "autumn-born-children-better-at-sports-says-study-adv-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:autumn-born-children-better-at-sports-says-study:p0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-autumn-born-children-better-at-sports-says-study-adv-p1",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Autumn-Born Children Better at Sports Says Study",
+    "text": "The research involved 8,550 boys and girls aged between ten and 16 from 26 state schools in Essex. All were tested between 2007 and 2010 on three different measures of fitness: stamina, handgrip strength and lower-body power. The results revealed that a child's month of birth could make \"significant\" differences to their levels of cardiovascular fitness, muscle strength and ability to accelerate, all of which predict how good someone is at sports, in which such attributes are vital. Performances at school sports days in the weeks ahead may bear out the findings. November-born children were the fittest overall as they had the most stamina and power and were the second strongest. Those born in October were almost as fit, scoring highest for strength and coming third for power, with December children close behind.",
+    "questions": [
+      {
+        "q": "What did the study find about stamina, handgrip strength and lower-body power of children?",
+        "options": [
+          "They changed significantly between 2007 and 2010 for all children",
+          "They were different between boys and girls and between different state schools",
+          "They were similar for children coming from similar family backgrounds",
+          "They varied depending on the time of the year during which the child was born"
+        ],
+        "answer": 3,
+        "explanation": "The text says the results showed a child's month of birth made significant differences to their fitness levels."
+      },
+      {
+        "q": "What were the study's conclusions concerning the stamina, power, and strength of November children compared to other children?",
+        "options": [
+          "November children ranked second in strength and first in stamina and power",
+          "November children scored highest in each category",
+          "November children came slightly behind December children in one of the categories",
+          "November children did not differ from children born in other months"
+        ],
+        "answer": 0,
+        "explanation": "The text says November-born children had the most stamina and power and were the second strongest."
+      },
+      {
+        "q": "What was one measure the scientists used to assess the children's fitness?",
+        "options": [
+          "Upper body strength",
+          "Age",
+          "Hand muscle strength",
+          "Time needed to run a mile"
+        ],
+        "answer": 2,
+        "explanation": "The text says the children were tested on stamina, handgrip strength and lower-body power, and handgrip is hand muscle strength."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "autumn-born-children-better-at-sports-says-study-adv-p1",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:autumn-born-children-better-at-sports-says-study:p1",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-autumn-born-children-better-at-sports-says-study-int-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Autumn-Born Children Better at Sports Says Study",
+    "text": "Do you want your child to be good at sports, play for the school team and, maybe one day, even compete in international competitions? Well, try to make sure that your future Olympian or World Cup winner is born in November or October. A study has found that school pupils born in those months are fitter than everyone else in their class. November- and October-born children were fitter, stronger and more powerful than those born in the other ten months of the year, especially those whose birthdays were in April or June. Dr. Gavin Sandercock of Essex University found in his study that autumn-born children had \"a clear physical advantage\" over their classmates.",
+    "questions": [
+      {
+        "q": "What does the study say about the fitness of children born in April or June?",
+        "options": [
+          "They tend to perform well on math and science exams when compared to other children",
+          "They are stronger than all children, except those born in November and October",
+          "They are weaker than children born in November and October",
+          "They tend to be particularly good at sports"
+        ],
+        "answer": 2,
+        "explanation": "The text says October and November children were stronger and fitter than those born in the other months, especially April or June."
+      },
+      {
+        "q": "Who is Gavin Sandercock?",
+        "options": [
+          "A professional athlete who was born in the fall",
+          "The dean of Essex University",
+          "A researcher who conducted the study",
+          "A parent of children who were born in November and October"
+        ],
+        "answer": 2,
+        "explanation": "The text says Sandercock is from Essex University and found autumn-born children had a clear physical advantage in his study."
+      },
+      {
+        "q": "Who does the article suggest to be the weakest in comparison with children born in October and November?",
+        "options": [
+          "Children whose parents are not good at sports",
+          "Children born in April and June",
+          "Children whose parents did not encourage them to be good at sports",
+          "All children not born in October and November are equally weak"
+        ],
+        "answer": 1,
+        "explanation": "The text says October and November children outperformed everyone else, especially those whose birthdays were in April or June."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "autumn-born-children-better-at-sports-says-study-int-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:autumn-born-children-better-at-sports-says-study:p0",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-autumn-born-children-better-at-sports-says-study-int-p1",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Autumn-Born Children Better at Sports Says Study",
+    "text": "The research involved 8,550 boys and girls aged between ten and 16 from 26 state schools in Essex. All were tested between 2007 and 2010 on three different measures of fitness: stamina, handgrip strength and lower-body power. The results revealed that a child's month of birth could make \"significant\" differences to their levels of cardiovascular fitness, muscle strength and ability to accelerate, all of which predict how good someone is at sports. November-born children were the fittest overall as they had the most stamina and power and were the second strongest. Those born in October were almost as fit, scoring highest for strength and coming third for power, with December children close behind.",
+    "questions": [
+      {
+        "q": "What did the study find about stamina, handgrip strength and lower-body power of children?",
+        "options": [
+          "They were similar for children coming from similar family backgrounds",
+          "They changed significantly between 2007 and 2010 for all children",
+          "They varied depending on the time of the year during which the child was born",
+          "They were different between boys and girls and between different state schools"
+        ],
+        "answer": 2,
+        "explanation": "The text says the results showed a child's month of birth made significant differences to their fitness levels."
+      },
+      {
+        "q": "What were the study's conclusions concerning the stamina, power, and strength of November children compared to other children?",
+        "options": [
+          "November children scored highest in each category",
+          "November children ranked second in strength and first in stamina and power",
+          "November children did not differ from children born in other months",
+          "November children came slightly behind December children in one of the categories"
+        ],
+        "answer": 1,
+        "explanation": "The text says November-born children had the most stamina and power and were the second strongest."
+      },
+      {
+        "q": "What was one measure the scientists used to assess the children's fitness?",
+        "options": [
+          "Age",
+          "Hand muscle strength",
+          "Upper body strength",
+          "Time needed to run a mile"
+        ],
+        "answer": 1,
+        "explanation": "The text says the children were tested on stamina, handgrip strength and lower-body power, and handgrip is hand muscle strength."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "autumn-born-children-better-at-sports-says-study-int-p1",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:autumn-born-children-better-at-sports-says-study:p1",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-bangladeshi-organization-delivers-a-lesson-on-ending-child-labor-adv-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Bangladeshi Organization Delivers a Lesson on Ending Child Labor",
+    "text": "The small space is set up to look like a classroom. Its corrugated iron walls are hung with educational charts - illustrated letters of the alphabet and a map of Bangladesh. But, the constant sound of hammering and the chemicals in the air that catch in the back of the throat and irritate the eyes make it hard to concentrate. The children who learn in this three-square-meter room are the lucky ones, however. They have escaped working in the factories opposite.",
+    "questions": [
+      {
+        "q": "What is depicted on the walls?",
+        "options": [
+          "A map of a country",
+          "Letters from several languages",
+          "Images of factory workers",
+          "Portraits of historical figures"
+        ],
+        "answer": 0,
+        "explanation": "The text says the walls are hung with educational charts, including illustrated letters of the alphabet and a map of Bangladesh."
+      },
+      {
+        "q": "Why are the people in the room lucky?",
+        "options": [
+          "They do not work in factories nearby",
+          "Their parents can afford sending them to a private school",
+          "They no longer need to study in a three-square-meter room",
+          "They are not exposed to harmful chemicals in the air"
+        ],
+        "answer": 0,
+        "explanation": "The text says the children in the classroom are lucky because they have escaped working in the factories opposite."
+      },
+      {
+        "q": "Which children are referred to as \"lucky\"?",
+        "options": [
+          "Children who found jobs after finishing school",
+          "Children whose parents have jobs",
+          "Children who are able to concentrate",
+          "Children who study in a tiny classroom"
+        ],
+        "answer": 3,
+        "explanation": "The text calls the children who learn in the three-square-meter room the lucky ones."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "bangladeshi-organization-delivers-a-lesson-on-ending-child-labor-adv-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:bangladeshi-organization-delivers-a-lesson-on-ending-child-labor:p0",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-bangladeshi-organization-delivers-a-lesson-on-ending-child-labor-adv-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Bangladeshi Organization Delivers a Lesson on Ending Child Labor",
+    "text": "SOHAY also runs sessions for parents and employers to discourage child labor and offers skills training to increase family income. \"Getting working children into formal education is really very challenging,\" says SOHAY's program manager, Mohammed al-Mamun. \"Their psychological and physical condition is not like other children in society. After they leave work, they sometimes find it difficult to make friends and adapt to school.\" It is also very challenging to ensure they stay in school - the dropout rate is very high for these children. Seven-year-old Zhorna Akter Sumayya has two older brothers, both of whom are in work (one at a restaurant, one at a local club). But, after being introduced to education at one of SOHAY's centers, she now goes to a state primary school. Her parents can't survive without the income their sons bring home, but they were keen for their daughter to go to school.",
+    "questions": [
+      {
+        "q": "What is a challenge working children face in regards to attending school, according to al-Mamun?",
+        "options": [
+          "After they stop working, they miss their friends from the factory",
+          "They don't have enough preparation for the level of learning",
+          "SOHAY's classes are intended for parents and employers, not children",
+          "It can be hard for them to assimilate to the school environment"
+        ],
+        "answer": 3,
+        "explanation": "Al-Mamun says that after leaving work, former child workers sometimes find it difficult to make friends and adapt to school."
+      },
+      {
+        "q": "What do Zhorna's brothers do?",
+        "options": [
+          "They help Zhorna with her homework after school",
+          "One works at a restaurant and a club, and the other goes to school",
+          "They try their best to not drop out of school before finishing",
+          "They are both employed so that they can make money for their parents"
+        ],
+        "answer": 3,
+        "explanation": "The text says both of Zhorna's older brothers are in work, and her parents can't survive without the income they bring home."
+      },
+      {
+        "q": "Why do Zhorna's brothers both work instead of attending school?",
+        "options": [
+          "Their family is reliant on their salaries to make ends meet",
+          "They found it too difficult to adapt to school",
+          "The nearest school is too far to commute to daily",
+          "They prefer helping their parents"
+        ],
+        "answer": 0,
+        "explanation": "The text says her parents can't survive without the income her sons bring home, so the family relies on their salaries."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "bangladeshi-organization-delivers-a-lesson-on-ending-child-labor-adv-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:bangladeshi-organization-delivers-a-lesson-on-ending-child-labor:p2",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-bangladeshi-organization-delivers-a-lesson-on-ending-child-labor-adv-p3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Bangladeshi Organization Delivers a Lesson on Ending Child Labor",
+    "text": "In 2015, SOHAY helped 1,540 children to leave hazardous work and 2,125 vulnerable children - those in danger of entering work - into school. About 780 more children are preparing to enter school in 2017. The organization is also helping 635 children who are working in hazardous conditions to know their rights under Bangladesh's 2010 child labor elimination code of conduct. The policy aimed to eradicate all forms of child labor by 2015 but that target was missed. The Labor Law of Bangladesh 2006 bans children under the age of 14 from working but, according to the UN children's agency, UNICEF, 4.7 million children under that age are employed in the informal sector and 1.3 million aged five to 17 work in hazardous industries.",
+    "questions": [
+      {
+        "q": "What did SOHAY do in 2015?",
+        "options": [
+          "Provided free classes for 3,000 children",
+          "Assisted 2,125 children in attending school instead of beginning work",
+          "Collaborated with UNICEF to reduce child labor",
+          "Provided funds for 1,540 children in danger of leaving school"
+        ],
+        "answer": 1,
+        "explanation": "The text says SOHAY helped 2,125 vulnerable children, those in danger of entering work, to go into school in 2015."
+      },
+      {
+        "q": "What statistic does UNICEF provide about children in Bangladesh?",
+        "options": [
+          "The children labor rates in Bangladesh are higher than in other countries",
+          "1,540 children were able to leave risky work in 2015",
+          "1.3 million children are employed in unsafe working conditions",
+          "4.7 million children are unable to attend school"
+        ],
+        "answer": 2,
+        "explanation": "The text says UNICEF reports that 1.3 million children aged five to 17 work in hazardous industries, which means unsafe conditions."
+      },
+      {
+        "q": "How many children did SOHAY help leave work in 2015?",
+        "options": [
+          "1,540",
+          "2,125",
+          "1.3 million",
+          "10,000"
+        ],
+        "answer": 0,
+        "explanation": "The text says SOHAY helped 1,540 children to leave hazardous work in 2015."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "bangladeshi-organization-delivers-a-lesson-on-ending-child-labor-adv-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:bangladeshi-organization-delivers-a-lesson-on-ending-child-labor:p3",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-bangladeshi-organization-delivers-a-lesson-on-ending-child-labor-int-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Bangladeshi Organization Delivers a Lesson on Ending Child Labor",
+    "text": "The small space is set up to look like a classroom. On its corrugated iron walls are educational charts - letters of the alphabet and a map of Bangladesh. But, it is hard to concentrate - there is the constant sound of hammering and chemicals in the air that stick in the back of the throat and irritate the eyes. However, the children who learn in this three-square-meter room are the lucky ones. They have escaped working in the factories opposite.",
+    "questions": [
+      {
+        "q": "What is depicted on the walls?",
+        "options": [
+          "A map of a country",
+          "Portraits of historical figures",
+          "Images of factory workers",
+          "Letters from several languages"
+        ],
+        "answer": 0,
+        "explanation": "The text says the classroom walls hold educational charts with the letters of the alphabet and a map of Bangladesh."
+      },
+      {
+        "q": "Why are the people in the room lucky?",
+        "options": [
+          "Their parents can afford sending them to a private school",
+          "They no longer need to study in a three-square-meter room",
+          "They are not exposed to harmful chemicals in the air",
+          "They do not work in factories nearby"
+        ],
+        "answer": 3,
+        "explanation": "The text calls the children lucky because they have escaped working in the factories opposite the classroom."
+      },
+      {
+        "q": "Which children are referred to as \"lucky\"?",
+        "options": [
+          "Children who study in a tiny classroom",
+          "Children whose parents have jobs",
+          "Children who are able to concentrate",
+          "Children who found jobs after finishing school"
+        ],
+        "answer": 0,
+        "explanation": "The text says the children who learn in the three-square-meter room are the lucky ones, because they escaped factory work."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "bangladeshi-organization-delivers-a-lesson-on-ending-child-labor-int-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:bangladeshi-organization-delivers-a-lesson-on-ending-child-labor:p0",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-bangladeshi-organization-delivers-a-lesson-on-ending-child-labor-int-p3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Bangladeshi Organization Delivers a Lesson on Ending Child Labor",
+    "text": "In 2015, SOHAY helped 1,540 children to leave hazardous work and 2,125 more children - those in danger of starting work - into school. About 780 more children are preparing to enter school in 2017. The organization is also helping 635 children who are working in hazardous conditions to know their rights. The Labor Law of Bangladesh 2006 does not allow children under the age of 14 to work but, according to the UN children's agency, UNICEF, 4.7 million children under that age are employed and 1.3 million aged five to 17 work in hazardous industries.",
+    "questions": [
+      {
+        "q": "What did SOHAY do in 2015?",
+        "options": [
+          "Provided funds for 1,540 children in danger of leaving school",
+          "Collaborated with UNICEF to reduce child labor",
+          "Assisted 2,125 children in attending school instead of beginning work",
+          "Provided free classes for 3,000 children"
+        ],
+        "answer": 2,
+        "explanation": "The text says SOHAY helped 2,125 more children, those in danger of starting work, to go into school in 2015."
+      },
+      {
+        "q": "What statistic does UNICEF provide about children in Bangladesh?",
+        "options": [
+          "1.3 million children are employed in unsafe working conditions",
+          "The children labor rates in Bangladesh are higher than in other countries",
+          "4.7 million children are unable to attend school",
+          "1,540 children were able to leave risky work in 2015"
+        ],
+        "answer": 0,
+        "explanation": "The text says UNICEF reports that 1.3 million children aged five to 17 work in hazardous industries, which means unsafe conditions."
+      },
+      {
+        "q": "How many children did SOHAY help leave work in 2015?",
+        "options": [
+          "10,000",
+          "1,540",
+          "1.3 million",
+          "2,125"
+        ],
+        "answer": 1,
+        "explanation": "The text says SOHAY helped 1,540 children to leave hazardous work in 2015."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "bangladeshi-organization-delivers-a-lesson-on-ending-child-labor-int-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:bangladeshi-organization-delivers-a-lesson-on-ending-child-labor:p3",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-bright-future-for-astrotourism-adv-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Bright Future for Astrotourism",
+    "text": "On Black Fell, looking down on Northumberland's beautiful Kielder Water reservoir, a group of people wait in a car park next to a strange wooden building with a minimalist design beamed down from the future. This is Kielder Observatory, the center of Britain's nascent astrotourism industry. And those waiting outside were the lucky ones. Many more had applied for a night of stargazing at the observatory but numbers are strictly limited. Inside, next to a woodburner and under dimmed lights, the observatory's founder and lead astronomer, Gary Fildes, a former bricklayer with Tarzan hair, delivers a pep talk to his colleagues. The team discusses the prospect of seeing the northern lights but Fildes is doubtful. Instead, they decide to train their powerful telescopes on Jupiter and Venus and later to pick out stars such as Capella and Betelgeuse. An additional attraction is the appearance of the International Space Station.",
+    "questions": [
+      {
+        "q": "What is located next to the Kielder Observatory?",
+        "options": [
+          "A research center",
+          "A wooden building",
+          "Capella and Betelgeuse",
+          "A car park"
+        ],
+        "answer": 3,
+        "explanation": "The text says the group waits in a car park next to the wooden building, which is the Kielder Observatory."
+      },
+      {
+        "q": "Who mentions that it might be possible to see the northern lights?",
+        "options": [
+          "People who applied for a night of stargazing at the Kielder Observatory",
+          "Members of a team of astronomers at Kielder Observatory",
+          "Tourists in Norway's National Observatory in Oslo",
+          "The head astronomer of the Kielder Observatory, Gary Fields"
+        ],
+        "answer": 1,
+        "explanation": "The text says the team discusses the prospect of seeing the northern lights, but Fildes himself is doubtful."
+      },
+      {
+        "q": "What does Fildes' team decide to do?",
+        "options": [
+          "Wait for more visitors to arrive from the car park",
+          "Observe Jupiter and Venus",
+          "Observe the northern lights",
+          "Observe the moon"
+        ],
+        "answer": 1,
+        "explanation": "The text says the team decides to point their powerful telescopes at Jupiter and Venus instead of waiting for the northern lights."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "bright-future-for-astrotourism-adv-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:bright-future-for-astrotourism:p0",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-bright-future-for-astrotourism-adv-p3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Bright Future for Astrotourism",
+    "text": "Wise acknowledges that Northumberland needs to do more to capitalize on its scarce resource and believes the region needs a couple more observatories to ensure that visitors will see what they came for. A £14m national landscape discovery center, which he describes as the north's answer to the Eden Project, will have an observatory when it is completed in a couple of years. Fildes has grand designs. He is planning Britain's first \"astrovillage,\" one that would house the largest public observatory in the world and boast a 100-seat auditorium, a 100-seat planetarium, a one-meter aperture telescope, and radiomagnetic and solar telescopes. The multimillion-pound project would feature a hotel and draw in 100,000 people a year, four times the number currently able to use the observatory. Fildes is cryptic about his backers but believes the astrovillage will be a reality by 2018.",
+    "questions": [
+      {
+        "q": "Why does Wise believe Northumberland needs more observatories?",
+        "options": [
+          "So that the UK can attract more tourists from other countries",
+          "So that 100,000 people can visit Northumberland by 2018",
+          "So that more visitors will be able to view the dark skies",
+          "So that the government will invest £14 million in the region"
+        ],
+        "answer": 2,
+        "explanation": "The text says Wise wants a couple more observatories to ensure that visitors will see what they came for, namely the dark skies."
+      },
+      {
+        "q": "What will £14 million be used for?",
+        "options": [
+          "A research program for studying outer space",
+          "A nationwide landscape improvement project",
+          "A visitor center with an observatory",
+          "A complex of hotels"
+        ],
+        "answer": 2,
+        "explanation": "The text says the £14m national landscape discovery center will have an observatory when it is completed."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "bright-future-for-astrotourism-adv-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:bright-future-for-astrotourism:p3",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-bright-future-for-astrotourism-int-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Bright Future for Astrotourism",
+    "text": "On the top of a hill, looking down on Northumberland's beautiful Kielder Water reservoir, a group of people wait in a car park next to a strange wooden building. They are looking for darkness and this is Kielder Observatory, the center of Britain's latest industry - astrotourism. The people waiting outside are the lucky ones. Many more apply for a night of stargazing at the observatory but numbers are strictly limited. Inside, under a dim light, the observatory's founder and lead astronomer, Gary Fildes, delivers a speech to his colleagues. The team discusses the prospect of seeing the northern lights but Fildes is doubtful. Instead, they decide to use their powerful telescopes to observe Jupiter and Venus and, later, to pick out stars such as Capella and Betelgeuse. An additional attraction is the appearance of the International Space Station.",
+    "questions": [
+      {
+        "q": "What is located next to the Kielder Observatory?",
+        "options": [
+          "A car park",
+          "A research center",
+          "Capella and Betelgeuse",
+          "A wooden building"
+        ],
+        "answer": 0,
+        "explanation": "The text says the group waits in a car park next to the wooden building, which is the Kielder Observatory."
+      },
+      {
+        "q": "Who mentions that it might be possible to see the northern lights?",
+        "options": [
+          "Tourists in Norway's National Observatory in Oslo",
+          "People who applied for a night of stargazing at the Kielder Observatory",
+          "Members of a team of astronomers at Kielder Observatory",
+          "The head astronomer of the Kielder Observatory, Gary Fields"
+        ],
+        "answer": 2,
+        "explanation": "The text says the team discusses the prospect of seeing the northern lights, but Fildes himself is doubtful."
+      },
+      {
+        "q": "What does Fildes' team decide to do?",
+        "options": [
+          "Observe the northern lights",
+          "Wait for more visitors to arrive from the car park",
+          "Observe Jupiter and Venus",
+          "Observe the moon"
+        ],
+        "answer": 2,
+        "explanation": "The text says the team decides to point their powerful telescopes at Jupiter and Venus instead of waiting for the northern lights."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "bright-future-for-astrotourism-int-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:bright-future-for-astrotourism:p0",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-bright-future-for-astrotourism-int-p1",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Bright Future for Astrotourism",
+    "text": "Fildes, 49, is at the forefront of the UK's growing astrotourism industry. The key moment for Northumberland came in 2013 when the entire national park, about 1,500 square kilometers in area, was awarded Dark Sky Park status, the only one in England. Dark Sky Parks are rare. The 2013 Star Count revealed that only 5% of the UK population can see more than 31 stars on a clear night. The Arizona-based International Dark-Sky Association (IDA) awards the status of Dark Sky Park only to places that take major steps to avoid light pollution. And those areas must also prove their night skies are dark enough. In Northumberland Dark Sky Park, as the area was renamed, it is so dark that Venus casts a shadow on the Earth.",
+    "questions": [
+      {
+        "q": "What did the 2013 Star Count find?",
+        "options": [
+          "That the UK is one of the best countries in the world for stargazing",
+          "That only a small portion of the population could see over 31 stars on a clear night",
+          "That Fieldes is the leading figure in the UK's astrotourism industry",
+          "That 5% of the UK population goes out to look at stars"
+        ],
+        "answer": 1,
+        "explanation": "The text says the 2013 Star Count revealed that only 5% of the UK population can see more than 31 stars on a clear night."
+      },
+      {
+        "q": "What does the International Dark-Sky Association (IDA) do?",
+        "options": [
+          "Awards special status to parks",
+          "Oversees UK's astrotourism industry",
+          "Regulates light pollution across the world",
+          "Organizes astronomy conferences"
+        ],
+        "answer": 0,
+        "explanation": "The text says the Arizona-based International Dark-Sky Association awards the status of Dark Sky Park to places that avoid light pollution."
+      },
+      {
+        "q": "What is one criteria the International Dark-Sky Association looks for when awarding Dark Sky Park status to a park?",
+        "options": [
+          "Whether Venus casts a shadow over the park",
+          "Whether the park's night sky is sufficiently dark",
+          "Whether over 31 stars can be seen on a clear night",
+          "Whether the park is a popular region for tourism"
+        ],
+        "answer": 1,
+        "explanation": "The text says areas must also prove that their night skies are dark enough to receive Dark Sky Park status."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "bright-future-for-astrotourism-int-p1",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:bright-future-for-astrotourism:p1",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-bright-future-for-astrotourism-int-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Bright Future for Astrotourism",
+    "text": "Duncan Wise, visitor development officer for the Northumberland National Park Authority, helped to lead the campaign for dark-sky status. \"We tend to look at landscape as everything up to the horizon,\" Wise said. \"But what about what's above it?\" Wise and others spent years preparing their application to the IDA, collecting thousands of light readings and producing an exterior lighting master plan that influences the construction of new developments in the area. Their efforts have been rewarded. Many of the 1.5 million who visit Northumberland each year are now aware of its Dark Sky status. \"We get a lot of people coming here to see the sky now,\" says the man at the car-hire firm in Newcastle. \"They come in autumn and winter, when it's darkest. It's good for the local hotels because they get business all year round now.\"",
+    "questions": [
+      {
+        "q": "According to Duncan Wise, what do people normally consider as \"landscape\"?",
+        "options": [
+          "Everything that can be appreciated all year round",
+          "Everything above sea level",
+          "Everything below and above the horizon",
+          "Everything below the horizon"
+        ],
+        "answer": 3,
+        "explanation": "The text quotes Wise saying people tend to look at landscape as everything up to the horizon, so only what is below it."
+      },
+      {
+        "q": "Who is quoted as saying that hotels benefit from the park's new Dark Sky status?",
+        "options": [
+          "The UK's minister of tourism",
+          "A worker for a local hotel",
+          "An employee of a car-hire company",
+          "Duncan Wise"
+        ],
+        "answer": 2,
+        "explanation": "The text quotes the man at the car-hire firm in Newcastle saying the Dark Sky status is good for the local hotels."
+      },
+      {
+        "q": "What is true of the autumn and winter in Northumberland?",
+        "options": [
+          "Many visitors come to see the sky then",
+          "It is possible to collect more light readings then",
+          "Local hotels are cheaper then",
+          "Observatory tickets are cheaper then"
+        ],
+        "answer": 0,
+        "explanation": "The text quotes the car-hire worker saying that many people now come to see the sky in autumn and winter, when it is darkest."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "bright-future-for-astrotourism-int-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:bright-future-for-astrotourism:p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-bright-future-for-astrotourism-int-p3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Bright Future for Astrotourism",
+    "text": "Wise agrees that Northumberland needs to do more to take advantage of its scarce resource. He believes the region needs a couple more observatories to ensure that visitors will see what they came for. A new £14m national landscape discovery center will have an observatory when it is completed in a couple of years. Fildes has big ambitions. He is planning Britain's first \"astrovillage,\" one that would contain the largest public observatory in the world and have a 100-seat auditorium, a 100-seat planetarium, a one-meter aperture telescope, and radiomagnetic and solar telescopes. The multimillion-pound project would also have a hotel and draw in 100,000 people a year, four times the number currently able to use the observatory. Fildes believes the astrovillage will be a reality by 2018.",
+    "questions": [
+      {
+        "q": "Why does Wise believe Northumberland needs more observatories?",
+        "options": [
+          "So that the UK can attract more tourists from other countries",
+          "So that the government will invest £14 million in the region",
+          "So that 100,000 people can visit Northumberland by 2018",
+          "So that more visitors will be able to view the dark skies"
+        ],
+        "answer": 3,
+        "explanation": "The text says Wise wants a couple more observatories to ensure that visitors will see what they came for, namely the dark skies."
+      },
+      {
+        "q": "What will £14 million be used for?",
+        "options": [
+          "A visitor center with an observatory",
+          "A research program for studying outer space",
+          "A nationwide landscape improvement project",
+          "A complex of hotels"
+        ],
+        "answer": 0,
+        "explanation": "The text says the new £14m national landscape discovery center will have an observatory when it is completed."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "bright-future-for-astrotourism-int-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:bright-future-for-astrotourism:p3",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-can-the-us-electric-bike-market-get-a-jump-start-adv-p4",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Can the US Electric Bike Market Get a Jump Start?",
+    "text": "The companies that make and sell e-bikes say they can overcome those obstacles. E-bike technology, particularly the batteries, is improving. \"Batteries are getting smaller, they're getting lighter, they're getting more reliable and they are lasting longer,\" says Don DiCostanza, the founder and CEO of Pedego, an electric bikemaker and retailer. Big companies like Bosch and Shimano are entering the business, which should help erode resistance from bike shops. In the meantime, lobbying efforts are underway to permit the use of e-bikes everywhere. Perhaps most importantly, as more cities build cycling infrastructure, including dedicated bike lanes, bicycle commuting has become more popular. As the US Census Bureau reported in 2014, the number of bike commuters grew from about 488,000 in 2000 to 786,000 in 2012. Electric bikes make commuting more practical - and fun - by easing worry about hills, headwinds and fatigue.",
+    "questions": [
+      {
+        "q": "What does DiCostanza say about e-bike batteries?",
+        "options": [
+          "They will soon be rechargeable at gas stations",
+          "They used to last for a shorter time",
+          "Their sales increased between 2000 and 2012",
+          "They used to be smaller"
+        ],
+        "answer": 1,
+        "explanation": "The text quotes DiCostanza saying batteries are getting smaller, lighter and more reliable, and are lasting longer than before."
+      },
+      {
+        "q": "Why has bicycle commuting become more popular?",
+        "options": [
+          "There is a recent trend of people wanting to be more active",
+          "More bikes are being built and distributed in cities",
+          "It is more practical than commuting by car",
+          "There are more bike lanes available for people to bike in"
+        ],
+        "answer": 3,
+        "explanation": "The text says that, most importantly, more cities are building cycling infrastructure such as dedicated bike lanes, so bicycle commuting has become more popular."
+      },
+      {
+        "q": "Who or what is DiCostanza?",
+        "options": [
+          "A company that makes and sells electric bikes",
+          "An opponent of e-bike technology",
+          "A worker of the US Census Bureau",
+          "The head of a company"
+        ],
+        "answer": 3,
+        "explanation": "The text introduces Don DiCostanza as the founder and CEO of Pedego, so he is the head of a company."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "can-the-us-electric-bike-market-get-a-jump-start-adv-p4",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:can-the-us-electric-bike-market-get-a-jump-start:p4",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-can-the-us-electric-bike-market-get-a-jump-start-int-p4",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Can the US Electric Bike Market Get a Jump Start?",
+    "text": "The companies that make and sell e-bikes say they can overcome those obstacles. E-bike technology, particularly the batteries, is improving. \"Batteries are getting smaller, they're getting lighter, they're getting more reliable and they are lasting longer,\" says Don DiCostanza, the founder and CEO of Pedego, an electric bikemaker and retailer. Big companies like Bosch and Shimano are entering the business. This should help lower the resistance from bike shops. Perhaps most importantly, more cities are building cycling infrastructure including bike lanes so bicycle commuting has become more popular. As the US Census Bureau reported in 2014, the number of bike commuters grew from about 488,000 in 2000 to 786,000 in 2012. Electric bikes make commuting more practical - and fun - by reducing worry about hills, headwinds and tiredness.",
+    "questions": [
+      {
+        "q": "What does DiCostanza say about e-bike batteries?",
+        "options": [
+          "They used to last for a shorter time",
+          "Their sales increased between 2000 and 2012",
+          "They used to be smaller",
+          "They will soon be rechargeable at gas stations"
+        ],
+        "answer": 0,
+        "explanation": "The text quotes DiCostanza saying batteries are getting smaller, lighter and more reliable, and are lasting longer than before."
+      },
+      {
+        "q": "Why has bicycle commuting become more popular?",
+        "options": [
+          "More bikes are being built and distributed in cities",
+          "It is more practical than commuting by car",
+          "There are more bike lanes available for people to bike in",
+          "There is a recent trend of people wanting to be more active"
+        ],
+        "answer": 2,
+        "explanation": "The text says that, most importantly, more cities are building cycling infrastructure such as dedicated bike lanes, so bicycle commuting has become more popular."
+      },
+      {
+        "q": "Who or what is DiCostanza?",
+        "options": [
+          "An opponent of e-bike technology",
+          "A worker of the US Census Bureau",
+          "The head of a company",
+          "A company that makes and sells electric bikes"
+        ],
+        "answer": 2,
+        "explanation": "The text introduces Don DiCostanza as the founder and CEO of Pedego, so he is the head of a company."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "can-the-us-electric-bike-market-get-a-jump-start-int-p4",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:can-the-us-electric-bike-market-get-a-jump-start:p4",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-google-introduces-its-driverless-car-adv-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Google Introduces its Driverless Car",
+    "text": "Google says that the principal aim of the project is to improve safety and that, because the car is constructed with impact-absorbing foam at the front and a plastic windscreen, \"it should be far safer than any other car for pedestrians\". The cars, which have been built specially by a company (as yet unnamed) in Detroit, will be used to investigate further how best to make driverless vehicles work. Google will now run a program to test the cars further, which are not yet for sale.",
+    "questions": [
+      {
+        "q": "According to the article, what has Google done to improve safety?",
+        "options": [
+          "Gone through multiple rounds of testing",
+          "Installed more cameras and sensors throughout the car",
+          "Designed the car to automatically detect pedestrians",
+          "Used materials that are safer for pedestrians"
+        ],
+        "answer": 3,
+        "explanation": "The text says the car is built with impact-absorbing foam at the front and a plastic windscreen, which are safer for pedestrians."
+      },
+      {
+        "q": "What will Google do now?",
+        "options": [
+          "Add more comfort features to the cars",
+          "Begin selling the cars to a limited audience",
+          "Further improve safety by adding more foam",
+          "Test-pilot the cars"
+        ],
+        "answer": 3,
+        "explanation": "The text says Google will now run a program to test the cars further, which is what test-piloting means."
+      },
+      {
+        "q": "Could Google's cars be purchased at the time that the article was written?",
+        "options": [
+          "No, they needed to go through more tests",
+          "Yes, but only by signing up for a special testing program",
+          "No, but it is possible to purchase the previous version of these cars",
+          "Yes, but only in Detroit"
+        ],
+        "answer": 0,
+        "explanation": "The text says the cars are not yet for sale because Google will now test them further."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "google-introduces-its-driverless-car-adv-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:google-introduces-its-driverless-car:p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-google-introduces-its-driverless-car-adv-p6",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Google Introduces its Driverless Car",
+    "text": "Urmson said: \"The vehicles will be very basic. We want to learn from them and adapt them as quickly as possible. But they will take you where you want to go at the push of a button. And, that's an important step towards improving road safety and transforming mobility for millions of people.\" So far, the Google versions of the self-driving cars have covered 700,000 miles without an accident caused by the computer. The company points out that thousands of people die each year on the roads and that about 80% of crashes can be ascribed to human error. But, they could have some way to go to match Conyon at the National Taxi Association. Aged 79, he has been driving a taxi for 50 years and claims never to have had an accident.",
+    "questions": [
+      {
+        "q": "Getting where you want to go with Google's new car will ...",
+        "options": [
+          "require using voice commands",
+          "be very easy",
+          "require pressing a button that says \"push\"",
+          "be possible for 700,000 miles"
+        ],
+        "answer": 1,
+        "explanation": "The text quotes Urmson saying the cars will take you where you want to go at the push of a button, which makes the trip very easy."
+      },
+      {
+        "q": "How do Google driverless cars perform?",
+        "options": [
+          "They are worse than human-driven cars",
+          "They are 80% better than human-driven cars",
+          "They can travel up to 700,000 miles before needing maintenance",
+          "They travel hundreds of thousands of miles without accidents"
+        ],
+        "answer": 3,
+        "explanation": "The text says the cars have covered 700,000 miles without an accident caused by the computer."
+      },
+      {
+        "q": "What kind of accidents does Google pride itself in having managed to avoid during the testing phase of the car?",
+        "options": [
+          "Accidents that are caused by mechanical failure",
+          "Accidents that damage the car's computer",
+          "Accidents that are caused by the car's computer",
+          "Accidents resulting from pushing buttons"
+        ],
+        "answer": 2,
+        "explanation": "The text says the cars have covered 700,000 miles without an accident caused by the computer."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "google-introduces-its-driverless-car-adv-p6",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:google-introduces-its-driverless-car:p6",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-google-introduces-its-driverless-car-int-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Google Introduces its Driverless Car",
+    "text": "Google says that the aim of the project is to improve safety and that, because the car is constructed with impact-absorbing foam at the front and a plastic windscreen, \"it should be far safer than any other car for pedestrians\". The cars, which have been built specially by an unnamed company in Detroit, will be used to find out how best to make driverless vehicles work. Google will run a pilot program using the cars, which are not yet for sale.",
+    "questions": [
+      {
+        "q": "According to the article, what has Google done to improve safety?",
+        "options": [
+          "Used materials that are safer for pedestrians",
+          "Installed more cameras and sensors throughout the car",
+          "Designed the car to automatically detect pedestrians",
+          "Gone through multiple rounds of testing"
+        ],
+        "answer": 0,
+        "explanation": "The text says the car is built with impact-absorbing foam at the front and a plastic windscreen, which are safer for pedestrians."
+      },
+      {
+        "q": "What will Google do now?",
+        "options": [
+          "Add more comfort features to the cars",
+          "Begin selling the cars to a limited audience",
+          "Further improve safety by adding more foam",
+          "Test-pilot the cars"
+        ],
+        "answer": 3,
+        "explanation": "The text says Google will run a pilot program using the cars, which means it will test them."
+      },
+      {
+        "q": "Could Google's cars be purchased at the time that the article was written?",
+        "options": [
+          "No, but it is possible to purchase the previous version of these cars",
+          "Yes, but only by signing up for a special testing program",
+          "No, they needed to go through more tests",
+          "Yes, but only in Detroit"
+        ],
+        "answer": 2,
+        "explanation": "The text says the cars are not yet for sale because Google will run a pilot program with them first."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "google-introduces-its-driverless-car-int-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:google-introduces-its-driverless-car:p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-google-introduces-its-driverless-car-int-p6",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Google Introduces its Driverless Car",
+    "text": "Urmson said: \"The vehicles will be very basic. We want to learn from them and adapt them as quickly as possible. But they will take you where you want to go at the push of a button. And, that's an important step towards improving road safety and improving mobility for millions of people.\" So far, the Google versions of the self-driving cars have driven 700,000 miles without an accident caused by the computer. The company says that thousands of people die each year on the roads and that about 80% of crashes are caused by human error.",
+    "questions": [
+      {
+        "q": "Getting where you want to go with Google's new car will ...",
+        "options": [
+          "be very easy",
+          "require using voice commands",
+          "require pressing a button that says \"push\"",
+          "be possible for 700,000 miles"
+        ],
+        "answer": 0,
+        "explanation": "The text quotes Urmson saying the cars will take you where you want to go at the push of a button, which makes the trip very easy."
+      },
+      {
+        "q": "How do Google driverless cars perform?",
+        "options": [
+          "They are worse than human-driven cars",
+          "They are 80% better than human-driven cars",
+          "They travel hundreds of thousands of miles without accidents",
+          "They can travel up to 700,000 miles before needing maintenance"
+        ],
+        "answer": 2,
+        "explanation": "The text says the cars have covered 700,000 miles without an accident caused by the computer."
+      },
+      {
+        "q": "What kind of accidents does Google pride itself in having managed to avoid during the testing phase of the car?",
+        "options": [
+          "Accidents that are caused by the car's computer",
+          "Accidents that are caused by mechanical failure",
+          "Accidents that damage the car's computer",
+          "Accidents resulting from pushing buttons"
+        ],
+        "answer": 0,
+        "explanation": "The text says the cars have covered 700,000 miles without an accident caused by the computer."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "google-introduces-its-driverless-car-int-p6",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:google-introduces-its-driverless-car:p6",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-hundreds-hurt-after-meteorite-falls-to-earth-int-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Hundreds Hurt after Meteorite Falls to Earth",
+    "text": "Galina Zaglumyonova was woken in her flat in central Chelyabinsk by an enormous explosion that blew in the balcony windows and shattered pots containing her houseplants. When she jumped out of bed, she could see a huge vapor trail hanging in the morning sky and hear car alarms from the street below. \"I didn't understand what was going on,\" said Zaglumyonova. \"There was a big explosion and then a series of little explosions. My first thought was that it was a plane crash.\" What she had actually witnessed was a ten-ton meteorite that fell to Earth in a series of fireballs just after sunrise. Officials said almost 1,200 people had been injured, with more than 40 taken to hospital - most as a result of flying glass shattered by the sonic boom created by the meteorite's fall. There were no reported deaths.",
+    "questions": [
+      {
+        "q": "What happened in Galina's apartment because of the explosion?",
+        "options": [
+          "Pots were damaged",
+          "The apartment filled up with vapor",
+          "A chandelier fell off the ceiling",
+          "The balcony collapsed"
+        ],
+        "answer": 0,
+        "explanation": "The text says the explosion blew in the balcony windows and shattered the pots containing Galina's houseplants."
+      },
+      {
+        "q": "What happened to almost 1,200 people?",
+        "options": [
+          "They were in a plane crash",
+          "They were hurt in the meteorite incident",
+          "They were brought to the hospital",
+          "They lost their homes"
+        ],
+        "answer": 1,
+        "explanation": "The text says officials reported almost 1,200 people injured, most by flying glass from the meteorite's sonic boom."
+      },
+      {
+        "q": "Who arrived at the hospital?",
+        "options": [
+          "Several survivors of a plane crash",
+          "Over 40 people",
+          "Almost 1,200 people",
+          "Several survivors of a hurricane"
+        ],
+        "answer": 1,
+        "explanation": "The text says more than 40 of the injured people were taken to hospital."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "hundreds-hurt-after-meteorite-falls-to-earth-int-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:hundreds-hurt-after-meteorite-falls-to-earth:p0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-inky-the-octopus-escapes-from-aquarium-adv-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Inky the Octopus Escapes from Aquarium",
+    "text": "Reiss Jenkinson, exhibits keeper at the National Aquarium, said he was absolutely certain Inky had not been taken. \"I understand the nature of octopus behavior very well,\" he said. \"I have seen octopuses on boats slip through bilge pumps. And, the security here is too tight for anyone to take Inky and why would they?\" Because octopuses have no bones, they are able to fit into extremely small spaces and have been filmed squeezing through gaps the size of coins. They are also understood to be extremely intelligent and capable of using tools. At the Island Bay Marine Education Center in Wellington, an octopus was found to be in the habit of visiting another tank overnight to steal crabs, then returning to its own. Another at the center, Ozymandias, was thought to have broken a world record for opening a jar before it was released into the ocean.",
+    "questions": [
+      {
+        "q": "How good is the security of the aquarium, according to Jenkinson?",
+        "options": [
+          "Too good for anything to be stolen from the aquarium without the theft being noticed",
+          "Not great, since the aquarium didn't think anyone would try to steal from them",
+          "Not effective, as crabs and other creatures have been stolen in the past",
+          "It used to be poor, but became more secure in response to Inky's disappearance"
+        ],
+        "answer": 0,
+        "explanation": "The text quotes Jenkinson saying the security is too tight for anyone to take Inky, so nothing could be stolen unnoticed."
+      },
+      {
+        "q": "Why does the article mention Ozymandias?",
+        "options": [
+          "To give an example of the cleverness of octopuses",
+          "To convey that there were other octopuses in the aquarium",
+          "To prove that octopuses can squeeze through gaps the size of coins",
+          "To explain that octopuses like opening jars"
+        ],
+        "answer": 0,
+        "explanation": "The text mentions Ozymandias, who broke a world record for opening a jar, as an example of how intelligent octopuses are."
+      },
+      {
+        "q": "According to Inky's keeper, why is it likely Inky wasn't stolen?",
+        "options": [
+          "No one would have motivation to steal him",
+          "Security cameras saw him escape",
+          "It would be hard to keep Inky alive outside of his tank",
+          "It is more common for people to steal crabs"
+        ],
+        "answer": 0,
+        "explanation": "The text quotes the keeper asking why anyone would take Inky, which shows that nobody would have a motive to steal him."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "inky-the-octopus-escapes-from-aquarium-adv-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:inky-the-octopus-escapes-from-aquarium:p2",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-inky-the-octopus-escapes-from-aquarium-int-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Inky the Octopus Escapes from Aquarium",
+    "text": "An octopus has escaped from the National Aquarium in New Zealand by leaving its tank, sliding down a 50-meter drainpipe and disappearing into the sea. Inky - a common New Zealand octopus - escaped after the lid of his tank was accidentally left a bit ajar. Staff believe that in the middle of the night, while the aquarium was deserted, Inky climbed to the top of his glass enclosure, down the side of the tank and traveled across the floor of the aquarium. Rob Yarrell, national manager of the National Aquarium of New Zealand in Napier, said: \"Octopuses are famous for their ability to escape. I don't think he was unhappy with us, or lonely, because octopuses are solitary creatures. But, he is such a curious boy. He wanted to know what was happening on the outside. That's just his personality.\"",
+    "questions": [
+      {
+        "q": "Why does Yarrell mention that octopuses live alone?",
+        "options": [
+          "To explain why Inky could only escape when no one was around",
+          "To provide evidence that Inky did not escape because he was lonely",
+          "To propose that Inky escaped because there were too many people in the aquarium",
+          "To explain why octopuses are different from most other sea creatures"
+        ],
+        "answer": 1,
+        "explanation": "The text quotes Yarrell saying he does not think Inky was lonely, because octopuses are solitary creatures."
+      },
+      {
+        "q": "Why did Inky escape, according to Yarrell?",
+        "options": [
+          "He was being mistreated by aquarium personnel",
+          "He wanted to disappear into the sea",
+          "He wanted to know what was happening in the outer world",
+          "He was scared of something happening outside his tank"
+        ],
+        "answer": 2,
+        "explanation": "The text quotes Yarrell saying Inky is a curious boy who wanted to know what was happening on the outside."
+      },
+      {
+        "q": "How does Yarrell describe Inky's personality?",
+        "options": [
+          "Nervous about what's happening on the outside",
+          "Curious",
+          "Playful and mischievous",
+          "Unhappy"
+        ],
+        "answer": 1,
+        "explanation": "The text quotes Yarrell calling Inky a curious boy and saying that is just his personality."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "inky-the-octopus-escapes-from-aquarium-int-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:inky-the-octopus-escapes-from-aquarium:p0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-inky-the-octopus-escapes-from-aquarium-int-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Inky the Octopus Escapes from Aquarium",
+    "text": "Reiss Jenkinson, exhibits keeper at the National Aquarium, said he was absolutely certain Inky was not stolen. \"I understand octopus behavior very well,\" he said. \"I have seen octopuses on boats escape through bilge pumps. And, the security here is too tight for anyone to take Inky and why would they?\" Because octopuses have no bones, they are able to fit into extremely small spaces and can squeeze through gaps the size of coins. They are also extremely intelligent and can use tools. At the Island Bay Marine Education Center in Wellington, an octopus used to visit another tank during the night to steal crabs, then return to its own tank. Another at the center, Ozymandias, broke a world record for opening a jar.",
+    "questions": [
+      {
+        "q": "How good is the security of the aquarium, according to Jenkinson?",
+        "options": [
+          "Too good for anything to be stolen from the aquarium without the theft being noticed",
+          "It used to be poor, but became more secure in response to Inky's disappearance",
+          "Not effective, as crabs and other creatures have been stolen in the past",
+          "Not great, since the aquarium didn't think anyone would try to steal from them"
+        ],
+        "answer": 0,
+        "explanation": "The text quotes Jenkinson saying the security is too tight for anyone to take Inky, so nothing could be stolen unnoticed."
+      },
+      {
+        "q": "Why does the article mention Ozymandias?",
+        "options": [
+          "To prove that octopuses can squeeze through gaps the size of coins",
+          "To convey that there were other octopuses in the aquarium",
+          "To give an example of the cleverness of octopuses",
+          "To explain that octopuses like opening jars"
+        ],
+        "answer": 2,
+        "explanation": "The text mentions Ozymandias, who broke a world record for opening a jar, as an example of how intelligent octopuses are."
+      },
+      {
+        "q": "According to Inky's keeper, why is it likely Inky wasn't stolen?",
+        "options": [
+          "It would be hard to keep Inky alive outside of his tank",
+          "Security cameras saw him escape",
+          "No one would have motivation to steal him",
+          "It is more common for people to steal crabs"
+        ],
+        "answer": 2,
+        "explanation": "The text quotes the keeper asking why anyone would take Inky, which shows that nobody would have a motive to steal him."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "inky-the-octopus-escapes-from-aquarium-int-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:inky-the-octopus-escapes-from-aquarium:p2",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-insects-could-be-the-planets-next-food-source-adv-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Insects Could be the Planets Next Food Source",
+    "text": "Over the next 30 years, the planet's human population will increase to nine billion. Already one billion people do not get enough food. The increase will mean more pressure on agricultural land, water, forests, fisheries and biodiversity resources, as well as nutrients and energy supplies. The cost of meat is rising, not just in terms of hard cash but also in terms of the amount of rainforest that is destroyed for grazing or to grow feedstuff for cattle. There is also the issue of methane excreted by cows. The livestock farming contribution, in terms of greenhouse gas emissions, is enormous - 35% of the planet's methane, 65% of its nitrous oxide and 9% of the carbon dioxide.",
+    "questions": [
+      {
+        "q": "What will result from an increase in human population in the future?",
+        "options": [
+          "Food quality will decrease",
+          "One billion people will not have enough food",
+          "More pressure on farming resources",
+          "The level of greenhouse gases will increase by 35%"
+        ],
+        "answer": 2,
+        "explanation": "The text says a larger population will mean more pressure on agricultural land, water, forests, fisheries and other resources."
+      },
+      {
+        "q": "Why are rainforests being destroyed?",
+        "options": [
+          "To create new industrial zones",
+          "To grow livestock",
+          "To make grazing fields and produce food for cows",
+          "To accommodate the increase in the population of the planet"
+        ],
+        "answer": 2,
+        "explanation": "The text says rainforest is destroyed for grazing or to grow feedstuff for cattle, so cows can graze and be fed."
+      },
+      {
+        "q": "Which of these is mentioned as a cost of meat?",
+        "options": [
+          "The destruction of the rainforests",
+          "The drainage of energy supplies",
+          "Meat transportation",
+          "The labor required to grow food for livestock"
+        ],
+        "answer": 0,
+        "explanation": "The text says the cost of meat is rising in the amount of rainforest that is destroyed for grazing or cattle feed."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "insects-could-be-the-planets-next-food-source-adv-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:insects-could-be-the-planets-next-food-source:p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-insects-could-be-the-planets-next-food-source-int-p3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Insects Could be the Planets Next Food Source",
+    "text": "Edible insects produce few gases, contain high-quality protein, vitamins and amino acids, and need only a quarter of the food that sheep need, and half that of pigs and chickens, to produce the same amount of protein. They produce fewer greenhouse gases and less ammonia than cows and can be grown on organic waste. China is already successfully setting up huge maggot farms. Zimbabwe has a thriving caterpillar industry and Laos was given nearly $500,000 by the FAO to develop an insect-harvesting project. A study by FoodServiceWarehouse.com suggested that giving up pork and beef and eating crickets and locusts instead could help to reduce greenhouse gas emissions by up to 95%.",
+    "questions": [
+      {
+        "q": "What is one health benefit of eating insects?",
+        "options": [
+          "Insects contain many important nutrients",
+          "Insects contain higher quality protein than sheep",
+          "Insects reduce the risk of obesity",
+          "Insects are an organic food source"
+        ],
+        "answer": 0,
+        "explanation": "The text says edible insects contain high-quality protein, vitamins and amino acids, which are important nutrients."
+      },
+      {
+        "q": "What is one environmental benefit of replacing pork and beef with insects in a diet?",
+        "options": [
+          "It would create useful organic waste",
+          "It would lower the environmental damage caused by shipping heavy animals",
+          "It would lower greenhouse gas emissions",
+          "It would reduce the destruction of green forests by 95%"
+        ],
+        "answer": 2,
+        "explanation": "The text says a study suggested that eating crickets and locusts instead of pork and beef could cut greenhouse gas emissions by up to 95%."
+      },
+      {
+        "q": "What is an advantage in producing food from insects rather than sheep?",
+        "options": [
+          "Insects take less time to cultivate than sheep",
+          "Insects have higher-quality protein, vitamins and amino acids than sheep",
+          "Insects transform food to protein more efficiently",
+          "Countries like Zimbabwe and Laos cannot afford to grow sheep"
+        ],
+        "answer": 2,
+        "explanation": "The text says insects need only a quarter of the food that sheep need to produce the same amount of protein, so they convert food more efficiently."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "insects-could-be-the-planets-next-food-source-int-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:insects-could-be-the-planets-next-food-source:p3",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-japan-calls-time-on-long-hours-work-culture-adv-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Japan Calls Time on Long Hours Work Culture",
+    "text": "The regulation eight hours in the office is over. The most important work of the day is done; whatever is left can wait until the morning. This is the point many workers would think about heading for the door. Yet, for millions of Japanese employees, the thought of clearing away their desks and being at home in time for dinner is enough to invite accusations of disloyalty to the company. But, after decades of giving companies carte blanche to milk every last drop of productivity from their workforce, a challenge to Japan's ingrained culture of overwork has come from the government, which is considering making it a legal requirement for workers to take at least five days' paid holiday a year.",
+    "questions": [
+      {
+        "q": "Why would someone be considered disloyal to their company in Japan?",
+        "options": [
+          "They took more than five days off",
+          "They arrived home before dinner time",
+          "They ate dinner at work",
+          "They revealed trade secrets"
+        ],
+        "answer": 1,
+        "explanation": "The text says that leaving the office at a normal hour to be home for dinner invites accusations of disloyalty to the company."
+      },
+      {
+        "q": "What does the Japanese government want workers to do now?",
+        "options": [
+          "Take more days off",
+          "Be home in time for dinner",
+          "Not work during national holidays",
+          "Not work after-hours"
+        ],
+        "answer": 0,
+        "explanation": "The text says the government is considering a legal requirement for workers to take at least five days' paid holiday a year."
+      },
+      {
+        "q": "Who or what is driving the change in Japanese work habits?",
+        "options": [
+          "The government",
+          "Western Europe",
+          "The culture",
+          "Disloyal workers"
+        ],
+        "answer": 0,
+        "explanation": "The text says the challenge to Japan's culture of overwork has come from the government."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "japan-calls-time-on-long-hours-work-culture-adv-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:japan-calls-time-on-long-hours-work-culture:p0",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-japan-calls-time-on-long-hours-work-culture-int-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Japan Calls Time on Long Hours Work Culture",
+    "text": "Japan's tough work culture helped turn it into an economic superpower, its employees respected and admired in the rest of the world for their commitment to the company, but they have little time to do anything except work. Japan's low birth rate and population decline are partly blamed on the lack of time couples have to start families. More employees are falling ill from stress, or worse, succumbing to karoshi, death through overwork. Japanese people continue to work hard, despite studies that suggest that longer hours in the office or workshop or on the factory floor do not necessarily make people more productive.",
+    "questions": [
+      {
+        "q": "How do people in the world view the Japanese employees?",
+        "options": [
+          "They think they are too committed to their companies",
+          "They highly respect them",
+          "They criticize their willingness to sacrifice family for work",
+          "They think they are too complacent"
+        ],
+        "answer": 1,
+        "explanation": "The text says Japanese employees are revered, or respected and admired, in the rest of the world for their commitment to the company."
+      },
+      {
+        "q": "What has increased because of the Japanese culture of overworking?",
+        "options": [
+          "More workers catching illnesses from colleagues",
+          "More complaints from employees",
+          "More studies failing to link longer working hours to productivity",
+          "More related cases of people dying"
+        ],
+        "answer": 3,
+        "explanation": "The text says more employees are falling ill from stress or dying from overwork, which the text calls karoshi."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "japan-calls-time-on-long-hours-work-culture-int-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:japan-calls-time-on-long-hours-work-culture:p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk-adv-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "John Lewis Christmas Advertisement 2015: Raising Awareness for Age UK",
+    "text": "A lonely old man living in a crater on the moon is the unlikely focus of John Lewis's Christmas 2015 advertisement, as the department store puts a charitable spin on its latest multi-million pound campaign. Amid increasing hype around John Lewis's seasonal ad, which has come to mark the beginning of the Christmas shopping season for many, the department store will aim to use its profile to raise hundreds of thousands of pounds for the charity Age UK. It will also encourage staff and customers to join up with their local branch of the charity to care for elderly people who might otherwise be alone over the holiday. The retailer has spent £7m on a campaign that ranges from the slick TV ad to a smartphone game and merchandise, including glow-in-the-dark pyjamas, as well as areas decked out like the surface of the moon in 11 stores.",
+    "questions": [
+      {
+        "q": "Where does the lonely old man appear in John Lewis's advertisement?",
+        "options": [
+          "In a senior house",
+          "On the moon",
+          "In an Age UK shelter",
+          "In a department store"
+        ],
+        "answer": 1,
+        "explanation": "The text says a lonely old man living in a crater on the moon is the focus of the advertisement."
+      },
+      {
+        "q": "What will be introduced in 11 John Lewis stores?",
+        "options": [
+          "Glow-in-the-dark pyjamas",
+          "Age UK booths",
+          "Surfaces that resemble the moon",
+          "Christmas music"
+        ],
+        "answer": 2,
+        "explanation": "The text says 11 stores will have areas decked out like the surface of the moon."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk-adv-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk:p0",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk-adv-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "John Lewis Christmas Advertisement 2015: Raising Awareness for Age UK",
+    "text": "The campaign features the Oasis track Half the World Away reinterpreted by little-known Norwegian artist Aurora. The ad cost £1m to make. The moon scenes were shot at the Warner Bros Studios, where the Harry Potter films were made, and the specially built set was created by one of the team behind the latest Star Wars film, The Force Awakens. As in the last few years, John Lewis has drummed up interest in their most recent ad prior to its release with a teaser campaign on TV and social media using the hashtag #OnTheMoon. There will be a full moon on Christmas Day 2015 - a complete coincidence, according to Swift.",
+    "questions": [
+      {
+        "q": "When was the hashtag #OnTheMoon released this year?",
+        "options": [
+          "Prior to the release of the full advertisement",
+          "Prior to the release of The Force Awakens",
+          "Prior to the release of a short teaser film",
+          "Prior to the release of a new line of products"
+        ],
+        "answer": 0,
+        "explanation": "The text says John Lewis built interest in the ad before its release with a teaser campaign using the hashtag #OnTheMoon."
+      },
+      {
+        "q": "Who used the #OnTheMoon hashtag for their campaign?",
+        "options": [
+          "NASA",
+          "A TV film about the first moon landing",
+          "John Lewis",
+          "The film \"The Force Awakens\""
+        ],
+        "answer": 2,
+        "explanation": "The text says John Lewis used the hashtag #OnTheMoon in a teaser campaign on TV and social media."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk-adv-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk:p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk-adv-p3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "John Lewis Christmas Advertisement 2015: Raising Awareness for Age UK",
+    "text": "In 2014, the retailer John Lewis also spent £7m on a campaign featuring a realistic animated penguin and a young boy playing together to the tune of John Lennon's Real Love, sung by British singer-songwriter Tom Odell. It had drummed up 22 million views on YouTube by the first week of January, ahead of the 16.6 million clocked by Sainsbury's ad featuring First World War soldiers sharing a bar of chocolate, the UK's next most popular ad of 2014. Swift said that, despite the hype, John Lewis had stuck to the same strategy for the last five years. \"It's all about thoughtful gifting and going the extra mile for someone you love at Christmas,\" she said. \"In 2015, we don't go into it thinking, 'This is going to be huge,' just getting something right for the brand at this time of year and something we hope customers really love.\"",
+    "questions": [
+      {
+        "q": "Who had the UK's second most popular advertisement in 2014?",
+        "options": [
+          "Sainsbury's",
+          "Starbucks",
+          "John Lewis",
+          "Swift"
+        ],
+        "answer": 0,
+        "explanation": "The text says Sainsbury's ad, with 16.6 million views, was the UK's next most popular ad of 2014 after John Lewis."
+      },
+      {
+        "q": "Who does Swift hope will like John Lewis' 2015 advertisement?",
+        "options": [
+          "Customers",
+          "Young people",
+          "Swift",
+          "22 million YouTube viewers"
+        ],
+        "answer": 0,
+        "explanation": "The text quotes Swift hoping to get something right for the brand that customers really love."
+      },
+      {
+        "q": "What was featured in the UK's second most popular advertisement in 2014?",
+        "options": [
+          "A boy and a penguin playing",
+          "Christmas trees",
+          "John Lewis customers in love",
+          "Soldiers eating chocolate"
+        ],
+        "answer": 3,
+        "explanation": "The text describes the second most popular ad of 2014 as Sainsbury's ad featuring First World War soldiers sharing a bar of chocolate."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk-adv-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk:p3",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk-int-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "John Lewis Christmas Advertisement 2015: Raising Awareness for Age UK",
+    "text": "A lonely old man living on the moon is the unusual focus of John Lewis's 2015 Christmas advertisement. There is increasing hype around John Lewis's seasonal ad, which has come to mark the beginning of the Christmas shopping season for many. The department store will aim to raise hundreds of thousands of pounds for the charity Age UK. It will also encourage staff and customers to join up with their local branch of the charity to care for elderly people who might be alone over the holiday. The department store has spent £7m on a campaign that ranges from the TV ad to a smartphone game and merchandise, including glow-in-the-dark pyjamas, as well as making areas that look like the surface of the moon in 11 of their stores.",
+    "questions": [
+      {
+        "q": "Where does the lonely old man appear in John Lewis's advertisement?",
+        "options": [
+          "On the moon",
+          "In a department store",
+          "In a senior house",
+          "In an Age UK shelter"
+        ],
+        "answer": 0,
+        "explanation": "The text says a lonely old man living on the moon is the unusual focus of the advertisement."
+      },
+      {
+        "q": "What will be introduced in 11 John Lewis stores?",
+        "options": [
+          "Surfaces that resemble the moon",
+          "Age UK booths",
+          "Glow-in-the-dark pyjamas",
+          "Christmas music"
+        ],
+        "answer": 0,
+        "explanation": "The text says the department store is making areas that look like the surface of the moon in 11 of its stores."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk-int-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk:p0",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk-int-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "John Lewis Christmas Advertisement 2015: Raising Awareness for Age UK",
+    "text": "The campaign features the Oasis track Half the World Away reinterpreted by Norwegian artist Aurora. The ad cost £1m to make. The moon scenes were shot at the Warner Bros Studios, where the Harry Potter films were made, and the specially built set was created by one of the team behind the latest Star Wars film, The Force Awakens. As in the last few years, John Lewis has drummed up interest in their most recent ad before its release with a teaser campaign on TV and social media using the hashtag #OnTheMoon. A full moon will fall on Christmas Day 2015 - a complete coincidence, according to Swift.",
+    "questions": [
+      {
+        "q": "When was the hashtag #OnTheMoon released this year?",
+        "options": [
+          "Prior to the release of The Force Awakens",
+          "Prior to the release of the full advertisement",
+          "Prior to the release of a short teaser film",
+          "Prior to the release of a new line of products"
+        ],
+        "answer": 1,
+        "explanation": "The text says John Lewis built interest in the ad before its release with a teaser campaign using the hashtag #OnTheMoon."
+      },
+      {
+        "q": "Who used the #OnTheMoon hashtag for their campaign?",
+        "options": [
+          "A TV film about the first moon landing",
+          "NASA",
+          "The film \"The Force Awakens\"",
+          "John Lewis"
+        ],
+        "answer": 3,
+        "explanation": "The text says John Lewis used the hashtag #OnTheMoon in a teaser campaign on TV and social media."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk-int-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk:p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk-int-p3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "John Lewis Christmas Advertisement 2015: Raising Awareness for Age UK",
+    "text": "In 2014, the retailer John Lewis also spent £7m on a campaign with a realistic animated penguin and a young boy playing together to the tune of John Lennon's Real Love, sung by British singer-songwriter Tom Odell. It had drummed up 22 million views on YouTube by the first week of January - more than the 16.6 million views of Sainsbury's ad with First World War soldiers sharing a bar of chocolate, the UK's second most popular ad of 2014. Swift said that, despite the hype, John Lewis had kept the same strategy for the last five years. \"It's all about thoughtful gifting and going the extra mile for someone you love at Christmas,\" she said. \"In 2015, we don't go into it thinking, 'This is going to be huge,' just getting something right for the brand at this time of year and something we hope customers really love.\"",
+    "questions": [
+      {
+        "q": "Who had the UK's second most popular advertisement in 2014?",
+        "options": [
+          "Starbucks",
+          "John Lewis",
+          "Sainsbury's",
+          "Swift"
+        ],
+        "answer": 2,
+        "explanation": "The text says Sainsbury's ad, with 16.6 million views, was the UK's second most popular ad of 2014."
+      },
+      {
+        "q": "Who does Swift hope will like John Lewis' 2015 advertisement?",
+        "options": [
+          "Swift",
+          "Young people",
+          "22 million YouTube viewers",
+          "Customers"
+        ],
+        "answer": 3,
+        "explanation": "The text quotes Swift hoping to get something right for the brand that customers really love."
+      },
+      {
+        "q": "What was featured in the UK's second most popular advertisement in 2014?",
+        "options": [
+          "Soldiers eating chocolate",
+          "John Lewis customers in love",
+          "A boy and a penguin playing",
+          "Christmas trees"
+        ],
+        "answer": 0,
+        "explanation": "The text describes the second most popular ad of 2014 as Sainsbury's ad with First World War soldiers sharing a bar of chocolate."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk-int-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:john-lewis-christmas-advertisement-2015-raising-awareness-for-age-uk:p3",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-love-hormone-helps-autistic-children-bond-with-others-int-p1",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Love Hormone Helps Autistic Children Bond with Others",
+    "text": "Autism is a disorder that one in 100 people have. It affects people in different ways, but causes difficulties in social interaction and communication. So far, there is no effective treatment for the social problems that autism causes. Researchers at Yale have studied the brain chemical oxytocin as a possible treatment for the social problems caused by autism because it plays an important role in bonding and trust. Results have been mixed, though: one recent study found no significant benefit for young people given the chemical over several days. But Pelphrey said oxytocin might help the brain learn from social interactions; it would work best when used with therapies that encourage people with autism to interact more socially, he said.",
+    "questions": [
+      {
+        "q": "How were the social aspects of autism effectively treated before the time this article was written?",
+        "options": [
+          "With chemicals",
+          "There was no effective treatment available",
+          "With surgery",
+          "So far, by focusing on causes of autism"
+        ],
+        "answer": 1,
+        "explanation": "The text says that so far there is no effective treatment for the social problems that autism causes."
+      },
+      {
+        "q": "What are the results of Oxytocin experiments so far?",
+        "options": [
+          "Some experiments found oxytocin had an effect on autism and some did not",
+          "No experiments have been conducted so far",
+          "Experiments worked well on all participants but one",
+          "They showed good results on more than 100 people"
+        ],
+        "answer": 0,
+        "explanation": "The text says results have been mixed, since one recent study found no significant benefit for young people given the chemical."
+      },
+      {
+        "q": "What is the effectiveness of non-oxytocin treatments for social problems caused by autism?",
+        "options": [
+          "They have no significant effect",
+          "They work for adults but not for children",
+          "They are highly effective but not perfect",
+          "The studies conducted by researchers at Yale are focusing on this question"
+        ],
+        "answer": 0,
+        "explanation": "The text says that so far there is no effective treatment for the social problems caused by autism, so other treatments have no significant effect."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "love-hormone-helps-autistic-children-bond-with-others-int-p1",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:love-hormone-helps-autistic-children-bond-with-others:p1",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-love-hormone-helps-autistic-children-bond-with-others-int-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Love Hormone Helps Autistic Children Bond with Others",
+    "text": "The scientists scanned the brains of 17 young people aged eight to 16 with autism while they looked at images of cars or the eyes of people expressing different emotions. The scans were given 45 minutes after the young people inhaled a placebo or oxytocin through a nasal spray. The scans showed that the reward circuits in the children's brains behaved more normally after a dose of oxytocin: that is, they were more active when the person was looking at faces and less active when looking at the inanimate cars. The study appears in the latest issue of the journal Proceedings of the National Academy of Sciences in the United States.",
+    "questions": [
+      {
+        "q": "What were the two different groups in the experiment?",
+        "options": [
+          "One group looked at images of cars; the other looked at images of facial expressions",
+          "One group was given oxytocin; the other was given placebo",
+          "One group was given behavioral therapy; the other was given cognitive therapy",
+          "One received oxytocin through injections; the other through a nose spray"
+        ],
+        "answer": 1,
+        "explanation": "The text says the young people inhaled either a placebo or oxytocin through a nasal spray before the scans."
+      },
+      {
+        "q": "What is the normal response of reward circuits in children's brains?",
+        "options": [
+          "Increased activity when looking at faces; decreased activity when looking at cars",
+          "The same activity when looking at faces and cars",
+          "Increased activity when looking at cars; decreased activity when looking at faces",
+          "It depends if their age is eight or 16"
+        ],
+        "answer": 0,
+        "explanation": "The text says the reward circuits behaved more normally after oxytocin, being more active for faces and less active for the inanimate cars."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "love-hormone-helps-autistic-children-bond-with-others-int-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:love-hormone-helps-autistic-children-bond-with-others:p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-man-falls-just-short-in-patriot-game-to-be-100-french-adv-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Man Falls Just Short in Patriot Game to be 100% French",
+    "text": "Benjamin Carle is 96.9% made in France, right down to his underpants and socks. Unfortunately, six Ikea forks, a Chinese guitar and unsourced wall paint stopped him being declared a 100% economic patriot, but nobody is perfect. Carle, 26, set out, in 2013, to see if it was possible to live using only French-made products for ten months as part of a television documentary. The idea was triggered by the Minister for Economic Renewal Arnaud Montebourg's call for the public to buy French to save the country's industrial production sector. The experiment cost Carle his smartphone, television, refrigerator (all made in China); his spectacles (Italian); his underpants (Moroccan); morning coffee (Guatemalan) and his adored David Bowie music (British). Fortunately, his long-suffering girlfriend, Anaïs, and cat, Loon, (both French) stuck with him.",
+    "questions": [
+      {
+        "q": "What is true of Carle's Ikea forks?",
+        "options": [
+          "They were bought by his girlfriend",
+          "They were on sale when he bought them",
+          "They are not made in France",
+          "They are 96.9% made in France"
+        ],
+        "answer": 2,
+        "explanation": "The text says Carle was 96.9% French, but six Ikea forks stopped him from being declared 100% French, so they are not made in France."
+      },
+      {
+        "q": "What was the main premise of Carle's television documentary?",
+        "options": [
+          "Trying to convince French people to buy French products",
+          "Living without essential products like smartphone, glasses and coffee",
+          "Trying not to use products manufactured outside of France",
+          "Studying what products French people consume"
+        ],
+        "answer": 2,
+        "explanation": "The text says Carle set out to see whether it was possible to live using only French-made products for ten months."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "man-falls-just-short-in-patriot-game-to-be-100-french-adv-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:man-falls-just-short-in-patriot-game-to-be-100-french:p0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-man-falls-just-short-in-patriot-game-to-be-100-french-adv-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Man Falls Just Short in Patriot Game to be 100% French",
+    "text": "The removal men left Carle's home almost bare. Left without a refrigerator (none are made in France) or nail clippers, he was forced to chill his food on the window ledge and saw at his toenails with a penknife. His foreign-made clothes, down to his underwear, were replaced with more expensive alternatives: French-produced underpants (€26), socks (€9), polo shirt (€75), espadrille sandals ( €26), but no jeans as none are produced in France. During the experiment, Carle scoured supermarket shelves for 100% French-made products, learned to cook seasonal fruit and vegetables grown in France, proudly brushed his teeth with the last toothbrush made in France by a company in Picardie employing 29 people and hand-washed his smalls until he found the last French-made washing machine (which, being top opening, would not fit under the kitchen counter).",
+    "questions": [
+      {
+        "q": "What is true about Carle's jeans prior to the arrival of the removal men?",
+        "options": [
+          "They were drying on the window ledge",
+          "He had no jeans",
+          "They were folded in a drawer",
+          "They were foreign-made"
+        ],
+        "answer": 3,
+        "explanation": "The text says his foreign-made clothes were replaced, and he could not buy French jeans because none are made in France."
+      },
+      {
+        "q": "What is true about Carle's underpants prior to their replacement?",
+        "options": [
+          "They were not produced in France",
+          "They were made by Calvin Klein",
+          "They cost €26",
+          "They were washed in a washing machine that opened at the top"
+        ],
+        "answer": 0,
+        "explanation": "The text says his foreign-made clothes, down to his underwear, were replaced with French-produced alternatives, so the old underpants were not made in France."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "man-falls-just-short-in-patriot-game-to-be-100-french-adv-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:man-falls-just-short-in-patriot-game-to-be-100-french:p2",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-man-falls-just-short-in-patriot-game-to-be-100-french-adv-p6",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Man Falls Just Short in Patriot Game to be 100% French",
+    "text": "According to Carle, \"A T-shirt is more expensive in France but I can be sure it has been produced by workers who are correctly paid and have good working conditions. I cannot be sure about a cheaper T-shirt produced in Asia or Morocco.\" He added: \"It's hypocrisy to go around blaming capitalists for a country's economic decline when people could be doing more as consumers.\" Carle says he hopes to continue supporting French industry and producers, but not 100%. \"It is a full-time job just finding the stuff,\" he said. The first thing he did when the experiment ended was invite his friends around for the evening to enjoy \"a plate of cheese and listen to the David Bowie album Aladdin Sane.\" \"It was difficult not being able to invite people around because there was nowhere to sit ... but I'd choose Bowie over a sofa any day.\"",
+    "questions": [
+      {
+        "q": "What is Carle not sure of when it comes to T-shirts produced in Morocco?",
+        "options": [
+          "Whether his friends would buy them",
+          "Whether they are high-quality",
+          "Whether the workers that produced it had good employment conditions",
+          "Whether they are cheaper than T-shirts produced in France"
+        ],
+        "answer": 2,
+        "explanation": "He says he cannot be sure that a cheaper T-shirt from Asia or Morocco was made by workers with good working conditions."
+      },
+      {
+        "q": "What did Carle's guests do?",
+        "options": [
+          "Bought him a French flag",
+          "Came over wearing T-shirts made in France",
+          "Bought him a record of David Bowie",
+          "Listened to music while standing"
+        ],
+        "answer": 3,
+        "explanation": "The text says his friends came for cheese and Bowie, and there was nowhere to sit, so they listened to music standing."
+      },
+      {
+        "q": "What does Carle say about French workers who manufacture T-shirts?",
+        "options": [
+          "They like eating French cheese",
+          "They will appear in his next documentary",
+          "They have appropriate working conditions",
+          "They wear T-shirts produced in Asia and Morocco"
+        ],
+        "answer": 2,
+        "explanation": "Carle says French-made T-shirts are produced by workers who are correctly paid and have good working conditions."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "man-falls-just-short-in-patriot-game-to-be-100-french-adv-p6",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:man-falls-just-short-in-patriot-game-to-be-100-french:p6",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-man-falls-just-short-in-patriot-game-to-be-100-french-int-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Man Falls Just Short in Patriot Game to be 100% French",
+    "text": "Benjamin Carle is 96.9% made in France, including even his underpants and socks. Unfortunately, six Ikea forks, a Chinese guitar and unsourced wall paint stopped him being declared a 100% economic patriot, but nobody is perfect. Carle, 26, decided, in 2013, to see if it was possible to live using only French-made products for ten months as part of a television documentary. He got the idea after the Minister for Economic Renewal, Arnaud Montebourg, asked the French people to buy French products to save the country's industrial production sector. For the experiment, Carle had to give up his smartphone, television, refrigerator (all made in China); his glasses (Italian); his underpants (Moroccan); morning coffee (Guatemalan) and his favourite David Bowie music (British). Fortunately, his girlfriend, Anaïs, and cat, Loon, are both French.",
+    "questions": [
+      {
+        "q": "What is true of Carle's Ikea forks?",
+        "options": [
+          "They are not made in France",
+          "They were bought by his girlfriend",
+          "They are 96.9% made in France",
+          "They were on sale when he bought them"
+        ],
+        "answer": 0,
+        "explanation": "The text lists the six Ikea forks among the things that kept him from being declared 100% French, so they are not made in France."
+      },
+      {
+        "q": "What was the main premise of Carle's television documentary?",
+        "options": [
+          "Living without essential products like smartphone, glasses and coffee",
+          "Trying to convince French people to buy French products",
+          "Studying what products French people consume",
+          "Trying not to use products manufactured outside of France"
+        ],
+        "answer": 3,
+        "explanation": "The text says he set out to live for ten months using only French-made products as part of a television documentary."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "man-falls-just-short-in-patriot-game-to-be-100-french-int-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:man-falls-just-short-in-patriot-game-to-be-100-french:p0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-man-falls-just-short-in-patriot-game-to-be-100-french-int-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Man Falls Just Short in Patriot Game to be 100% French",
+    "text": "The removal men left Carle's home almost empty. Left without a refrigerator (none are made in France), he was forced to chill his food on the window ledge. His foreign-made clothes, including his underwear, were replaced with more expensive alternatives: French-produced underpants (€26), socks (€9), polo shirt (€75), espadrille sandals (€26), but no jeans because none are produced in France. During the experiment, Carle hunted in supermarkets for 100% French-made products, learned to cook seasonal fruit and vegetables grown in France, proudly brushed his teeth with a toothbrush made in France and hand-washed his underwear until he found a French-made washing machine (which opened at the top and so would not fit under the kitchen counter).",
+    "questions": [
+      {
+        "q": "What is true about Carle's jeans prior to the arrival of the removal men?",
+        "options": [
+          "They were foreign-made",
+          "He had no jeans",
+          "They were folded in a drawer",
+          "They were drying on the window ledge"
+        ],
+        "answer": 0,
+        "explanation": "The text says his foreign-made clothes were replaced with French alternatives, and no French jeans exist, so his old jeans were made abroad."
+      },
+      {
+        "q": "What is true about Carle's underpants prior to their replacement?",
+        "options": [
+          "They were not produced in France",
+          "They were made by Calvin Klein",
+          "They cost €26",
+          "They were washed in a washing machine that opened at the top"
+        ],
+        "answer": 0,
+        "explanation": "The text says his foreign-made clothes, including his underwear, were replaced, so his old underpants were not produced in France."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "man-falls-just-short-in-patriot-game-to-be-100-french-int-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:man-falls-just-short-in-patriot-game-to-be-100-french:p2",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-man-falls-just-short-in-patriot-game-to-be-100-french-int-p4",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Man Falls Just Short in Patriot Game to be 100% French",
+    "text": "The documentary shows Carle - realizing he is addicted to his iPhone - breaking it with a new French-made Tefal saucepan, while his girlfriend shouts: \"Are you crazy? Those are new pans!\" Carle said his aim was to \"save the French economy.\" He admits the experiment was part serious and part jest. At one point, he asked a French language expert to check if he should keep using \"cool\" and other English words - he was advised to swap it for the nearest French equivalent: \"chouette.\" When he discovered that France makes no refrigerators (apart from wine coolers) or televisions, but makes airplane seats and windmills, he sighed and said: \"Great. Nothing that will fit into my apartment.\"",
+    "questions": [
+      {
+        "q": "Why does Carle's girlfriend ask him if he is crazy?",
+        "options": [
+          "Because he wants to leave France",
+          "Because he broke an iPhone",
+          "Because he is happy living without a refrigerator",
+          "Because he may have caused unnecessary damage to a pan"
+        ],
+        "answer": 3,
+        "explanation": "The text says his girlfriend shouts that the pans are new right as he breaks his phone with a new saucepan, so he may have damaged it needlessly."
+      },
+      {
+        "q": "What is true of the English word \"cool\"?",
+        "options": [
+          "It started being used in France in the 20th century",
+          "Carle used to use it",
+          "French television ads for refrigerators often use it",
+          "It comes from the French word \"chouette\""
+        ],
+        "answer": 1,
+        "explanation": "The text says a language expert advised him to swap \"cool\" for \"chouette,\" which shows he had been using the word before."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "man-falls-just-short-in-patriot-game-to-be-100-french-int-p4",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:man-falls-just-short-in-patriot-game-to-be-100-french:p4",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-man-falls-just-short-in-patriot-game-to-be-100-french-int-p6",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Man Falls Just Short in Patriot Game to be 100% French",
+    "text": "According to Carle, \"A T-shirt is more expensive in France but I can be sure it has been produced by workers who are correctly paid and have good working conditions. I cannot be sure about a cheaper T-shirt produced in Asia or Morocco. People could do more as consumers.\" Carle says he hopes to continue supporting French industry and producers, but not 100%. \"It is a full-time job just finding the stuff,\" he said. The first thing he did when the experiment ended was invite his friends for the evening to enjoy \"a plate of cheese and listen to the David Bowie album Aladdin Sane.\" \"It was difficult not being able to invite people because there was nowhere to sit ... but I'd choose Bowie over a sofa any day.\"",
+    "questions": [
+      {
+        "q": "What is Carle not sure of when it comes to T-shirts produced in Morocco?",
+        "options": [
+          "Whether his friends would buy them",
+          "Whether they are high-quality",
+          "Whether they are cheaper than T-shirts produced in France",
+          "Whether the workers that produced it had good employment conditions"
+        ],
+        "answer": 3,
+        "explanation": "He says he cannot be sure that a cheaper T-shirt made in Asia or Morocco was produced by workers who are correctly paid and work in good conditions."
+      },
+      {
+        "q": "What did Carle's guests do?",
+        "options": [
+          "Bought him a French flag",
+          "Came over wearing T-shirts made in France",
+          "Listened to music while standing",
+          "Bought him a record of David Bowie"
+        ],
+        "answer": 2,
+        "explanation": "The text says his friends came to listen to a Bowie album, and there was nowhere to sit, so they listened while standing."
+      },
+      {
+        "q": "What does Carle say about French workers who manufacture T-shirts?",
+        "options": [
+          "They have appropriate working conditions",
+          "They wear T-shirts produced in Asia and Morocco",
+          "They like eating French cheese",
+          "They will appear in his next documentary"
+        ],
+        "answer": 0,
+        "explanation": "Carle says a French-made T-shirt comes from workers who are correctly paid and have good working conditions."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "man-falls-just-short-in-patriot-game-to-be-100-french-int-p6",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:man-falls-just-short-in-patriot-game-to-be-100-french:p6",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-morocco-poised-to-become-a-solar-superpower-int-p3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Morocco Poised to Become a Solar Superpower",
+    "text": "Technicians say that the Noor 2 and 3 plants, due to open in 2017, will store energy for up to eight hours - this gives the possibility of 24/7 solar energy in the Sahara and the surrounding region. The first part of the project is nearly completed and Morocco has bigger international ambitions. \"We are already involved in transportation lines to cover the full south of Morocco and Mauritania,\" says Ahmed Baroudi, manager of the national renewable energy investment company. But he says the project's effects will go further - even as far as the Middle East. Exporting solar energy could have stabilizing effects within and between countries, according to the Moroccan solar energy agency (Masen). Morocco is making plans with Tunisia and energy exports northwards across the Mediterranean are a key goal.",
+    "questions": [
+      {
+        "q": "What is true of Tunisia?",
+        "options": [
+          "It will be the second largest electricity manufacturer in North Africa",
+          "It discusses with Morocco the possibility of exporting energy",
+          "It will make energy available 24/7 in the Sahara",
+          "It may import energy from Morocco via the Mediterranean sea"
+        ],
+        "answer": 1,
+        "explanation": "The text says Morocco is making plans with Tunisia, and energy exports across the Mediterranean are a key goal, so the two countries are discussing exports."
+      },
+      {
+        "q": "What will the energy-storing capacity of the Noor 2 and 3 plants allow them to do?",
+        "options": [
+          "Provide energy to the United States",
+          "Provide energy to the entire Middle East",
+          "Provide energy for up to eight hours a day",
+          "Provide energy 24 hours a day"
+        ],
+        "answer": 3,
+        "explanation": "The text says the plants will store energy for up to eight hours, which gives the possibility of solar energy 24/7."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "morocco-poised-to-become-a-solar-superpower-int-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:morocco-poised-to-become-a-solar-superpower:p3",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-nepal-s-tiger-population-on-the-rise-adv-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Nepal’s Tiger Population on the Rise",
+    "text": "Tigers are more numerous in Nepal than at any time since the 1970s, a new census has revealed, giving conservationists hope that the big cats, whose numbers have been dropping across south Asia for 100 years, can be saved. The number of wild royal bengal tigers in Nepal has increased to 198 - a 63.6% rise in five years - the government survey showed. \"This is very encouraging,\" said Maheshwar Dhakal, an ecologist with Nepal's Department of National Parks and Wildlife Conservation. The census is based on the examination of pictures from more than 500 cameras placed in five protected areas and three wildlife corridors. More than 250 conservationists and wildlife experts worked on the survey, which cost about £250,000.",
+    "questions": [
+      {
+        "q": "What has happened to Nepal's royal bengal tiger population over the past five years?",
+        "options": [
+          "It has increased by 198 tigers",
+          "It has steadily decrease",
+          "It has increased by 500 tigers in five protected areas",
+          "It has increased and has now reached 198 tigers"
+        ],
+        "answer": 3,
+        "explanation": "The text says the number of wild tigers rose to 198, a 63.6 percent increase in five years."
+      },
+      {
+        "q": "What was done as part of the tiger population study?",
+        "options": [
+          "Experts from other countries were brought over to Nepal",
+          "500 cameras were mounted on tigers",
+          "Pictures were taken in wildlife areas",
+          "Dhakal was hired by Nepal's Department of National Parks"
+        ],
+        "answer": 2,
+        "explanation": "The text says the census is based on pictures from more than 500 cameras placed in protected areas and wildlife corridors."
+      },
+      {
+        "q": "What is true of conservationists and wildlife experts working on the survey?",
+        "options": [
+          "Many of them came to Nepal from other countries",
+          "Some of them were paid £250,000",
+          "There were more than 250 of them",
+          "There were more of them than at any time since the 1970s"
+        ],
+        "answer": 2,
+        "explanation": "The text says more than 250 conservationists and wildlife experts worked on the survey."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "nepal-s-tiger-population-on-the-rise-adv-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:nepal-s-tiger-population-on-the-rise:p0",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-nepal-s-tiger-population-on-the-rise-int-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Nepal’s Tiger Population on the Rise",
+    "text": "According to a new census, there are more tigers in Nepal than at any time since the 1970s. This has given conservationists hope that the big cats, whose numbers have been dropping across south Asia for 100 years, can be saved. The number of wild royal bengal tigers in Nepal has increased to 198 - a 63.6% rise in five years - the government survey showed. \"This is very good news,\" said Maheshwar Dhakal, an ecologist with Nepal's Department of National Parks and Wildlife Conservation. The census is based on the examination of pictures from more than 500 cameras in five protected areas and three wildlife corridors. More than 250 conservationists and wildlife experts worked on the survey, which cost about £250,000.",
+    "questions": [
+      {
+        "q": "What has happened to Nepal's royal bengal tiger population over the past five years?",
+        "options": [
+          "It has increased by 198 tigers",
+          "It has steadily decrease",
+          "It has increased by 500 tigers in five protected areas",
+          "It has increased and has now reached 198 tigers"
+        ],
+        "answer": 3,
+        "explanation": "The text says the number of wild royal bengal tigers has increased to 198, a 63.6 percent rise in five years."
+      },
+      {
+        "q": "What was done as part of the tiger population study?",
+        "options": [
+          "Experts from other countries were brought over to Nepal",
+          "Pictures were taken in wildlife areas",
+          "Dhakal was hired by Nepal's Department of National Parks",
+          "500 cameras were mounted on tigers"
+        ],
+        "answer": 1,
+        "explanation": "The text says the census is based on pictures from more than 500 cameras placed in protected areas and wildlife corridors."
+      },
+      {
+        "q": "What is true of conservationists and wildlife experts working on the survey?",
+        "options": [
+          "Some of them were paid £250,000",
+          "There were more of them than at any time since the 1970s",
+          "There were more than 250 of them",
+          "Many of them came to Nepal from other countries"
+        ],
+        "answer": 2,
+        "explanation": "The text says more than 250 conservationists and wildlife experts worked on the survey."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "nepal-s-tiger-population-on-the-rise-int-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:nepal-s-tiger-population-on-the-rise:p0",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-on-the-trail-of-the-wolf-adv-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "On the Trail of the Wolf",
+    "text": "Wolves are not pooches. Myslajek says only scientific arguments - the need to regenerate forests and control the wild animal population - can save Europe's wild carnivores, especially the unpopular wolf. \"Natural predators balance the ecosystem. They keep herbivores in check, thus allowing trees to grow tall for birds to nest in.\" The ban on wolf hunting in the western Carpathian mountains came into force in 1995 and nationwide in Poland in 1998. There are now resident packs in virtually all the country's major forests. The predators coexist with humans rather than being fenced off, as they are in African safari parks.",
+    "questions": [
+      {
+        "q": "What is a result of the predatory habits of wolves?",
+        "options": [
+          "It prevents harmful invasive species from thriving",
+          "It reduces the number of birds in the ecosystem",
+          "It allows wolf packs to form in major forests",
+          "It allows birds to have tall trees to nest in"
+        ],
+        "answer": 3,
+        "explanation": "The text says predators keep herbivores in check, which allows trees to grow tall enough for birds to nest in."
+      },
+      {
+        "q": "What is a consequence of the wolf-hunting ban?",
+        "options": [
+          "More herbivores can thrive in the ecosystem",
+          "More humans are attacked by wolves",
+          "Humans and wolves exist peacefully together in forests",
+          "Wolf packs avoid humans across the country's major forests"
+        ],
+        "answer": 2,
+        "explanation": "The text says wolves now live in nearly all major forests and coexist with humans rather than being fenced off."
+      },
+      {
+        "q": "Where was wolf-hunting banned in 1995?",
+        "options": [
+          "Forests with no human population",
+          "The whole country of Poland",
+          "The western Carpathian mountains",
+          "Most of Poland's major forests"
+        ],
+        "answer": 2,
+        "explanation": "The text says the ban on wolf hunting came into force in 1995 in the western Carpathian mountains."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "on-the-trail-of-the-wolf-adv-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:on-the-trail-of-the-wolf:p2",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-on-the-trail-of-the-wolf-int-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "On the Trail of the Wolf",
+    "text": "Myslajek says only scientific arguments - the need to regenerate forests and control the wild animal population - can save Europe's wild carnivores, especially the unpopular wolf. \"Natural predators balance the ecosystem. They reduce the number of herbivores, which allows trees to grow tall for birds to nest in.\" The ban on wolf hunting in the western Carpathian mountains became law in 1995 and in the whole of Poland in 1998. There are now wolf packs in nearly all the country's major forests where the wolves coexist with humans.",
+    "questions": [
+      {
+        "q": "What is a result of the predatory habits of wolves?",
+        "options": [
+          "It prevents harmful invasive species from thriving",
+          "It allows wolf packs to form in major forests",
+          "It reduces the number of birds in the ecosystem",
+          "It allows birds to have tall trees to nest in"
+        ],
+        "answer": 3,
+        "explanation": "The text says predators reduce the number of herbivores, which allows trees to grow tall for birds to nest in."
+      },
+      {
+        "q": "What is a consequence of the wolf-hunting ban?",
+        "options": [
+          "Wolf packs avoid humans across the country's major forests",
+          "More humans are attacked by wolves",
+          "Humans and wolves exist peacefully together in forests",
+          "More herbivores can thrive in the ecosystem"
+        ],
+        "answer": 2,
+        "explanation": "The text says wolf packs are now in nearly all major forests where the wolves coexist with humans."
+      },
+      {
+        "q": "Where was wolf-hunting banned in 1995?",
+        "options": [
+          "Forests with no human population",
+          "The western Carpathian mountains",
+          "The whole country of Poland",
+          "Most of Poland's major forests"
+        ],
+        "answer": 1,
+        "explanation": "The text says the ban became law in 1995 in the western Carpathian mountains and in 1998 in the whole of Poland."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "on-the-trail-of-the-wolf-int-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:on-the-trail-of-the-wolf:p2",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-philip-pullman-illegal-downloading-is-moral-squalor-adv-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Philip Pullman Illegal Downloading Is Moral Squalor",
+    "text": "Illegal downloading is a kind of \"moral squalor\" and theft, as much as reaching in to someone's pocket and stealing their wallet is theft, says author Philip Pullman. In an article for Index on Censorship, Pullman, who is president of the Society of Authors, makes a robust defence of copyright laws. He is highly critical of Internet users who think it is OK to download music or books without paying for them.",
+    "questions": [
+      {
+        "q": "Where does Philip Pullman hold a senior position?",
+        "options": [
+          "The \"Arts Union\"",
+          "The \"Index on Censorship\"",
+          "The \"Association Against Illegal Downloading\"",
+          "The \"Society of Authors\""
+        ],
+        "answer": 3,
+        "explanation": "The text says Pullman, who wrote the Index on Censorship article, is the president of the Society of Authors."
+      },
+      {
+        "q": "What does Pullman think about pirating?",
+        "options": [
+          "He disapproves of people who are OK with pirating",
+          "He thinks it is only OK to download music or books without paying for them if it is done infrequently",
+          "He thinks it depends on the user's financial situation",
+          "He believes it is a robust defense against copyright laws"
+        ],
+        "answer": 0,
+        "explanation": "The text says he is highly critical of Internet users who think it is OK to download music or books without paying."
+      },
+      {
+        "q": "Who does Pullman criticize?",
+        "options": [
+          "People who think it's alright to download books without paying for them",
+          "People who post music or books online to places where other people can access them without paying",
+          "Websites that support illegal downloading",
+          "People who don't defend copyright laws"
+        ],
+        "answer": 0,
+        "explanation": "The text says he is highly critical of Internet users who think it is OK to download music or books without paying for them."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "philip-pullman-illegal-downloading-is-moral-squalor-adv-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:philip-pullman-illegal-downloading-is-moral-squalor:p0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-philip-pullman-illegal-downloading-is-moral-squalor-adv-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Philip Pullman Illegal Downloading Is Moral Squalor",
+    "text": "Pullman is writing in the next issue of the campaign group's magazine in a dialogue with Cathy Casserly, chief executive of Creative Commons, which offers open content licenses \"that lets creators take copyright into their own hands\". Casserly argues that there is much wrong with copyright, which was created \"in an analog age\". Casserly writes: \"By default, copyright closes the door on countless ways that people can share, build upon and remix each other's work, possibilities that were unimaginable when those laws were established.\" She says artists need to think creatively about how they distribute and monetize their work, quoting the science fiction writer Cory Doctorow, who said: \"My problem is not piracy, it's obscurity.\"",
+    "questions": [
+      {
+        "q": "What is Casserly's position on current copyright law?",
+        "options": [
+          "It will allow artists to do more creative work",
+          "It is a good compromise between the needs of artists and consumers",
+          "It is outdated and too strict",
+          "It is unable to protect authors from having their work shared, built upon and remixed"
+        ],
+        "answer": 2,
+        "explanation": "Casserly says copyright was created in an analog age and closes the door on ways people can share, build upon and remix work, so it is outdated and restrictive."
+      },
+      {
+        "q": "What does Casserly recommend that artists do?",
+        "options": [
+          "Think of out-of-the-box ways to get money from their work",
+          "Use a creative new system that Casserly invented to earn money",
+          "Offer more of their creative output for a lower price",
+          "Build upon each other's work"
+        ],
+        "answer": 0,
+        "explanation": "The text says she wants artists to think creatively about how they distribute and monetize their work, meaning new ways to earn money."
+      },
+      {
+        "q": "According to Casserly, what does the current copyright law prevent artists from doing?",
+        "options": [
+          "Earning money from the work they produce",
+          "Imagining new possibilities for protecting their work",
+          "Stealing the work of others",
+          "Adding to or editing work that was created by others"
+        ],
+        "answer": 3,
+        "explanation": "Casserly says copyright closes the door on ways that people can share, build upon and remix each other's work."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "philip-pullman-illegal-downloading-is-moral-squalor-adv-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:philip-pullman-illegal-downloading-is-moral-squalor:p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-philip-pullman-illegal-downloading-is-moral-squalor-int-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Philip Pullman Illegal Downloading Is Moral Squalor",
+    "text": "Illegal downloading is a kind of \"moral squalor\" and theft, as much as reaching in to someone's pocket and stealing their wallet is theft, says author Philip Pullman. In an article for Index on Censorship, Pullman, who is president of the Society of Authors, makes a robust defence of copyright laws. He is highly critical of Internet users who think it is OK to download music or books without paying for them.",
+    "questions": [
+      {
+        "q": "Where does Philip Pullman hold a senior position?",
+        "options": [
+          "The \"Arts Union\"",
+          "The \"Index on Censorship\"",
+          "The \"Association Against Illegal Downloading\"",
+          "The \"Society of Authors\""
+        ],
+        "answer": 3,
+        "explanation": "The text says Pullman, who wrote the Index on Censorship article, is the president of the Society of Authors."
+      },
+      {
+        "q": "What does Pullman think about pirating?",
+        "options": [
+          "He believes it is a robust defense against copyright laws",
+          "He disapproves of people who are OK with pirating",
+          "He thinks it depends on the user's financial situation",
+          "He thinks it is only OK to download music or books without paying for them if it is done infrequently"
+        ],
+        "answer": 1,
+        "explanation": "The text says he is highly critical of Internet users who think it is OK to download music or books without paying."
+      },
+      {
+        "q": "Who does Pullman criticize?",
+        "options": [
+          "People who don't defend copyright laws",
+          "Websites that support illegal downloading",
+          "People who post music or books online to places where other people can access them without paying",
+          "People who think it's alright to download books without paying for them"
+        ],
+        "answer": 3,
+        "explanation": "The text says he is highly critical of Internet users who think it is OK to download music or books without paying for them."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "philip-pullman-illegal-downloading-is-moral-squalor-int-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:philip-pullman-illegal-downloading-is-moral-squalor:p0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-philip-pullman-illegal-downloading-is-moral-squalor-int-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Philip Pullman Illegal Downloading Is Moral Squalor",
+    "text": "Pullman is writing in the next issue of the campaign group's magazine in a dialogue with Cathy Casserly, chief executive of Creative Commons, which offers open content licenses \"that lets creators take copyright into their own hands\". Casserly argues that there is much wrong with copyright, which was created \"in an analog age\". Casserly writes: \"By default, copyright closes the door on countless ways that people can share, build upon and remix each other's work, possibilities that were unimaginable when those laws were established.\" She says artists need to think creatively about how they distribute and monetize their work, quoting the science fiction writer Cory Doctorow, who said: \"My problem is not piracy, it's obscurity.\"",
+    "questions": [
+      {
+        "q": "What is Casserly's position on current copyright law?",
+        "options": [
+          "It will allow artists to do more creative work",
+          "It is a good compromise between the needs of artists and consumers",
+          "It is unable to protect authors from having their work shared, built upon and remixed",
+          "It is outdated and too strict"
+        ],
+        "answer": 3,
+        "explanation": "Casserly says copyright was created in an analog age and closes the door on ways people can share, build upon and remix work, so it is outdated and restrictive."
+      },
+      {
+        "q": "What does Casserly recommend that artists do?",
+        "options": [
+          "Think of out-of-the-box ways to get money from their work",
+          "Build upon each other's work",
+          "Use a creative new system that Casserly invented to earn money",
+          "Offer more of their creative output for a lower price"
+        ],
+        "answer": 0,
+        "explanation": "The text says she wants artists to think creatively about how they distribute and monetize their work, meaning new ways to earn money."
+      },
+      {
+        "q": "According to Casserly, what does the current copyright law prevent artists from doing?",
+        "options": [
+          "Stealing the work of others",
+          "Earning money from the work they produce",
+          "Adding to or editing work that was created by others",
+          "Imagining new possibilities for protecting their work"
+        ],
+        "answer": 2,
+        "explanation": "Casserly says copyright closes the door on ways that people can share, build upon and remix each other's work."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "philip-pullman-illegal-downloading-is-moral-squalor-int-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:philip-pullman-illegal-downloading-is-moral-squalor:p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-spain-s-robin-hood-adv-p3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Spain's Robin Hood",
+    "text": "Duran was arrested in Spain in 2009, on charges brought against him by six of the 39 banks that had lent him money. He spent two months in prison before being bailed for €50,000. In February 2013, facing up to eight years in prison, he decided to flee rather than stand trial. \"I don't see legitimacy in a judicial system based on authority, because I don't recognize its authority,\" he said. His actions, he said, were in the vanguard of a worldwide debate on the economic crisis. The timing pushed the anti-capitalist movement into the light, just as many Spaniards were seeking alternatives to a system that had wreaked havoc on their lives.",
+    "questions": [
+      {
+        "q": "Why did Duran leave Spain?",
+        "options": [
+          "He could be sentenced to substantial prison time",
+          "He was ordered by the authorities to leave the country",
+          "He was sentenced to eight years in prison",
+          "He wanted to draw international attention to his anti-capitalist movement"
+        ],
+        "answer": 0,
+        "explanation": "The text says that facing up to eight years in prison, he decided to flee rather than stand trial."
+      },
+      {
+        "q": "What effect did Duran's actions before his arrest have?",
+        "options": [
+          "More people became anti-capitalist",
+          "Taking money from the banks became harder",
+          "More people became aware of the anti-capitalist movement",
+          "People began searching for alternatives to the current system"
+        ],
+        "answer": 2,
+        "explanation": "The text says the timing of his actions pushed the anti-capitalist movement into the light, so more people became aware of it."
+      },
+      {
+        "q": "How much prison time would Duran have to serve if he hadn't fled Spain?",
+        "options": [
+          "A life sentence",
+          "Up to eight years",
+          "Two months",
+          "One year (the year 2013)"
+        ],
+        "answer": 1,
+        "explanation": "The text says he was facing up to eight years in prison if he stood trial."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "spain-s-robin-hood-adv-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:spain-s-robin-hood:p3",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-spain-s-robin-hood-int-p3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Spain's Robin Hood",
+    "text": "Duran was arrested in Spain in 2009, on charges brought against him by six of the 39 banks that had lent him money. He spent two months in prison before being let out on €50,000 bail. In February 2013, threatened with up to eight years in prison, he decided to flee rather than stand trial because, he said, he doesn't recognize the authority of the judicial system. His actions, he said, were an important part of a worldwide debate on the economic crisis. The timing pushed the anti-capitalist movement into the light, just as many Spaniards were looking for alternatives to a system that has caused chaos in their lives.",
+    "questions": [
+      {
+        "q": "Why did Duran leave Spain?",
+        "options": [
+          "He could be sentenced to substantial prison time",
+          "He was sentenced to eight years in prison",
+          "He was ordered by the authorities to leave the country",
+          "He wanted to draw international attention to his anti-capitalist movement"
+        ],
+        "answer": 0,
+        "explanation": "The text says that threatened with up to eight years in prison, he decided to flee rather than stand trial."
+      },
+      {
+        "q": "What effect did Duran's actions before his arrest have?",
+        "options": [
+          "More people became aware of the anti-capitalist movement",
+          "More people became anti-capitalist",
+          "Taking money from the banks became harder",
+          "People began searching for alternatives to the current system"
+        ],
+        "answer": 0,
+        "explanation": "The text says the timing of his actions pushed the anti-capitalist movement into the light, so more people became aware of it."
+      },
+      {
+        "q": "How much prison time would Duran have to serve if he hadn't fled Spain?",
+        "options": [
+          "Up to eight years",
+          "Two months",
+          "A life sentence",
+          "One year (the year 2013)"
+        ],
+        "answer": 0,
+        "explanation": "The text says he was threatened with up to eight years in prison if he stood trial."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "spain-s-robin-hood-int-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:spain-s-robin-hood:p3",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-the-greek-island-where-time-is-running-out-adv-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "The Greek Island Where Time Is Running Out",
+    "text": "Kakali has badgered the government and a major Greek bank into promising an ATM within weeks but she still feels it may come too late for this season on an island where tourism dwarfs the two other sources of income: fishing and agriculture: \"We have almost no reservations in August, when usually we have people calling us up asking to find a room and we can't help them.\" A hard winter ahead may be slightly improved by 50 workers billeted in the village to expand the harbor but there is an even bigger crisis looming because the government has said it will end a decades-old tax break for islands.",
+    "questions": [
+      {
+        "q": "What is the upcoming \"bigger crisis\"?",
+        "options": [
+          "Islands will have to pay additional taxes",
+          "The removal of ATMs from the island",
+          "The government will end taxes for tourists visiting the island",
+          "The Greek government will shut down in the summer"
+        ],
+        "answer": 0,
+        "explanation": "The text says the government will end a decades-old tax break for islands, so islands will have to pay more tax."
+      },
+      {
+        "q": "Who has said islands will stop getting their current tax breaks?",
+        "options": [
+          "The islands themselves",
+          "Kakali",
+          "A newspaper reporter",
+          "The government"
+        ],
+        "answer": 3,
+        "explanation": "The text says the government has said it will end the tax break for islands."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "the-greek-island-where-time-is-running-out-adv-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:the-greek-island-where-time-is-running-out:p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-the-greek-island-where-time-is-running-out-adv-p6",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "The Greek Island Where Time Is Running Out",
+    "text": "If taxes go up, even more young people will leave, warns Mayor Kakali, who has devoted her year in office to improving education on the island to help keep it an attractive place for families. Because it is one of the smallest islands, Agios Efstratios has until 2017 before the rise is due to come in, so Kakali hopes that the roller coaster of Greek politics means it yet may be spared. If not, though, she plans to travel to Athens to remind the distant government what the tax rise would cost. \"The truth is the government doesn't pay much attention to the islands of the north Aegean,\" she said, \"so I would take all the kids from our school to the gates of parliament, to tell them: 'There is still life in these islands'.\"",
+    "questions": [
+      {
+        "q": "What does Kakali hope will happen by 2017?",
+        "options": [
+          "More hotels will be built in Agios Efstratios",
+          "Greek politicians will start paying more taxes",
+          "Government officials in Athens will invite Kakali to discuss the island's situation",
+          "The planned tax increase for Agios Efstratios will be cancelled"
+        ],
+        "answer": 3,
+        "explanation": "The text says the tax rise is due in 2017 and Kakali hopes the island may be spared, meaning the increase will be cancelled."
+      },
+      {
+        "q": "What will Kakali do if Agios Efstratios has to pay the proposed tax increase?",
+        "options": [
+          "Visit the government with kids from Agios Efstratios",
+          "Invite parliament members to visit schools in Agios Efstratios",
+          "Encourage young people to leave Agios Efstratios",
+          "Resign from her position to protest the government"
+        ],
+        "answer": 0,
+        "explanation": "The text says that if the tax comes, Kakali plans to travel to Athens and take all the school's kids to the gates of parliament."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "the-greek-island-where-time-is-running-out-adv-p6",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:the-greek-island-where-time-is-running-out:p6",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-the-greek-island-where-time-is-running-out-int-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "The Greek Island Where Time Is Running Out",
+    "text": "Kakali has badgered the government and a major Greek bank into promising an ATM within weeks but she still feels it may be too late for this season on an island where tourism is the main source of income: \"We have almost no reservations in August, when usually we have people calling us up asking to find a room and we can't help them.\" A hard winter ahead may be slightly improved because 50 workers will live and work in the village to expand the harbor. But there is an even bigger crisis ahead because the government has said it will end a tax break for islands.",
+    "questions": [
+      {
+        "q": "What is the upcoming \"bigger crisis\"?",
+        "options": [
+          "The government will end taxes for tourists visiting the island",
+          "The Greek government will shut down in the summer",
+          "Islands will have to pay additional taxes",
+          "The removal of ATMs from the island"
+        ],
+        "answer": 2,
+        "explanation": "The text says the government has said it will end a tax break for islands, so islands will have to pay more tax."
+      },
+      {
+        "q": "Who has said islands will stop getting their current tax breaks?",
+        "options": [
+          "Kakali",
+          "The islands themselves",
+          "A newspaper reporter",
+          "The government"
+        ],
+        "answer": 3,
+        "explanation": "The text says the government has said it will end the tax break for islands."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "the-greek-island-where-time-is-running-out-int-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:the-greek-island-where-time-is-running-out:p2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-the-greek-island-where-time-is-running-out-int-p6",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "The Greek Island Where Time Is Running Out",
+    "text": "If taxes go up, even more young people will leave, warns Mayor Kakali, who has worked to improve education on the island to help keep it an attractive place for families. Because it is one of the smallest islands, Agios Efstratios has until 2017 before the tax rise comes in. Kakali hopes that, because things change very fast in Greek politics, the island might still avoid the tax. If not, though, she plans to travel to Athens to remind the distant government what the tax rise would cost. \"The truth is the government doesn't pay much attention to the islands of the north Aegean,\" she said, \"so I would take all the kids from our school to the gates of parliament, to tell them: 'There is still life in these islands'.\"",
+    "questions": [
+      {
+        "q": "What does Kakali hope will happen by 2017?",
+        "options": [
+          "Greek politicians will start paying more taxes",
+          "The planned tax increase for Agios Efstratios will be cancelled",
+          "More hotels will be built in Agios Efstratios",
+          "Government officials in Athens will invite Kakali to discuss the island's situation"
+        ],
+        "answer": 1,
+        "explanation": "The text says the tax rise is due in 2017 and Kakali hopes the island might still avoid it, meaning the increase will be cancelled."
+      },
+      {
+        "q": "What will Kakali do if Agios Efstratios has to pay the proposed tax increase?",
+        "options": [
+          "Invite parliament members to visit schools in Agios Efstratios",
+          "Resign from her position to protest the government",
+          "Visit the government with kids from Agios Efstratios",
+          "Encourage young people to leave Agios Efstratios"
+        ],
+        "answer": 2,
+        "explanation": "The text says that if the tax comes, Kakali plans to travel to Athens and take all the school's kids to the gates of parliament."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "the-greek-island-where-time-is-running-out-int-p6",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:the-greek-island-where-time-is-running-out:p6",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-the-secrets-of-the-mystery-shopper-int-p3",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "The Secrets of the Mystery Shopper",
+    "text": "Like most full-time mystery shoppers, Laura is self-employed. Her income is around £30,000 to £40,000 a year and that doesn't include all the freebies she gets on the job. \"With the perks, it's enough to live on.\" She finds it satisfying to return to a store she has previously mystery shopped and see standards have improved. \"I know it must be because of my feedback or why would they pay me to give it? Some of the retailers I shop at win awards for customer service and I think that is down to us mystery shoppers. I feel I'm not just doing a service for my company; I'm doing a service for all shoppers everywhere.\"",
+    "questions": [
+      {
+        "q": "What is Laura's opinion of her income from being a full-time mystery shopper?",
+        "options": [
+          "It's sufficient, though she would prefer receiving £30,000 to £40,000 a year",
+          "It's sufficient, given the perks",
+          "It's not sufficient, as she is doing a service for all shoppers everywhere",
+          "It's higher than most of her friends' incomes"
+        ],
+        "answer": 1,
+        "explanation": "Laura says her income is 30,000 to 40,000 pounds plus freebies, and that with the perks it is enough to live on."
+      },
+      {
+        "q": "What does Laura say is \"satisfying\"?",
+        "options": [
+          "The flexibility of the working hours",
+          "A salary of £30,000 to £40,000 a year",
+          "Returning as regular shopper to stores she previously visited as a mystery shopper",
+          "Observing improvement in stores she visited as a mystery shopper"
+        ],
+        "answer": 3,
+        "explanation": "The text says she finds it satisfying to return to a store she previously mystery shopped and see that standards have improved."
+      },
+      {
+        "q": "What does Laura find satisfying when returning to some of the stores she visited while mystery shopping?",
+        "options": [
+          "Being able to simply enjoy the shopping experience without having to work",
+          "Getting more freebies",
+          "Seeing that her mystery shopping had an impact on the service",
+          "Being told that her feedback improved the service standards"
+        ],
+        "answer": 2,
+        "explanation": "She says the improved standards must be because of her feedback, so she is satisfied that her shopping had an impact on the service."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "the-secrets-of-the-mystery-shopper-int-p3",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:the-secrets-of-the-mystery-shopper:p3",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-why-is-sweden-closing-its-prisons-adv-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Why is Sweden Closing its Prisons?",
+    "text": "Swedish prisons have long had a reputation around the world for being progressive. But are the country's prisons a soft option? The head of Sweden's prison and probation service, Nils Oberg, announced in November 2013 that four Swedish prisons are to be closed due to an \"out of the ordinary\" decline in prisoner numbers. Although there has been no fall in crime rates, between 2011 and 2012 there was a 6% drop in Sweden's prisoner population, now a little over 4,500. A similar decrease is expected in 2013 and 2014. Oberg admitted to being puzzled by the unexpected dip, but expressed optimism that the reason was to do with how his prisons are run. \"We certainly hope that the efforts we invest in rehabilitation and preventing relapse of crime has had an impact,\" he said.",
+    "questions": [
+      {
+        "q": "What changed between 2011 and 2012?",
+        "options": [
+          "Crime rates in Sweden have dropped",
+          "There are fewer people in Sweden's prisons",
+          "The Swedish government started publishing crime statistics",
+          "Swedish prisons became more liberal and progressive"
+        ],
+        "answer": 1,
+        "explanation": "The text says there was a 6 percent drop in Sweden's prisoner population between 2011 and 2012."
+      },
+      {
+        "q": "Did Oberg anticipate the falling number of prisoners in Swedish prisons?",
+        "options": [
+          "No, he was surprised by the drop",
+          "Yes, because of improved prison management and rehabilitation practices",
+          "No, he expected the number of prisoners to increase",
+          "Yes, as he knew that four Swedish prisons had already closed in 2013"
+        ],
+        "answer": 0,
+        "explanation": "The text says Oberg admitted being puzzled by the unexpected dip, which shows he did not anticipate it."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "why-is-sweden-closing-its-prisons-adv-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:why-is-sweden-closing-its-prisons:p0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-why-is-sweden-closing-its-prisons-int-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Why is Sweden Closing its Prisons?",
+    "text": "Swedish prisons have long had a reputation around the world for being progressive. But are the country's prisons a soft option? The head of Sweden's prison and probation service, Nils Oberg, said in November 2013 that four Swedish prisons will close due to an \"out of the ordinary\" fall in prisoner numbers. Although there has been no fall in crime rates, between 2011 and 2012 there was a 6% fall in Sweden's prisoner population, now a little over 4,500. A similar decrease is expected in 2013 and 2014. Oberg said he was puzzled by the unexpected fall, but hoped that the reason was to do with how his prisons are run. \"We certainly hope that the efforts we put into rehabilitation and preventing criminals from reoffending has made a difference,\" he said.",
+    "questions": [
+      {
+        "q": "What changed between 2011 and 2012?",
+        "options": [
+          "There are fewer people in Sweden's prisons",
+          "The Swedish government started publishing crime statistics",
+          "Crime rates in Sweden have dropped",
+          "Swedish prisons became more liberal and progressive"
+        ],
+        "answer": 0,
+        "explanation": "The text says there was a 6 percent fall in Sweden's prisoner population between 2011 and 2012."
+      },
+      {
+        "q": "Did Oberg anticipate the falling number of prisoners in Swedish prisons?",
+        "options": [
+          "Yes, as he knew that four Swedish prisons had already closed in 2013",
+          "Yes, because of improved prison management and rehabilitation practices",
+          "No, he expected the number of prisoners to increase",
+          "No, he was surprised by the drop"
+        ],
+        "answer": 3,
+        "explanation": "The text says Oberg was puzzled by the unexpected fall, which shows he did not anticipate it."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "why-is-sweden-closing-its-prisons-int-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:why-is-sweden-closing-its-prisons:p0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-why-is-sweden-closing-its-prisons-int-p2",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "C1",
+    "title": "Why is Sweden Closing its Prisons?",
+    "text": "The overall reoffending rate in Sweden is between 30 and 40% over three years - to compare that with another European country, the number is around half that of the UK. One thing that has kept reoffending down and the number of prisoners in Sweden below 70 per 100,000 people is that the age of criminal responsibility is 15. In the UK, for example, children aged ten to 17 and young people under the age of 21 have the highest reoffending rates. In Sweden, no young person under the age of 21 can be sentenced to life - this is not the case in many other countries - and they try to keep young offenders out of prison.",
+    "questions": [
+      {
+        "q": "What does \"below 70 per 100,000\" refer to?",
+        "options": [
+          "The success rate of prison escape attempts in Sweden",
+          "The number of people under 21 sentenced to life in Sweden",
+          "The reoffending rate for people under 15 in Sweden",
+          "The number of people who sit in Swedish prisons"
+        ],
+        "answer": 3,
+        "explanation": "The text links keeping the number of prisoners below 70 per 100,000 people to Sweden's prison population, so it counts people in prison."
+      },
+      {
+        "q": "What is true of young offenders in many countries that is not true in Sweden?",
+        "options": [
+          "Offenders under 21 can be given a life-term prison sentence",
+          "Offenders over 15 can be legally accountable for their crimes",
+          "Offenders under 21 are actively kept out of prison",
+          "Offenders under 15 cannot be legally accountable for their crimes"
+        ],
+        "answer": 0,
+        "explanation": "The text says no young person under 21 can be sentenced to life in Sweden, and this is not the case in many other countries."
+      },
+      {
+        "q": "What is true of offenders under the age of 15 in Sweden?",
+        "options": [
+          "They cannot be held responsible for crimes they commit",
+          "The have a particularly low reoffending rate as compared to other age groups",
+          "They find prison conditions harsh",
+          "They have to be released from prison before they turn 21"
+        ],
+        "answer": 0,
+        "explanation": "The text says the age of criminal responsibility in Sweden is 15, so younger offenders cannot be held responsible for their crimes."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "why-is-sweden-closing-its-prisons-int-p2",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:why-is-sweden-closing-its-prisons:p2",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-will-drones-soon-be-delivering-packages-to-your-doorstep-adv-p4",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Will Drones Soon Be Delivering Packages to Your Doorstep",
+    "text": "Part of this is simply that air travel is inherently dangerous and, thus, standards are much higher. \"If you fly commercial airlines, often they'll say, 'Oh, a small component has failed - we have to go back to the gate,'\" Singh said. \"And that's an established industry with 60 years of legacy! I shudder to think that one of these things might come down on a crowded highway.\" Part of the solution, Singh said, is comprehensive contingency planning: \"If things fail, the vehicle has to do something reasonable.\"",
+    "questions": [
+      {
+        "q": "Why does Singh bring up the example of passenger airplanes?",
+        "options": [
+          "To show how many precautions people take when dealing with aircraft",
+          "To demonstrate how often airplane parts fail",
+          "To demonstrate how drones should perform when they need to come down on a busy highway",
+          "To point out how small drones are compared to typical airplanes"
+        ],
+        "answer": 0,
+        "explanation": "Singh notes that even in an established industry with 60 years of legacy, airlines turn back over one small failed component, showing how careful people are with aircraft."
+      },
+      {
+        "q": "What does Singh say drones should do to improve safety?",
+        "options": [
+          "They should have built-in responses to common problems",
+          "They should land immediately in the event of a problem",
+          "They should always return to their base if a problem occurs",
+          "They should have a strategy for handling all circumstances"
+        ],
+        "answer": 3,
+        "explanation": "Singh says the solution is comprehensive contingency planning, so drones need a plan for whatever goes wrong."
+      },
+      {
+        "q": "According to Singh, why do passenger airplanes often return to the gate?",
+        "options": [
+          "A passenger identified a problem with the airplane",
+          "A small part has failed",
+          "Poor weather conditions",
+          "They are in danger of coming down on a busy road"
+        ],
+        "answer": 1,
+        "explanation": "Singh quotes airlines saying a small component has failed, so they have to go back to the gate."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "will-drones-soon-be-delivering-packages-to-your-doorstep-adv-p4",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:will-drones-soon-be-delivering-packages-to-your-doorstep:p4",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-onestopqa-will-drones-soon-be-delivering-packages-to-your-doorstep-int-p0",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Will Drones Soon Be Delivering Packages to Your Doorstep",
+    "text": "Will we soon live in a world where drones deliver packages? If you believe Amazon, the answer is \"yes\". Others are not so sure: we need to make more technical progress in this area but there is also the problem of public safety. Amazon spokesman Paul Misener told a US congress hearing recently that his company would be ready as soon as all the rules were in place. The Federal Aviation Authority (FAA) will finally have regulations on the commercial use of unmanned aircraft by June 2016. But the technology has a long way to go before then and larger machines aren't legal yet - only drones up to 25kg will be legal. And the FAA says that, if you're going to crowd the skies with radio-controlled flying robots, they must all use different radio frequencies that nobody can jam or hijack.",
+    "questions": [
+      {
+        "q": "When does Amazon claim it will be ready to deliver packages using drones?",
+        "options": [
+          "Once the FFA regulations are approved by Congress in 2017",
+          "Once the FFA approves Amazon's existing drones",
+          "Once the FFA releases their rules",
+          "Amazon says it is not sure when this will happen"
+        ],
+        "answer": 2,
+        "explanation": "The text says Amazon's spokesman said the company would be ready as soon as all the rules were in place."
+      },
+      {
+        "q": "What will be included in FAA's new drone rules regarding radio frequencies?",
+        "options": [
+          "Drones over 25kg will have their own frequency bandwidth",
+          "Drones that were jammed or hijacked must switch to a different frequency",
+          "Not all frequencies will be allowed to be used by drones",
+          "All drones must operate at different radio frequencies"
+        ],
+        "answer": 3,
+        "explanation": "The text says the FAA says all drones must use different radio frequencies that nobody can jam or hijack."
+      },
+      {
+        "q": "When will the FAA release regulations on drones?",
+        "options": [
+          "Soon, but the exact date is not specified",
+          "June 2016, or before",
+          "After June 2016",
+          "They were already released at the time this article was written"
+        ],
+        "answer": 1,
+        "explanation": "The text says the FAA will finally have regulations on commercial unmanned aircraft by June 2016."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "will-drones-soon-be-delivering-packages-to-your-doorstep-int-p0",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:will-drones-soon-be-delivering-packages-to-your-doorstep:p0",
+    "origin": "adapted",
+    "topics": []
+  },
+  {
+    "id": "rd-onestopqa-will-drones-soon-be-delivering-packages-to-your-doorstep-int-p4",
+    "type": "readDaily",
+    "skill": "reading",
+    "cefr": "B2",
+    "title": "Will Drones Soon Be Delivering Packages to Your Doorstep",
+    "text": "Part of the reason for this is that air travel is dangerous so standards are much higher. \"If you fly commercial airlines, they often say, 'Oh, a small component has failed - we have to go back to the gate,'\" Singh said. \"And that's an established industry with 60 years of legacy! I hate to think that a drone might come down on a busy road.\" Part of the solution, Singh said, is planning for every situation: \"If things fail, the vehicle has to do something reasonable.\"",
+    "questions": [
+      {
+        "q": "Why does Singh bring up the example of passenger airplanes?",
+        "options": [
+          "To demonstrate how often airplane parts fail",
+          "To point out how small drones are compared to typical airplanes",
+          "To show how many precautions people take when dealing with aircraft",
+          "To demonstrate how drones should perform when they need to come down on a busy highway"
+        ],
+        "answer": 2,
+        "explanation": "Singh notes that even in an established industry with 60 years of legacy, airlines turn back over one small failed component, showing how careful people are with aircraft."
+      },
+      {
+        "q": "What does Singh say drones should do to improve safety?",
+        "options": [
+          "They should land immediately in the event of a problem",
+          "They should have a strategy for handling all circumstances",
+          "They should have built-in responses to common problems",
+          "They should always return to their base if a problem occurs"
+        ],
+        "answer": 1,
+        "explanation": "Singh says the solution is planning for every situation, so drones need a strategy for whatever goes wrong."
+      },
+      {
+        "q": "According to Singh, why do passenger airplanes often return to the gate?",
+        "options": [
+          "A passenger identified a problem with the airplane",
+          "A small part has failed",
+          "Poor weather conditions",
+          "They are in danger of coming down on a busy road"
+        ],
+        "answer": 1,
+        "explanation": "Singh quotes airlines saying a small component has failed, so they have to go back to the gate."
+      }
+    ],
+    "source": "onestopqa",
+    "sourceId": "will-drones-soon-be-delivering-packages-to-your-doorstep-int-p4",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "onestopqa:will-drones-soon-be-delivering-packages-to-your-doorstep:p4",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  }
+]

@@ -1,0 +1,310 @@
+{
+  "model": "kokoro-v1.0",
+  "speed": "0.95",
+  "female": [
+    "af_heart",
+    "bf_emma",
+    "af_bella",
+    "bf_isabella",
+    "af_aoede",
+    "af_sarah"
+  ],
+  "male": [
+    "am_michael",
+    "bm_george",
+    "am_fenrir",
+    "bm_fable",
+    "am_puck"
+  ],
+  "cases": [
+    {
+      "name": "monologue female",
+      "lines": [
+        {
+          "text": "Please remember that the office closes early on Friday.",
+          "voice": "female",
+          "speaker": null
+        }
+      ],
+      "offset": "9881427065824351988",
+      "voices": [
+        "af_bella"
+      ],
+      "keys": [
+        "8be753a098a34c80623db99af844b6ff598a7954589fc8d5b1391c11e272a097"
+      ]
+    },
+    {
+      "name": "monologue male",
+      "lines": [
+        {
+          "text": "Our company's first priority is meeting our customers' needs.",
+          "voice": "male",
+          "speaker": null
+        }
+      ],
+      "offset": "6741054961293061691",
+      "voices": [
+        "bm_george"
+      ],
+      "keys": [
+        "d2273477a7f19b469046a030f64762a8244fdbc7d19c806e9b5d1d165bae889d"
+      ]
+    },
+    {
+      "name": "no voice is the narrator, female pool",
+      "lines": [
+        {
+          "text": "Tell me about a project you are proud of.",
+          "voice": null,
+          "speaker": null
+        }
+      ],
+      "offset": "15034848516697441764",
+      "voices": [
+        "af_heart"
+      ],
+      "keys": [
+        "cc9da5e81598f069cf147aa1d875e1dcccd02e43cd19a4b7e3bdddf64410c8a5"
+      ]
+    },
+    {
+      "name": "interview question",
+      "lines": [
+        {
+          "text": "What do you usually do on a weekend?",
+          "voice": "female",
+          "speaker": null
+        }
+      ],
+      "offset": "4610045681103668994",
+      "voices": [
+        "af_heart"
+      ],
+      "keys": [
+        "b805a16bc2aa7a10572bf49ff54392cb2af03398434e4ef9bddd2ee80d74378d"
+      ]
+    },
+    {
+      "name": "two speakers, mixed gender",
+      "lines": [
+        {
+          "text": "Hi, I'd like to book a table for two tonight.",
+          "voice": "female",
+          "speaker": "A"
+        },
+        {
+          "text": "Sure. What time would you like?",
+          "voice": "male",
+          "speaker": "B"
+        },
+        {
+          "text": "Around eight, if possible.",
+          "voice": "female",
+          "speaker": "A"
+        },
+        {
+          "text": "Eight works. Can I have your name?",
+          "voice": "male",
+          "speaker": "B"
+        }
+      ],
+      "offset": "5774918702494204033",
+      "voices": [
+        "bf_emma",
+        "bm_fable",
+        "bf_emma",
+        "bm_fable"
+      ],
+      "keys": [
+        "a040bfc20d262bcd3207329d6c432b100dac20ea9fb73371a90d069fc7785089",
+        "84824e620f1ac4c940e12191cd79df5498329f9dcf16d9d544bd84265f1e4092",
+        "4a0a53747d35e5ef3340caf7a93a569c2c4b6e136047ce427a9aa39a394d1d87",
+        "1c0377f84b6fcb736045c6362b112c6fcfcb2efc7a0f9a24ff58fa6fda10353f"
+      ]
+    },
+    {
+      "name": "two speakers, both female",
+      "lines": [
+        {
+          "text": "Did you send the report to Marta?",
+          "voice": "female",
+          "speaker": "A"
+        },
+        {
+          "text": "Not yet, I'm still checking the numbers.",
+          "voice": "female",
+          "speaker": "B"
+        },
+        {
+          "text": "Okay, let me know when it's done.",
+          "voice": "female",
+          "speaker": "A"
+        }
+      ],
+      "offset": "8691322409066546227",
+      "voices": [
+        "bf_emma",
+        "af_bella",
+        "bf_emma"
+      ],
+      "keys": [
+        "4b3f8892ea1330b7a7fd2f068d7c54fd77ee2bed1298725ecfede4600d4b33d1",
+        "a66936030d3cdb95ddae9985d5e07034eb5c8d01d3ba45a1dc23f2033fa5ef84",
+        "b122131e5d120050d9380da000c578d3354d6eef11300a324a253cb0a04bd5b3"
+      ]
+    },
+    {
+      "name": "two speakers, both male",
+      "lines": [
+        {
+          "text": "Is the train to Leeds on time?",
+          "voice": "male",
+          "speaker": "A"
+        },
+        {
+          "text": "It's running about ten minutes late.",
+          "voice": "male",
+          "speaker": "B"
+        }
+      ],
+      "offset": "437597254437143292",
+      "voices": [
+        "am_fenrir",
+        "bm_fable"
+      ],
+      "keys": [
+        "6addd73afab0b8d823b84dd7ba8b3f163d321593af4ffa17fb02eb60779117e2",
+        "31652b74d96418bd14eeb317cf9aca4a5601fff31eb57d3ac781d489dfea2b71"
+      ]
+    },
+    {
+      "name": "three speakers",
+      "lines": [
+        {
+          "text": "Welcome, everyone.",
+          "voice": "female",
+          "speaker": "A"
+        },
+        {
+          "text": "Thanks for having us.",
+          "voice": "male",
+          "speaker": "B"
+        },
+        {
+          "text": "Shall we start with the budget?",
+          "voice": "female",
+          "speaker": "C"
+        },
+        {
+          "text": "Good idea.",
+          "voice": "male",
+          "speaker": "B"
+        }
+      ],
+      "offset": "8734468224618660395",
+      "voices": [
+        "af_sarah",
+        "am_michael",
+        "af_heart",
+        "am_michael"
+      ],
+      "keys": [
+        "201b04eb33dec949498844f739d76fbe8e0b128f7ea4045070545a699e6ebb4e",
+        "fb6040d23fd615253692e1edf09de51789d510f615f44e216f62afbab9aea7c2",
+        "f2f93f009e2406179c269ae26afb1d9fd8db6a426e95dd832ebbee3086d2863c",
+        "a9933280c5b2c2ded0c8db72dfff46992ffbf1e8b78cb577905bdcc0b2745d9c"
+      ]
+    },
+    {
+      "name": "more female speakers than the female pool",
+      "lines": [
+        {
+          "text": "Speaker A says hello.",
+          "voice": "female",
+          "speaker": "A"
+        },
+        {
+          "text": "Speaker B says hello.",
+          "voice": "female",
+          "speaker": "B"
+        },
+        {
+          "text": "Speaker C says hello.",
+          "voice": "female",
+          "speaker": "C"
+        },
+        {
+          "text": "Speaker D says hello.",
+          "voice": "female",
+          "speaker": "D"
+        },
+        {
+          "text": "Speaker E says hello.",
+          "voice": "female",
+          "speaker": "E"
+        },
+        {
+          "text": "Speaker F says hello.",
+          "voice": "female",
+          "speaker": "F"
+        },
+        {
+          "text": "Speaker G says hello.",
+          "voice": "female",
+          "speaker": "G"
+        },
+        {
+          "text": "Speaker H says hello.",
+          "voice": "female",
+          "speaker": "H"
+        }
+      ],
+      "offset": "2926506717313584767",
+      "voices": [
+        "af_sarah",
+        "af_heart",
+        "bf_emma",
+        "af_bella",
+        "bf_isabella",
+        "af_aoede",
+        "am_fenrir",
+        "bm_fable"
+      ],
+      "keys": [
+        "da5dbf10a9fd6465e9e053df6b7b370d5e4a381404c1ef6ae0d1c5e0f045ef31",
+        "db770dbb2a9436efb0890a67af57d0e81e9135130d8aed4a9f2e333ef21ce7f0",
+        "f9e046e01fe2559e4b9a87d63b10940ce27889fc625c7464ebd3d0026202d9a4",
+        "34c57072aeeeb50ed7e05823ef7f1eefd2c85901d3b26f9ddc1436d292ed32b3",
+        "b849fadbf4aa5eb651d9cf8176b8a59a0260f4e5f83aba1c8fe9f047059f27a6",
+        "6c0e25e33309757d06ae196e4952d77f3824bbe045999047c155379c4e177a7d",
+        "92ca09166278109bca8dac0094b3222926e1e742ebd9cf94a4bd93e75883d415",
+        "5ac012c6736ae95005a09fb7eb9e408205de9ddc065b6d926fec8e1e31b4ea04"
+      ]
+    },
+    {
+      "name": "unicode: curly quotes, accents, dash",
+      "lines": [
+        {
+          "text": "It’s the café on Main Street — the one with the “blue” door.",
+          "voice": "female",
+          "speaker": "A"
+        },
+        {
+          "text": "Oh, the one near Zoë’s place? I know it.",
+          "voice": "male",
+          "speaker": "B"
+        }
+      ],
+      "offset": "17279895946048069460",
+      "voices": [
+        "af_bella",
+        "am_michael"
+      ],
+      "keys": [
+        "97b700fb0d270b0ecc73499aecd92fcb1c83bbdf61adf2822348967b14587058",
+        "a3f965e482adc2f6e14f89eefe74e4a24897d63fde4477dc2208cb95e634a50d"
+      ]
+    }
+  ]
+}

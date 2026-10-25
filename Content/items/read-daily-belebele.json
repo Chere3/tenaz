@@ -1,0 +1,1947 @@
+[
+  {
+    "id": "rd-belebele-05213536",
+    "type": "readDaily",
+    "cefr": "B2",
+    "skill": "reading",
+    "title": "Cheap Food in Supermarkets",
+    "text": "Buying food in supermarkets is usually the cheapest way to get fed. Without cooking opportunities, choices are however limited to ready-made food. Increasingly supermarkets are getting a more varied section of ready-made food. Some even provide a microwave oven or other means to heat food. In some countries or types of stores there is at least one on-site restaurant, often a rather informal one with affordable prices.",
+    "questions": [
+      {
+        "q": "According to the passage, what are supermarkets starting to offer a more diverse selection of?",
+        "options": [
+          "Ready-made food",
+          "Microwave ovens",
+          "On-site restaurants",
+          "Affordable prices"
+        ],
+        "answer": 0,
+        "explanation": "The passage says supermarkets are increasingly offering a more varied section of ready-made food."
+      },
+      {
+        "q": "What amenity provided by some supermarkets might appeal to a customer purchasing ready-made food?",
+        "options": [
+          "On-site restaurants",
+          "Less varied selection",
+          "Raw food",
+          "A microwave oven"
+        ],
+        "answer": 3,
+        "explanation": "The passage says some supermarkets provide a microwave oven or other means to heat food."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Food_and_drink",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:05213536",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-05c0e562",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Grand Canyon Backcountry Permits",
+    "text": "Any camping below the rim in Grand Canyon requires a backcountry permit. Permits are limited to protect the canyon, and become available on the 1st day of the month, four months prior to the start month. Thus, a backcountry permit for any start date in May becomes available on 1 Jan. Space for the most popular areas, such as the Bright Angel Campground adjacent to Phantom Ranch, generally fill up by the requests received on first date they are opened to reservations. There are a limited number permits reserved for walk-in requests available on a first come, first served basis.",
+    "questions": [
+      {
+        "q": "When would a backcountry permit for a start day in August become available?",
+        "options": [
+          "January 1st",
+          "April 1st",
+          "May 1st",
+          "August 1st"
+        ],
+        "answer": 1,
+        "explanation": "Permits open on the 1st of the month four months before the start month, so August permits open April 1st."
+      },
+      {
+        "q": "What policy is in place to protect the canyon?",
+        "options": [
+          "A first come, first served permit system",
+          "Permits are only available on January 1st",
+          "Permits can only be obtained through walk-in requests",
+          "A limited number of permits"
+        ],
+        "answer": 3,
+        "explanation": "Permits are limited in number to protect the canyon, as the passage states directly."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Grand_Canyon",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:05c0e562",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-0756851a",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Army Ant Nomadic Phase",
+    "text": "Army ant colonies march and nest in different phases as well. In the nomadic phase, army ants march at night and stop to camp during the day. The colony begins a nomadic phase when available food has decreased. During this phase, the colony makes temporary nests that are changed everyday. Each of these nomadic rampages or marches lasts for approximately 17 days.",
+    "questions": [
+      {
+        "q": "According to the passage, what is true of an army ant colony entering a nomadic phase?",
+        "options": [
+          "They nest during the night",
+          "They have a low supply of food",
+          "They make nests that are changed after 17 days",
+          "They march during the day"
+        ],
+        "answer": 1,
+        "explanation": "The passage says the nomadic phase begins when available food has decreased, meaning a low food supply."
+      },
+      {
+        "q": "According to the passage, which statement accurately reflects the nesting habits of army ant colonies during the nomadic phase?",
+        "options": [
+          "They build nests during the night",
+          "They march for 17 days without nesting",
+          "They change nests daily",
+          "They use the same nests for the duration of the phase"
+        ],
+        "answer": 2,
+        "explanation": "The passage says the colony makes temporary nests that are changed every day."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikibooks.org/wiki/Animal_Behavior/Army_Ants_-_Social_Hierarchy,_Life_Cycles,_and_Migration",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:0756851a",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-0761ffa9",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Income Tax Abroad",
+    "text": "Unless you are a diplomat, working overseas generally means that you will have to file income tax in the country you are based in. Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another. In some federal countries, such as the United States and Canada, income tax is levied both at the federal level and at the local level, so the rates and brackets can vary from region to region.",
+    "questions": [
+      {
+        "q": "What is likely to remain consistent about income tax across various countries?",
+        "options": [
+          "Rates",
+          "Structure",
+          "Where you file",
+          "Brackets"
+        ],
+        "answer": 2,
+        "explanation": "The passage says working overseas generally means filing income tax in the country you are based in, while rates and structure vary."
+      },
+      {
+        "q": "According to the passage, if you're working overseas but based somewhere else, where will you likely be filing your income taxes?",
+        "options": [
+          "Wherever you are usually based",
+          "In the United States",
+          "In the country where you're currently working",
+          "Wherever the fees are the lowest"
+        ],
+        "answer": 0,
+        "explanation": "The passage says you will generally file income tax in the country you are based in."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Working_abroad",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:0761ffa9",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-0e9a0834",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Population and Polymorphism",
+    "text": "A population is the collection of organisms of a particular species within a given geographic area. When all individuals in a population are identical with regard to a particular phenotypic trait they are known as monomorphic. When the individuals show several variants of a particular trait they are polymorphic.",
+    "questions": [
+      {
+        "q": "Which term describes individuals that display variances of a certain phenotypic trait?",
+        "options": [
+          "Monomorphic",
+          "Organisms",
+          "Species",
+          "Polymorphic"
+        ],
+        "answer": 3,
+        "explanation": "The passage says individuals showing several variants of a trait are polymorphic."
+      },
+      {
+        "q": "Which of the following is the correct term for organisms that occupy a particular area?",
+        "options": [
+          "Monomorphic",
+          "Population",
+          "Species",
+          "Polymorphic"
+        ],
+        "answer": 1,
+        "explanation": "The passage defines a population as organisms of a particular species within a given geographic area."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikibooks.org/wiki/Animal_Behavior/Population_Genetics",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:0e9a0834",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-1465a479",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Singapore Grand Prix Crash",
+    "text": "Piquet Jr. crashed in the 2008 Singapore Grand Prix just after an early pit stop for Fernando Alonso, bringing out the safety car. As the cars ahead of Alonso went in for fuel under the safety car, he moved up the pack to take victory. Piquet Jr. was sacked after the 2009 Hungarian Grand Prix.",
+    "questions": [
+      {
+        "q": "Which statement accurately reflects the outcome of the 2009 Hungarian Grand Prix?",
+        "options": [
+          "Fernando Alonso was involved in an accident",
+          "Piquet Jr. took the victory",
+          "Piquet Jr. was fired afterward",
+          "The safety car was involved in an accident"
+        ],
+        "answer": 2,
+        "explanation": "The passage states that Piquet Jr. was sacked after the 2009 Hungarian Grand Prix."
+      },
+      {
+        "q": "When did the crash occur?",
+        "options": [
+          "Immediately after Alonso's pit stop",
+          "While the other cars were fueling up",
+          "Before the safety car came out",
+          "After Piquet went in for fuel"
+        ],
+        "answer": 0,
+        "explanation": "Piquet Jr. crashed just after an early pit stop for Alonso, bringing out the safety car."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikinews.org/wiki/Renault_F1_launch_criminal_complaint_against_former_driver_over_race-fixing_allegation",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:1465a479",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-260059b9",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Observatories Old and New",
+    "text": "Pre-modern observatories are usually obsolete today, and remain as museums, or sites of education. As light pollution in their heyday was not the kind of problem it is today, they are usually located in cities or at campuses, easier to reach than those built in modern times. Most modern research telescopes are enormous facilities in remote areas with favorable atmospheric conditions.",
+    "questions": [
+      {
+        "q": "Where is a pre-modern observatory least likely to be located?",
+        "options": [
+          "In an easily accessible location",
+          "In a city's center",
+          "In a remote location",
+          "On a college campus"
+        ],
+        "answer": 2,
+        "explanation": "The passage says pre-modern observatories are usually in cities or on campuses, easier to reach than remote ones."
+      },
+      {
+        "q": "Where is a modern research telescope likely to be housed?",
+        "options": [
+          "In a museum",
+          "On a university campus",
+          "At an educational site",
+          "In a large facility"
+        ],
+        "answer": 3,
+        "explanation": "The passage says most modern research telescopes are enormous facilities in remote areas."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Astronomy",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:260059b9",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-359daae0",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Hong Kong Island Sightseeing",
+    "text": "Hong Kong Island gives the territory of Hong Kong its name and is the place that many tourists regard as the main focus. The parade of buildings that make the Hong Kong skyline has been likened to a glittering bar chart that is made apparent by the presence of the waters of Victoria Harbour. To get the best views of Hong Kong, leave the island and head for the Kowloon waterfront opposite. The great majority of Hong Kong Island's urban development is densely packed on reclaimed land along the northern shore. This is the place the British colonisers took as their own and so if you are looking for evidence of the territory's colonial past, this is a good place to start.",
+    "questions": [
+      {
+        "q": "Which location would appeal to a tourist interested in the island's colonial history?",
+        "options": [
+          "The Northern shore",
+          "The Kowloon waterfront",
+          "Downtown Hong Kong",
+          "Victoria Harbor"
+        ],
+        "answer": 0,
+        "explanation": "The passage says the British took the northern shore as their own, a good place to see colonial evidence."
+      },
+      {
+        "q": "Which location would appeal to a tourist that prioritizes stunning views?",
+        "options": [
+          "Victoria Harbor",
+          "Hong Kong proper",
+          "Hong Kong Island",
+          "The Kowloon waterfront"
+        ],
+        "answer": 3,
+        "explanation": "The passage says to get the best views of Hong Kong, head for the Kowloon waterfront."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Hong_Kong",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:359daae0",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-3ae63fb6",
+    "type": "readDaily",
+    "cefr": "B2+",
+    "skill": "reading",
+    "title": "High Middle Ages Context",
+    "text": "To understand the Templars one must understand the context that prompted the creation of the order. The age where the events took place is commonly referred as the High Middle Ages the period of European history in the 11th, 12th, and 13th centuries (AD 1000-1300). The High Middle Ages were preceded by the Early Middle Ages and followed by the Late Middle Ages, which by convention ends around 1500.",
+    "questions": [
+      {
+        "q": "Which time period came before the age of the Templars?",
+        "options": [
+          "The Late Middle Ages",
+          "The 12th century",
+          "The Early Middle Ages",
+          "The 13th century"
+        ],
+        "answer": 2,
+        "explanation": "The passage says the High Middle Ages were preceded by the Early Middle Ages."
+      },
+      {
+        "q": "Which time period came after the age of the Templars?",
+        "options": [
+          "The Late Middle Ages",
+          "The 12th century",
+          "The High Middle Ages",
+          "The 11th century"
+        ],
+        "answer": 0,
+        "explanation": "The passage says the High Middle Ages were followed by the Late Middle Ages."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikibooks.org/wiki/Remembering_the_Templars",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:3ae63fb6",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-3bff2296",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "History of Hanami",
+    "text": "Cherry blossom viewing, known as hanami, has been a part of Japanese culture since the 8th century. The concept came from China where plum blossoms were the flower of choice. In Japan, the first cherry blossom parties were hosted by the emperor only for himself and other members of the aristocracy around the Imperial Court.",
+    "questions": [
+      {
+        "q": "The word hanami refers to the viewing of what?",
+        "options": [
+          "Cherry blossoms",
+          "Japanese aristocracy",
+          "Plum blossoms",
+          "The Imperial Court"
+        ],
+        "answer": 0,
+        "explanation": "The passage defines hanami as cherry blossom viewing, a part of Japanese culture since the 8th century."
+      },
+      {
+        "q": "Who hosted the first parties dedicated to viewing cherry blossoms?",
+        "options": [
+          "China's emperor",
+          "Japanese aristocrats",
+          "Japan's emperor",
+          "Chinese aristocrats"
+        ],
+        "answer": 2,
+        "explanation": "The passage says the first cherry blossom parties were hosted by the emperor in Japan."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Japan%27s_Top_100_Cherry_Blossom_Spots",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:3bff2296",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-49a0f521",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Nintendo Revolution Controller",
+    "text": "At Thursday's keynote presentation of the Tokyo Game Show, Nintendo president Satoru Iwata unveiled the controller design for the company's new Nintendo Revolution console. Resembling a television remote, the controller uses two sensors placed near the user's television to triangulate its position in three-dimensional space. This will allow players to control actions and movements in video games by moving the device through the air.",
+    "questions": [
+      {
+        "q": "What will a player need to do in order to manipulate movements during a video game?",
+        "options": [
+          "Make sure the controller's sensors are positioned near the console",
+          "Triangulate their position",
+          "Place sensors near their television",
+          "Move the controller through the air"
+        ],
+        "answer": 3,
+        "explanation": "The passage says players control actions by moving the device through the air."
+      },
+      {
+        "q": "What was designed to look like a television remote?",
+        "options": [
+          "The controller's two sensors",
+          "The Nintendo Revolution controller",
+          "The keynote presentation",
+          "The Nintendo Revolution console"
+        ],
+        "answer": 1,
+        "explanation": "The passage says the controller resembles a television remote."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikinews.org/wiki/Nintendo_unveils_controller_for_Revolution_console",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:49a0f521",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-4ab48541",
+    "type": "readDaily",
+    "cefr": "B2",
+    "skill": "reading",
+    "title": "Re-entry Shock After Travel",
+    "text": "Re-entry shock comes on sooner than culture shock (there's less of a honeymoon phase), lasts longer, and can be more severe. Travellers who had an easy time adjusting to the new culture sometimes have a particularly hard time readjusting to their native culture. When returning home after living abroad, you've adapted to the new culture and lost some of your habits from your home culture. When you went abroad at first, people were probably patient and understanding, knowing that travellers in a new country need to adapt. People may not anticipate that patience and understanding are also necessary for travellers returning home.",
+    "questions": [
+      {
+        "q": "Travelers experiencing re-entry shock have a hard time doing what?",
+        "options": [
+          "Adapting to the culture of a new place",
+          "Being patient and understanding",
+          "Traveling abroad",
+          "Readapting to their home culture"
+        ],
+        "answer": 3,
+        "explanation": "The passage says travelers who return home have trouble readjusting to their native culture, which is re-entry shock."
+      },
+      {
+        "q": "According to the passage, re-entry shock might be especially difficult for what kind of traveler?",
+        "options": [
+          "Travelers who experienced particularly bad culture shock",
+          "Travelers who adjusted quickly while living abroad",
+          "Travelers that are still in the honeymoon phase",
+          "Travelers with less patience"
+        ],
+        "answer": 1,
+        "explanation": "The passage says easy adjusters sometimes have a particularly hard time readjusting to their native culture."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Culture_shock",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:4ab48541",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-4d54a848",
+    "type": "readDaily",
+    "cefr": "B2+",
+    "skill": "reading",
+    "title": "Languages in Barcelona",
+    "text": "Barcelona's official languages are Catalan and Spanish. About a half prefer to speak Catalan, a vast majority understands it, and virtually everyone knows Spanish. However, most signs are indicated only in Catalan because it is established by law as the first official language. Yet, Spanish is also widely used in public transport and other facilities. Regular announcements in the Metro are made only in Catalan, but unplanned disruptions are announced by an automated system in a wide variety of languages including Spanish, English, French, Arabic and Japanese.",
+    "questions": [
+      {
+        "q": "Why is Catalan frequently used for signs and announcements in Barcelona?",
+        "options": [
+          "It is more widely understood than Spanish",
+          "It was the city's first official language",
+          "It's the preferred language in Barcelona",
+          "The Metro and other public facilities are mostly frequented by citizens who speak Catalan"
+        ],
+        "answer": 1,
+        "explanation": "The passage says most signs are in Catalan because law establishes it as the first official language."
+      },
+      {
+        "q": "Which of the following languages is used by Barcelona's Metro system for regular announcements?",
+        "options": [
+          "English",
+          "Catalan",
+          "Spanish",
+          "French"
+        ],
+        "answer": 1,
+        "explanation": "The passage says regular Metro announcements are made only in Catalan."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Barcelona",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:4d54a848",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-4d6cbc40",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Hurricane Fred Forecast",
+    "text": "The storm, situated about 645 miles (1040 km) west of the Cape Verde islands, is likely to dissipate before threatening any land areas, forecasters say. Fred currently has winds of 105 miles per hour (165 km/h) and is moving towards the northwest. Fred is the strongest tropical cyclone ever recorded so far south and east in the Atlantic since the advent of satellite imagery, and only the third major hurricane on record east of 35°W.",
+    "questions": [
+      {
+        "q": "Prior to Fred, how many major storms had been recorded east of 35°W?",
+        "options": [
+          "None",
+          "Three",
+          "Two",
+          "One"
+        ],
+        "answer": 2,
+        "explanation": "Fred is only the third major hurricane on record east of 35 degrees W, so two had occurred before."
+      },
+      {
+        "q": "When Fred was situated near the Cape Verde islands, which direction was it moving towards?",
+        "options": [
+          "West",
+          "South",
+          "East",
+          "Northwest"
+        ],
+        "answer": 3,
+        "explanation": "The passage says Fred is moving towards the northwest."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikinews.org/wiki/Hurricane_Fred_churns_the_Atlantic",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:4d6cbc40",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-5294e3d4",
+    "type": "readDaily",
+    "cefr": "B2",
+    "skill": "reading",
+    "title": "Vancouver Area Destinations",
+    "text": "Bowen Island is a popular day trip or weekend excursion offering kayaking, hiking, shops, restaurants, and more. This authentic community is located in Howe Sound just off Vancouver, and is easily accessed via scheduled water taxis departing Granville Island in downtown Vancouver. For those who enjoy outdoor activities, a trek up the Sea to Sky corridor is essential. Whistler (1.5 hour drive from Vancouver) is expensive but well-known because of the 2010 Winter Olympics. In the winter, enjoy some of the best skiing in North America, and in the summer try some authentic mountain biking.",
+    "questions": [
+      {
+        "q": "According to the passage, which Vancouver destination would be the least appealing to price-conscious travelers?",
+        "options": [
+          "Granville Island",
+          "The Sea to Sky corridor",
+          "Bowen Island",
+          "Whistler"
+        ],
+        "answer": 3,
+        "explanation": "The passage calls Whistler expensive, so it would appeal least to price-conscious travelers."
+      },
+      {
+        "q": "According to the passage, which destination is most likely to offer travelers an authentic Vancouver experience?",
+        "options": [
+          "Bowen Island",
+          "Whistler",
+          "Downtown Vancouver",
+          "Granville Island"
+        ],
+        "answer": 0,
+        "explanation": "The passage describes Bowen Island as an authentic community just off Vancouver."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Vancouver",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:5294e3d4",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-53e029da",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Comparing Flight Prices",
+    "text": "Nowadays air travel is only rarely booked directly through the airline without first searching and comparing prices. Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.",
+    "questions": [
+      {
+        "q": "Based on the passage, which of the following should a price-conscious traveler do last?",
+        "options": [
+          "Search the offerings of multiple travel companies",
+          "Book directly with the airline",
+          "Compare prices between multiple travel companies",
+          "Check the airline's website"
+        ],
+        "answer": 1,
+        "explanation": "The passage says travelers should search and compare prices and check the airline's site before booking, so booking comes last."
+      },
+      {
+        "q": "According to the passage, what should travelers do first in order to secure the best possible flight prices?",
+        "options": [
+          "Check the airline's website",
+          "Compare prices between different aggregators",
+          "Book directly through the airline",
+          "Book directly with a travel agent"
+        ],
+        "answer": 1,
+        "explanation": "The passage says it pays to compare search results across aggregators, so comparing prices comes before booking."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Aggregators",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:53e029da",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-5cc34d9e",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Flooding in New Orleans",
+    "text": "The U.S. Corps of Engineers estimated that 6 inches of rainfall could breach the previously damaged levees. The Ninth Ward, which saw flooding as high as 20 feet during Hurricane Katrina, is currently in waist-high water as the nearby levee was overtopped. Water is spilling over the levee in a section 100 feet wide.",
+    "questions": [
+      {
+        "q": "Currently, how high is the water in The Ninth Ward?",
+        "options": [
+          "20 feet",
+          "6 inches",
+          "Waist-high",
+          "100 feet"
+        ],
+        "answer": 2,
+        "explanation": "The passage says the Ninth Ward is currently in waist-high water because the nearby levee was overtopped."
+      },
+      {
+        "q": "During Hurricane Katrina, what occurred in The Ninth Ward?",
+        "options": [
+          "Flood waters were 100 feet wide",
+          "Waist-high water overtopped the levee",
+          "Flood waters were 20 feet high",
+          "6 inches of rainfall breached the damaged levee"
+        ],
+        "answer": 2,
+        "explanation": "The passage says the Ninth Ward saw flooding as high as 20 feet during Hurricane Katrina."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikinews.org/wiki/Parts_of_New_Orleans_flood_again",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:5cc34d9e",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-5d04d7ac",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Origins of Walking Upright",
+    "text": "The first known transportation was walking, humans began walking upright two million years ago with the emergence of Homo Erectus (meaning upright man). Their predecessors, the Australopithecus did not walk upright as habitually. Bipedal specializations are found in Australopithecus fossils from 4.2-3.9 million years ago, although Sahelanthropus may have walked on two legs as early as seven million years ago.",
+    "questions": [
+      {
+        "q": "According to the passage, when was the earliest that a species may have walked on two legs?",
+        "options": [
+          "Seven million years ago",
+          "Two million years ago",
+          "3.9 million years ago",
+          "4.2 million years ago"
+        ],
+        "answer": 0,
+        "explanation": "The passage says Sahelanthropus may have walked on two legs as early as seven million years ago, earlier than any other species mentioned."
+      },
+      {
+        "q": "Which of these species regularly walked on two feet?",
+        "options": [
+          "Sahelanthropus",
+          "Homo Erectus",
+          "Bipedal specializations",
+          "Australopithecus"
+        ],
+        "answer": 1,
+        "explanation": "Homo Erectus began walking upright two million years ago, while its predecessors did not walk upright as habitually."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikibooks.org/wiki/Transport/History",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:5d04d7ac",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-64d5eaeb",
+    "type": "readDaily",
+    "cefr": "B2+",
+    "skill": "reading",
+    "title": "Prepaid Phone Cards",
+    "text": "Every corner store is filled with a confusing array of pre-paid phone cards that can be used from pay phones or ordinary telephones. While most cards are good for calling anywhere, some specialise in providing favourable call rates to specific groups of countries. Access to these services is often through a toll-free telephone number that can be called from most phones without charge.",
+    "questions": [
+      {
+        "q": "Where can prepaid phone cards be purchased?",
+        "options": [
+          "In specific countries",
+          "At train stations",
+          "In corner shops",
+          "At pay phones"
+        ],
+        "answer": 2,
+        "explanation": "The passage opens by saying every corner store is filled with a confusing array of pre-paid phone cards."
+      },
+      {
+        "q": "How are the better call rates offered by some cards accessed?",
+        "options": [
+          "They can only be accessed in specific countries",
+          "Through toll-free numbers",
+          "At the corner store",
+          "By using a pay phone and paying an additional charge"
+        ],
+        "answer": 1,
+        "explanation": "The passage says access to these services is often through a toll-free telephone number callable from most phones."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Phone_service",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:64d5eaeb",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-66ec3ecb",
+    "type": "readDaily",
+    "cefr": "B2+",
+    "skill": "reading",
+    "title": "Family Life in Charlotte",
+    "text": "One of strong points of Charlotte, North Carolina, is that it has an abundance of high-quality options for families. Residents from other areas often cite family-friendliness as a primary reason for moving there, and visitors often find the city easy to enjoy with children around. In the past 20 years, the amount of child-friendly options in Uptown Charlotte has grown exponentially. Taxis are not generally used by families in Charlotte, though they can be of some use in certain circumstances. There is a surcharge for having more than 2 passengers, so this option might be more expensive than necessary.",
+    "questions": [
+      {
+        "q": "While taking a taxi in Charlotte, what could lead to an additional charge?",
+        "options": [
+          "Residing in another area",
+          "Having three passengers",
+          "Going Uptown",
+          "Being family-friendly"
+        ],
+        "answer": 1,
+        "explanation": "The passage says there is a surcharge for more than 2 passengers, so three passengers would raise the taxi fare."
+      },
+      {
+        "q": "According to the passage, what could be considered a downside to living in Charlotte with children?",
+        "options": [
+          "Housing prices",
+          "Taking a taxi",
+          "Residents from other areas",
+          "Trying to enjoy the city"
+        ],
+        "answer": 1,
+        "explanation": "The passage says taxis are not generally used by families and can cost more than necessary because of the surcharge."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Charlotte_with_children",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:66ec3ecb",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-744f9de3",
+    "type": "readDaily",
+    "cefr": "B2+",
+    "skill": "reading",
+    "title": "Camping at Music Festivals",
+    "text": "For some festivals, the vast majority of the attendants to music festivals decide to camp on site, and most attendants consider it a vital part of the experience. If you want to be close to the action you're going to have to get in early to get a camping site close to the music. Remember that even though music on the main stages may have finished, there may be sections of the festival that will keep playing music until late into the night. Some festivals have special camping areas for families with young children.",
+    "questions": [
+      {
+        "q": "What aspect of music festivals do some attendants consider to be a crucial part of the experience?",
+        "options": [
+          "Bringing young children",
+          "Camping on site",
+          "Music playing late into the night",
+          "Getting in early"
+        ],
+        "answer": 1,
+        "explanation": "The passage says most attendants decide to camp on site and consider it a vital part of the experience."
+      },
+      {
+        "q": "According to the passage, what should a festival attendant prioritize if they want to camp close to the music?",
+        "options": [
+          "Going late at night",
+          "Staying in an area for families",
+          "Camping off-site",
+          "Getting in early"
+        ],
+        "answer": 3,
+        "explanation": "The passage says that to be close to the music you have to get in early to get a camping site nearby."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Music_festival_circuit",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:744f9de3",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-79207aeb",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Paralympic Super-G Results",
+    "text": "With only eighteen medals available a day, a number of countries have failed to make the medal podium. They include the Netherlands, with Anna Jochemsen finishing ninth in the women's standing class in the Super-G yesterday, and Finland with Katja Saarinen finishing tenth in the same event. Australia's Mitchell Gourley finished eleventh in the men's standing Super-G. Czech competitor Oldrich Jelinek finished sixteenth in the men's sitting Super-G. Arly Velasquez of Mexico finished fifteenth in the men's sitting Super-G. New Zealand's Adam Hall finished ninth in the men's standing Super-G. Poland's men's visually impaired skier Maciej Krezel and guide Anna Ogarzynska finished thirteenth in the Super-G. South Korea's Jong Seork Park finished twenty-fourth in the men's sitting Super-G.",
+    "questions": [
+      {
+        "q": "Which skier competed with the help of a guide?",
+        "options": [
+          "Anna Jochemsen",
+          "Jong Seork Park",
+          "Maciej Krezel",
+          "Anna Ogarzynska"
+        ],
+        "answer": 2,
+        "explanation": "The passage says Poland's visually impaired skier Maciej Krezel finished thirteenth with guide Anna Ogarzynska, so he is the one who skied with a guide."
+      },
+      {
+        "q": "Which country finished tenth in the Super-G for the women's standing class?",
+        "options": [
+          "Finland",
+          "Netherlands",
+          "Australia",
+          "Mexico"
+        ],
+        "answer": 0,
+        "explanation": "The passage says Finland's Katja Saarinen finished tenth in the women's standing Super-G."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikinews.org/wiki/Austria_leads_medal_count_after_second_day_of_2013_IPC_Alpine_World_Championships",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:79207aeb",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-7a4026e9",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "NextGen Air Traffic Technology",
+    "text": "NextGen is a system the FAA claims would allow aircraft to fly shorter routes and save millions of gallons of fuel each year and cut carbon emissions. It uses satellite-based technology as opposed to older ground-radar-based technology to allow air traffic controllers to pinpoint aircraft with greater precision and give pilots more accurate information.",
+    "questions": [
+      {
+        "q": "What kind of technology does the NextGen system use?",
+        "options": [
+          "Satellite-based technology",
+          "Precision technology",
+          "Ground-radar-based technology",
+          "Carbon emissions technology"
+        ],
+        "answer": 0,
+        "explanation": "The passage says NextGen uses satellite-based technology instead of older ground-radar-based technology."
+      },
+      {
+        "q": "How does NextGen directly benefit air traffic controllers?",
+        "options": [
+          "Shorter flying routes",
+          "More precise aircraft locations",
+          "Reduced carbon emissions",
+          "Less fuel"
+        ],
+        "answer": 1,
+        "explanation": "The passage says the system lets air traffic controllers pinpoint aircraft with greater precision."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikinews.org/wiki/FAA:_Metroplex_NextGen_project_in_place_in_north_Texas",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:7a4026e9",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-7b18398b",
+    "type": "readDaily",
+    "cefr": "B2",
+    "skill": "reading",
+    "title": "Running Tour Organizations",
+    "text": "Internationally, there are nearly 200 running tour organizations. Most of them operate independently. The Global Running Tours successor, Go Running Tours networks dozens of sightrunning providers on four continents. With roots in Barcelona's Running Tours Barcelona and Copenhagen's Running Copenhagen, it was quickly joined by Running Tours Prague based in Prague and others.",
+    "questions": [
+      {
+        "q": "Which tour organization succeeded Global Running Tours?",
+        "options": [
+          "Running Copenhagen",
+          "Go Running Tours",
+          "Running Tours Prague",
+          "Running Tours Barcelona"
+        ],
+        "answer": 1,
+        "explanation": "The passage calls Go Running Tours the successor of Global Running Tours."
+      },
+      {
+        "q": "According to the passage, Go Running Tours helps connect how many different sightrunning organizations?",
+        "options": [
+          "Four",
+          "200",
+          "Dozens",
+          "Three"
+        ],
+        "answer": 2,
+        "explanation": "The passage says Go Running Tours networks dozens of sightrunning providers on four continents."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Running",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:7b18398b",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-83f65ee5",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "CowParade in Bucharest",
+    "text": "The artistic event is also part of a campaign by the Bucharest City Hall that seeks to relaunch the image of the Romanian capital as a creative and colourful metropolis. The city will be the first in southeastern Europe to host CowParade, the world's largest public art event, between June and August this year.",
+    "questions": [
+      {
+        "q": "Where will CowParade take place?",
+        "options": [
+          "In several Romanian cities",
+          "In the city of Bucharest",
+          "Throughout southeastern Europe",
+          "In several of Europe's capital cities"
+        ],
+        "answer": 1,
+        "explanation": "The passage says the city of Bucharest will be the first in southeastern Europe to host CowParade."
+      },
+      {
+        "q": "Which of the following statements accurately describes CowParade?",
+        "options": [
+          "It only takes place in cities that are considered \"creative\"",
+          "It was created by Bucharest City Hall",
+          "It's an art event held in the summer throughout southeastern Europe",
+          "It's the largest public art event in the world"
+        ],
+        "answer": 3,
+        "explanation": "The passage describes CowParade as the world's largest public art event."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikinews.org/wiki/Romanian_artists_auction_off_their_works_for_tsunami_victims",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:83f65ee5",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-8431d326",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Ring Doorbell Company Story",
+    "text": "Previously, Ring's CEO, Jamie Siminoff, remarked the company started when his doorbell wasn't audible from his shop in his garage. He built a WiFi door bell, he said. Siminoff said sales boosted after his 2013 appearance in a Shark Tank episode where the show panel declined funding the startup. In late 2017, Siminoff appeared on shopping television channel QVC. Ring also settled a lawsuit with competing security company, the ADT Corporation.",
+    "questions": [
+      {
+        "q": "When did Ring experience increased sales?",
+        "options": [
+          "After an appearance on Shark Tank",
+          "After securing funding in 2013",
+          "After an appearance on QVC",
+          "After settling a lawsuit with ADT"
+        ],
+        "answer": 0,
+        "explanation": "The passage says Siminoff said sales boosted after his 2013 appearance on Shark Tank."
+      },
+      {
+        "q": "When did Jamie Siminoff decide to start Ring?",
+        "options": [
+          "After realizing his own doorbell was inadequate",
+          "After a failed Shark Tank appearance",
+          "After securing funding",
+          "After a successful QVC appearance"
+        ],
+        "answer": 0,
+        "explanation": "The passage says the company started when his doorbell wasn't audible from his garage shop, so he built a WiFi doorbell."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikinews.org/wiki/Amazon_to_buy_smart_doorbell_startup_Ring",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:8431d326",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-86ad4631",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Amsterdam's Canal District",
+    "text": "The Canal District (Dutch: Grachtengordel) is the famous 17th-century district surrounding the Binnenstad of Amsterdam. The whole district is designated as a UNESCO World Heritage Site for its unique cultural and historical value, and its property values are among the highest of the country.",
+    "questions": [
+      {
+        "q": "Where are property values among Amsterdam's highest?",
+        "options": [
+          "The Canal District",
+          "In any location designated as a UNESCO World Heritage Site",
+          "Areas removed from the Binnenstad",
+          "Locations with historical value"
+        ],
+        "answer": 0,
+        "explanation": "The passage says the Canal District's property values are among the highest of the country."
+      },
+      {
+        "q": "Why is the Canal District designated as a UNESCO World Heritage Site?",
+        "options": [
+          "It's historical and cultural value",
+          "It's unique properties",
+          "It's location surrounding the Binnenstad",
+          "It's high property value"
+        ],
+        "answer": 0,
+        "explanation": "The passage says the district is designated for its unique cultural and historical value."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Amsterdam/Canal_District",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:86ad4631",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-92b73060",
+    "type": "readDaily",
+    "cefr": "B2+",
+    "skill": "reading",
+    "title": "Glacier Hazards",
+    "text": "The glaciers are not stable, but flow down the mountain. This will cause cracks, crevasses, which may be obscured by snow bridges. The walls and roofs of ice caves can collapse and cracks can get closed. At the edge of glaciers huge blocks break loose, fall down and perhaps jump or roll farther from the edge.",
+    "questions": [
+      {
+        "q": "According to the passage, what causes crevasses?",
+        "options": [
+          "Snow bridges",
+          "Unstable glaciers",
+          "Collapsing ice caves",
+          "Loose blocks"
+        ],
+        "answer": 1,
+        "explanation": "The passage says glaciers are not stable but flow down the mountain, and this causes cracks called crevasses."
+      },
+      {
+        "q": "According to the passage, which of these can be hidden by snow bridges?",
+        "options": [
+          "Cracks",
+          "Ice caves",
+          "Walls",
+          "Large blocks"
+        ],
+        "answer": 0,
+        "explanation": "The passage says crevasses, or cracks, may be obscured by snow bridges."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Glaciers",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:92b73060",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-953a37ef",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "How Eyes Work",
+    "text": "Vision, or the ability to see depends on visual system sensory organs or eyes. There are many different constructions of eyes, ranging in complexity depending on the requirements of the organism. The different constructions have different capabilities, are sensitive to different wave-lengths and have differing degrees of acuity, also they require different processing to make sense of the input and different numbers to work optimally.",
+    "questions": [
+      {
+        "q": "What is the ability to see dependent upon?",
+        "options": [
+          "Visual system sensory organs",
+          "The requirements of an organism",
+          "A sensitivity to certain wave-lengths",
+          "Varying degrees of acuity"
+        ],
+        "answer": 0,
+        "explanation": "The passage says vision depends on visual system sensory organs, or eyes."
+      },
+      {
+        "q": "What does the variation of eye structure between organisms depend upon?",
+        "options": [
+          "Wavelength sensitivity",
+          "The requirements of the organism",
+          "Level of acuity",
+          "The complexity of the organism"
+        ],
+        "answer": 1,
+        "explanation": "The passage says eyes come in many constructions that vary in complexity depending on the requirements of the organism."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikibooks.org/wiki/Sensory_Systems/Visual_System",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:953a37ef",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-984840f5",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Capitals Player of the Day",
+    "text": "Today's Player of the Day is Alex Ovechkin of the Washington Capitals. He had 2 goals and 2 assists in Washington's 5-3 win over the Atlanta Thrashers. Ovechkin's first assist of the night was on the game-winning goal by rookie Nicklas Backstrom; his second goal of the night was his 60th of the season, becoming the first player to score 60 or more goals in a season since 1995-96, when Jaromir Jagr and Mario Lemieux each reached that milestone.",
+    "questions": [
+      {
+        "q": "Who scored the game-winning goal for the Washington Capitals in the game against the Atlanta Thrashers?",
+        "options": [
+          "Nicklas Backstrom",
+          "Jaromir Jagr",
+          "Mario Lemieux",
+          "Alex Ovechkin"
+        ],
+        "answer": 0,
+        "explanation": "The passage says Ovechkin's first assist was on the game-winning goal by rookie Nicklas Backstrom."
+      },
+      {
+        "q": "Who scored his 60th goal of the season during the Capitals vs. Thrashers game?",
+        "options": [
+          "Mario Lemieux",
+          "Jaromir Jagr",
+          "Alex Ovechkin",
+          "Nicklas Backstrom"
+        ],
+        "answer": 2,
+        "explanation": "The passage says Ovechkin's second goal of the night was his 60th of the season."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikinews.org/wiki/National_Hockey_League_news:_March_22,_2008",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:984840f5",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-9ffe8dba",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Visiting Phnom Krom",
+    "text": "Phnom Krom, 12 km southwest of Siem Reap. This hilltop temple was built at the end of the 9th century, during the reign of King Yasovarman. The gloomy atmosphere of the temple and the view over the Tonle Sap lake make the climb to the hill worthwhile. A visit to the site can be conveniently combined with a boat trip to the lake. The Angkor Pass is needed to enter the temple so do not forget to bring your passport along when heading to Tonle Sap.",
+    "questions": [
+      {
+        "q": "According to the passage, which of the following makes a visit to Phnom Krom worthwhile?",
+        "options": [
+          "The view over Tonle Sap",
+          "Traveling through the Angkor Pass",
+          "Seeing Siem Reap",
+          "The boat trip to the lake"
+        ],
+        "answer": 0,
+        "explanation": "The passage says the gloomy atmosphere and the view over the Tonle Sap lake make the climb worthwhile."
+      },
+      {
+        "q": "According to the passage, what is required for visitors to enter Phnom Krom?",
+        "options": [
+          "Climbing past the Yasovarman temple",
+          "Traveling around Siem Reap",
+          "Getting the Angkor Pass",
+          "Boating around Tonle Sap"
+        ],
+        "answer": 2,
+        "explanation": "The passage says the Angkor Pass is needed to enter the temple."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:9ffe8dba",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-a346b5d5",
+    "type": "readDaily",
+    "cefr": "B2",
+    "skill": "reading",
+    "title": "Using a Travel Agent",
+    "text": "Travel agencies have been around since the 19th century. A travel agent is usually a good option for a journey which extends beyond a traveller's previous experience of nature, culture, language or low-income countries. Although most agencies are willing to take on most regular bookings, many agents specialise in particular types of travel, budget ranges or destinations. It can be better to use an agent who frequently books similar trips to yours. Take a look at what trips the agent is promoting, whether on a website or in a shop window.",
+    "questions": [
+      {
+        "q": "According to the passage, which type of trip is the least likely to require booking assistance from a travel agent?",
+        "options": [
+          "A trip to a work conference in a city the traveler has visited before",
+          "A two-week long trip on a very particular budget",
+          "A trip that will present a language barrier",
+          "A traveler's first trip abroad"
+        ],
+        "answer": 0,
+        "explanation": "The passage says agents help with journeys beyond your experience, which a familiar city conference trip is not."
+      },
+      {
+        "q": "According to the passage, in which scenario would a traveler most benefit from the help of a travel agent?",
+        "options": [
+          "When the traveler is booking roundtrip flights to visit their hometown",
+          "When the traveler is interested in booking a speciality excursion for the first time",
+          "When the traveler is fluent in the native language of the vacation destination",
+          "When the traveler is visiting a location where the cultural differences are familiar to them"
+        ],
+        "answer": 1,
+        "explanation": "The passage says agents specialise in types of travel, so a first-time speciality excursion benefits most."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Travel_agencies",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:a346b5d5",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-aab5b6b0",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Missing New Year Cards",
+    "text": "The issue started on January 1st when dozens of local residents started complaining to the Obanazawa Post Office that they hadn't received their traditional and regular New Year cards. Yesterday, the post office released their apology to citizens and the media after discovering that the boy had hidden more than 600 postal documents, including 429 New Year postcards, which weren't delivered to their intended recipients.",
+    "questions": [
+      {
+        "q": "Who was responsible for the missing postal documents?",
+        "options": [
+          "Postal workers",
+          "A group of Obanazawa residents",
+          "A boy",
+          "The media"
+        ],
+        "answer": 2,
+        "explanation": "The passage says a boy had hidden more than 600 postal documents that were never delivered."
+      },
+      {
+        "q": "According to the passage, who issued an apology regarding the missing documents?",
+        "options": [
+          "Local residents",
+          "The boy",
+          "The media",
+          "The Obanazawa post office"
+        ],
+        "answer": 3,
+        "explanation": "The passage says the post office released an apology to citizens and the media."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikinews.org/wiki/Teen_post_officer_hides_400_New_Year_cards_in_Japanese_snow",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:aab5b6b0",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-b05cc420",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Avian Influenza Risks",
+    "text": "Bird flu, or more formally avian influenza, can infect both birds and mammals. Fewer than a thousand cases have ever been reported in humans, but some of them have been fatal. Most have involved people who work with poultry, but there is also some risk to birdwatchers.",
+    "questions": [
+      {
+        "q": "Who has the highest risk of contracting avian influenza?",
+        "options": [
+          "Birdwatchers",
+          "People who work with mammals",
+          "Poultry workers",
+          "People who have been previously infected"
+        ],
+        "answer": 2,
+        "explanation": "The passage says most human cases involved people who work with poultry, making them the highest-risk group."
+      },
+      {
+        "q": "According to the passage, which of the following statements accurately describes bird flu?",
+        "options": [
+          "Only poultry workers have contracted the flu",
+          "More cases have been reported in humans than in birds",
+          "Birdwatchers are at risk of being infected",
+          "All cases reported in humans have been fatal"
+        ],
+        "answer": 2,
+        "explanation": "The passage states there is some risk to birdwatchers, so they can be infected."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Birdwatching",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:b05cc420",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-b3fffa83",
+    "type": "readDaily",
+    "cefr": "B2",
+    "skill": "reading",
+    "title": "Types of Tourism",
+    "text": "Perhaps the most common type of tourism is what most people associate with traveling: Recreation tourism. This is when people go to a place that is very different from their regular day-to-day life to relax and have fun. Beaches, theme parks and camp grounds are often the most common places frequented by recreational tourists. If the objective of one's visit to a particular place is to get to know its history and culture then this type of tourism is known as cultural tourism. Tourists may visit different landmarks of a particular country or they may simply opt to focus on just one area.",
+    "questions": [
+      {
+        "q": "Visiting a museum would fall under which category of tourism?",
+        "options": [
+          "Business tourism",
+          "Recreational tourism",
+          "Cultural tourism",
+          "Outdoor tourism"
+        ],
+        "answer": 2,
+        "explanation": "The passage says cultural tourism aims to get to know a place's history and culture, which a museum visit does."
+      },
+      {
+        "q": "According to the passage, what might be a priority for recreational travelers?",
+        "options": [
+          "Immersing themselves in the local culture",
+          "Taking a break from their daily routine",
+          "Seeing important landmarks",
+          "Understanding a place's history"
+        ],
+        "answer": 1,
+        "explanation": "The passage says recreation tourism means going somewhere very different from daily life to relax and have fun."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikibooks.org/wiki/Introductory_Tourism",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:b3fffa83",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-b4e32688",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Tibetan Buddhism Practices",
+    "text": "The Tibetan Buddhism is based on the teachings of Buddha, but were extended by the mahayana path of love and by a lot of techniques from Indian Yoga. In principle the Tibetan Buddhism is very simple. It consists of Kundalini Yoga, meditation and the path of all-embracing love. With Kundalini Yoga the Kundalini energy (enlightenment energy) is awakened through yoga postures, breathing exercises, mantras and visualizations. The center of Tibetan meditation is the Deity Yoga. Through the visualization of various deities the energy channels are cleaned, the chakras are activated and the enlightenment consciousness is created.",
+    "questions": [
+      {
+        "q": "According to the passage, which of the following techniques is an important part of Tibetan meditation?",
+        "options": [
+          "Practicing breathing exercises",
+          "Repeating mantras",
+          "Visualizing deities",
+          "Mastering yoga postures"
+        ],
+        "answer": 2,
+        "explanation": "The passage says the center of Tibetan meditation is Deity Yoga, which works through visualizing various deities."
+      },
+      {
+        "q": "According to the passage, how are chakras activated in during the \"center\" of Tibetan meditation?",
+        "options": [
+          "Through various yoga postures",
+          "By visualizing deities",
+          "The repetition of mantras",
+          "Practicing breathing exercises"
+        ],
+        "answer": 1,
+        "explanation": "The passage says visualizing various deities cleans the energy channels and activates the chakras."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikibooks.org/wiki/Yoga/Yoga_Tales",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:b4e32688",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-b6588604",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Cinque Terre Villages",
+    "text": "Cinque Terre, which means Five Lands, comprises the five small coastal villages of Riomaggiore, Manarola, Corniglia, Vernazza and Monterosso located in the Italian region of Liguria. They are listed on the UNESCO World Heritage List. Over the centuries, people have carefully built terraces on the rugged, steep landscape right up to the cliffs that overlook the sea. Part of its charm is the lack of visible corporate development. Paths, trains and boats connect the villages, and cars cannot reach them from the outside.",
+    "questions": [
+      {
+        "q": "How can people reach the remote villages in the region of Liguria?",
+        "options": [
+          "By car or boat",
+          "By car or train",
+          "By train or boat",
+          "By plane or train"
+        ],
+        "answer": 2,
+        "explanation": "The passage says paths, trains and boats connect the villages, and cars cannot reach them."
+      },
+      {
+        "q": "What does the Italian term 'Cinque Terre' refer to?",
+        "options": [
+          "Five villages",
+          "Five paths",
+          "Five cliffs",
+          "Five seas"
+        ],
+        "answer": 0,
+        "explanation": "The passage says Cinque Terre means Five Lands, referring to the five coastal villages."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Cinque_Terre",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:b6588604",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-ba9391df",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Visiting Victoria Falls",
+    "text": "Victoria Falls is a town in the western portion of Zimbabwe, across the border from Livingstone, Zambia, and near Botswana. The town lies immediately next to the falls, and they are the major attraction, but this popular tourist destination offers both adventure seekers and sightseers plenty of opportunities for a longer stay. In the rainy season (November to March), the water volume will be higher and the Falls will be more dramatic. You are guaranteed to get wet if you cross the bridge or walk along the trails winding near the Falls. On the other hand, it is precisely because the volume of water is so high that your viewing of the actual Falls will be obscured - by all the water!",
+    "questions": [
+      {
+        "q": "According to the passage, when should travelers visit the Falls if they are seeking unobstructed views?",
+        "options": [
+          "November through March",
+          "During tourist season",
+          "When the water volume is high",
+          "Outside of the rainy season"
+        ],
+        "answer": 3,
+        "explanation": "The passage says high water volume in the rainy season obscures the view, so the clearest views come outside the rainy season."
+      },
+      {
+        "q": "According to the passage, what is an upside to visiting Victoria Falls between November and March?",
+        "options": [
+          "Unobscured views of the Falls",
+          "Fewer tourists",
+          "Dramatic views of the Falls",
+          "Avoiding rainy season"
+        ],
+        "answer": 2,
+        "explanation": "The passage says that in the rainy season the water volume is higher and the Falls are more dramatic."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Victoria_Falls",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:ba9391df",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-bf25d341",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Hominid Hand Evolution",
+    "text": "Unlike other primates, hominids no longer use their hands in locomotion or bearing weight or swinging through the trees. The chimpanzee's hand and foot are similar in size and length, reflecting the hand's use for bearing weight in knuckle walking. The human hand is shorter than the foot, with straighter phalanges. Fossil hand bones two million to three million years old reveal this shift in specialization of the hand from locomotion to manipulation.",
+    "questions": [
+      {
+        "q": "Fossils show that hands eventually adapted to be used primarily for which following?",
+        "options": [
+          "Manipulation",
+          "Bearing weight",
+          "Locomotion",
+          "Knuckle walking"
+        ],
+        "answer": 0,
+        "explanation": "The passage says fossil hand bones show a shift from locomotion to manipulation."
+      },
+      {
+        "q": "Which of the following accurately describes the phalanges of a chimpanzee?",
+        "options": [
+          "They are straighter than a humans'",
+          "Their hands and feet differ in size",
+          "They are used for bearing weight",
+          "They are used primarily for manipulation"
+        ],
+        "answer": 2,
+        "explanation": "The passage says the chimpanzee's hand is used for bearing weight in knuckle walking."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikibooks.org/wiki/Introduction_to_Paleoanthropology/Bones",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:bf25d341",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-c02342c4",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "German Noun Capitalization",
+    "text": "All nouns, alongside the word Sie for you, always begin with a capital letter, even in the middle of a sentence. This is an important way to distinguish between some verbs and objects. It also arguably makes reading easier, though writing is somewhat complicated by the need to find out whether a verb or adjective is used in a substantivized form.",
+    "questions": [
+      {
+        "q": "According to the passage, which part of speech is capitalized in the middle of a sentence?",
+        "options": [
+          "Verbs",
+          "Nouns",
+          "Adjectives",
+          "Adverbs"
+        ],
+        "answer": 1,
+        "explanation": "The passage says all nouns always begin with a capital letter, even in the middle of a sentence."
+      },
+      {
+        "q": "According to the passage, what could the capitalization of nouns make more difficult?",
+        "options": [
+          "Reading",
+          "Distinguishing between verbs",
+          "Writing",
+          "Distinguishing between objects"
+        ],
+        "answer": 2,
+        "explanation": "The passage says writing is complicated by the need to determine whether a verb or adjective is used in a substantivized form."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/German_phrasebook",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:c02342c4",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-c352c3c2",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Stirrup Safety Features",
+    "text": "Stirrups are supports for the rider's feet that hang down on either side of the saddle. They provide greater stability for the rider but can have safety concerns due to the potential for a rider's feet to get stuck in them. If a rider is thrown from a horse but has a foot caught in the stirrup, they could be dragged if the horse runs away. To minimize this risk, a number of safety precautions can be taken. First, most riders wear riding boots with a heel and a smooth, quite narrow, sole. Next, some saddles, particularly English saddles, have safety bars that allow a stirrup leather to fall off the saddle if pulled backwards by a falling rider.",
+    "questions": [
+      {
+        "q": "What do some saddles have that help mitigate the risk of a rider's foot getting caught in a stirrup?",
+        "options": [
+          "Narrow soles",
+          "Safety bars",
+          "Leather stirrups",
+          "Greater stability"
+        ],
+        "answer": 1,
+        "explanation": "The passage says some saddles have safety bars that let the stirrup leather fall off if pulled backwards."
+      },
+      {
+        "q": "Which feature of a riding boot helps increase the rider's safety when using stirrups?",
+        "options": [
+          "A rough, narrow sole",
+          "Leather",
+          "A heel",
+          "A wide sole"
+        ],
+        "answer": 2,
+        "explanation": "The passage says riders wear boots with a heel, which helps prevent the foot sliding through the stirrup."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Horse_riding",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:c352c3c2",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-c72244cf",
+    "type": "readDaily",
+    "cefr": "B2+",
+    "skill": "reading",
+    "title": "Overscan in DVD Conversion",
+    "text": "One of the most common problems when trying to convert a movie to DVD format is the overscan. Most televisions are made in a way to please the general public. For that reason, everything you see on the TV had the borders cut, top, bottom and sides. This is made to ensure that the image covers the whole screen. That is called overscan. Unfortunately, when you make a DVD, it's borders will most likely be cut too, and if the video had subtitles too close to the bottom, they won't be fully shown.",
+    "questions": [
+      {
+        "q": "Why do the images on television have their borders cut?",
+        "options": [
+          "To allow for subtitles",
+          "So the image fills the entire screen",
+          "To allow for simple conversion into other formats",
+          "To cut subtitles too close to the bottom"
+        ],
+        "answer": 1,
+        "explanation": "The passage says television borders are cut to ensure that the image covers the whole screen."
+      },
+      {
+        "q": "According to the passage, which of the following problems might one encounter when converting a movie to DVD format?",
+        "options": [
+          "An image that doesn't fill the entire screen",
+          "Partially cut subtitles",
+          "An image that fills the entire screen",
+          "Cut borders"
+        ],
+        "answer": 1,
+        "explanation": "The passage says DVD borders are likely cut too, so subtitles too close to the bottom won't be fully shown."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikibooks.org/wiki/All_About_Converting_From_Several_Video_Formats_To_DVD",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:c72244cf",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-cb0fa054",
+    "type": "readDaily",
+    "cefr": "B2",
+    "skill": "reading",
+    "title": "Hill Station Tourist Seasons",
+    "text": "The tourist season for the hill stations generally peaks during the Indian summer. However, they have a different kind of beauty and charm during winter, with many hill stations receiving healthy amounts of snow and offering activities such as skiing and snowboarding.",
+    "questions": [
+      {
+        "q": "When should tourists interested in skiing visit the hill stations?",
+        "options": [
+          "During winter",
+          "During peak season",
+          "During Indian summer",
+          "During the spring"
+        ],
+        "answer": 0,
+        "explanation": "The passage says hill stations get healthy amounts of snow in winter and offer skiing and snowboarding."
+      },
+      {
+        "q": "According to the passage, when is there usually the most tourists at the hill stations?",
+        "options": [
+          "During bouts of heavy snow",
+          "Throughout snowboarding season",
+          "During Indian summer",
+          "Throughout the winter months"
+        ],
+        "answer": 2,
+        "explanation": "The passage says the tourist season for hill stations generally peaks during the Indian summer."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Hill_stations_in_India",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:cb0fa054",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-cca6f51f",
+    "type": "readDaily",
+    "cefr": "B2",
+    "skill": "reading",
+    "title": "Visiting Antarctica",
+    "text": "Antarctica is the coldest place on Earth, and surrounds the South Pole. Tourist visits are costly, demand physical fitness, can only take place in summer Nov-Feb, and are largely limited to the Peninsula, Islands and Ross Sea. A couple of thousand staff live here in summer in some four dozen bases mostly in those areas; a small number stay over winter. Inland Antarctica is a desolate plateau covered by 2-3 km of ice. Occasional specialist air tours go inland, for mountaineering or to reach the Pole, which has a large base.",
+    "questions": [
+      {
+        "q": "According to the passage, which of the following could prevent a tourist from visiting Antarctica?",
+        "options": [
+          "An extensive travel budget",
+          "A sole interest in exploring the Ross Sea",
+          "A work schedule that allows for travel in December and January",
+          "Limited physical mobility"
+        ],
+        "answer": 3,
+        "explanation": "The passage says tourist visits demand physical fitness, so limited mobility could prevent a visit."
+      },
+      {
+        "q": "A tourist interested in mountaineering might visit which part of Antartica?",
+        "options": [
+          "The Ross Sea",
+          "The Inland area",
+          "The Peninsula",
+          "The Islands"
+        ],
+        "answer": 1,
+        "explanation": "The passage says specialist air tours go inland for mountaineering."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Antarctica",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:cca6f51f",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-e6aa2c7a",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Northern Rock and Virgin",
+    "text": "The Northern Rock bank had been nationalised in 2008 following the revelation that the company had received emergency support from the UK Government. Northern Rock had required support due to its exposure during the subprime mortgage crisis in 2007. Sir Richard Branson's Virgin Group had a bid for the bank rejected prior to the bank's nationalisation. In 2010, while nationalised, the current high street bank Northern Rock plc was split from the 'bad bank', Northern Rock (Asset Management). Virgin have only purchased the 'good bank' of Northern Rock, not the asset management company.",
+    "questions": [
+      {
+        "q": "When did Northern Rock bank need support from the government?",
+        "options": [
+          "After the bank was nationalized",
+          "When the bank split from the asset management company",
+          "After Virgin group purchased the bank",
+          "During the mortgage crisis"
+        ],
+        "answer": 3,
+        "explanation": "The passage says Northern Rock needed government support because of its exposure during the subprime mortgage crisis."
+      },
+      {
+        "q": "According to the passage, which of the following statements accurately describes Virgin Group's dealings with Northern Rock bank?",
+        "options": [
+          "Virgin Group also purchased Northern Rock's asset management company",
+          "Virgin Group purchased the bank after it's nationalization",
+          "Virgin Group offered the bank emergency support during the mortgage crisis",
+          "Virgin Group's first bid for the bank was made after the bank's nationalization"
+        ],
+        "answer": 1,
+        "explanation": "The passage says Virgin's bid was rejected before nationalisation, and it later purchased only the good bank."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikinews.org/wiki/Nationalised_bank_Northern_Rock_sold_to_Virgin_Money",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:e6aa2c7a",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-ecf24bdc",
+    "type": "readDaily",
+    "cefr": "B2",
+    "skill": "reading",
+    "title": "Renaissance and Learning",
+    "text": "As the ability to obtain knowledge and to learn changed in such a way as mentioned above the base rate at which knowledge was obtained changed. The approach to obtaining information was different. No longer did pressure reside within individual recall, but the ability to recall text became more of a focus. In essence, the Renaissance made a significant change in the approach to learning and the dissemination of knowledge.",
+    "questions": [
+      {
+        "q": "Which of the following became more important as a result of the Renaissance?",
+        "options": [
+          "Individual recall",
+          "Circulating knowledge",
+          "Text recall",
+          "Obtaining information"
+        ],
+        "answer": 2,
+        "explanation": "The passage says the ability to recall text became more of a focus after the Renaissance."
+      },
+      {
+        "q": "As a result of the Renaissance, less emphasis was put on which of the following?",
+        "options": [
+          "Individual recall",
+          "Obtaining knowledge",
+          "Text recall",
+          "Distribution of information"
+        ],
+        "answer": 0,
+        "explanation": "The passage says pressure no longer resided within individual recall, so that received less emphasis."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikibooks.org/wiki/Communication_Theory/Orality_and_Literacy",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:ecf24bdc",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-ee83d0d8",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Tri Nations Rugby Result",
+    "text": "South Africa have defeated the All Blacks (New Zealand) in a rugby union Tri Nations match at the Royal Bafokeng Stadium in Rustenburg, South Africa. The final score was a one-point victory, 21 to 20, ending the All Blacks' 15 game winning streak. For the Springboks, it ended a five-match losing streak. It was the final match for the All Blacks, who had already won the trophy two weeks ago. The final match of the series will take place at Ellis Park in Johannesburg next week, when the Springboks play Australia.",
+    "questions": [
+      {
+        "q": "Which teams will play in the match at Ellis Park?",
+        "options": [
+          "All Blacks and Australia",
+          "New Zealand and South Africa",
+          "South Africa and Australia",
+          "Springboks and All Blacks"
+        ],
+        "answer": 2,
+        "explanation": "The passage says the final match at Ellis Park will have the Springboks, meaning South Africa, play Australia."
+      },
+      {
+        "q": "Where will the Springboks' play their next match?",
+        "options": [
+          "Australia",
+          "Rustenburg",
+          "Johannesburg",
+          "New Zealand"
+        ],
+        "answer": 2,
+        "explanation": "The passage says the Springboks play Australia next week at Ellis Park in Johannesburg."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikinews.org/wiki/South_Africa_end_All_Blacks%27_15-game_winning_streak",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:ee83d0d8",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-eef9f530",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "India Encephalitis Outbreak Response",
+    "text": "The first cases of the disease this season were reported in late July. The disease is carried by pigs, which then migrates to humans through mosquitos. The outbreak has prompted the Indian government to undertake such measures as deployment of pig catchers in seriously affected areas, distributing thousands of mosquito curtains and spraying pesticides. Several million vials of encephalitis vaccine have also been promised by the government, which will help prepare health agencies for next year. Plans for vaccines to be delivered to the historically most affected areas this year were delayed due to lack of funds and low prioritisation relative to other diseases.",
+    "questions": [
+      {
+        "q": "Based on the passage, which measure of protection against the disease will be implemented last?",
+        "options": [
+          "Pesticides",
+          "Pig catchers",
+          "Encephalitis vaccines",
+          "Mosquito curtains"
+        ],
+        "answer": 2,
+        "explanation": "The passage says vaccine delivery was delayed and the vials are meant to prepare for next year, so vaccines come last."
+      },
+      {
+        "q": "How does the disease transfer to humans?",
+        "options": [
+          "Mosquitoes",
+          "Pesticides",
+          "Pigs",
+          "Pig catchers"
+        ],
+        "answer": 0,
+        "explanation": "The passage says the disease is carried by pigs and migrates to humans through mosquitos."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikinews.org/wiki/India_struggles_with_encephalitis_outbreak",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:eef9f530",
+    "origin": "adapted"
+  },
+  {
+    "id": "rd-belebele-f6817b33",
+    "type": "readDaily",
+    "cefr": "C1",
+    "skill": "reading",
+    "title": "Cheaper Premium Airfare",
+    "text": "The obvious way of flying in first or business class is to fork out a thick wad of money for the privilege (or, better yet, get your company to do it for you). However, this does not come cheap: as rough rules of thumb, you can expect to pay up to four times the normal economy fare for business, and eleven times for first class! Generally speaking, there is no point in even looking for discounts for business or first-class seats on direct flights from A to B. Airlines know well that there is a certain core group of flyers who are willing to pay top dollar for the privilege of getting somewhere fast and in comfort, and charge accordingly.",
+    "questions": [
+      {
+        "q": "According to the passage, which of the following is the most probable way to save money on business or first class airfare?",
+        "options": [
+          "Expensing it through your company",
+          "Booking first class instead of business",
+          "Booking a non-direct first class flight",
+          "Finding a discount"
+        ],
+        "answer": 0,
+        "explanation": "The passage suggests getting your company to pay, the only way it mentions to avoid the cost yourself."
+      },
+      {
+        "q": "According to the passage, what would be a waste of time to search for when booking certain fare classes?",
+        "options": [
+          "Direct flights",
+          "Business class",
+          "Discounts",
+          "First class"
+        ],
+        "answer": 2,
+        "explanation": "The passage says there is no point looking for discounts on direct business or first-class flights."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/First_and_business_class_flights",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:f6817b33",
+    "origin": "adapted",
+    "topics": [
+      "workplace"
+    ]
+  },
+  {
+    "id": "rd-belebele-f9592d2c",
+    "type": "readDaily",
+    "cefr": "B2+",
+    "skill": "reading",
+    "title": "Moldova and Transnistria",
+    "text": "The capital of Moldova is Chişinău. The local language is Romanian, but Russian is widely used. Moldova is a multi-ethnic republic that has suffered from ethnic conflict. In 1994, this conflict led to the creation of the self-proclaimed Transnistria Republic in eastern Moldova, which has its own government and currency but is not recognised by any UN member country. Economic links have been re-established between these two parts of Moldova despite the failure in political negotiations. The major religion in Moldova is Orthodox Christian.",
+    "questions": [
+      {
+        "q": "Conflict over which of the following led to the creation of the Transnistria Republic?",
+        "options": [
+          "Economy",
+          "Ethnicity",
+          "Language",
+          "Religion"
+        ],
+        "answer": 1,
+        "explanation": "The passage says the ethnic conflict in the multi-ethnic republic led to the creation of the Transnistria Republic."
+      },
+      {
+        "q": "Which of the following does the Transnistria Republic have that is different from the rest of Moldova?",
+        "options": [
+          "Language",
+          "Religion",
+          "UN recognition",
+          "Currency"
+        ],
+        "answer": 3,
+        "explanation": "The passage says Transnistria has its own government and currency, unlike the rest of Moldova."
+      }
+    ],
+    "source": "belebele",
+    "sourceId": "https://en.wikivoyage.org/wiki/Moldova",
+    "license": "CC BY-SA 4.0",
+    "tier": "share-alike",
+    "group": "belebele:f9592d2c",
+    "origin": "adapted"
+  }
+]

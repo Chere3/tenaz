@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/Chere3/tenaz/discussions
+    about: Ask questions or float ideas in Discussions (if enabled on the repository).
+  - name: Report a security vulnerability
+    url: https://github.com/Chere3/tenaz/security/advisories/new
+    about: Report vulnerabilities privately, never in a public issue.
