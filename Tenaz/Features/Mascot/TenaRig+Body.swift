@@ -106,8 +106,11 @@ extension TenaRig {
             }
         }
         let headInModel = head.path.applying(headT)
-        // The head's cast shadow on the upper body (light from the upper right).
-        let shade = Decor(path: headInModel.offsetBy(dx: -2.5, dy: 6), fill: .shade)
+        // The head's cast shadow on the upper body (light from the upper right): a crescent that
+        // tapers toward both sides, never a full-width band.
+        let chinModel = CGPoint(x: 97, y: head.chin + 2).applying(headT)
+        let shadowReach = Curve.ellipse(chinModel, 0.36 * bodySize.width, 11)
+        let shade = Decor(path: headInModel.offsetBy(dx: -2.5, dy: 6).intersection(shadowReach), fill: .shade)
         var body = moved(Part(path: bean.path, fill: .body, decor: [
             Decor(path: Curve.ellipse(CGPoint(x: 99, y: bean.center.y + 0.15 * bodySize.height), 0.29 * bodySize.width, 0.32 * bodySize.height), fill: .belly),
         ]), bodyT)
@@ -431,7 +434,7 @@ extension TenaRig {
     func bustFigure(pose: TenaPose, time t: Double) -> TenaFigure {
         let head = HeadShape(center: CGPoint(x: 100, y: 80), size: build.head)
         let headT = about(head.center, CGAffineTransform(rotationAngle: (pose.tilt * 0.6 + sway(t)) * .pi / 180))
-        let gills = fronds(head: head, pose: pose, time: t, options: FrondOptions(lengthScale: 0.8))
+        let gills = fronds(head: head, pose: pose, time: t, options: FrondOptions(lengthScale: 0.66))
         var parts = gills.parts.map { moved($0, headT) }
         parts.append(moved(Part(path: head.path, fill: .body, decor: crown(head: head)), headT))
         let face = faceAnchors(head: head, pose: pose)
@@ -473,7 +476,7 @@ extension TenaRig {
         }
         spine.append(p[p.count - 1])
         spine = smoothed(smoothed(spine))
-        let root = 0.17 * b.body.height
+        let root = 0.15 * b.body.height
         let halfWidth: (CGFloat) -> CGFloat = { s in root * pow(1 - s, 0.75) + 1.3 }
         var front: [Part] = []
         if b.dorsal > 0, !b.landForm {
@@ -492,9 +495,10 @@ extension TenaRig {
             }
             front.append(Part(path: Curve.closed(outer + inner.reversed()), fill: .belly, decor: decor))
         }
+        // The tail sits behind the body, so the body rests in its curl with no cut root.
         front.append(Part(path: Curve.ribbon(spine, halfWidth: halfWidth), fill: .body))
-        let back = [moved(Part(path: bean.path, fill: .body, decor: [
-            Decor(path: Curve.ellipse(CGPoint(x: bean.center.x, y: bean.bottom), lying.width * 0.36, lying.height * 0.3), fill: .belly),
+        let back = front + [moved(Part(path: bean.path, fill: .body, decor: [
+            Decor(path: Curve.ellipse(CGPoint(x: bean.center.x - 0.08 * lying.width, y: bean.bottom), lying.width * 0.34, lying.height * 0.32), fill: .belly),
         ]), bodyT)]
         let gills = fronds(head: head, pose: pose, time: t)
         var headParts = gills.parts.map { moved($0, headT) }
@@ -506,7 +510,7 @@ extension TenaRig {
             }
         }
         var figure = TenaFigure()
-        figure.groups = [TenaFigure.Group(parts: back), TenaFigure.Group(parts: front), TenaFigure.Group(parts: headParts)]
+        figure.groups = [TenaFigure.Group(parts: back), TenaFigure.Group(parts: headParts)]
         figure.face = face
         figure.headTransform = headT
         if pose.prop == .sleepZ, lod != .glyph {

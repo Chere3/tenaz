@@ -31,6 +31,21 @@ struct MascotQA: View {
                     }
                 }
             }
+            VStack(alignment: .leading, spacing: 6) {
+                Text("Menu-bar glyph: normal, due, hungry, sick, asleep (18 pt and 36 pt)")
+                    .font(Typography.labelBold)
+                    .foregroundStyle(Tokens.brand)
+                HStack(spacing: Tokens.Space.l) {
+                    ForEach(TenaGlyphState.allCases, id: \.self) { state in
+                        HStack(alignment: .bottom, spacing: Tokens.Space.xs) {
+                            TenaGlyph(state: state, size: 18)
+                            TenaGlyph(state: state, size: 36)
+                        }
+                        .foregroundStyle(Tokens.ink)
+                    }
+                }
+                .padding(.leading, 92)
+            }
         }
         .padding(Tokens.Space.xl)
         .fixedSize()

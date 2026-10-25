@@ -24,7 +24,7 @@ enum SnapshotRegistry {
             // A wide desktop window (1908 x 980 incl. title bar).
             "main-wide": SnapshotEntry(view: AnyView(HStack(spacing: 0) { SidebarView(selection: .constant(.home), summary: .sample); HomeBoard(summary: .sample, now: SnapshotFixtures.morning) }), size: CGSize(width: 1908, height: 952)),
             "mascot-gallery": SnapshotEntry(view: AnyView(MascotGallery()), size: CGSize(width: 1660, height: 1440)),
-            "mascot-qa": SnapshotEntry(view: AnyView(MascotQA()), size: CGSize(width: 1060, height: 1120)),
+            "mascot-qa": SnapshotEntry(view: AnyView(MascotQA()), size: CGSize(width: 1080, height: 1340)),
             "onboarding-1": SnapshotEntry(view: AnyView(OnboardingFlow(page: .welcome, hatched: false, plan: .constant(OnboardingPlan()))), size: CGSize(width: 760, height: 600)),
             "onboarding-2": SnapshotEntry(view: AnyView(OnboardingFlow(page: .intrusions, hatched: true, plan: .constant(OnboardingPlan()))), size: CGSize(width: 760, height: 600)),
             "onboarding-3": SnapshotEntry(view: AnyView(OnboardingFlow(page: .minimum, hatched: true, plan: .constant(OnboardingPlan()))), size: CGSize(width: 760, height: 600)),
@@ -62,10 +62,6 @@ enum SnapshotRegistry {
         }
         all["app-icon-good"] = SnapshotEntry(view: AnyView(AppIconArt(mood: .proud, flood: .good)), size: CGSize(width: 512, height: 512))
         all["app-icon-risk"] = SnapshotEntry(view: AnyView(AppIconArt(mood: .nagging, flood: .risk)), size: CGSize(width: 512, height: 512))
-        // TEMP-DEV
-        let devEnv = ProcessInfo.processInfo.environment
-        let devSize = CGFloat(Double(devEnv["TENA_SIZE"] ?? "520") ?? 520)
-        all["tena-dev"] = SnapshotEntry(view: AnyView(TenaView(mood: TenaMood(rawValue: devEnv["TENA_MOOD"] ?? "neutral") ?? .neutral, stage: TenaStage(rawValue: Int(devEnv["TENA_STAGE"] ?? "3") ?? 3) ?? .juvenile, size: devSize, word: "levera").background(Flood(rawValue: devEnv["TENA_FLOOD"] ?? "turn")?.color ?? .clear)), size: CGSize(width: devSize, height: devSize))
         return all
     }
 }

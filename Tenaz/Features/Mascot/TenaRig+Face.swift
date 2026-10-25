@@ -43,30 +43,31 @@ extension TenaRig {
         let gaze = CGVector(dx: e.gaze.dx + drift.dx, dy: e.gaze.dy + drift.dy)
         let bead = CGPoint(x: c.x + CGFloat(gaze.dx) * rx * 1.6, y: c.y + CGFloat(gaze.dy) * ry * 1.6)
         let beadPath = Curve.ellipse(bead, rx, ry)
-        ctx.fill(beadPath, with: .color(ink))
 
-        // Upper lid: skin over the top of the bead, its edge angled (+ = inner corner down).
+        // Upper lid: cuts the top of the bead, its edge angled (+ = inner corner down). The lids mask
+        // the bead (inverse clip) rather than painting skin over it, so no seam rings the eye.
         let lid = CGFloat(e.lid + (1 - e.lid) * shut)
         let slope = CGFloat(tan(e.lidAngle * .pi / 180)) * -side
         let edgeBase = c.y - ry + 2 * ry * lid
         func edge(_ x: CGFloat) -> CGFloat { edgeBase + slope * (x - c.x) }
-        var lids = ctx
-        lids.clip(to: beadPath)
-        if lid > 0.02 {
-            var cover = Path()
-            cover.move(to: CGPoint(x: c.x - 3 * rx, y: edge(c.x - 3 * rx)))
-            cover.addLine(to: CGPoint(x: c.x + 3 * rx, y: edge(c.x + 3 * rx)))
-            cover.addLine(to: CGPoint(x: c.x + 3 * rx, y: c.y - 4 * ry))
-            cover.addLine(to: CGPoint(x: c.x - 3 * rx, y: c.y - 4 * ry))
-            cover.closeSubpath()
-            lids.fill(cover, with: .color(color(.body)))
-        }
-        // Lower lid push: a skin crescent from below, so the bead reads as a half-moon.
+        // Lower lid push: a crescent from below, so the bead reads as a half-moon.
         let lower = CGFloat(e.lowerLid)
         let lowerTop = c.y + ry - 2 * ry * lower
-        if lower > 0.02 {
-            lids.fill(Curve.ellipse(CGPoint(x: c.x, y: lowerTop + ry * 1.5), rx * 2.1, ry * 1.5), with: .color(color(.body)))
+        var mask = Path()
+        if lid > 0.02 {
+            mask.move(to: CGPoint(x: c.x - 3 * rx, y: edge(c.x - 3 * rx)))
+            mask.addLine(to: CGPoint(x: c.x + 3 * rx, y: edge(c.x + 3 * rx)))
+            mask.addLine(to: CGPoint(x: c.x + 3 * rx, y: c.y - 4 * ry))
+            mask.addLine(to: CGPoint(x: c.x - 3 * rx, y: c.y - 4 * ry))
+            mask.closeSubpath()
         }
+        if lower > 0.02 {
+            mask = mask.union(Curve.ellipse(CGPoint(x: c.x, y: lowerTop + ry * 1.5), rx * 2.1, ry * 1.5))
+        }
+        var lids = ctx
+        if !mask.isEmpty { lids.clip(to: mask, options: .inverse) }
+        lids.fill(beadPath, with: .color(ink))
+        lids.clip(to: beadPath)
         // Gloss at the upper right (fixed light), kept inside what the lids leave open.
         let open = max(0, min(lowerTop, c.y + ry) - max(edge(bead.x + rx * 0.46), c.y - ry))
         var gloss = 3.2 * s * scale * (e.pupilScale < 0.8 ? 0.55 : 1)

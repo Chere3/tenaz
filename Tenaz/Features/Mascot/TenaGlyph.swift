@@ -1,8 +1,11 @@
 import AppKit
 import SwiftUI
 
-/// Tena's head as a one-ink menu-bar glyph: a filled silhouette with gills, the face cut out of it.
+/// Tena's head as a one-ink menu-bar glyph: the flat-topped head with three tapered fronds per side
+/// (58/30/6°, top longest), the face cut out of it: bead eyes and the wide smile line.
 /// Readable at 18 pt; `image(_:)` returns a template NSImage so the menu bar tints it.
+/// States differ by shape only: due (badge), hungry (open mouth), sick (limp gills, heavy lids,
+/// wavy mouth), asleep (closed arcs, curled gills).
 struct TenaGlyph: View {
     let state: TenaGlyphState
     var size: CGFloat = 18
@@ -19,66 +22,84 @@ struct TenaGlyph: View {
         .accessibilityHidden(true)
     }
 
+    private var gillLift: Double {
+        switch state {
+        case .sick: -22
+        case .asleep: -10
+        default: 0
+        }
+    }
+
     private func draw(in layer: inout GraphicsContext) {
         let ink = GraphicsContext.Shading.foreground
-        // Gills: three short stalks each side.
-        var gills = Path()
-        // Roots sit on the upper flanks of the head and fan up and out like the real fronds.
-        let fronds: [(root: CGPoint, angle: Double, length: Double)] = [
-            (CGPoint(x: 5.2, y: 6.6), -62, 3.6), (CGPoint(x: 4.2, y: 8.6), -28, 3.4), (CGPoint(x: 4.0, y: 10.8), 6, 2.8),
-        ]
-        for side in [-1.0, 1.0] {
-            for frond in fronds {
-                let a = frond.angle * .pi / 180
-                let root = CGPoint(x: 9 + side * (9 - frond.root.x), y: frond.root.y)
-                gills.move(to: root)
-                gills.addLine(to: CGPoint(x: root.x + side * frond.length * cos(a), y: root.y + frond.length * sin(a)))
+        let head = HeadShape(center: CGPoint(x: 9, y: 10.4), size: CGSize(width: 12.4, height: 8.4))
+        let lengths: [CGFloat] = [3.9, 3.4, 2.7]
+        for side in [CGFloat(-1), 1] {
+            for i in 0 ..< 3 {
+                let root = head.contour(polar: [40, 20, 2][i], side: side)
+                let a = [58.0, 30, 6][i] + gillLift
+                let d = CGPoint.heading(a, side: side)
+                let bend = CGPoint.heading(a + 10 - (state == .asleep ? 30 : 0), side: side)
+                let c = root + d * (lengths[i] * 0.5)
+                let tip = c + bend * (lengths[i] * 0.5)
+                let spine = (0 ... 8).map { Curve.quad(root - d * 0.8, c, tip, CGFloat($0) / 8) }
+                layer.fill(Curve.ribbon(spine, halfWidth: { s in 0.95 * (1 - s) + 0.5 * s }), with: ink)
             }
         }
-        layer.stroke(gills, with: ink, style: StrokeStyle(lineWidth: 2, lineCap: .round))
-        layer.fill(Path(ellipseIn: CGRect(x: 3.3, y: 4.8, width: 11.4, height: 10.4)), with: ink)
+        layer.fill(head.path, with: ink)
+
         // Face, cut out of the silhouette.
         layer.blendMode = .destinationOut
-        let face = StrokeStyle(lineWidth: 1.15, lineCap: .round)
-        for x in [6.6, 11.4] {
-            if state == .asleep {
-                var lid = Path()
-                lid.addArc(center: CGPoint(x: x, y: 9.0), radius: 1.3, startAngle: .degrees(20), endAngle: .degrees(160), clockwise: false)
-                layer.stroke(lid, with: ink, style: face)
-            } else {
-                layer.fill(Path(ellipseIn: CGRect(x: x - 1.05, y: 8.3, width: 2.1, height: 2.2)), with: ink)
+        let line = StrokeStyle(lineWidth: 1.05, lineCap: .round)
+        for x in [9 - 3.1, 9 + 3.1] {
+            switch state {
+            case .asleep:
+                var arc = Path()
+                arc.move(to: CGPoint(x: x - 1.2, y: 10.0))
+                arc.addQuadCurve(to: CGPoint(x: x + 1.2, y: 10.0), control: CGPoint(x: x, y: 11.2))
+                layer.stroke(arc, with: ink, style: line)
+            case .sick:
+                // Heavy lids: the top half of each bead is gone.
+                var half = Path()
+                half.addArc(center: CGPoint(x: x, y: 9.9), radius: 1.05, startAngle: .degrees(0), endAngle: .degrees(180), clockwise: false)
+                half.closeSubpath()
+                layer.fill(half, with: ink)
+            default:
+                layer.fill(Path(ellipseIn: CGRect(x: x - 1.0, y: 8.9, width: 2.0, height: 2.15)), with: ink)
             }
         }
         switch state {
         case .hungry:
-            layer.fill(Path(ellipseIn: CGRect(x: 7.85, y: 11.2, width: 2.3, height: 2.6)), with: ink)
+            var mouth = Path()
+            mouth.move(to: CGPoint(x: 6.6, y: 12.2))
+            mouth.addCurve(to: CGPoint(x: 11.4, y: 12.2), control1: CGPoint(x: 7.8, y: 11.8), control2: CGPoint(x: 10.2, y: 11.8))
+            mouth.addCurve(to: CGPoint(x: 6.6, y: 12.2), control1: CGPoint(x: 10.6, y: 14.6), control2: CGPoint(x: 7.4, y: 14.6))
+            mouth.closeSubpath()
+            layer.fill(mouth, with: ink)
         case .asleep:
+            layer.fill(Path(ellipseIn: CGRect(x: 8.2, y: 12.1, width: 1.6, height: 1.3)), with: ink)
+        case .sick:
             var mouth = Path()
-            mouth.move(to: CGPoint(x: 8.1, y: 12.4))
-            mouth.addLine(to: CGPoint(x: 9.9, y: 12.4))
-            layer.stroke(mouth, with: ink, style: face)
+            for i in 0 ... 12 {
+                let t = CGFloat(i) / 12
+                let p = CGPoint(x: 6.6 + 4.8 * t, y: 12.6 + 0.45 * sin(t * 2.5 * 2 * .pi))
+                i == 0 ? mouth.move(to: p) : mouth.addLine(to: p)
+            }
+            layer.stroke(mouth, with: ink, style: StrokeStyle(lineWidth: 0.95, lineCap: .round, lineJoin: .round))
         default:
+            // The wide axolotl smile: 60 % of the head.
             var mouth = Path()
-            mouth.move(to: CGPoint(x: 7.3, y: 11.8))
-            mouth.addQuadCurve(to: CGPoint(x: 10.7, y: 11.8), control: CGPoint(x: 9, y: 13.6))
-            layer.stroke(mouth, with: ink, style: face)
-        }
-        if state == .sick {
-            // A bandage strip across the forehead: a cut band with the head showing through its pad.
-            var band = Path()
-            band.move(to: CGPoint(x: 9.6, y: 4.2))
-            band.addLine(to: CGPoint(x: 14.2, y: 7.6))
-            layer.stroke(band, with: ink, style: StrokeStyle(lineWidth: 2.6, lineCap: .round))
-            layer.blendMode = .normal
-            layer.fill(Path(ellipseIn: CGRect(x: 11.3, y: 5.3, width: 1.3, height: 1.3)), with: ink)
+            mouth.move(to: CGPoint(x: 5.3, y: 12.0))
+            mouth.addCurve(to: CGPoint(x: 12.7, y: 12.0), control1: CGPoint(x: 7.4, y: 13.1), control2: CGPoint(x: 10.6, y: 13.1))
+            layer.stroke(mouth, with: ink, style: line)
         }
         layer.blendMode = .normal
         if state == .due {
             // Due dot: a solid badge top-right with a cut ring separating it from the head.
             layer.blendMode = .destinationOut
-            layer.fill(Path(ellipseIn: CGRect(x: 11.6, y: 0.6, width: 6.2, height: 6.2)), with: ink)
+            layer.fill(Path(ellipseIn: CGRect(x: 11.6, y: 0.4, width: 6.4, height: 6.4)), with: ink)
             layer.blendMode = .normal
-            layer.fill(Path(ellipseIn: CGRect(x: 12.6, y: 1.6, width: 4.2, height: 4.2)), with: ink)
+            layer.fill(Path(ellipseIn: CGRect(x: 12.7, y: 1.5, width: 4.2, height: 4.2)), with: ink)
         }
     }
 

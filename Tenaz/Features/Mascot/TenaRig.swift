@@ -159,8 +159,10 @@ struct TenaRig {
         }
         for group in figure.front { draw(group, in: ctx, weights: weights) }
         if !silhouette, let box = figure.signBox { drawSignText(box, in: ctx, weights: weights) }
+        // Floating marks sit on the flood, not on her, so on dark floods they take the light belly pink.
+        let mark = dark && !silhouette ? color(.belly) : ink
         for line in figure.inkLines {
-            ctx.stroke(line, with: .color(ink), style: StrokeStyle(lineWidth: weights.t1, lineCap: .round, lineJoin: .round))
+            ctx.stroke(line, with: .color(mark), style: StrokeStyle(lineWidth: weights.t1, lineCap: .round, lineJoin: .round))
         }
     }
 
