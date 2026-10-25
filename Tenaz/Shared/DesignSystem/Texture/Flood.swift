@@ -44,6 +44,7 @@ private struct FloodBackground: ViewModifier {
     func body(content: Content) -> some View {
         content
             .environment(\.colorScheme, flood?.inkScheme ?? scheme)
+            .environment(\.mascotFlood, flood)
             .background {
                 ZStack {
                     (flood?.color ?? Tokens.paper)

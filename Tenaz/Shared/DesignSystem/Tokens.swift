@@ -22,6 +22,10 @@ enum Tokens {
     static let tenaShade = color(\.tenaShade)
     static let tenaOutline = color(\.tenaOutline)
     static let tenaGill = color(\.tenaGill)
+    static let tenaBelly = color(\.tenaBelly)
+    static let tenaMark = color(\.tenaMark)
+    static let tenaGillDeep = color(\.tenaGillDeep)
+    static let tenaAmber = color(\.tenaAmber)
 
     // Floods: one per screen, the colour is the state. Use `.flood(_:)`, not these directly.
     static let floodTurn = color(\.floodTurn)

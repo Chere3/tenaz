@@ -1,9 +1,8 @@
 import SwiftUI
 
-/// Debug sheet: all 12 moods across four stages, then the eight stages in one row.
+/// Debug sheet: all 12 moods at every stage (Standard tier, 120 pt), then the eight stages in one row.
 struct MascotGallery: View {
-    static let stages: [TenaStage] = [.hatchling, .juvenile, .adult, .elder]
-    private let cell: CGFloat = 112
+    private let cell: CGFloat = 120
 
     var body: some View {
         VStack(alignment: .leading, spacing: Tokens.Space.l) {
@@ -11,13 +10,13 @@ struct MascotGallery: View {
                 Text("Tena")
                     .font(Typography.display(56))
                     .foregroundStyle(Tokens.ink)
-                Text("12 moods · 8 stages")
+                Text("12 moods · 8 stages · Ink & Smile")
                     .font(Typography.label)
                     .foregroundStyle(Tokens.brand)
             }
-            Grid(horizontalSpacing: 4, verticalSpacing: 4) {
+            Grid(horizontalSpacing: 4, verticalSpacing: 2) {
                 GridRow {
-                    Color.clear.frame(width: 76, height: 1)
+                    Color.clear.frame(width: 84, height: 1)
                     ForEach(TenaMood.allCases) { mood in
                         Text(mood.title)
                             .font(Typography.labelBold)
@@ -27,14 +26,14 @@ struct MascotGallery: View {
                             .frame(width: cell)
                     }
                 }
-                ForEach(Self.stages) { stage in
+                ForEach(TenaStage.allCases) { stage in
                     GridRow {
                         Text(stage.title)
                             .font(Typography.labelBold)
                             .foregroundStyle(Tokens.brand)
-                            .frame(width: 76, alignment: .leading)
+                            .frame(width: 84, alignment: .leading)
                         ForEach(TenaMood.allCases) { mood in
-                            TenaView(mood: mood, stage: stage, size: cell)
+                            TenaView(mood: mood, stage: stage, size: cell, word: "levera")
                         }
                     }
                 }
@@ -43,7 +42,7 @@ struct MascotGallery: View {
                 HStack(alignment: .bottom, spacing: Tokens.Space.m) {
                     ForEach(TenaStage.allCases) { stage in
                         VStack(spacing: 4) {
-                            TenaView(mood: .happy, stage: stage, size: 150)
+                            TenaView(mood: .happy, stage: stage, size: 176)
                             Text("\(stage.rawValue) · \(stage.title)")
                                 .font(Typography.labelBold)
                                 .foregroundStyle(Tokens.ink)

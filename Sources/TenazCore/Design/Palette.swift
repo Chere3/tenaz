@@ -32,8 +32,16 @@ public struct Palette: Sendable {
     public let tenaShade: HexColor
     /// Tena's outline, eyes and mouth (ink, same on both sheets).
     public let tenaOutline: HexColor
-    /// Tena's gill stalks and blush.
+    /// Tena's gill fronds.
     public let tenaGill: HexColor
+    /// Tena's belly patch and fin frill (lighter than the body).
+    public let tenaBelly: HexColor
+    /// Tena's crown dots and freckles.
+    public let tenaMark: HexColor
+    /// Gill roots and filaments; also the gill fill on the coral and orange floods.
+    public let tenaGillDeep: HexColor
+    /// The Elder's gill tips and fin edge. Never the body.
+    public let tenaAmber: HexColor
     /// Floods: the whole window is one of these, and it means a state. Light floods carry Paper ink;
     /// serious and risk carry Night ink (the app flips the colour scheme inside a flood).
     public let floodTurn: HexColor
@@ -59,8 +67,12 @@ public struct Palette: Sendable {
         onGold: HexColor(0x1A1410),
         tenaPink: HexColor(0xF7A6C1),
         tenaShade: HexColor(0xE886A8),
-        tenaOutline: HexColor(0x1A1410),
-        tenaGill: HexColor(0xD9442B),
+        tenaOutline: HexColor(0x3A1630),
+        tenaGill: HexColor(0xC8352A),
+        tenaBelly: HexColor(0xFCD3DF),
+        tenaMark: HexColor(0xE06C98),
+        tenaGillDeep: HexColor(0xA82634),
+        tenaAmber: HexColor(0xF4A72A),
         floodTurn: HexColor(0xFFD43B),
         floodGood: HexColor(0x5FD38D),
         floodFix: HexColor(0xFF8A7A),
@@ -85,8 +97,12 @@ public struct Palette: Sendable {
         onGold: HexColor(0x17120E),
         tenaPink: HexColor(0xF7A6C1),
         tenaShade: HexColor(0xE886A8),
-        tenaOutline: HexColor(0x1A1410),
-        tenaGill: HexColor(0xD9442B),
+        tenaOutline: HexColor(0x3A1630),
+        tenaGill: HexColor(0xF0583A),
+        tenaBelly: HexColor(0xFCD3DF),
+        tenaMark: HexColor(0xE06C98),
+        tenaGillDeep: HexColor(0xC8352A),
+        tenaAmber: HexColor(0xF4A72A),
         floodTurn: HexColor(0xF2C230),
         floodGood: HexColor(0x4CC47F),
         floodFix: HexColor(0xF4806F),
@@ -119,6 +135,15 @@ public struct Palette: Sendable {
             ContrastPair("inverseText on wrong", inverseText, on: wrong, use: .text),
             ContrastPair("onGold on gold", onGold, on: gold, use: .text),
             ContrastPair("tena outline on tena body", tenaOutline, on: tenaPink, use: .largeOrGraphic),
+            // On light floods the ink contour carries her silhouette (pink alone is 1.0-1.8:1 there).
+            ContrastPair("tena outline on paper", tenaOutline, on: lightInk.background, use: .largeOrGraphic),
+            ContrastPair("tena outline on turn flood", tenaOutline, on: floodTurn, use: .largeOrGraphic),
+            ContrastPair("tena outline on good flood", tenaOutline, on: floodGood, use: .largeOrGraphic),
+            ContrastPair("tena outline on fix flood", tenaOutline, on: floodFix, use: .largeOrGraphic),
+            ContrastPair("tena outline on celebrate flood", tenaOutline, on: floodCelebrate, use: .largeOrGraphic),
+            // On dark floods the pink fill carries it, with no keyline.
+            ContrastPair("tena body on serious flood", tenaPink, on: floodSerious, use: .largeOrGraphic),
+            ContrastPair("tena body on risk flood", tenaPink, on: floodRisk, use: .largeOrGraphic),
             ContrastPair("ink on turn flood", lightInk.text, on: floodTurn, use: .text),
             ContrastPair("secondary on turn flood", lightInk.brand, on: floodTurn, use: .text),
             ContrastPair("ink on good flood", lightInk.text, on: floodGood, use: .text),

@@ -1,67 +1,79 @@
 import SwiftUI
 
-/// Stage 0: a jelly-coated egg with Tena curled inside; the eyes still show the mood.
+/// Stage 0: an outlined jelly egg with the crown dots printed on the shell, and through a lighter
+/// window the curled embryo (bead eyes, 3 + 3 nubs, the smile). No ring, no dashes, no frame.
+/// Moods map to eye state plus egg motion only: a wobble for the bright moods, still for the rest.
 extension TenaRig {
-    func drawEgg(in context: GraphicsContext) {
-        let lw = outlinePoints / (size / 200)
-        var egg = context
-        egg.translateBy(x: 0, y: 70)
-        egg.rotate(by: .degrees(4 * sin(2 * .pi * time / 3.4 * pose.breathRate)))
-        egg.translateBy(x: 0, y: -70)
-        let center = CGPoint(x: 0, y: 8)
-        // The shell stays cream on Night paper so the egg never reads as a dark disc.
-        let shellInk = dark ? Self.highlight : Tokens.paper
-        // Jelly coat: a dashed outer ring with a flat tint.
-        let jelly = ellipse(center, 72, 68)
-        // Big (hero) eggs are one flat shape: no dashed ring or tint, so she is not a framed badge.
-        if size <= 300 {
-            egg.fill(jelly, with: .color(Tokens.tenaPink.opacity(0.18)))
-            egg.stroke(jelly, with: .color(Tokens.tenaOutline.opacity(0.7)), style: StrokeStyle(lineWidth: lw * 0.6, dash: [5, 5]))
+    static let wobblingMoods: Set<TenaMood> = [.ecstatic, .happy, .curious, .proud, .nagging]
+
+    func eggFigure(pose: TenaPose, time t: Double) -> TenaFigure {
+        let angle = Self.wobblingMoods.contains(mood) ? 4 * sin(2 * .pi * t / 1.8) * envelope(t) : 0
+        let eggT = about(CGPoint(x: 100, y: 159), CGAffineTransform(rotationAngle: angle * .pi / 180))
+        let center = CGPoint(x: 100, y: 104)
+        let shellPoints = (0 ..< 60).map { i -> CGPoint in
+            let a = Double(i) / 60 * 2 * .pi
+            let s = CGFloat(sin(a))
+            // Narrower toward the top (y up is negative sine).
+            return CGPoint(x: center.x + 48 * CGFloat(cos(a)) * (1 + 0.07 * s), y: center.y + 55 * s)
         }
-        // Shell.
-        let shell = ellipse(center, 50, 52)
-        egg.fill(shell.offsetBy(dx: Self.pinkPlate.width, dy: Self.pinkPlate.height), with: .color(shellInk))
-        var shade = egg
-        shade.clip(to: shell)
-        shade.fill(ellipse(CGPoint(x: 22, y: 34), 46, 36), with: .color(Tokens.tenaShade.opacity(0.4)))
-        // Curled embryo: head, tucked tail, gill nubs.
-        let headC = CGPoint(x: -6, y: 4)
-        var tail = Path()
-        tail.move(to: CGPoint(x: 10, y: 14))
-        tail.addQuadCurve(to: CGPoint(x: -18, y: 34), control: CGPoint(x: 24, y: 40))
-        let tailShape = tail.strokedPath(StrokeStyle(lineWidth: 11, lineCap: .round))
-        shade.fill(tailShape.offsetBy(dx: 1.5, dy: 1.2), with: .color(Tokens.tenaPink))
-        shade.stroke(tailShape, with: .color(Tokens.tenaOutline), lineWidth: lw * 0.7)
-        for side in [-1.0, 1.0] {
-            for i in 0 ..< 3 {
-                let a = (Double(i) - 1) * 0.5 + (side < 0 ? .pi : 0)
-                let nub = ellipse(CGPoint(x: headC.x + CGFloat(side) * 22 + 6 * CGFloat(cos(a)), y: headC.y - 8 + CGFloat(i) * 7), 4, 3.2)
-                shade.fill(nub.offsetBy(dx: Self.orangePlate.width, dy: Self.orangePlate.height), with: .color(Tokens.tenaGill))
-                shade.stroke(nub, with: .color(Tokens.tenaOutline), lineWidth: lw * 0.55)
-            }
+        let shell = Curve.closed(shellPoints)
+        let window = Curve.ellipse(CGPoint(x: 100, y: 108), 35, 40)
+        let crownDots = [(92.0, 60.0, 2.6), (100, 58, 3.0), (108, 60, 2.6)].map { x, y, r in
+            Decor(path: Curve.ellipse(CGPoint(x: x, y: y), r, r), fill: .mark)
         }
-        let head = ellipse(headC, 22, 18)
-        shade.fill(head.offsetBy(dx: 1.5, dy: 1.2), with: .color(Tokens.tenaPink))
-        shade.stroke(head, with: .color(Tokens.tenaOutline), lineWidth: lw * 0.7)
-        let closed = [.sleepy, .happy].contains(pose.eyes) || isBlinking
-        for side in [-1.0, 1.0] {
-            let eye = CGPoint(x: headC.x + CGFloat(side) * 9, y: headC.y - 1)
-            if closed {
-                var arc = Path()
-                arc.addArc(center: CGPoint(x: eye.x, y: eye.y - 2), radius: 3.2, startAngle: .degrees(20), endAngle: .degrees(160), clockwise: false)
-                shade.stroke(arc, with: .color(Tokens.tenaOutline), style: StrokeStyle(lineWidth: lw * 0.6, lineCap: .round))
-            } else {
-                shade.fill(ellipse(eye, 3.2, 3.4), with: .color(Tokens.tenaOutline))
-                shade.fill(ellipse(CGPoint(x: eye.x - 1, y: eye.y - 1.2), 1.1, 1.1), with: .color(Tokens.paper))
-            }
-        }
-        egg.stroke(shell, with: .color(Tokens.tenaOutline), lineWidth: lw)
-        // Shine.
-        var shine = Path()
-        shine.addArc(center: center, radius: 40, startAngle: .degrees(200), endAngle: .degrees(240), clockwise: false)
-        egg.stroke(shine, with: .color(shellInk), style: StrokeStyle(lineWidth: lw * 1.2, lineCap: .round))
-        if pose.extras.contains(.sleepZ) {
-            drawFloatingExtras(in: context, lineWidth: lw)
+        let gloss = Decor(path: Curve.ellipse(.zero, 7, 3.6)
+            .applying(CGAffineTransform(rotationAngle: 0.75).concatenating(CGAffineTransform(translationX: 128, y: 70))), fill: .highlight)
+        let shellGroup = TenaFigure.Group(parts: [
+            moved(Part(path: shell, fill: .belly, decor: crownDots + [gloss]), eggT),
+            moved(Part(path: window, fill: .window, contour: false), eggT),
+        ])
+
+        // The embryo, curled into a C around the bottom of the window, tail tip by its cheek.
+        let head = HeadShape(center: CGPoint(x: 100, y: 96), size: CGSize(width: build.head.width * 0.86, height: build.head.height * 0.86))
+        var spine = smoothed([
+            CGPoint(x: 108, y: 104), CGPoint(x: 121, y: 114), CGPoint(x: 119, y: 130), CGPoint(x: 103, y: 138),
+            CGPoint(x: 86, y: 133), CGPoint(x: 78, y: 121), CGPoint(x: 80, y: 110),
+        ])
+        spine = smoothed(spine)
+        let body = Curve.ribbon(spine, halfWidth: { s in 8.5 * (1 - s) + 2 })
+        let nubs = fronds(head: head, pose: pose, time: t, options: FrondOptions(lengthScale: 1.7)).parts
+        var embryo = [Part(path: body, fill: .body)] + nubs
+        embryo.append(Part(path: head.path, fill: .body, decor: [
+            Decor(path: Curve.ellipse(CGPoint(x: 99, y: 124), 9, 6), fill: .belly),
+        ]))
+        let embryoGroup = TenaFigure.Group(parts: embryo.map { moved($0, eggT) }, clip: window.applying(eggT))
+
+        var face = faceAnchors(head: head, pose: pose)
+        face.eyeRadius = CGSize(width: face.eyeRadius.width * 0.6, height: face.eyeRadius.height * 0.6)
+        face.mouthCenter.y = face.eyes[0].y + 0.24 * head.size.height
+        face.nostrils = []
+        var figure = TenaFigure()
+        figure.groups = [shellGroup, embryoGroup]
+        figure.face = face
+        figure.headTransform = eggT
+        return figure
+    }
+
+    /// The due word on Nagging's sign, set in the display face (never drawn as paths).
+    func drawSignText(_ box: (center: CGPoint, size: CGSize, angle: Double), in context: GraphicsContext, weights w: Weights) {
+        var ctx = context
+        ctx.translateBy(x: box.center.x, y: box.center.y)
+        ctx.rotate(by: .degrees(box.angle))
+        if let word, !word.isEmpty {
+            let text = Text(word).font(Typography.display(box.size.height * 0.52)).foregroundStyle(ink)
+            var resolved = ctx.resolve(text)
+            resolved.shading = .color(ink)
+            let natural = resolved.measure(in: CGSize(width: 1000, height: 1000))
+            let fit = min(1, box.size.width * 0.84 / max(natural.width, 1))
+            ctx.scaleBy(x: fit, y: fit)
+            ctx.draw(resolved, at: .zero)
+        } else {
+            var lines = Path()
+            lines.move(to: CGPoint(x: -box.size.width * 0.3, y: -box.size.height * 0.12))
+            lines.addLine(to: CGPoint(x: box.size.width * 0.3, y: -box.size.height * 0.12))
+            lines.move(to: CGPoint(x: -box.size.width * 0.3, y: box.size.height * 0.16))
+            lines.addLine(to: CGPoint(x: box.size.width * 0.12, y: box.size.height * 0.16))
+            ctx.stroke(lines, with: .color(ink), style: StrokeStyle(lineWidth: w.t1, lineCap: .round))
         }
     }
 }
