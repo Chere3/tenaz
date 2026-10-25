@@ -53,9 +53,10 @@ the only filled control on the screen. Everything else is text.
   sans (`Typography.answer`, use 40–44 pt on the review/exam answer sheet). Max two families.
 - **Colour is meaning.** Accent/gold/correct/wrong appear only for their meaning. Body text is
   `Tokens.ink`; secondary is `Tokens.brand`. Never put text in `Tokens.accent` below 24 pt.
-- **Tena**: 60–75 % of window height on hero screens, cropped by the bottom or side edge, mood matched
+- **Tena** (rules in `docs/design/tena.md`; the crop numbers below are superseded by its section 11):
+  about 70 % of window height in the side layout (about 45 % stacked), cropped by the bottom or side edge, mood matched
   to the flood (turn = happy/curious, good = ecstatic/proud, fix = encouraging/focused, serious =
-  focused with headband, risk = nagging/sad, celebrate = ecstatic). Small sizes only in lists and the
+  focused with headset, risk = nagging/sad, celebrate = ecstatic). Small sizes only in lists and the
   sidebar. Speech = `SpeechBubble` (ink bubble, one line).
 - **Progress during a session** = thin segments (ink at 15 % / 100 %, 6 pt tall) along the top;
   streak/XP chips are hidden until after an answer.
@@ -75,14 +76,14 @@ the only filled control on the screen. Everything else is text.
 - `.buttonStyle(.fat)` = ink pill (height 62). Give it a fixed width or let it fill its container.
 - `.buttonStyle(.ink)` = text button. `KeyCap("Return")` inherits the text colour at 60 %.
 - `Chip`, `MeterCells`, `InkBand`, `BandBadge`, `SpeechBubble`, `Sticker` (toast) are flat now.
-- `TenaView(mood:stage:size:)`; render alone with `--tenaz-snapshot tena-<mood>`.
+- `TenaView(mood:stage:size:)` (see `docs/design/tena.md`); render alone with `--tenaz-snapshot tena-<mood>`.
 - Tokens: `paper card ink brand accent accentText correct wrong gold onGold` + `Radius.sheet/card/pill`,
   `Tokens.pillHeight`. Legacy `stroke`/`shadowDepth`/`misregistration` are 0: delete their uses.
 
 ## Key layouts
 
 **Home (words due)** — `.flood(.turn)` (mint `.good` when everything is done; `.risk` after 20:00 with
-the streak not yet earned). Left ~45 %: Tena ~70 % of window height, cropped by the bottom edge.
+the streak not yet earned). Left ~45 %: Tena ~70 % of window height, cropped through the hips by the bottom edge (`tena.md` §11).
 Right: `numberHero` "14", then "words are waiting for you" (22 pt semibold), 40 pt gap, the ink pill
 "Review ⏎". Under it one 17 pt line "Also today: one sentence · quick check" (links). Bottom strip,
 above a 1.5 pt rule at ink 18 %: three text-only stats, 38 pt Fraunces numerals + 14 pt labels, ~56 pt
@@ -100,7 +101,7 @@ sections as one bar of segments with widths ∝ minutes, 12 pt names under each,
 pause between parts". The pledge is folded into the primary: paper-on-indigo pill "I won't use AI. Start ⏎"
 (keep the explicit pledge state the code needs; a checkbox row is fine if the flow requires it).
 Tivra + microphone collapse into one 14 pt line at the bottom (keep the "Set up microphone" action
-reachable). Tena focused with headband, bottom-right, cropped.
+reachable). Tena focused with headset, bottom-right, cropped (`tena.md` §11).
 
 ## Verify
 

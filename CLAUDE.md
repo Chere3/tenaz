@@ -6,6 +6,7 @@ Read before working:
 - `private/STATUS.md` — where the build is and what is next (local only, not published).
 - `DECISIONS.md` — assumptions and the **hard safety rules** (overlays off by default with escape hatches, never lock the learner out or interrupt a meeting, Tivra is read-only, Claude only via the `claude` CLI, data stays local).
 - `docs/PLAN.md` — product spec, architecture and milestones.
+- `docs/design/tena.md` — the rules for Tena the mascot; read it for any mascot work (art, poses, crops, palette).
 - `docs/research/` — the evidence behind the plan. The starting level (B1+) is described in `DECISIONS.md`; personal notes live in `private/` (not published).
 
 Stack: Swift 6 + SwiftUI/AppKit, macOS 26, XcodeGen (`project.yml`) + SwiftPM (`Package.swift`, `TenazCore` pure-logic library with tests). Never edit the generated `.xcodeproj` by hand.
