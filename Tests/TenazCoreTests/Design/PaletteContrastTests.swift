@@ -18,6 +18,18 @@ struct PaletteContrastTests {
         #expect(Contrast.ratio(Palette.paper.accent, Palette.paper.background) >= 3.1)
     }
 
+    @Test func tenaContourKeepsItsMarginOnLightFloods() {
+        // On light floods the plum contour is the only thing separating Tena from the flood (pink alone
+        // is 1.0-1.8:1 there). Guard the 5.4:1 floor from the mascot rules on every light flood of both
+        // sheets, so a token edit cannot quietly thin her outline. Orange (celebrate) is the tightest.
+        for sheet in Palette.all {
+            for flood in [sheet.floodTurn, sheet.floodGood, sheet.floodFix, sheet.floodCelebrate] {
+                #expect(Contrast.ratio(sheet.tenaOutline, flood) >= 5.4, "\(sheet.name) \(flood)")
+            }
+        }
+        #expect(Contrast.ratio(Palette.paper.tenaOutline, Palette.paper.background) >= 5.4)
+    }
+
     @Test func contrastMathEndpoints() {
         #expect(abs(Contrast.ratio(HexColor(0x000000), HexColor(0xFFFFFF)) - 21) < 0.001)
         #expect(Contrast.ratio(HexColor(0x777777), HexColor(0x777777)) == 1)
