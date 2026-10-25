@@ -20,7 +20,7 @@ struct TenaBuild {
     /// Top, mid and low frond length as a share of head width.
     var gillLengths: [Double]
     var gillShape: GillShape
-    /// Elder: the last 25 % of every frond and the fin edge turn amber.
+    /// Elder: the last 40 % of every frond and a wide band along the fin edge turn amber.
     var amberTips = false
     /// Degrees the fans sweep further back (Elder).
     var gillSweep: Double = 0
@@ -56,17 +56,19 @@ struct TenaBuild {
             TenaBuild(head: CGSize(width: 124, height: 80), body: CGSize(width: 72, height: 52), eyeScale: 1,
                       gillLengths: gills(0.34), gillShape: .fringe(4), limbs: .all, tail: 1, dorsal: 6, freckles: 0)
         case .subAdult:
-            TenaBuild(head: CGSize(width: 126, height: 78), body: CGSize(width: 80, height: 60), eyeScale: 0.92,
+            TenaBuild(head: CGSize(width: 126, height: 78), body: CGSize(width: 80, height: 62), eyeScale: 0.92,
                       gillLengths: gills(0.40), gillShape: .fringe(5), limbs: .all, tail: 1.15, tailCurl: 22, dorsal: 7,
                       freckles: 4, limbLength: 1.08)
         case .adult:
-            TenaBuild(head: CGSize(width: 128, height: 76), body: CGSize(width: 86, height: 66), eyeScale: 0.86,
-                      gillLengths: gills(0.46), gillShape: .fringe(5), limbs: .all, tail: 1.3, tailCurl: 18, dorsal: 10,
+            TenaBuild(head: CGSize(width: 128, height: 74), body: CGSize(width: 88, height: 70), eyeScale: 0.86,
+                      gillLengths: gills(0.46), gillShape: .fringe(5), limbs: .all, tail: 1.35, tailCurl: 18, dorsal: 10,
                       freckles: 6, limbLength: 1.18)
         case .elder:
-            TenaBuild(head: CGSize(width: 128, height: 76), body: CGSize(width: 86, height: 66), eyeScale: 0.86,
-                      gillLengths: gills(0.52), gillShape: .fringe(5), amberTips: true, gillSweep: 8, limbs: .all,
-                      tail: 1.3, tailCurl: 18, dorsal: 10, freckles: 6, limbLength: 1.18)
+            // Stout and long-tailed: a wider, heavier body under a slightly smaller head, the longest swept
+            // gills, smaller eyes, and amber from the last 40 % of every frond and along the fin.
+            TenaBuild(head: CGSize(width: 130, height: 72), body: CGSize(width: 96, height: 72), eyeScale: 0.8,
+                      gillLengths: gills(0.54), gillShape: .fringe(5), amberTips: true, gillSweep: 8, limbs: .all,
+                      tail: 1.5, tailCurl: 14, dorsal: 12, freckles: 6, limbLength: 1.18)
         case .metamorph:
             TenaBuild(head: CGSize(width: 118, height: 78), body: CGSize(width: 88, height: 76), eyeScale: 0.95,
                       gillLengths: gills(0.12), gillShape: .nub, limbs: .all, tail: 0.8, tailCurl: 8, dorsal: 0,

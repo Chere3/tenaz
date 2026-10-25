@@ -50,10 +50,11 @@ extension TenaRig {
         let slope = CGFloat(tan(e.lidAngle * .pi / 180)) * -side
         let edgeBase = c.y - ry + 2 * ry * lid
         func edge(_ x: CGFloat) -> CGFloat { edgeBase + slope * (x - c.x) }
-        // Lower lid push: a crescent from below, so the bead reads as a half-moon. At Standard and Hero a
+        // Lower lid push: a crescent from below, so the bead reads as a half-moon. At Standard, Hero and the
+        // 36 pt bust a
         // full push (Happy) becomes a true smiling crescent: a deeper, rounder arch and no gloss, because a
         // half-moon bead with a catchlight reads as a glance up and sideways at that size.
-        let crescent = showsDetail && e.lowerLid >= 0.45 && e.lid < 0.2
+        let crescent = (showsDetail || lod == .glyph) && e.lowerLid >= 0.45 && e.lid < 0.2
         let lower = CGFloat(crescent ? 0.72 : e.lowerLid)
         let lowerTop = c.y + ry - 2 * ry * lower
         var mask = Path()
@@ -122,7 +123,7 @@ extension TenaRig {
             let steps = 28
             for i in 0 ... steps {
                 let t = CGFloat(i) / CGFloat(steps)
-                let p = Curve.cubic(left, u1, u2, right, t) + CGPoint(x: 0, y: CGFloat(m.wave) * 2.2 * sin(t * 2.5 * 2 * .pi))
+                let p = Curve.cubic(left, u1, u2, right, t) + CGPoint(x: 0, y: CGFloat(m.wave) * 1.6 * sin(t * 2.5 * 2 * .pi))
                 i == 0 ? upper.move(to: p) : upper.addLine(to: p)
             }
         } else {

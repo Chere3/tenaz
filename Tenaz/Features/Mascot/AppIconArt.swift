@@ -1,15 +1,15 @@
 import SwiftUI
 
-/// The app icon art (concept B, chosen 25 Oct 2026): Tena's head, tilted 8°, filling a flat flood.
-/// The static icon is `Tenaz/Resources/AppIcon.icon` (yellow, happy). While Tenaz runs, `DockIcon`
-/// draws this view with Tena's live mood on the flood Home is showing.
-/// Geometry matches the .icon layer (`scale`, `offset` below); the earlier art was checked row by row
-/// against the ictool render (within 0.3 %).
+/// The app icon art: the full Juvenile figure, tilted 8°, on a flat flood, cut by the tile's bottom edge at
+/// the belly with all six gill fans inside the squircle (0.94 of the tile). The static icon is
+/// `Tenaz/Resources/AppIcon.icon` (yellow, happy). While Tenaz runs, `DockIcon` draws this view with
+/// Tena's live mood on the flood Home is showing.
+/// Geometry matches the .icon layer (`scale`, `offset` below), checked against the ictool render.
 struct AppIconArt: View {
     /// Tena's frame side as a share of the tile, and her nudge in 1024ths of it (down-right). The .icon
     /// layer uses the same numbers: `scale` = this / 2 (its 2048 px layer), `translation-in-points` = offset.
-    static let scale: CGFloat = 1.2
-    static let offset = CGSize(width: 4, height: 78)
+    static let scale: CGFloat = 0.94
+    static let offset = CGSize(width: 0, height: 150)
 
     let mood: TenaMood
     var flood: Flood = .turn

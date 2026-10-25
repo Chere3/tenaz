@@ -23,13 +23,14 @@ enum SnapshotRegistry {
             "gallery": SnapshotEntry(view: AnyView(DesignGallery()), size: CGSize(width: 1280, height: 1960)),
             "home": SnapshotEntry(view: AnyView(HomeBoard(summary: .sample, now: SnapshotFixtures.morning)), size: CGSize(width: 980, height: 1080)),
             "home-first-run": SnapshotEntry(view: AnyView(HomeBoard(summary: .firstRun, now: SnapshotFixtures.morning)), size: CGSize(width: 980, height: 1080)),
-            // Late evening with the streak unearned: the oxblood risk flood, Tena nagging (fists, no word).
+            // Late evening with the streak unearned: the oxblood risk flood, Tena nagging with the due word.
             "home-risk": SnapshotEntry(view: AnyView(HStack(spacing: 0) { SidebarView(selection: .constant(.home), summary: .sample); HomeBoard(summary: .sample, now: SnapshotFixtures.evening) }), size: CGSize(width: 1908, height: 952)),
             "main": SnapshotEntry(view: AnyView(HStack(spacing: 0) { SidebarView(selection: .constant(.home), summary: .sample); HomeBoard(summary: .sample, now: SnapshotFixtures.morning) }), size: CGSize(width: 1220, height: 1080)),
             // A wide desktop window (1908 x 980 incl. title bar).
             "main-wide": SnapshotEntry(view: AnyView(HStack(spacing: 0) { SidebarView(selection: .constant(.home), summary: .sample); HomeBoard(summary: .sample, now: SnapshotFixtures.morning) }), size: CGSize(width: 1908, height: 952)),
             "mascot-gallery": SnapshotEntry(view: AnyView(MascotGallery()), size: CGSize(width: 1660, height: 1440)),
             "mascot-qa": SnapshotEntry(view: AnyView(MascotQA()), size: CGSize(width: 1080, height: 1340)),
+            "mascot-glyph": SnapshotEntry(view: AnyView(MascotGlyphStrip()), size: CGSize(width: 640, height: 260)),
             "onboarding-1": SnapshotEntry(view: AnyView(OnboardingFlow(page: .welcome, hatched: false, plan: .constant(OnboardingPlan()))), size: CGSize(width: 760, height: 600)),
             "onboarding-1-hatched": SnapshotEntry(view: AnyView(OnboardingFlow(page: .welcome, hatched: true, plan: .constant(OnboardingPlan()))), size: CGSize(width: 760, height: 600)),
             "onboarding-2": SnapshotEntry(view: AnyView(OnboardingFlow(page: .intrusions, hatched: true, plan: .constant(OnboardingPlan()))), size: CGSize(width: 760, height: 600)),
@@ -67,7 +68,7 @@ enum SnapshotRegistry {
             // The live Dock icon for each mood (yellow flood).
             all["app-icon-\(mood.rawValue)"] = SnapshotEntry(view: AnyView(AppIconArt(mood: mood)), size: CGSize(width: 512, height: 512))
         }
-        // Nagging as Home shows her today: no due word is wired yet, so she drops the card for fists.
+        // Nagging with nothing due (no word): she drops the card for fists.
         all["tena-nagging-noword"] = SnapshotEntry(view: AnyView(TenaView(mood: .nagging, stage: .juvenile, size: 520)), size: CGSize(width: 520, height: 520))
         all["app-icon-good"] = SnapshotEntry(view: AnyView(AppIconArt(mood: .proud, flood: .good)), size: CGSize(width: 512, height: 512))
         all["app-icon-risk"] = SnapshotEntry(view: AnyView(AppIconArt(mood: .nagging, flood: .risk)), size: CGSize(width: 512, height: 512))

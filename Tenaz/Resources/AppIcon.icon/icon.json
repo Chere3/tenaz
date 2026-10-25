@@ -21,10 +21,10 @@
           "image-name": "tena.png",
           "glass": false,
           "position": {
-            "scale": 0.6,
+            "scale": 0.47,
             "translation-in-points": [
-              4.0,
-              78.0
+              0.0,
+              150.0
             ]
           }
         }

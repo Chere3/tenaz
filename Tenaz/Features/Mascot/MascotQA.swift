@@ -104,3 +104,34 @@ struct MascotQA: View {
         .environment(\.mascotFlood, flood)
     }
 }
+
+/// The menu-bar glyph test (rules §10): the five states side by side at real size (18 pt) on a light and a
+/// dark menu bar, then at 90 pt to read the cut-outs. Template ink only, so it is a greyscale test.
+struct MascotGlyphStrip: View {
+    var body: some View {
+        VStack(alignment: .leading, spacing: Tokens.Space.m) {
+            Text("Menu-bar glyph: normal, due, hungry, sick, asleep")
+                .font(Typography.labelBold)
+                .foregroundStyle(Tokens.brand)
+            bar(background: Color(white: 0.93), ink: .black)
+            bar(background: Color(white: 0.16), ink: .white)
+            HStack(spacing: Tokens.Space.l) {
+                ForEach(TenaGlyphState.allCases, id: \.self) { TenaGlyph(state: $0, size: 90).foregroundStyle(.black) }
+            }
+        }
+        .padding(Tokens.Space.xl)
+        .fixedSize()
+        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
+        .background(Color.white)
+    }
+
+    /// A strip of menu bar, 24 pt tall like macOS, with the glyph between two status-item spacings.
+    private func bar(background: Color, ink: Color) -> some View {
+        HStack(spacing: 22) {
+            ForEach(TenaGlyphState.allCases, id: \.self) { TenaGlyph(state: $0, size: 18).foregroundStyle(ink) }
+        }
+        .padding(.horizontal, 14)
+        .frame(height: 24)
+        .background(background)
+    }
+}

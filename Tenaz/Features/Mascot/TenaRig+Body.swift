@@ -78,7 +78,8 @@ extension TenaRig {
         let legDrop: CGFloat = switch stage {
         case .juvenile: 8
         case .subAdult: 11
-        case .adult, .elder: 12
+        case .adult: 14
+        case .elder: 13
         case .metamorph: 20
         default: 0
         }
@@ -250,7 +251,7 @@ extension TenaRig {
         let fin = Curve.closed(outer + inner.reversed())
         var finDecor: [Decor] = []
         if b.amberTips {
-            let edge = Curve.open(outer).strokedPath(StrokeStyle(lineWidth: 5, lineCap: .round, lineJoin: .round))
+            let edge = Curve.open(outer).strokedPath(StrokeStyle(lineWidth: 9, lineCap: .round, lineJoin: .round))
             finDecor.append(Decor(path: edge, fill: .amber))
         }
         if lod == .hero {
@@ -395,17 +396,31 @@ extension TenaRig {
                 let mid = elbow.lerp(hand, 0.35)
                 let along = (hand - elbow).normalized
                 let across = CGPoint(x: -along.y, y: along.x)
-                let hw = tube / 2 + 1.6
-                var band = Path()
-                band.move(to: mid + across * hw - along * 3.4)
-                band.addLine(to: mid + across * hw + along * 3.4)
-                band.addLine(to: mid - across * hw + along * 3.4)
-                band.addLine(to: mid - across * hw - along * 3.4)
-                band.closeSubpath()
-                var crease = Path()
-                crease.move(to: mid + across * hw)
-                crease.addLine(to: mid - across * hw)
-                wrap = Part(path: band, fill: .highlight, decor: showsDetail ? [Decor(path: crease, fill: .ink, line: true)] : [])
+                // A gauze wrap, not a cuff: wider than the arm with softly rippled edges, two diagonal turns
+                // of the bandage across it, and the loose end hanging from its lower edge.
+                let hw = tube / 2 + 1.8
+                let half: CGFloat = 5.6
+                var upper: [CGPoint] = [], lower: [CGPoint] = []
+                for i in 0 ... 6 {
+                    let u = -half + 2 * half * CGFloat(i) / 6
+                    let ripple: CGFloat = i % 2 == 0 ? 0.9 : -0.3
+                    upper.append(mid + along * u + across * (hw + ripple))
+                    lower.append(mid + along * u - across * (hw + ripple))
+                }
+                let root = mid + along * (half * 0.35) - across * hw
+                var tab = Path()
+                tab.move(to: root - along * 2.2)
+                tab.addLine(to: root + along * 1.8)
+                tab.addLine(to: root + along * 3.4 - across * 6.2)
+                tab.addLine(to: root - along * 0.6 - across * 5.4)
+                tab.closeSubpath()
+                var turns = Path()
+                for u in [-0.45, 0.25] as [CGFloat] {
+                    turns.move(to: mid + along * (half * u - 2.2) + across * (hw + 1))
+                    turns.addLine(to: mid + along * (half * u + 2.2) - across * (hw + 1))
+                }
+                wrap = Part(path: Curve.closed(upper + lower.reversed()).union(tab), fill: .highlight,
+                            decor: showsDetail ? [Decor(path: turns, fill: .shade, line: true)] : [])
             }
         }
         return ArmBuild(parts: parts, shoulders: shoulders, wrap: wrap)
@@ -478,7 +493,9 @@ extension TenaRig {
     func bustFigure(pose: TenaPose, time t: Double) -> TenaFigure {
         let head = HeadShape(center: CGPoint(x: 100, y: 80), size: build.head)
         let headT = about(head.center, CGAffineTransform(rotationAngle: (pose.tilt * 0.6 + sway(t)) * .pi / 180))
-        let gills = fronds(head: head, pose: pose, time: t, options: FrondOptions(lengthScale: 0.92))
+        // Regenerating has no arm here: the bust regrows its top-left gill instead (as stages 0-2 do).
+        let regrow = pose.body.preset == .regrow ? progress : nil
+        let gills = fronds(head: head, pose: pose, time: t, options: FrondOptions(lengthScale: 0.92, regrowTopLeft: regrow))
         var parts = gills.parts.map { moved($0, headT) }
         parts.append(moved(Part(path: head.path, fill: .body, decor: crown(head: head)), headT))
         let face = faceAnchors(head: head, pose: pose)
@@ -493,15 +510,16 @@ extension TenaRig {
     // MARK: Curled (Asleep)
 
     /// Asleep, lying on her belly: chin on her folded front paws, the domed back (with its low crest)
-    /// behind the head, a hind foot tucked under the rump, and the tail trailing along the floor with its
-    /// finned tip curling up and back toward her. Limbs show and the back is a dome, so she reads as a
+    /// behind the head, a hind foot tucked under the rump, and the tail trailing along the floor, its
+    /// finned tip lifting a little (straight, never hooked back). Limbs show and the back is a dome, so she reads as a
     /// sleeping animal, never a flat oval with a rim (that read as a loaf or a slipper).
     func curledFigure(pose: TenaPose, time t: Double) -> TenaFigure {
         let b = build
         let head = HeadShape(center: CGPoint(x: 80, y: 108), size: b.head)
         let k = sqrt(b.body.width / 72)
         let r = CGSize(width: 0.56 * b.body.width, height: min(0.55 * b.body.height, 0.42 * b.head.height))
-        let center = CGPoint(x: head.center.x + 0.43 * b.head.width + 0.1 * b.body.width, y: head.chin - 0.95 * r.height)
+        // The body tucks well under the back of the head, so the lying shape stays short.
+        let center = CGPoint(x: head.center.x + 0.36 * b.head.width + 0.1 * b.body.width, y: head.chin - 0.95 * r.height)
         let tiltBack = -10.0
         let br = CGFloat(breath(t, rate: pose.breathRate)) * 0.015
         let bodyT = about(CGPoint(x: center.x, y: center.y + r.height), CGAffineTransform(scaleX: 1, y: 1 + br))
@@ -544,13 +562,14 @@ extension TenaRig {
         bodyDecor.append(Decor(path: Curve.ellipse(jaw, 0.1 * b.head.width, 0.34 * b.head.height).subtracting(head.path.applying(headT)), fill: .shade))
         back.append(Part(path: body, fill: .body, decor: bodyDecor))
 
-        // Tail: out of the rump, along the floor, the tip curling up and back toward her.
+        // Tail: out of the rump, along the floor, the tip lifting a little as it trails off: a straight
+        // taper, never a hook (a tip that turns back reads as a curled shoe toe).
         let reach = CGFloat(min(b.tail, 1.3))
         let root = onBody(12, 0.7)
         let floorY = center.y + r.height
-        let c1 = CGPoint(x: center.x + r.width * (1 + 0.45 * reach), y: floorY + 3)
-        let c2 = CGPoint(x: center.x + r.width * (1 + 0.95 * reach), y: floorY + 1)
-        let tip = CGPoint(x: center.x + r.width * (1 + 0.95 * reach), y: floorY - r.height * (0.3 + 0.25 * reach))
+        let c1 = CGPoint(x: center.x + r.width * (1 + 0.3 * reach), y: floorY + 2)
+        let c2 = CGPoint(x: center.x + r.width * (1 + 0.52 * reach), y: floorY - r.height * 0.02)
+        let tip = CGPoint(x: center.x + r.width * (1 + 0.74 * reach), y: floorY - r.height * 0.22)
         let tailSpine = (0 ... 20).map { Curve.cubic(root, c1, c2, tip, CGFloat($0) / 20) }
         let tailRoot = 0.36 * r.height
         let tailWidth: (CGFloat) -> CGFloat = { s in tailRoot * pow(1 - s, 0.95) + 0.9 }

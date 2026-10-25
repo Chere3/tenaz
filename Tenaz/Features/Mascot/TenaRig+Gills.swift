@@ -64,10 +64,10 @@ extension TenaRig {
                     return (p, tangent, upper)
                 }
 
-                // Amber crest on the last quarter (Elder): a half-plane across the frond.
+                // Amber on the last 40 % (Elder): a half-plane across the frond, so it reads at 64 pt.
                 var amber: Path?
                 if build.amberTips {
-                    let f = frame(0.76)
+                    let f = frame(0.6)
                     var plane = Path()
                     plane.move(to: f.p + f.upper * 80)
                     plane.addLine(to: f.p - f.upper * 80)

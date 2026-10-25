@@ -139,15 +139,17 @@ struct TenaRig {
     var livePose: TenaPose {
         var p = pose
         if !props || lod == .glyph || stage == .egg { p.prop = nil }
+        // Inside the pale egg window a full wash would make the embryo vanish: the egg keeps 40 % of it.
+        if stage == .egg { p.fade *= 0.4 }
         if lod == .small || lod == .glyph {
             p.eye.lid = Self.quantised(p.eye.lid)
             if var r = p.rightEye { r.lid = Self.quantised(r.lid); p.rightEye = r }
         }
         if lod == .glyph {
             // The bust has only face and gills to act with: push the gill posture and the mouth.
-            p.gills.lift = p.gills.lift.map { $0 * 1.6 }
+            p.gills.lift = p.gills.lift.map { $0 * 2 }
             p.gills.asymmetry *= 1.5
-            p.mouth.skew *= 1.5
+            p.mouth.skew *= 2.5
             p.mouth.curve = max(-1, min(1, p.mouth.curve * 1.3))
             if p.mouth.width >= 0.5 { p.mouth.width = min(0.66, p.mouth.width * 1.08) }
         }
@@ -235,6 +237,9 @@ struct TenaRig {
             // Sick gills fade toward the body pink (not grey, which reads as rot) and lose a little
             // saturation; the gill-deep root band keeps its step, so they still read as gills.
             if gillLike { c = c.mix(rgb(p.tenaPink), 0.3).desaturated(0.15) }
+            // The fringe and root band warm toward coral first, so they stay light and red, never a
+            // muddy rose-brown against the washed body.
+            if fill == .gillDeep { c = c.mix(RGB(0xEE7A66), 0.4) }
             c = c.mix(wash, fade)
         }
         return c.color

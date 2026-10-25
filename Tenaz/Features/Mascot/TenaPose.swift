@@ -151,10 +151,11 @@ struct TenaPose {
             var heavy = p.eye
             heavy.lid = 0.6
             p.rightEye = heavy
-            p.mouth = MouthShape(width: 0.40, curve: -0.1, wave: 1)
+            p.mouth = MouthShape(width: 0.32, curve: -0.1, wave: 1)
             // Hurt, not sad: the bandaged arm cradled against the belly, a lopsided lean and head tip
             // toward it, the fans limp, short and uneven.
-            p.gills = GillPose(lift: [-24, -28, -33], curl: 10, asymmetry: -14, length: 0.82)
+            // The right fan droops further than the left, so the head tilt never lifts it.
+            p.gills = GillPose(lift: [-24, -28, -33], curl: 10, asymmetry: -24, length: 0.82)
             p.body = BodyPose(preset: .hurt, lean: -7, squash: CGSize(width: 1.04, height: 0.96))
             p.tilt = -9
             p.prop = .bandage
@@ -181,8 +182,9 @@ struct TenaPose {
             p.wiggle = 5
         case .asleep:
             p.eye = EyeState(lid: 0, closed: .down)
-            p.mouth = MouthShape(width: 0.20, curve: 0, open: 0.5, round: 1)
-            p.gills = GillPose(lift: [-10, -10, -10], curl: 30)
+            // A small, soft, closed smile: content, not snoring.
+            p.mouth = MouthShape(width: 0.26, curve: 0.35)
+            p.gills = GillPose(lift: [-10, -10, -10], spread: 0.9, curl: 30)
             p.body = BodyPose(preset: .curled)
             p.prop = .sleepZ
             p.wiggle = 1.5
