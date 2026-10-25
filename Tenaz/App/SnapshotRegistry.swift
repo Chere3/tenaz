@@ -16,15 +16,15 @@ enum SnapshotRegistry {
             "exams-history": SnapshotEntry(view: ExamSnapshots.history(env), size: CGSize(width: 1180, height: 980)),
             "contract": IntrusionSnapshots.entry("contract", env),
             "gate-empty": IntrusionSnapshots.entry("gate-empty", env),
-            "gate-ready": IntrusionSnapshots.entry("gate-ready", env),
             "gate-later": IntrusionSnapshots.entry("gate-later", env),
+            "gate-ready": IntrusionSnapshots.entry("gate-ready", env),
             "gate-story": IntrusionSnapshots.entry("gate-story", env),
             "gate-unlocked": IntrusionSnapshots.entry("gate-unlocked", env),
             "gallery": SnapshotEntry(view: AnyView(DesignGallery()), size: CGSize(width: 1280, height: 1960)),
             "home": SnapshotEntry(view: AnyView(HomeBoard(summary: .sample, now: SnapshotFixtures.morning)), size: CGSize(width: 980, height: 1080)),
+            "home-first-run": SnapshotEntry(view: AnyView(HomeBoard(summary: .firstRun, now: SnapshotFixtures.morning)), size: CGSize(width: 980, height: 1080)),
             // Late evening with the streak unearned: the oxblood risk flood, Tena nagging (fists, no word).
             "home-risk": SnapshotEntry(view: AnyView(HStack(spacing: 0) { SidebarView(selection: .constant(.home), summary: .sample); HomeBoard(summary: .sample, now: SnapshotFixtures.evening) }), size: CGSize(width: 1908, height: 952)),
-            "home-first-run": SnapshotEntry(view: AnyView(HomeBoard(summary: .firstRun, now: SnapshotFixtures.morning)), size: CGSize(width: 980, height: 1080)),
             "main": SnapshotEntry(view: AnyView(HStack(spacing: 0) { SidebarView(selection: .constant(.home), summary: .sample); HomeBoard(summary: .sample, now: SnapshotFixtures.morning) }), size: CGSize(width: 1220, height: 1080)),
             // A wide desktop window (1908 x 980 incl. title bar).
             "main-wide": SnapshotEntry(view: AnyView(HStack(spacing: 0) { SidebarView(selection: .constant(.home), summary: .sample); HomeBoard(summary: .sample, now: SnapshotFixtures.morning) }), size: CGSize(width: 1908, height: 952)),
